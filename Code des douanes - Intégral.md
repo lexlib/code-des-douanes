@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -7661,7 +7661,9 @@ _Codifié par_:
 
 ###### Article 224
 
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat.
+1. Le droit de francisation et de navigation est perçu au profit de l'Etat, ou, lorsqu'il est perçu au titre des navires de
+plaisance visés au dernier alinéa de l'article 223, au profit de la collectivité territoriale de Corse un prélèvement pour
+frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
 
 Il est recouvré par année civile.
 
@@ -7688,8 +7690,15 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi - art. 6 (V) JORF 31 décembre 1995
+
 _Cité par_:
 
+  - Loi - art. 6 (V)
+  - Décret n°2007-1262 du 21 août 2007 - art. 1 (V)
+  - Décret n°2007-1262 du 21 août 2007 - art. 16 (V)
   - Arrêté du 29 mai 2012 - art. 1 (Ab)
   - Arrêté du 12 avril 2013 - art. 1 (Ab)
   - Décret n°2014-1536 du 18 décembre 2014 (V)
@@ -7697,9 +7706,6 @@ _Cité par_:
   - Arrêté du 17 avril 2015 (V)
   - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
   - Arrêté du 30 mai 2016 (V)
-  - Loi - art. 6 (V)
-  - Décret n°2007-1262 du 21 août 2007 - art. 1 (V)
-  - Décret n°2007-1262 du 21 août 2007 - art. 16 (V)
   - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
   - Arrêté du 24 novembre 2017 (V)
   - Décret n°2018-498 du 19 juin 2018 (V)
@@ -7710,11 +7716,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°83-1179 1983-12-29 art. 31 III Finances pour 1984 JORF 30 décembre 1983
-  - Loi - art. 31 () JORF 30 décembre 1990
 
 _Cite_:
 
@@ -8038,15 +8039,18 @@ vue de lutter contre l'évasion et la fraude fiscales et douanières, le droit d
 de francisation et de navigation pour les navires de moins de 20 tonneaux de jauge brute et à un taux quintuple de ce droit
 pour les navires d'au moins 20 tonneaux de jauge brute.
 
+Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
+passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
+l'année écoulée, au profit de la collectivité territoriale de Corse.
+
+L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité territoriale de Corse un prélèvement
+pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°76-1232 1976-12-29 art. 15 II Finances pour 1977 JORF 30 décembre 1976
 
 _Cité par_:
 
@@ -8055,6 +8059,10 @@ _Cité par_:
   - Décret n°2018-498 du 19 juin 2018 (V)
   - Code général des collectivités territoriales - art. L4425-1 (MMN)
   - Code général des collectivités territoriales - art. L4425-22 (V)
+
+_Modifié par_:
+
+  - Loi n°95-1347 1995-12-30 Finances rectificative pour 1995 JORF 31 décembre 1995
 
 _Cite_:
 
