@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1996-05-14
+Version Consolidée au 1996-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -211,28 +211,27 @@ Version Consolidée au 1996-05-14
           - [A. - Première classe. (art. 410)](#208)
           - [C. - Troisième classe. (art. 412)](#209)
           - [E. - Cinquième classe. (art. 413 bis)](#210)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#211)
+        - [Paragraphe 3 : Délits douaniers (art. 414)](#211)
           - [A. - Première classe. (art. 414)](#212)
-          - [B. - Deuxième classe. (art. 415)](#213)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#214)
-      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#215)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#216)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#217)
-      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#218)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#219)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#220)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#221)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#222)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#223)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#224)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#225)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#226)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#227)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne (art. 467)](#228)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté. (art. 467)](#229)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 468 à 470)](#230)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#231)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#232)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#213)
+      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#214)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#215)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#216)
+      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#217)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#218)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#219)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#220)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#221)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#222)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#223)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#224)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#225)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#226)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne (art. 467)](#227)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté. (art. 467)](#228)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 468 à 470)](#229)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#230)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#231)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -10443,7 +10442,7 @@ qu'en matière de droits de douane.
 L'Etat perçoit sur le produit de cette taxe un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant
 dudit produit.
 
-Ces dispositions s'appliquent jusqu'au 31 décembre 1996.
+Ces dispositions s'appliquent jusqu'au 31 décembre 2001.
 
 **Liens relatifs à cet article**
 
@@ -10451,9 +10450,9 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°93-1352 du 30 décembre 1993 - art. 88 () JORF 31 décembre 1993
+  - Loi n°96-1181 du 30 décembre 1996 - art. 135 () JORF 31 décembre 1996
 
 _Cité par_:
 
@@ -12071,75 +12070,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### B. - Deuxième classe.<a id=213></a>
-
-###### Article 415
-
-Seront punis d'un emprisonnement de deux à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
-lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté
-l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé
-ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir,
-directement ou indirectement, d'une infraction à la législation sur les substances ou plantes vénéneuses classées comme
-stupéfiants.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Cité par_:
-
-  - Loi n°84-46 du 24 janvier 1984 - art. 13 (Ab)
-  - Loi n°90-614 du 12 juillet 1990 - art. 22 (Ab)
-  - Loi n°90-614 du 12 juillet 1990 - art. 26 (Ab)
-  - Loi n°90-614 du 12 juillet 1990 - art. 3 (MMN)
-  - Loi n°90-614 du 12 juillet 1990 - art. 5 (Ab)
-  - Loi n°90-614 du 12 juillet 1990 - art. 6 (MMN)
-  - Loi n°90-614 du 12 juillet 1990 - art. 9 (Ab)
-  - Loi n°95-73 du 21 janvier 1995 - art. 10 (VT)
-  - Loi n°96-597 du 2 juillet 1996 - art. 22 (Ab)
-  - Décret n°99-776 du 8 septembre 1999 - art. 2 (Ab)
-  - Loi n°2003-239 du 18 mars 2003 - art. 26 (VT)
-  - Arrêté du 15 septembre 2005 - art. 2 (V)
-  - Loi n°2006-64 du 23 janvier 2006 - art. 28 (V)
-  - Arrêté du 2 mars 2007 - art. 1 (V)
-  - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
-  - CODE DE PROCEDURE PENALE - art. 705 (MMN)
-  - Code de la mutualité - art. L114-21 (V)
-  - Code de la sécurité intérieure - art. L233-1 (V)
-  - Code de la sécurité intérieure - art. L251-2 (V)
-  - Code de la sécurité sociale. - art. L931-9 (V)
-  - Code de procédure pénale - art. 28-1 (V)
-  - Code de procédure pénale - art. 706-1-1 (V)
-  - Code des assurances - art. L322-2 (M)
-  - Code des douanes - art. 323-5 (VD)
-  - Code des douanes - art. 386 bis (V)
-  - Code des douanes - art. 415-1 (V)
-  - Code des douanes - art. 67 bis (V)
-  - Code des douanes - art. 67 bis-1 A (V)
-  - Code monétaire et financier - art. D313-27 (VD)
-  - Code monétaire et financier - art. L561-22 (V)
-  - Code monétaire et financier - art. L562-4 (V)
-  - Code monétaire et financier - art. L562-8 (V)
-  - Code monétaire et financier - art. L564-2 (T)
-  - Code monétaire et financier - art. L565-2 (T)
-  - Code monétaire et financier - art. L566-2 (Ab)
-  - Code monétaire et financier - art. L735-13 (M)
-  - Code monétaire et financier - art. L745-13 (M)
-  - Code monétaire et financier - art. L755-13 (M)
-  - Code monétaire et financier - art. L765-13 (M)
-
-_Créé par_:
-
-  - Loi n°88-1149 du 23 décembre 1988 - art. 84 () JORF 28 décembre 1988
-
-_Nouveaux textes_:
-
-  - Code des douanes - art. 414 (M)
-
-
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=214></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=213></a>
 
 ###### Article 426
 
@@ -12230,9 +12161,9 @@ _Modifié par_:
   - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
 
 
-### Section 2 : Peines complémentaires<a id=215></a>
+### Section 2 : Peines complémentaires<a id=214></a>
 
-#### Paragraphe 2 : Astreinte.<a id=216></a>
+#### Paragraphe 2 : Astreinte.<a id=215></a>
 
 ###### Article 431
 
@@ -12257,7 +12188,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=217></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=216></a>
 
 ###### Article 432 bis
 
@@ -12292,9 +12223,9 @@ _Cite_:
   - Code des douanes 431-1, 459
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=218></a>
+### Section 3 : Cas particuliers d'application des peines<a id=217></a>
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=219></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=218></a>
 
 ###### Article 437
 
@@ -12326,7 +12257,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=220></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=219></a>
 
 ###### Article 441
 
@@ -12668,9 +12599,9 @@ _Cite_:
   - Code des douanes 63 ter, 65, 334, 445-1, 351, 354
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=221></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=220></a>
 
-## Chapitre Ier : Dispositions communes.<a id=222></a>
+## Chapitre Ier : Dispositions communes.<a id=221></a>
 
 ###### Article 451
 
@@ -12711,7 +12642,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=223></a>
+## Chapitre II : Constatation des infractions.<a id=222></a>
 
 ###### Article 453
 
@@ -12812,7 +12743,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre III : Poursuite des infractions.<a id=224></a>
+## Chapitre III : Poursuite des infractions.<a id=223></a>
 
 ###### Article 458
 
@@ -12830,7 +12761,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=225></a>
+## Chapitre IV : Dispositions répressives.<a id=224></a>
 
 ###### Article 459
 
@@ -12897,7 +12828,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=226></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=225></a>
 
 ###### Article 460
 
@@ -12990,7 +12921,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=227></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=226></a>
 
 ###### Article 464
 
@@ -13051,9 +12982,9 @@ _Cite_:
   - Code des douanes - art. 465 (M)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne<a id=228></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne<a id=227></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté.<a id=229></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté.<a id=228></a>
 
 ###### Article 467
 
@@ -13128,9 +13059,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-5 B (V)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=230></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=229></a>
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=231></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=230></a>
 
 ###### Article 468
 
@@ -13195,7 +13126,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=232></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=231></a>
 
 ###### Article 470
 
