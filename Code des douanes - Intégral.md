@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2003-12-31
+Version Consolidée au 2004-01-11
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -9062,7 +9062,7 @@ a) Gazole :
 
 sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,66.
 
-présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 39,19.
+présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 41,69.
 
 autre : indice 23, hectolitre, exemption.
 
@@ -9564,8 +9564,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 37 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-  - Loi - art. 25 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
+  - Loi - art. 23 () JORF 31 décembre 2003 en vigueur le 11 janvier 2004
 
 _Codifié par_:
 
