@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1994-02-11
+Version Consolidée au 1994-03-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -39,7 +39,7 @@ Version Consolidée au 1994-02-11
       - [Section 1 : Etablissement des bureaux de douane. (art. 46 à 49)](#36)
       - [Section 2 : Etablissement des brigades de douane. (art. 50)](#37)
       - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 51 à 52)](#38)
-    - [Chapitre III : Immunités, sauvegarde et obligations des agents des douanes. (art. 53 à 59)](#39)
+    - [Chapitre III : Immunités, sauvegarde et obligations des agents des douanes. (art. 53 à 59 ter)](#39)
     - [Chapitre IV : Pouvoirs des agents des douanes (art. 60 à 67 ter)](#40)
       - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 60 à 63 bis)](#41)
       - [Section 3 : Droit de communication (art. 64 A à 65)](#42)
@@ -1878,23 +1878,23 @@ _Codifié par_:
 cas où ils seraient révoqués, à moins qu'ils ne retournent au domicile qu'ils avaient, dans le rayon, avant d'entrer dans
 l'administration des douanes.
 
-2. Les agents révoqués qui n'obtempèrent pas, dans le mois, à la sommation de quitter le rayon sont poursuivis par le
-procureur de la République près le tribunal correctionnel, arrêtés et condamnés aux mêmes peines que celles déterminées par
-les articles 271 et 272 du code pénal.
+2. Les agents révoqués qui n'obtempèrent pas, dans le mois, à la sommation de quitter le rayon sont punis de six mois
+d'emprisonnement et de 50 000 F d'amende.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code pénal 271, 272
-
-_Cité par_:
-
-  - Code des douanes - art. 64 (V)
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+  - Loi n°92-1336 du 16 décembre 1992 - art. 156 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cité par_:
+
+  - Code des douanes - art. 64 (V)
 
 
 ###### Article 59
@@ -1914,6 +1914,103 @@ _Cité par_:
 
   - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
   - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+
+
+###### Article 59 bis
+
+Sont tenus au secret professionnel, dans les conditions et sous les peines prévues à l'article 226-13 du code pénal, les
+agents des douanes ainsi que toutes personnes appelées à l'occasion de leurs fonctions ou de leurs attributions à exercer à
+quelque titre que ce soit des fonctions à l'administration centrale ou dans les services extérieurs des douanes ou à
+intervenir dans l'application de la législation des douanes.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°91-7 du 4 janvier 1991 - art. 22 (Ab)
+  - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
+  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+  - Code de la propriété intellectuelle - art. L335-10 (V)
+  - Code de la propriété intellectuelle - art. L335-11 (V)
+  - Code de la propriété intellectuelle - art. L335-12 (V)
+  - Code de la propriété intellectuelle - art. L335-15 (V)
+  - Code de la propriété intellectuelle - art. L335-16 (V)
+  - Code de la propriété intellectuelle - art. L521-14 (V)
+  - Code de la propriété intellectuelle - art. L521-15 (V)
+  - Code de la propriété intellectuelle - art. L521-16 (V)
+  - Code de la propriété intellectuelle - art. L521-17-2 (V)
+  - Code de la propriété intellectuelle - art. L521-17-3 (V)
+  - Code de la propriété intellectuelle - art. L521-7 (M)
+  - Code de la propriété intellectuelle - art. L614-32 (V)
+  - Code de la propriété intellectuelle - art. L614-33 (V)
+  - Code de la propriété intellectuelle - art. L614-34 (V)
+  - Code de la propriété intellectuelle - art. L614-37 (V)
+  - Code de la propriété intellectuelle - art. L623-36 (V)
+  - Code de la propriété intellectuelle - art. L623-37 (V)
+  - Code de la propriété intellectuelle - art. L623-38 (V)
+  - Code de la propriété intellectuelle - art. L623-41 (V)
+  - Code de la propriété intellectuelle - art. L716-8 (V)
+  - Code de la propriété intellectuelle - art. L716-8-1 (V)
+  - Code de la propriété intellectuelle - art. L716-8-2 (V)
+  - Code de la propriété intellectuelle - art. L716-8-6 (V)
+  - Code de la propriété intellectuelle - art. L722-10 (V)
+  - Code de la propriété intellectuelle - art. L722-11 (V)
+  - Code de la propriété intellectuelle - art. L722-14 (V)
+  - Code de la propriété intellectuelle - art. L722-15 (V)
+  - Code de la propriété intellectuelle - art. L722-9 (V)
+  - Code des douanes - art. 64 (V)
+  - Code des douanes - art. 67 quinquies A (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Décret n°68-1247 1968-12-31 art. 11 JORF 3 janvier 1969
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 59 ter
+
+I. L'administration des douanes est autorisée à communiquer les informations qu'elle détient en matière de commerce extérieur
+et de relations financières avec l'étranger aux services relevant des autres départements ministériels et de la Banque de
+France qui, par leur activité, participent aux missions de service public auxquelles concourt l'administration des douanes.
+Les informations communiquées doivent être nécessaires à l'accomplissement de ces missions ou à une meilleure utilisation des
+dépenses publiques consacrées au développement du commerce extérieur.
+
+II. La communication de ces informations ne peut être effectuée qu'à des fonctionnaires du grade d'administrateur civil ou à
+des agents remplissant des fonctions de même importance.
+
+III. Les personnes ayant à connaître et à utiliser les informations ainsi communiquées sont, dans les conditions et sous les
+peines prévues à l'article 226-13 du code pénal, tenues au secret professionnel pour tout ce qui concerne lesdites
+informations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Loi n°80-30 1980-01-18 art. 78 Finances pour 1981 JORF 19 janvier 1980
+
+_Modifié par_:
+
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cité par_:
+
+  - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
+  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+
+_Cite_:
+
+  - Code pénal - art. 226-13 (M)
 
 
 ## Chapitre IV : Pouvoirs des agents des douanes<a id=40></a>
@@ -1948,6 +2045,49 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 60 bis
+
+Lorsque des indices sérieux laissent présumer qu'une personne transporte des produits stupéfiants dissimulés dans son
+organisme, les agents des douanes peuvent la soumettre à des examens médicaux de dépistage après avoir préalablement obtenu
+son consentement exprès.
+
+En cas de refus, les agents des douanes présentent au président du tribunal de grande instance territorialement compétent ou
+au juge délégué par lui une demande d'autorisation. Celle-ci est transmise au magistrat par tout moyen.
+
+Le magistrat saisi peut autoriser les agents des douanes à faire procéder aux examens médicaux. Il désigne alors le médecin
+chargé de les pratiquer dans les meilleurs délais.
+
+Les résultats de l'examen communiqués par le médecin, les observations de la personne concernée et le déroulement de la
+procédure doivent être consignés dans un procès-verbal transmis au magistrat.
+
+Toute personne qui aura refusé de se soumettre aux examens médicaux prescrits par le magistrat sera punie d'une peine
+d'emprisonnement d'un an et d'une amende de 25 000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Loi n°87-1157 du 31 décembre 1987 - art. 10 () JORF 5 janvier 1988
+
+_Modifié par_:
+
+  - Loi n°92-677 du 17 juillet 1992 - art. 114 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cité par_:
+
+  - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
+  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 38
+  - Ordonnance n°2016-128 du 10 février 2016 - art. 42
+  - Code de la santé publique - art. L1333-18 (V)
+  - Code de la santé publique - art. L1513-1 (VT)
 
 
 ###### Article 61
@@ -8084,18 +8224,17 @@ _Cité par_:
 
 1. Toute opération volontaire qui entraîne la perte de la francisation d'un bâtiment grevé d'une hypothèque est interdite.
 
-2. Si cette opération est en outre commise dans l'intention de violer cette interdiction, l'auteur est passible des peines
-prévues à l'article 408 du code pénal.
+2. Si cette opération est en outre commise dans l'intention de violer cette interdiction, l'auteur est passible des peines de
+l'abus de confiance prévues par les articles 314-1 et 314-10 du code pénal.
 
 3. Les hypothèques consenties par l'acheteur avant la francisation sur un bâtiment acheté ou construit à l'étranger sont
-valables et produisent effet à condition d'être publiés en France.
+valables et produisent effet à condition d'être publiées en France.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°67-5 1967-01-03 art. 49, art. 57 JORF 4 janvier 1967 en vigueur le 4 février 1968
-  - Loi n°67-5 du 3 janvier 1967 - art. 49 (Ab) JORF 4 janvier 1967 en vigueur le 4 février 1968
+  - Loi n°92-1336 du 16 décembre 1992 - art. 157 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -8103,7 +8242,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code pénal 408
+  - Code pénal - art. 314-1 (M)
+  - Code pénal - art. 314-10 (V)
 
 _Codifié par_:
 
@@ -11819,42 +11959,34 @@ _Codifié par_:
 ###### Article 432 bis
 
 1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des personnes condamnées pour infractions
-prévues aux articles 414, 416 et 459 du présent code, l'interdiction temporaire d'exercer, directement ou par personne
-interposée, pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du
-permis de conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la
-suspension ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le
-condamné à faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues
-pour l'application du 1° de l'article 131-6 du code pénal.
+prévues aux articles 414 et 459 du présent code, l'interdiction temporaire d'exercer, directement ou par personne interposée,
+pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du permis de
+conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la suspension
+ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
+faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues pour
+l'application du 1° de l'article 131-6 du code pénal.
 
 2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni d'un emprisonnement de deux ans et d'une amende
-de 100.000 F ou de l'une de ces deux peines seulement.
+de 100 000 F ou de l'une de ces deux peines seulement.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°77-1453 du 29 décembre 1977 - art. 13 (M)
-
-_Modifié par_:
-
-  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
-  - Loi n°92-1336 du 16 décembre 1992 - art. 158 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Cite_:
-
-  - Code pénal - art. 131-6 (M)
-  - Code des douanes - art. 414 (M)
-  - Code des douanes - art. 416 (T)
-  - Code des douanes - art. 459 (M)
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
+  - Loi n°92-1336 1992-12-16 art. 158, art. 372, art. 373 JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 158 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+_Cite_:
+
+  - Code pénal - art. 131-6 (M)
+  - Code des douanes - art. 459 (M)
+  - Code des douanes 431-1, 459
 
 
 ### Section 3 : Cas particuliers d'application des peines<a id=220></a>
@@ -12337,11 +12469,11 @@ _Créé par_:
 
 ###### Article 456
 
-Sont tenues au secret professionnel et passibles des peines prévues par l'article 378 du code pénal, toutes personnes
-appelées à l'occasion de leurs fonctions ou de leurs attributions à intervenir dans l'application de la législation et de la
-réglementation des relations financières avec l'étranger.
+Sont tenues au secret professionnel et passibles des peines prévues par les articles 226-13 et 226-14 du code pénal, toutes
+personnes appelées à l'occasion de leurs fonctions ou de leurs attributions à intervenir dans l'application de la législation
+et de la réglementation des relations financières avec l'étranger. 
 
-Toutefois, lorsqu'une poursuite régulière a été engagée sur la plainte du ministre de l'économie et de finances, ces mêmes
+Toutefois, lorsqu'une poursuite régulière a été engagée sur la plainte du ministre de l'économie et des finances, ces mêmes
 personnes ne peuvent opposer le secret professionnel au juge d'instruction ou au tribunal qui les interroge sur les faits
 faisant l'objet de la plainte ou sur des faits connexes.
 
@@ -12349,15 +12481,15 @@ faisant l'objet de la plainte ou sur des faits connexes.
 
 _Cite_:
 
-  - Code pénal 378
+  - Code pénal - art. 226-13 (V)
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
+  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 457
