@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2004-07-02
+Version Consolidée au 2004-07-10
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -2636,7 +2636,7 @@ h) chez les destinataires ou les expéditeurs réels des marchandises déclarée
 
 i) chez les opérateurs de télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
-derniers, dans le cadre de l'article L. 32-3-1 du code des postes et télécommunications ;
+derniers, dans le cadre de l'article L. 34-1 du code des postes et télécommunications ;
 
 j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
@@ -2723,11 +2723,11 @@ _Cite_:
 
   - Loi n°2004-575 2004-06-21 art. 6
   - Code des douanes 65 A
-  - Code des postes et télécommunications L32-3-1
+  - Code des postes et télécommunications L34-1
 
 _Modifié par_:
 
-  - Loi n°2004-575 du 21 juin 2004 - art. 56 () JORF 22 juin 2004
+  - Loi n°2004-669 du 9 juillet 2004 - art. 119 () JORF 10 juillet 2004
 
 _Codifié par_:
 
