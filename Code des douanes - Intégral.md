@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1983-02-10
+Version Consolidée au 1983-12-24
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1983-02-10
         - [Paragraphe 2 : Droits d'exportation. (art. 14)](#7)
       - [Section 2 : Concession des droits du tarif minimum et de droits intermédiaires. (art. 15 à 16)](#8)
       - [Section 3 : Clauses douanières contenues dans les traités et conventions de commerce. (art. 17)](#9)
-      - [Section 4 : Mesures particulières. (art. 18 à 20)](#10)
+      - [Section 4 : Mesures particulières. (art. 18 à 19 ter)](#10)
       - [Section 5 : Contrôle du commerce extérieur et prohibitions (art. 21 à 23 bis)](#11)
         - [Paragraphe 1 : Dispositions communes à l'importation et à l'exportation. (art. 21)](#12)
         - [Paragraphe 2 : Dispositions spéciales à l'exportation (art. 22 à 23)](#13)
@@ -635,31 +635,6 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°61-1396 1961-12-21 art. 3 Finances pour 1962 JORF 22 décembre 1961
-
-
-###### Article 20
-
-Lorsqu'un pays applique des mesures discriminatoires de nature à porter préjudice à l'exploitation des navires battant
-pavillon français, le gouvernement est autorisé à prendre par décret en conseil des ministres toutes dispositions appropriées
-aux circonstances à l'encontre des navires battant pavillon de ce pays ainsi qu'à l'encontre des cargaisons transportées par
-ces navires ou en provenance de ce pays.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V) JORF 24 décembre 1983
-  - Loi n°83-1119 du 23 décembre 1983 - art. 4 (V) JORF 24 décembre 1983
-  - Loi n°83-1119 du 23 décembre 1983 - art. 9 (V) JORF 24 décembre 1983
-
-_Cité par_:
-
-  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V)
-  - Code des douanes - art. 67 D (V)
 
 
 ### Section 5 : Contrôle du commerce extérieur et prohibitions<a id=11></a>
