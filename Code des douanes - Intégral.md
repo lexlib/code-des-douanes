@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1964-07-22
+Version Consolidée au 1964-12-17
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -160,9 +160,9 @@ Version Consolidée au 1964-07-22
       - [Section 5 : Dispositions diverses (art. 371 à 372)](#157)
         - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 371 à 372)](#158)
     - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#159)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 379)](#160)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 380)](#160)
         - [Paragraphe 1 : Droit de rétention. (art. 378)](#161)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379)](#162)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 380)](#162)
       - [Section 2 : Voies d'exécution (art. 383 à 390)](#163)
         - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#164)
         - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#165)
@@ -6094,6 +6094,25 @@ _Cité par_:
   - Décret n°2009-195 du 18 février 2009 (V)
   - Décret n°2009-197 du 18 février 2009 (V)
   - Décret n°2009-985 du 20 août 2009 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+
+###### Article 380
+
+Les producteurs, importateurs, raffineurs, distributeurs, négociants en gros d'huiles minérales, dérivés et résidus, ainsi
+que les garagistes distributeurs et les détaillants en carburants bénéficient, pour le recouvrement de la partie de leur
+créance représentant les droits de douane et taxes de toute nature grevant les produits visés au tableau B de l'article 265,
+d'un privilège sur les biens meubles de leur débiteur qui prend rang immédiatement après celui que la loi accorde à
+l'administration des douanes, et avant celui qui est fondé sur le nantissement.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des douanes - art. 265 (M)
 
 _Codifié par_:
 
