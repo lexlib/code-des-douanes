@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1958-12-18
+Version Consolidée au 1958-12-21
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1958-12-18
         - [Paragraphe 2 : Droits d'exportation. (art. 14)](#7)
       - [Section 2 : Concession des droits du tarif minimum et de droits intermédiaires. (art. 15 à 16)](#8)
       - [Section 3 : Clauses douanières contenues dans les traités et conventions de commerce. (art. 17)](#9)
-      - [Section 4 : Mesures particulières. (art. 19 à 20)](#10)
+      - [Section 4 : Mesures particulières. (art. 18 à 20)](#10)
       - [Section 5 : Contrôle du commerce extérieur et prohibitions (art. 21 à 23)](#11)
         - [Paragraphe 1 : Dispositions communes à l'importation et à l'exportation. (art. 21)](#12)
         - [Paragraphe 2 : Dispositions spéciales à l'exportation (art. 22 à 23)](#13)
@@ -359,6 +359,22 @@ _Codifié par_:
 
 ### Section 4 : Mesures particulières.<a id=10></a>
 
+###### Article 18
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 13 avril 2016 (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+
 ###### Article 19
 
 (adoption d'une réglementation CEE qui se substitue au droit national).
@@ -368,6 +384,25 @@ _Codifié par_:
 _Cité par_:
 
   - Arrêté du 13 avril 2016 - art. 5 (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+
+###### Article 19 bis
+
+(adoption d'une réglementation CEE qui se substitue au droit national).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance 58-1264 1958-12-20 art. 2 JORF 21 décembre 1958
+
+_Cité par_:
+
+  - Code des douanes - art. 426 (M)
 
 _Codifié par_:
 
