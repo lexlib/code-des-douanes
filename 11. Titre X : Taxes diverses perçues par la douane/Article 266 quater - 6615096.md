@@ -3,7 +3,7 @@
 1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, une
 taxe spéciale de consommation sur les produits désignés ci-après :
 
-<table cellpadding="0" cellspacing="0" width="680" border="1">
+<table width="680" cellspacing="0" cellpadding="0" border="1">
   <tbody>
     <tr>
       <td width="154">
@@ -33,7 +33,7 @@ Unité de perception
 Essences et supercarburants à forte teneur en hydrocarbures aromatiques
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Hectolitre
 
@@ -57,7 +57,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27 10 00
 
@@ -67,14 +67,14 @@ Hectolitre
 Gazole présentant un point d'éclair inférieur à 120 °C
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre
 
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 38 24 90
 
@@ -96,10 +96,12 @@ Hectolitre
 
 2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut excéder :
 
-a) pour les essences et les supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
+a) pour les essences et supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
 
-b) pour le gazole, le taux de la taxe intérieure de consommation applicable à ce même produit.
+b) pour le gazole et l'émulsion d'eau dans du gazole, les taux de la taxe intérieure de consommation visés au tableau B
+annexé au 1 de l'article 265 ci-dessus applicables au gazole identifié à l'indice 22 et aux émulsions d'eau dans du gazole
+identifiées à l'indice 53.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil
 régional aux conditions qu'il fixe.
@@ -118,10 +120,6 @@ Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes
 taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -145,8 +143,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
+  - Loi - art. 12 (V) JORF 31 décembre 2000
 
 _Cite_:
 
   - Code des douanes - art. 265 (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
