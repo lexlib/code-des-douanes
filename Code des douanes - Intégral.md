@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1998-01-01
+Version Consolidée au 1998-06-18
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1285,7 +1285,8 @@ douane, aux marchandises présentées sous une marque contrefaite, ainsi qu'aux 
 de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés à l'article 18 de la loi
 précitée, aux radio-éléments artificiels définis à l'article L. 631 du code de la santé publique et aux déchets relevant de
 la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la récupération des matériaux et des textes
-pris pour son application.
+pris pour son application. Les dispositions du présent article s'appliquent également aux objets de toute nature comportant
+des images ou des représentations d'un mineur à caractère pornographique visées par l'article 227-23 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -1354,6 +1355,7 @@ pris pour son application.
   - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe IV (V)
   - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe V (V)
   - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe VI (V)
+  - SPEC_APPLI: Loi n°98-468 1998-06-17 art. 51 (non application de l'article 46 de la loi aux TOM et à Mayotte)
   - TXT_SOURCE: Arrêté du 24 juillet 2001
   - TXT_SOURCE: Arrêté du 24 juillet 2001 - art. 1 (Ab)
   - TXT_SOURCE: Arrêté du 24 juillet 2001 - art. Annexe I (Ab)
@@ -1377,14 +1379,10 @@ pris pour son application.
 _Cite_:
 
   - Loi n°75-633 1975-07-15
-  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 16, art. 17, art. 18, art. 19
+  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 16, art. 17, art. 19, art. 18
+  - Code pénal - art. 227-23 (M)
   - Code des douanes - art. 2 bis (V)
   - Code de la santé publique - art. L631 (Ab)
-
-_Modifié par_:
-
-  - Loi n°92-1477 du 31 décembre 1992 - art. 20 () JORF 5 janvier 1993
-  - Loi n°94-102 du 5 février 1994 - art. 16 () JORF 8 février 1994
 
 _Cité par_:
 
@@ -1413,6 +1411,10 @@ _Cité par_:
   - Code des douanes - art. 468 (VD)
   - Code des douanes - art. 470 (V)
   - Code des douanes - art. 65 C (V)
+
+_Modifié par_:
+
+  - Loi n°98-468 du 17 juin 1998 - art. 46 () JORF 18 juin 1998
 
 _Codifié par_:
 
