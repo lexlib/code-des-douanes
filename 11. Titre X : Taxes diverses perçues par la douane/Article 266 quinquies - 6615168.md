@@ -20,14 +20,9 @@ l'article 265.
 
 4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
 
-5. Le tarif de la taxe intérieure de consommation sur le gaz naturel livré à l'utilisateur final est relevé conformément aux
-dispositions du 4 de l'article 266.
+5. (alinéa supprimé).
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi - art. 22 () JORF 31 décembre 1992
 
 _Cité par_:
 
@@ -80,10 +75,10 @@ _Cité par_:
   - Code des douanes - art. 427 (V)
   - Code rural - art. L723-43 (V)
 
+_Modifié par_:
+
+  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Cite_:
-
-  - Code des douanes - art. 266 (M)
