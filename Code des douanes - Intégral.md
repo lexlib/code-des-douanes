@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2003-01-01
+Version Consolidée au 2003-01-06
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -268,19 +268,18 @@ Version Consolidée au 2003-01-01
         - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#265)
         - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#266)
         - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#267)
-  - [Titre XII : Contentieux (art.  à 440)](#268)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#269)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#270)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#271)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#272)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#273)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#274)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#275)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#276)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#277)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#278)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#279)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#280)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#268)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#269)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#270)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#271)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#272)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#273)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#274)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#275)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#276)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#277)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#278)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#279)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -11641,62 +11640,6 @@ _Cité par_:
   - Code des douanes - art. 268 ter (M)
 
 
-###### Article 268 bis
-
-1. Les cigarettes, les cigares, les cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à
-rouler les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de Corse, sont passibles
-d'un droit de consommation.
-
-Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
-taux permettant leur vente au détail dans les départements de Corse à des prix égaux aux deux tiers des prix de vente au
-détail en France continentale, s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser, de tabacs fine coupe
-destinés à rouler les cigarettes et des autres tabacs à fumer, et aux 85 % des prix de vente au détail en France
-continentale, s'il s'agit de cigares et de cigarillos.
-
-Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
-présentant la plus grande analogie avec les produits considérés.
-
-2. Le droit de consommation est exigible soit à l'importation, soit à la cessation du bénéfice du régime suspensif d'accise,
-soit à l'issue de la fabrication par les usines locales.
-
-3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
-les instances instruites et jugées conformément aux dispositions du titre XII du code des douanes.
-
-4. Le produit du droit de consommation est affecté au financement de travaux de mise en valeur de la Corse et versé à
-concurrence :
-
-- d'un quart au budget des départements de la Corse,
-
-- de trois quarts au budget de la collectivité territoriale de Corse.
-
-5. Des arrêtés du ministre de l'économie et des finances fixent les taux du droit de consommation visé au paragraphe 1 ci-
-dessus et déterminent les autres modalités d'application des dispositions des paragraphes 1 à 4 ci-dessus.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 103 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-  - Loi n°94-679 1994-08-08 art. 55 III, IV JORF 10 août 1994
-  - Loi n°94-679 du 8 août 1994 - art. 55 () JORF 10 août 1994
-
-_Abrogé par_:
-
-  - Loi - art. 40 (V) JORF 31 décembre 2002 en vigueur le 6 janvier 2003
-  - Loi n°2002-1576 2002-12-30 art. 40 II, III Finances rectificative pour 2002 JORF 31 décembre 2002 en vigueur le 6 janvier 2003
-
-_Cité par_:
-
-  - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
-  - Code des douanes - art. 268 ter (M)
-  - Code général des collectivités territoriales - art. L3431-2 (M)
-  - Code général des collectivités territoriales - art. L4425-1 (M)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
 ###### Article 268 ter
 
 Pour l'application de la taxe prévue à l'article 266 sexies et du droit prévu à l'article 268 ci-dessus, les échanges entre
@@ -16842,9 +16785,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-# Titre XII : Contentieux<a id=268></a>
-
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=269></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=268></a>
 
 ###### Article 441
 
@@ -17186,9 +17127,9 @@ _Cite_:
   - Code des douanes 63 ter, 65, 334, 445-1, 351, 354
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=270></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=269></a>
 
-## Chapitre Ier : Dispositions communes.<a id=271></a>
+## Chapitre Ier : Dispositions communes.<a id=270></a>
 
 ###### Article 451
 
@@ -17251,7 +17192,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=272></a>
+## Chapitre II : Constatation des infractions.<a id=271></a>
 
 ###### Article 453
 
@@ -17375,7 +17316,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=273></a>
+## Chapitre III : Poursuite des infractions.<a id=272></a>
 
 ###### Article 458
 
@@ -17393,7 +17334,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=274></a>
+## Chapitre IV : Dispositions répressives.<a id=273></a>
 
 ###### Article 459
 
@@ -17471,7 +17412,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=275></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=274></a>
 
 ###### Article 460
 
@@ -17564,7 +17505,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=276></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=275></a>
 
 ###### Article 464
 
@@ -17664,9 +17605,9 @@ _Cite_:
   - Code des douanes - art. 465 (M)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=277></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=276></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=278></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=277></a>
 
 ###### Article 467
 
@@ -17752,7 +17693,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=279></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=278></a>
 
 ###### Article 468
 
@@ -17815,7 +17756,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=280></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=279></a>
 
 ###### Article 470
 
