@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1950-02-01
+Version Consolidée au 1950-03-04
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
@@ -1979,6 +1979,27 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 93
+
+Les tarifs des rémunérations que les commissionnaires en douane agréés sont autorisés à percevoir sont fixés dans les
+conditions prévues par la législation sur les prix.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Décret n°50-261 1950-03-01 art. 1 JORF 4 mars 1950
+
+_Cité par_:
+
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+  - Code des douanes - art. 413 bis (V)
 
 
 ###### Article 94
