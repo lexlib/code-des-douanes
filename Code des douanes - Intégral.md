@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1988-01-05
+Version Consolidée au 1988-12-28
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -10595,9 +10595,12 @@ _Anciens textes_:
 
 ###### Article 415
 
-Sont passibles des sanctions fiscales prévues à l'article précédent et d'un emprisonnement de trois mois à un an les délits
-de contrebande commis par une réunion de trois individus et plus jusqu'à six inclusivement, que tous portent ou non des
-marchandises de fraude.
+Seront punis d'un emprisonnement de deux à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
+lorsque la saisie n'a pas pu être prononcée et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté
+l'infraction ou la tentative d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé
+ou tenté de procéder à une opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir,
+directement ou indirectement, d'une infraction à la législation sur les substances ou plantes vénéneuses classées comme
+stupéfiants.
 
 **Liens relatifs à cet article**
 
@@ -10648,9 +10651,9 @@ _Cité par_:
   - Code monétaire et financier - art. L755-13 (M)
   - Code monétaire et financier - art. L765-13 (M)
 
-_Transféré par_:
+_Créé par_:
 
-  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
+  - Loi n°88-1149 du 23 décembre 1988 - art. 84 () JORF 28 décembre 1988
 
 _Nouveaux textes_:
 
