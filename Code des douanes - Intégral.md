@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1954-04-22
+Version Consolidée au 1956-08-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
@@ -120,7 +120,7 @@ Version Consolidée au 1954-04-22
     - [Chapitre Ier : Importations des territoires d'outre-mer de la République et exportations à destination de ces territoires (art. 305 à 308)](#117)
       - [Section 1 : Importations. (art. 305 à 307)](#118)
       - [Section 2 : Exportations. (art. 308)](#119)
-    - [Chapitre II : Importations d'Algérie. (art. 309 à 318)](#120)
+    - [Chapitre II : Importations d'Algérie. (art. 309 à 312)](#120)
     - [Chapitre III : Importations du Maroc. (art. 319 à 321)](#121)
     - [Chapitre IV : Importations des Nouvelles-Hébrides. (art. 322)](#122)
   - [Titre XII : Contentieux et recouvrement (art. 359 à 360)](#123)
@@ -4862,112 +4862,7 @@ _Abrogé par_:
   - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
 
 
-###### Article 311
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
 ###### Article 312
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 313
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 314
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 315
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 316
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 317
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 53-H
-
-
-###### Article 318
 
 (texte abrogé).
 
