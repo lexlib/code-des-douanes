@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2000-03-01
+Version Consolidée au 2000-07-11
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -7529,28 +7529,32 @@ _Cite_:
 
 Par dérogation à l'article 215 bis, ceux qui détiennent ou transportent les biens culturels ou les trésors nationaux visés au
 4 de l'article 38 doivent, à première réquisition des agents des douanes, produire soit des documents attestant que ces
-marchandises peuvent quitter le territoire douanier en conformité avec les dispositions portant prohibition d'exportation,
+marchandises peuvent quitter le territoire douanier en conformité avec les dispositions portant prohibition d'exportation
+soit tout document prouvant que ces biens ont été importés temporairement d'un autre Etat membre de la Communauté européenne,
 soit toute justification d'origine émanant de personnes ou de sociétés régulièrement établies à l'intérieur du territoire
 douanier communautaire.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Loi n°94-679 du 8 août 1994 - art. 60 () JORF 10 août 1994
-
 _Cite_:
 
-  - Code des douanes - art. 215 bis (M)
-  - Code des douanes - art. 38 (M)
+  - Code des douanes - art. 38 (VT)
 
 _Cité par_:
 
   - Code des douanes - art. 419 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°2000-643 2000-07-10 art. 8 (champ d'application)
+
+_Modifié par_:
+
+  - Loi n°2000-643 du 10 juillet 2000 - art. 5 () JORF 11 juillet 2000
 
 
 # Titre IX : Navigation<a id=129></a>
