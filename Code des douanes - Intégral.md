@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1996-04-13
+Version Consolidée au 1996-05-14
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
