@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1980-12-30
+Version Consolidée au 1981-08-04
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -7752,6 +7752,39 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 bis
+
+En cas de relèvement des taux de la taxe intérieure de consommation prévue au tableau B (produits pétroliers et assimilés) du
+1 de l'article 265 ci-dessus et des autres taxes perçues sur les mêmes produits, ce relèvement s'applique aux produits
+déclarés pour la consommation avant la date de changement du tarif existant en stock à cette date chez les importateurs,
+producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à l'exception des produits se
+trouvant dans les cuves des stations-services.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Loi n°53-611 1953-07-11 art. 3 JORF 12 juillet 1953
+
+_Modifié par_:
+
+  - Loi n°81-734 du 3 août 1981 - art. 11 () JORF 4 août 1981
+
+_Cité par_:
+
+  - Loi n°83-1179 du 29 décembre 1983 - art. 34 (V)
+  - Décret n°2001-58 du 18 janvier 2001 - art. 6 (V)
+  - Loi - art. 37 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 265 (M)
 
 
 ###### Article 267
