@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2004-08-01
+Version Consolidée au 2004-08-11
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1371,16 +1371,17 @@ marchandises relevant des articles 2, 3, 4, 5 et 19 de la loi n° 92-1477 du 31 
 certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane, aux
 marchandises visées à l'article L. 5132-9 du code de la santé publique, aux médicaments à usage humain visés à l'article L.
 5124-13 du code de la santé publique, aux marchandises présentées sous une marque contrefaite, ainsi qu'aux produits sanguins
-labiles définis par le code de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés
-aux articles L. 1235-1, L. 1244-8 et L. 1245-4 du code de la santé publique, aux sources artificielles et naturelles de
-radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des articles L. 1333-2 et L. 1333-4 du
-même code et aux déchets définis au II de l'article L. 541-1 du code de l'environnement dont l'importation, l'exportation ou
-le transit sont régis soit par les articles L. 541-40 à L. 541-42 du même code et les dispositions réglementaires prises pour
-leur application, soit par le règlement (CEE) n° 259/93 du Conseil du 1er février 1993 concernant la surveillance et le
-contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté européenne, ainsi que par les décisions des
-autorités communautaires prises en application de ce règlement. Les dispositions du présent article s'appliquent également
-aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique visées par
-l'article 227-23 du code pénal.
+labiles et aux pâtes plasmatiques mentionnés au 1° et au 2° de l'article L. 1221-8 du même code, aux organes, tissus,
+cellules, gamètes issus du corps humain ainsi qu'aux préparations de thérapie cellulaire mentionnés aux articles L. 1235-1,
+L. 1243-1, L. 1244-8 et L. 1245-5 dudit code, aux tissus ou cellules embryonnaires ou foetaux mentionnés à l'article L.
+2151-6 du même code, aux sources artificielles et naturelles de radionucléides définies à l'article L. 1333-1 du code de la
+santé publique et relevant des articles L. 1333-2 et L. 1333-4 du même code et aux déchets définis au II de l'article L.
+541-1 du code de l'environnement dont l'importation, l'exportation ou le transit sont régis soit par les articles L. 541-40 à
+L. 541-42 du même code et les dispositions réglementaires prises pour leur application, soit par le règlement (CEE) n° 259/93
+du Conseil du 1er février 1993 concernant la surveillance et le contrôle des transferts de déchets à l'entrée et à la sortie
+de la Communauté européenne, ainsi que par les décisions des autorités communautaires prises en application de ce règlement.
+Les dispositions du présent article s'appliquent également aux objets de toute nature comportant des images ou des
+représentations d'un mineur à caractère pornographique visées par l'article 227-23 du code pénal.
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -1475,17 +1476,29 @@ chargé des douanes et du ou des ministres concernés.
   - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 8 (V)
   - TXT_SOURCE: Arrêté du 16 octobre 1986 - art. 9 (V)
 
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°2004-806 2004-08-06 art. 116 IV JORF 11 août 2004
+  - Loi n°2004-800 du 6 août 2004 - art. 12 () JORF 7 août 2004
+
 _Cite_:
 
   - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 19
   - Code pénal - art. 227-23 (M)
   - Code des douanes - art. 2 bis (V)
+  - Code de la santé publique - art. L1221-8 (M)
   - Code de la santé publique - art. L1235-1 (M)
+  - Code de la santé publique - art. L1243-1 (M)
   - Code de la santé publique - art. L1244-8 (M)
-  - Code de la santé publique - art. L1245-4 (M)
+  - Code de la santé publique - art. L1245-5 (M)
   - Code de la santé publique - art. L1333-1 (M)
   - Code de la santé publique - art. L1333-2 (T)
   - Code de la santé publique - art. L1333-4 (T)
+  - Code de la santé publique - art. L2151-6 (V)
   - Code de la santé publique - art. L5124-13 (M)
   - Code de la santé publique - art. L5132-9 (V)
   - Code de l'environnement - art. L541-1 (M)
@@ -1519,14 +1532,6 @@ _Cité par_:
   - Code des douanes - art. 468 (VD)
   - Code des douanes - art. 470 (V)
   - Code des douanes - art. 65 C (V)
-
-_Modifié par_:
-
-  - Ordonnance n°2001-321 du 11 avril 2001 - art. 11 () JORF 14 avril 2001
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=32></a>
