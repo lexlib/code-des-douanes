@@ -1,0 +1,53 @@
+# Article 266 undecies
+
+Toute personne physique ou morale assujettie à la taxe mentionnée à l'article 266 sexies adresse au comptable public chargé
+de son recouvrement les déclarations qui comprennent tous les éléments nécessaires au contrôle et à l'établissement de la
+taxe.
+
+Ces déclarations sont accompagnées du paiement de la taxe due, sauf en cas de mise en place par l'assujetti d'un crédit
+d'enlèvement ou d'un crédit de droits auprès du comptable public.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi - art. 45 (VT) JORF 31 décembre 1998
+
+_Cité par_:
+
+  - Loi n°98-1266 du 30 décembre 1998 - art. 45 (VT)
+  - Décret n°99-508 du 17 juin 1999 - art. 7 (V)
+  - Loi - art. 19 (V)
+  - Arrêté du 30 décembre 2015 (V)
+  - Décret n°2020-442 du 16 avril 2020 - art. 11 (V)
+  - Décret n°2020-442 du 16 avril 2020 - art. 5 (V)
+  - Code des douanes - art. 266 octies (M)
+  - Code des douanes - art. 266 quindecies (M)
+  - Code des douanes - art. 266 terdecies (Ab)
+  - Code général des impôts, CGI. - art. 302 decies (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 11 avril 2000
+  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 1 (Ab)
+  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 2 (Ab)
+  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 3 (Ab)
+  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 4 (Ab)
+  - TXT_SOURCE: Arrêté du 11 avril 2000 - art. 5 (Ab)
+  - TXT_SOURCE: Arrêté du 14 juin 2002
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 1 (M)
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 2 (M)
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 3 (M)
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 4 (M)
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 5 (Ab)
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 6 (Ab)
+  - TXT_SOURCE: Arrêté du 14 juin 2002 - art. 7 (Ab)
+  - TXT_SOURCE: Arrêté du 11 février 2004
+
+_Cite_:
+
+  - Code des douanes - art. 266 sexies (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
