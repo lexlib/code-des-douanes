@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1962-06-27
+Version Consolidée au 1963-01-03
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
@@ -158,7 +158,7 @@ Version Consolidée au 1962-06-27
         - [Paragraphe 1 : Droit de rétention. (art. 378)](#155)
         - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379)](#156)
       - [Section 2 : Voies d'exécution (art. 383 à 390)](#157)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387)](#158)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#158)
         - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#159)
           - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#160)
           - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#161)
@@ -5860,6 +5860,38 @@ saisi fournit une caution jugée suffisante.
 3. Les demandes en validité, ou en mainlevée de la saisie sont de la compétence du juge d'instance.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+
+###### Article 387 bis
+
+Tous dépositaires et débiteurs de deniers provenant du chef des redevables et affectés au privilège visé à l'article 379-1
+ci-dessus sont tenus, sur la demande qui leur en est faite, de payer en l'acquit des redevables et sur le montant des fonds
+qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers.
+
+Les quittances des comptables chargés du recouvrement des créances privilégiées susvisées pour les sommes légitimement dues
+leur sont allouées en compte.
+
+Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
+sociétés pour les dettes de ces sociétés constituant une créance douanière privilégiée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°63-1351 1963-12-31 art. 18 JORF 3 janvier 1963
+
+_Cité par_:
+
+  - Décret n°2015-243 du 2 mars 2015 - art. 1 (VD)
+  - Code des douanes - art. 349 bis (V)
+
+_Cite_:
+
+  - Code des douanes 379-1
 
 _Codifié par_:
 
