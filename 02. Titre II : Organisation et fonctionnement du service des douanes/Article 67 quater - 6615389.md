@@ -6,7 +6,11 @@ supérieur peuvent, dans une zone comprise entre la frontière terrestre de la F
 convention et une ligne tracée à 20 kilomètres en deçà, ainsi que dans les zones accessibles au public des ports, aéroports
 et gares ferroviaires ou routières ouverts au trafic international et désignés par arrêté, vérifier le respect des
 obligations de détention, de port et de présentation des pièces ou documents prévue à l'article 8 de l'ordonnance n° 45-2658
-du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France.
+du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France. Lorsqu'il existe une section
+autoroutière démarrant dans la zone mentionnée ci-dessus et que le premier péage autoroutier se situe au-delà de la ligne des
+20 kilomètres, la vérification peut en outre avoir lieu jusqu'à ce premier péage sur les aires de stationnement ainsi que sur
+le lieu de ce péage et les aires de stationnement attenantes. Les péages concernés par cette disposition sont désignés par
+arrêté.
 
 Dans les zones visées au premier alinéa, les agents des douanes mentionnés à cet alinéa sont habilités à constater les
 infractions à l'article 19 de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée.
@@ -45,10 +49,6 @@ _Cite_:
   - Convention 1990-06-19, signée à Schengen
   - Code des douanes - art. 323 (M)
 
-_Créé par_:
-
-  - Loi n°94-6 du 4 janvier 1994 - art. 32 () JORF 5 janvier 1994
-
 _Cité par_:
 
   - Arrêté du 23 mars 1995 - art. 1 (V)
@@ -69,6 +69,10 @@ _Cité par_:
   - Arrêté du 22 mars 2012 - art. 3 (V)
   - Code de l'entrée et du séjour des étrangers et ... - art. L611-1-1 (VD)
   - Code de l'entrée et du séjour des étrangers et ... - art. R611-5 (M)
+
+_Modifié par_:
+
+  - Loi n°2003-1119 du 26 novembre 2003 - art. 85 () JORF 27 novembre 2003
 
 _Codifié par_:
 
