@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1964-01-03
+Version Consolidée au 1964-01-14
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -22,164 +22,165 @@ Version Consolidée au 1964-01-03
       - [Section 1 : Généralités. (art. 27)](#19)
       - [Section 2 : Espèce des marchandises (art. 30 à 33)](#20)
         - [Paragraphe 2 : Réclamations contre les décisions d'assimilation et de classement. (art. 30 à 33)](#21)
-      - [Section 4 : Valeur des marchandises (art. 35 à 36)](#22)
-        - [Paragraphe 1 : A l'importation. (art. 35)](#23)
-        - [Paragraphe 2 : A l'exportation. (art. 36)](#24)
-      - [Section 5 : Poids des marchandises. (art. 37)](#25)
-    - [Chapitre V : Prohibitions (art. 38 à 40)](#26)
-      - [Section 1 : Généralités. (art. 38)](#27)
-      - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 39 à 40)](#28)
-    - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 42 bis)](#29)
-  - [Titre II : Organisation et fonctionnement du service des douanes (art. 43 à 67)](#30)
-    - [Chapitre Ier : Champ d'action du service des douanes. (art. 43 à 45)](#31)
-    - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 46 à 52)](#32)
-      - [Section 1 : Etablissement des bureaux de douane. (art. 46 à 49)](#33)
-      - [Section 2 : Etablissement des brigades de douane. (art. 50)](#34)
-      - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 51 à 52)](#35)
-    - [Chapitre III : Immunités, sauvegarde et obligations des agents des douanes. (art. 53 à 59)](#36)
-    - [Chapitre IV : Pouvoirs des agents des douanes (art. 60 à 67)](#37)
-      - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 60 à 63)](#38)
-      - [Section 2 : Visites domiciliaires. (art. 64)](#39)
-      - [Section 5 : Contrôles douaniers des envois par la poste. (art. 66)](#40)
-      - [Section 6 : Présentation des passeports. (art. 67)](#41)
-  - [Titre III : Conduite des marchandises en douane (art. 68 à 83)](#42)
-    - [Chapitre Ier : Importation (art. 68 à 82)](#43)
-      - [Section 1 : Transports par mer. (art. 68 à 74)](#44)
-      - [Section 2 : Transports par les voies terrestres. (art. 75 à 77)](#45)
-      - [Section 3 : Transports par la voie aérienne. (art. 78 à 82)](#46)
-    - [Chapitre II : Exportation. (art. 83)](#47)
-  - [Titre IV : Opérations de dédouanement (art. 84 à 119 bis)](#48)
-    - [Chapitre Ier : Déclaration en détail (art. 84 à 100 bis)](#49)
-      - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 84 à 85)](#50)
-      - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 86 à 94)](#51)
-      - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 95 à 100 bis)](#52)
-    - [Chapitre II : Vérification des marchandises (art. 101 à 106)](#53)
-      - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 101 à 103)](#54)
-      - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 105 à 106)](#55)
-    - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 108 à 112)](#56)
-      - [Section 1 : Liquidation des droits et taxes. (art. 108)](#57)
-      - [Section 2 : Paiement au comptant. (art. 110 à 111)](#58)
-      - [Section 3 : Crédit des droits et taxes. (art. 112)](#59)
-    - [Chapitre IV : Enlèvement des marchandises (art. 113 à 119)](#60)
-      - [Section 1 : Règles générales. (art. 113)](#61)
-      - [Section 2 : Crédit d'enlèvement. (art. 114)](#62)
-      - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 116 à 119)](#63)
-    - [Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires. (art. 119 bis)](#64)
-  - [Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux (art. 132 à 159)](#65)
-    - [Chapitre II : Transit. (art. 132 à 139)](#66)
-    - [Chapitre IV : Entrepôt de douane (Entrepôt industriel) (art. 159)](#67)
-  - [Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux (art. 132 à 174 sexies)](#68)
-    - [Chapitre II : Transit. (art. 132 à 139)](#69)
-    - [Chapitre IV : Entrepôt de douane (entrepôt industriel). (art. 159 à 162)](#70)
-    - [Chapitre V : Usines exercées par la douane (art. 166 à 168 bis)](#71)
-      - [Section 2 : Usines exercées pétrolières et pétroléochimiques (art. 166 à 168)](#72)
-        - [Paragraphe 3 : Autres usines exercées pétrolières et pétroléochimiques. (art. 166)](#73)
-        - [Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques. (art. 168)](#74)
-      - [Section 3 : Autres usines (art. 168 bis)](#75)
-    - [Chapitre VI bis : Exportation préalable, drawback (art. 174 bis à 174 sexies)](#76)
-      - [Section 1 : Exportation préalable. (art. 174 bis à 174 ter)](#77)
-      - [Section 2 : Drawback. (art. 174 quater à 174 quinquies)](#78)
-      - [Section 3 : Dispositions communes applicables à l'exportation préalable et au drawback. (art. 174 septies à 174 sexies)](#79)
-  - [Titre VI : Dépôt de douane (art. 182 à 187)](#80)
-    - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#81)
-    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 187)](#82)
-  - [Titre VII : Opérations privilégiées (art. 189 à 196 ter)](#83)
-    - [Chapitre Ier : Admissions en franchise. (art. 189)](#84)
-    - [Chapitre II : Avitaillement des navires et des aéronefs (art. 191 à 194)](#85)
-      - [Section 1 : Dispositions spéciales aux navires. (art. 191 à 194)](#86)
-    - [Chapitre III : Propriétés limitrophes. (art. 196)](#87)
-    - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#88)
-  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 214)](#89)
-    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#90)
-      - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#91)
-      - [Section 3 : Compte ouvert des marchandises. (art. 207)](#92)
-      - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#93)
-      - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#94)
-  - [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier (art. 198 à 206)](#95)
-    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 198 à 206)](#96)
-      - [Section 1 : Circulation des marchandises. (art. 198)](#97)
-      - [Section 2 : Détention des marchandises. (art. 206)](#98)
-  - [Titre IX : Navigation (art. 220 à 264)](#99)
-    - [Chapitre Ier : Régime administratif des navires (art. 220 à 256)](#100)
-      - [Section 2 : Francisation des navires (art. 220)](#101)
-        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 220)](#102)
-      - [Section 7 : Hypothèques maritimes (art. 252 à 256)](#103)
-        - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252 à 256)](#104)
-    - [Chapitre II : Navigation réservée. (art. 257 à 259)](#105)
-    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#106)
-    - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#107)
-  - [Titre X : Taxes diverses perçues par la douane (art. 269 à 285 bis)](#108)
-    - [Chapitre II : Droit de timbre douanier. (art. 269)](#109)
-    - [Chapitre III : Droit de port et redevances d'équipement (art. 270 à 283)](#110)
-      - [Section 1 : Droit de quai (art. 270 à 279)](#111)
-        - [Paragraphe 1 : Généralités. (art. 270)](#112)
-        - [Paragraphe 2 : Taxes sur les navires. (art. 271 à 276)](#113)
-        - [Paragraphe 3 : Taxes sur les marchandises. (art. 277)](#114)
-        - [Paragraphe 4 : Taxes sur les passagers. (art. 278)](#115)
-        - [Paragraphe 5 : Dispositions spéciales à l'Algérie. (art. 279)](#116)
-      - [Section 2 : Taxes de péages (art. 280 à 283)](#117)
-        - [Paragraphe 1 : Généralités. (art. 280 à 282)](#118)
-        - [Paragraphe 2 : Recouvrement des taxes. (art. 283)](#119)
-    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#120)
-    - [Chapitre VI : Droits et taxes divers. (art. 285 bis)](#121)
-  - [Titre XI : Zones franches. (art. 292 à 298)](#122)
-  - [Titre XI bis : Régimes particuliers à certains départements et régimes des échanges entre les différentes parties du territoire douanier (art. 299 à 304)](#123)
-    - [Chapitre Ier : Régimes particuliers de la Corse et des départements d'outre-mer (art. 299 à 300)](#124)
-      - [Section 1 : Corse. (art. 299 à 299 bis)](#125)
-      - [Section 2 : Départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. 300)](#126)
-    - [Chapitre II : Régime douanier des échanges entre les différentes parties du territoire douanier. (art. 303 à 304)](#127)
-  - [Titre XI ter : Importations des territoires d'outre-mer de la République, d'Algérie, du Maroc et des Nouvelles-Hébrides et exportations à destination de ces territoires et pays (art. 305 à 322)](#128)
-    - [Chapitre Ier : Importations des territoires d'outre-mer de la République et exportations à destination de ces territoires (art. 305 à 308)](#129)
-      - [Section 1 : Importations. (art. 305 à 307)](#130)
-      - [Section 2 : Exportations. (art. 308)](#131)
-    - [Chapitre II : Importations d'Algérie. (art. 309)](#132)
-    - [Chapitre III : Importations du Maroc. (art. 319 à 321)](#133)
-    - [Chapitre IV : Importations des Nouvelles-Hébrides. (art. 322)](#134)
-  - [Titre XII : Contentieux (art. 323 à 431)](#135)
-    - [Chapitre Ier : Constatations des infractions douanières (art. 323 à 330)](#136)
-      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 330)](#137)
-        - [Paragraphe 1 : Personnes appelées à opérer des saisies ; droits et obligations des saisissants. (art. 323)](#138)
-        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 330)](#139)
-          - [B. - Saisies à domicile. (art. 330)](#140)
-    - [Chapitre II : Poursuites (art. 343 à 355)](#141)
-      - [Section 1 : Dispositions générales. (art. 343)](#142)
-      - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#143)
-        - [Paragraphe 1 : Emploi de la contrainte. (art. 345)](#144)
-        - [Paragraphe 2 : Titres. (art. 347 à 349)](#145)
-      - [Section 3 : Extinction des droits de poursuite et de répression (art. 355)](#146)
-        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 355)](#147)
-          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#148)
-    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 372)](#149)
-      - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#150)
-        - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#151)
-        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#152)
-      - [Section 2 : Procédure devant les juridictions civiles (art. 362)](#153)
-        - [Paragraphe 4 : Signification des jugements et autres actes de procédure. (art. 362)](#154)
-      - [Section 3 : Procédure devant les juridictions répressives. (art. 364)](#155)
-      - [Section 5 : Dispositions diverses (art. 371 à 372)](#156)
-        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 371 à 372)](#157)
-    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#158)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 379)](#159)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#160)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379)](#161)
-      - [Section 2 : Voies d'exécution (art. 383 à 390)](#162)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#163)
-        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#164)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#165)
-          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#166)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#167)
-    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#168)
-      - [Section 1 : Responsabilité pénale (art. 398)](#169)
-        - [Paragraphe 6 : Complices. (art. 398)](#170)
-      - [Section 2 : Responsabilité civile (art. 403)](#171)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#172)
-    - [Chapitre VI : Dispositions répressives (art. 415 à 431)](#173)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 415)](#174)
-        - [Paragraphe 3 : Délits douaniers (art. 415)](#175)
-          - [B. - Deuxième classe. (art. 415)](#176)
-      - [Section 2 : Peines complémentaires (art. 431)](#177)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#178)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 449)](#179)
+      - [Section 3 : Origine des marchandises. (art. 34)](#22)
+      - [Section 4 : Valeur des marchandises (art. 35 à 36)](#23)
+        - [Paragraphe 1 : A l'importation. (art. 35)](#24)
+        - [Paragraphe 2 : A l'exportation. (art. 36)](#25)
+      - [Section 5 : Poids des marchandises. (art. 37)](#26)
+    - [Chapitre V : Prohibitions (art. 38 à 40)](#27)
+      - [Section 1 : Généralités. (art. 38)](#28)
+      - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 39 à 40)](#29)
+    - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 42 bis)](#30)
+  - [Titre II : Organisation et fonctionnement du service des douanes (art. 43 à 67)](#31)
+    - [Chapitre Ier : Champ d'action du service des douanes. (art. 43 à 45)](#32)
+    - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 46 à 52)](#33)
+      - [Section 1 : Etablissement des bureaux de douane. (art. 46 à 49)](#34)
+      - [Section 2 : Etablissement des brigades de douane. (art. 50)](#35)
+      - [Section 3 : Dispositions communes aux bureaux et aux brigades de douane. (art. 51 à 52)](#36)
+    - [Chapitre III : Immunités, sauvegarde et obligations des agents des douanes. (art. 53 à 59)](#37)
+    - [Chapitre IV : Pouvoirs des agents des douanes (art. 60 à 67)](#38)
+      - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 60 à 63)](#39)
+      - [Section 2 : Visites domiciliaires. (art. 64)](#40)
+      - [Section 5 : Contrôles douaniers des envois par la poste. (art. 66)](#41)
+      - [Section 6 : Présentation des passeports. (art. 67)](#42)
+  - [Titre III : Conduite des marchandises en douane (art. 68 à 83)](#43)
+    - [Chapitre Ier : Importation (art. 68 à 82)](#44)
+      - [Section 1 : Transports par mer. (art. 68 à 74)](#45)
+      - [Section 2 : Transports par les voies terrestres. (art. 75 à 77)](#46)
+      - [Section 3 : Transports par la voie aérienne. (art. 78 à 82)](#47)
+    - [Chapitre II : Exportation. (art. 83)](#48)
+  - [Titre IV : Opérations de dédouanement (art. 84 à 119 bis)](#49)
+    - [Chapitre Ier : Déclaration en détail (art. 84 à 100 bis)](#50)
+      - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 84 à 85)](#51)
+      - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 86 à 94)](#52)
+      - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 95 à 100 bis)](#53)
+    - [Chapitre II : Vérification des marchandises (art. 101 à 106)](#54)
+      - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 101 à 103)](#55)
+      - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 105 à 106)](#56)
+    - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 108 à 112)](#57)
+      - [Section 1 : Liquidation des droits et taxes. (art. 108)](#58)
+      - [Section 2 : Paiement au comptant. (art. 110 à 111)](#59)
+      - [Section 3 : Crédit des droits et taxes. (art. 112)](#60)
+    - [Chapitre IV : Enlèvement des marchandises (art. 113 à 119)](#61)
+      - [Section 1 : Règles générales. (art. 113)](#62)
+      - [Section 2 : Crédit d'enlèvement. (art. 114)](#63)
+      - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 116 à 119)](#64)
+    - [Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires. (art. 119 bis)](#65)
+  - [Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux (art. 132 à 159)](#66)
+    - [Chapitre II : Transit. (art. 132 à 139)](#67)
+    - [Chapitre IV : Entrepôt de douane (Entrepôt industriel) (art. 159)](#68)
+  - [Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux (art. 132 à 174 sexies)](#69)
+    - [Chapitre II : Transit. (art. 132 à 139)](#70)
+    - [Chapitre IV : Entrepôt de douane (entrepôt industriel). (art. 159 à 162)](#71)
+    - [Chapitre V : Usines exercées par la douane (art. 166 à 168 bis)](#72)
+      - [Section 2 : Usines exercées pétrolières et pétroléochimiques (art. 166 à 168)](#73)
+        - [Paragraphe 3 : Autres usines exercées pétrolières et pétroléochimiques. (art. 166)](#74)
+        - [Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques. (art. 168)](#75)
+      - [Section 3 : Autres usines (art. 168 bis)](#76)
+    - [Chapitre VI bis : Exportation préalable, drawback (art. 174 bis à 174 sexies)](#77)
+      - [Section 1 : Exportation préalable. (art. 174 bis à 174 ter)](#78)
+      - [Section 2 : Drawback. (art. 174 quater à 174 quinquies)](#79)
+      - [Section 3 : Dispositions communes applicables à l'exportation préalable et au drawback. (art. 174 septies à 174 sexies)](#80)
+  - [Titre VI : Dépôt de douane (art. 182 à 187)](#81)
+    - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#82)
+    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 187)](#83)
+  - [Titre VII : Opérations privilégiées (art. 189 à 196 ter)](#84)
+    - [Chapitre Ier : Admissions en franchise. (art. 189)](#85)
+    - [Chapitre II : Avitaillement des navires et des aéronefs (art. 191 à 194)](#86)
+      - [Section 1 : Dispositions spéciales aux navires. (art. 191 à 194)](#87)
+    - [Chapitre III : Propriétés limitrophes. (art. 196)](#88)
+    - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#89)
+  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 214)](#90)
+    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#91)
+      - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#92)
+      - [Section 3 : Compte ouvert des marchandises. (art. 207)](#93)
+      - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#94)
+      - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#95)
+  - [Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier (art. 198 à 206)](#96)
+    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 198 à 206)](#97)
+      - [Section 1 : Circulation des marchandises. (art. 198)](#98)
+      - [Section 2 : Détention des marchandises. (art. 206)](#99)
+  - [Titre IX : Navigation (art. 220 à 264)](#100)
+    - [Chapitre Ier : Régime administratif des navires (art. 220 à 256)](#101)
+      - [Section 2 : Francisation des navires (art. 220)](#102)
+        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 220)](#103)
+      - [Section 7 : Hypothèques maritimes (art. 252 à 256)](#104)
+        - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252 à 256)](#105)
+    - [Chapitre II : Navigation réservée. (art. 257 à 259)](#106)
+    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#107)
+    - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#108)
+  - [Titre X : Taxes diverses perçues par la douane (art. 269 à 285 bis)](#109)
+    - [Chapitre II : Droit de timbre douanier. (art. 269)](#110)
+    - [Chapitre III : Droit de port et redevances d'équipement (art. 270 à 283)](#111)
+      - [Section 1 : Droit de quai (art. 270 à 279)](#112)
+        - [Paragraphe 1 : Généralités. (art. 270)](#113)
+        - [Paragraphe 2 : Taxes sur les navires. (art. 271 à 276)](#114)
+        - [Paragraphe 3 : Taxes sur les marchandises. (art. 277)](#115)
+        - [Paragraphe 4 : Taxes sur les passagers. (art. 278)](#116)
+        - [Paragraphe 5 : Dispositions spéciales à l'Algérie. (art. 279)](#117)
+      - [Section 2 : Taxes de péages (art. 280 à 283)](#118)
+        - [Paragraphe 1 : Généralités. (art. 280 à 282)](#119)
+        - [Paragraphe 2 : Recouvrement des taxes. (art. 283)](#120)
+    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#121)
+    - [Chapitre VI : Droits et taxes divers. (art. 285 bis)](#122)
+  - [Titre XI : Zones franches. (art. 292 à 298)](#123)
+  - [Titre XI bis : Régimes particuliers à certains départements et régimes des échanges entre les différentes parties du territoire douanier (art. 299 à 304)](#124)
+    - [Chapitre Ier : Régimes particuliers de la Corse et des départements d'outre-mer (art. 299 à 300)](#125)
+      - [Section 1 : Corse. (art. 299 à 299 bis)](#126)
+      - [Section 2 : Départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion. (art. 300)](#127)
+    - [Chapitre II : Régime douanier des échanges entre les différentes parties du territoire douanier. (art. 303 à 304)](#128)
+  - [Titre XI ter : Importations des territoires d'outre-mer de la République, d'Algérie, du Maroc et des Nouvelles-Hébrides et exportations à destination de ces territoires et pays (art. 305 à 322)](#129)
+    - [Chapitre Ier : Importations des territoires d'outre-mer de la République et exportations à destination de ces territoires (art. 305 à 308)](#130)
+      - [Section 1 : Importations. (art. 305 à 307)](#131)
+      - [Section 2 : Exportations. (art. 308)](#132)
+    - [Chapitre II : Importations d'Algérie. (art. 309)](#133)
+    - [Chapitre III : Importations du Maroc. (art. 319 à 321)](#134)
+    - [Chapitre IV : Importations des Nouvelles-Hébrides. (art. 322)](#135)
+  - [Titre XII : Contentieux (art. 323 à 431)](#136)
+    - [Chapitre Ier : Constatations des infractions douanières (art. 323 à 330)](#137)
+      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 330)](#138)
+        - [Paragraphe 1 : Personnes appelées à opérer des saisies ; droits et obligations des saisissants. (art. 323)](#139)
+        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 330)](#140)
+          - [B. - Saisies à domicile. (art. 330)](#141)
+    - [Chapitre II : Poursuites (art. 343 à 355)](#142)
+      - [Section 1 : Dispositions générales. (art. 343)](#143)
+      - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#144)
+        - [Paragraphe 1 : Emploi de la contrainte. (art. 345 à 346)](#145)
+        - [Paragraphe 2 : Titres. (art. 347 à 349)](#146)
+      - [Section 3 : Extinction des droits de poursuite et de répression (art. 355)](#147)
+        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 355)](#148)
+          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#149)
+    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 372)](#150)
+      - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#151)
+        - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#152)
+        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#153)
+      - [Section 2 : Procédure devant les juridictions civiles (art. 362)](#154)
+        - [Paragraphe 4 : Signification des jugements et autres actes de procédure. (art. 362)](#155)
+      - [Section 3 : Procédure devant les juridictions répressives. (art. 364)](#156)
+      - [Section 5 : Dispositions diverses (art. 371 à 372)](#157)
+        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 371 à 372)](#158)
+    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#159)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 379)](#160)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#161)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379)](#162)
+      - [Section 2 : Voies d'exécution (art. 383 à 390)](#163)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#164)
+        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#165)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#166)
+          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#167)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#168)
+    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#169)
+      - [Section 1 : Responsabilité pénale (art. 398)](#170)
+        - [Paragraphe 6 : Complices. (art. 398)](#171)
+      - [Section 2 : Responsabilité civile (art. 403)](#172)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#173)
+    - [Chapitre VI : Dispositions répressives (art. 415 à 431)](#174)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 415)](#175)
+        - [Paragraphe 3 : Délits douaniers (art. 415)](#176)
+          - [B. - Deuxième classe. (art. 415)](#177)
+      - [Section 2 : Peines complémentaires (art. 431)](#178)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#179)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 449)](#180)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -864,9 +865,44 @@ _Cité par_:
   - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
-### Section 4 : Valeur des marchandises<a id=22></a>
+### Section 3 : Origine des marchandises.<a id=22></a>
 
-#### Paragraphe 1 : A l'importation.<a id=23></a>
+###### Article 34
+
+1. A l'importation, les droits de douane sont perçus suivant l'origine des marchandises, sauf application des dispositions
+spéciales prévues par les engagements internationaux en vigueur pour l'octroi de tarifs préférentiels.
+
+2. Les produits naturels sont originaires du pays où ils ont été extraits du sol ou récoltés.
+
+Les produits manufacturés dans un seul pays, sans apport de matières d'un autre pays, sont originaires du pays où ils ont été
+fabriqués.
+
+3. Des arrêtés du ministre de l'économie et des finances fixent les règles à suivre pour déterminer l'origine de marchandises
+obtenues dans un pays en utilisant des produits récoltés, extraits du sol ou fabriqués dans un autre pays.
+
+4. Les produits importés ne bénéficient du traitement de faveur attribué à leur origine que s'il est régulièrement justifié
+de cette origine. Des arrêtés du ministre de l'économie et des finances fixent les conditions dans lesquelles les
+justifications d'origine doivent être produites et les cas où celles-ci ne sont pas exigées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°63-1351 1963-12-31 art. 10 JORF 14 janvier 1964
+
+_Cité par_:
+
+  - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
+  - Décret n°2016-934 du 7 juillet 2016 - art. 2
+
+
+### Section 4 : Valeur des marchandises<a id=23></a>
+
+#### Paragraphe 1 : A l'importation.<a id=24></a>
 
 ###### Article 35
 
@@ -883,7 +919,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : A l'exportation.<a id=24></a>
+#### Paragraphe 2 : A l'exportation.<a id=25></a>
 
 ###### Article 36
 
@@ -906,7 +942,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 5 : Poids des marchandises.<a id=25></a>
+### Section 5 : Poids des marchandises.<a id=26></a>
 
 ###### Article 37
 
@@ -921,9 +957,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Prohibitions<a id=26></a>
+## Chapitre V : Prohibitions<a id=27></a>
 
-### Section 1 : Généralités.<a id=27></a>
+### Section 1 : Généralités.<a id=28></a>
 
 ###### Article 38
 
@@ -1059,7 +1095,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=28></a>
+### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=29></a>
 
 ###### Article 39
 
@@ -1122,7 +1158,7 @@ _Cite_:
   - Loi n°1932-04-20
 
 
-## Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.<a id=29></a>
+## Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger.<a id=30></a>
 
 ###### Article 42 bis
 
@@ -1147,9 +1183,9 @@ _Créé par_:
   - Décret n°67-1195 1967-12-21 art. 1 JORF 29 décembre 1967
 
 
-# Titre II : Organisation et fonctionnement du service des douanes<a id=30></a>
+# Titre II : Organisation et fonctionnement du service des douanes<a id=31></a>
 
-## Chapitre Ier : Champ d'action du service des douanes.<a id=31></a>
+## Chapitre Ier : Champ d'action du service des douanes.<a id=32></a>
 
 ###### Article 43
 
@@ -1186,9 +1222,9 @@ _Modifié par_:
   - Loi n°63-1351 1963-12-31 art. 2 JORF 3 janvier 1964
 
 
-## Chapitre II : Organisation des bureaux et des brigades de douane<a id=32></a>
+## Chapitre II : Organisation des bureaux et des brigades de douane<a id=33></a>
 
-### Section 1 : Etablissement des bureaux de douane.<a id=33></a>
+### Section 1 : Etablissement des bureaux de douane.<a id=34></a>
 
 ###### Article 46
 
@@ -1262,7 +1298,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Etablissement des brigades de douane.<a id=34></a>
+### Section 2 : Etablissement des brigades de douane.<a id=35></a>
 
 ###### Article 50
 
@@ -1275,7 +1311,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Dispositions communes aux bureaux et aux brigades de douane.<a id=35></a>
+### Section 3 : Dispositions communes aux bureaux et aux brigades de douane.<a id=36></a>
 
 ###### Article 51
 
@@ -1322,7 +1358,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Immunités, sauvegarde et obligations des agents des douanes.<a id=36></a>
+## Chapitre III : Immunités, sauvegarde et obligations des agents des douanes.<a id=37></a>
 
 ###### Article 53
 
@@ -1471,9 +1507,9 @@ _Cité par_:
   - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
 
 
-## Chapitre IV : Pouvoirs des agents des douanes<a id=37></a>
+## Chapitre IV : Pouvoirs des agents des douanes<a id=38></a>
 
-### Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.<a id=38></a>
+### Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes.<a id=39></a>
 
 ###### Article 60
 
@@ -1584,7 +1620,7 @@ _Abrogé par_:
   - Décision n°2013-357 QPC du 29 novembre 2013 - art. 1, v. init.
 
 
-### Section 2 : Visites domiciliaires.<a id=39></a>
+### Section 2 : Visites domiciliaires.<a id=40></a>
 
 ###### Article 64
 
@@ -1641,7 +1677,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 5 : Contrôles douaniers des envois par la poste.<a id=40></a>
+### Section 5 : Contrôles douaniers des envois par la poste.<a id=41></a>
 
 ###### Article 66
 
@@ -1679,7 +1715,7 @@ _Cité par_:
   - Code des postes et des communications électronique - art. L6 (T)
 
 
-### Section 6 : Présentation des passeports.<a id=41></a>
+### Section 6 : Présentation des passeports.<a id=42></a>
 
 ###### Article 67
 
@@ -1698,11 +1734,11 @@ _Cité par_:
   - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
 
 
-# Titre III : Conduite des marchandises en douane<a id=42></a>
+# Titre III : Conduite des marchandises en douane<a id=43></a>
 
-## Chapitre Ier : Importation<a id=43></a>
+## Chapitre Ier : Importation<a id=44></a>
 
-### Section 1 : Transports par mer.<a id=44></a>
+### Section 1 : Transports par mer.<a id=45></a>
 
 ###### Article 68
 
@@ -1839,7 +1875,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Transports par les voies terrestres.<a id=45></a>
+### Section 2 : Transports par les voies terrestres.<a id=46></a>
 
 ###### Article 75
 
@@ -1908,7 +1944,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Transports par la voie aérienne.<a id=46></a>
+### Section 3 : Transports par la voie aérienne.<a id=47></a>
 
 ###### Article 78
 
@@ -1999,7 +2035,7 @@ _Cité par_:
   - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
 
 
-## Chapitre II : Exportation.<a id=47></a>
+## Chapitre II : Exportation.<a id=48></a>
 
 ###### Article 83
 
@@ -2024,11 +2060,11 @@ _Cité par_:
   - Code des douanes - art. 417 (V)
 
 
-# Titre IV : Opérations de dédouanement<a id=48></a>
+# Titre IV : Opérations de dédouanement<a id=49></a>
 
-## Chapitre Ier : Déclaration en détail<a id=49></a>
+## Chapitre Ier : Déclaration en détail<a id=50></a>
 
-### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=50></a>
+### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=51></a>
 
 ###### Article 84
 
@@ -2082,7 +2118,7 @@ _Cité par_:
   - Code des douanes - art. 99 bis (V)
 
 
-### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=51></a>
+### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=52></a>
 
 ###### Article 86
 
@@ -2224,7 +2260,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=52></a>
+### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=53></a>
 
 ###### Article 95
 
@@ -2394,9 +2430,9 @@ _Cité par_:
   - Code des douanes - art. 423 (V)
 
 
-## Chapitre II : Vérification des marchandises<a id=53></a>
+## Chapitre II : Vérification des marchandises<a id=54></a>
 
-### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=54></a>
+### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=55></a>
 
 ###### Article 101
 
@@ -2465,7 +2501,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=55></a>
+### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=56></a>
 
 ###### Article 105
 
@@ -2506,9 +2542,9 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-## Chapitre III : Liquidation et acquittement des droits et taxes<a id=56></a>
+## Chapitre III : Liquidation et acquittement des droits et taxes<a id=57></a>
 
-### Section 1 : Liquidation des droits et taxes.<a id=57></a>
+### Section 1 : Liquidation des droits et taxes.<a id=58></a>
 
 ###### Article 108
 
@@ -2542,7 +2578,7 @@ _Cite_:
   - Code des douanes - art. 99 bis (V)
 
 
-### Section 2 : Paiement au comptant.<a id=58></a>
+### Section 2 : Paiement au comptant.<a id=59></a>
 
 ###### Article 110
 
@@ -2588,7 +2624,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-### Section 3 : Crédit des droits et taxes.<a id=59></a>
+### Section 3 : Crédit des droits et taxes.<a id=60></a>
 
 ###### Article 112
 
@@ -2615,9 +2651,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Enlèvement des marchandises<a id=60></a>
+## Chapitre IV : Enlèvement des marchandises<a id=61></a>
 
-### Section 1 : Règles générales.<a id=61></a>
+### Section 1 : Règles générales.<a id=62></a>
 
 ###### Article 113
 
@@ -2646,7 +2682,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Crédit d'enlèvement.<a id=62></a>
+### Section 2 : Crédit d'enlèvement.<a id=63></a>
 
 ###### Article 114
 
@@ -2687,7 +2723,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=63></a>
+### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=64></a>
 
 ###### Article 116
 
@@ -2780,7 +2816,7 @@ _Cite_:
   - Code des douanes - art. 78 (V)
 
 
-## Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires.<a id=64></a>
+## Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires.<a id=65></a>
 
 ###### Article 119 bis
 
@@ -2812,9 +2848,9 @@ _Cité par_:
   - Code des douanes - art. 429 (V)
 
 
-# Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux<a id=65></a>
+# Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux<a id=66></a>
 
-## Chapitre II : Transit.<a id=66></a>
+## Chapitre II : Transit.<a id=67></a>
 
 ###### Article 132
 
@@ -2936,7 +2972,7 @@ _Abrogé par_:
   - Loi n°65-525 du 3 juillet 1965 - art. 3, v. init.
 
 
-## Chapitre IV : Entrepôt de douane (Entrepôt industriel)<a id=67></a>
+## Chapitre IV : Entrepôt de douane (Entrepôt industriel)<a id=68></a>
 
 ###### Article 159
 
@@ -2953,9 +2989,9 @@ _Modifié par_:
   - Loi n°77-574 1977-06-07
 
 
-# Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux<a id=68></a>
+# Titre V : Régimes douaniers suspensifs, exportation temporaire, dépôts spéciaux<a id=69></a>
 
-## Chapitre II : Transit.<a id=69></a>
+## Chapitre II : Transit.<a id=70></a>
 
 ###### Article 132
 
@@ -3089,7 +3125,7 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-## Chapitre IV : Entrepôt de douane (entrepôt industriel).<a id=70></a>
+## Chapitre IV : Entrepôt de douane (entrepôt industriel).<a id=71></a>
 
 ###### Article 159
 
@@ -3153,11 +3189,11 @@ _Modifié par_:
   - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
 
 
-## Chapitre V : Usines exercées par la douane<a id=71></a>
+## Chapitre V : Usines exercées par la douane<a id=72></a>
 
-### Section 2 : Usines exercées pétrolières et pétroléochimiques<a id=72></a>
+### Section 2 : Usines exercées pétrolières et pétroléochimiques<a id=73></a>
 
-#### Paragraphe 3 : Autres usines exercées pétrolières et pétroléochimiques.<a id=73></a>
+#### Paragraphe 3 : Autres usines exercées pétrolières et pétroléochimiques.<a id=74></a>
 
 ###### Article 166
 
@@ -3193,7 +3229,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=74></a>
+#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=75></a>
 
 ###### Article 168
 
@@ -3214,7 +3250,7 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-### Section 3 : Autres usines<a id=75></a>
+### Section 3 : Autres usines<a id=76></a>
 
 ###### Article 168 bis
 
@@ -3249,9 +3285,9 @@ _Abrogé par_:
   - Loi n°92-1476 1992-12-31 art. 42 V, VI Finances rectificative pour 1992 JORF 5 janvier 1993 en vigueur le 1er janvier 1993
 
 
-## Chapitre VI bis : Exportation préalable, drawback<a id=76></a>
+## Chapitre VI bis : Exportation préalable, drawback<a id=77></a>
 
-### Section 1 : Exportation préalable.<a id=77></a>
+### Section 1 : Exportation préalable.<a id=78></a>
 
 ###### Article 174 bis
 
@@ -3301,7 +3337,7 @@ _Abrogé par_:
   - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
 
 
-### Section 2 : Drawback.<a id=78></a>
+### Section 2 : Drawback.<a id=79></a>
 
 ###### Article 174 quater
 
@@ -3351,7 +3387,7 @@ _Abrogé par_:
   - Loi n°71-545 1971-07-08 art. 3 JORF 9 juillet 1971
 
 
-### Section 3 : Dispositions communes applicables à l'exportation préalable et au drawback.<a id=79></a>
+### Section 3 : Dispositions communes applicables à l'exportation préalable et au drawback.<a id=80></a>
 
 ###### Article 174 septies
 
@@ -3390,9 +3426,9 @@ _Cite_:
   - Code des douanes 174 bis à 174 quinquies
 
 
-# Titre VI : Dépôt de douane<a id=80></a>
+# Titre VI : Dépôt de douane<a id=81></a>
 
-## Chapitre Ier : Constitution des marchandises en dépôt.<a id=81></a>
+## Chapitre Ier : Constitution des marchandises en dépôt.<a id=82></a>
 
 ###### Article 182
 
@@ -3463,7 +3499,7 @@ _Cite_:
   - Code des douanes - art. 103 (V)
 
 
-## Chapitre II : Vente des marchandises en dépôt.<a id=82></a>
+## Chapitre II : Vente des marchandises en dépôt.<a id=83></a>
 
 ###### Article 186
 
@@ -3499,9 +3535,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre VII : Opérations privilégiées<a id=83></a>
+# Titre VII : Opérations privilégiées<a id=84></a>
 
-## Chapitre Ier : Admissions en franchise.<a id=84></a>
+## Chapitre Ier : Admissions en franchise.<a id=85></a>
 
 ###### Article 189
 
@@ -3522,9 +3558,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre II : Avitaillement des navires et des aéronefs<a id=85></a>
+## Chapitre II : Avitaillement des navires et des aéronefs<a id=86></a>
 
-### Section 1 : Dispositions spéciales aux navires.<a id=86></a>
+### Section 1 : Dispositions spéciales aux navires.<a id=87></a>
 
 ###### Article 191
 
@@ -3584,7 +3620,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Propriétés limitrophes.<a id=87></a>
+## Chapitre III : Propriétés limitrophes.<a id=88></a>
 
 ###### Article 196
 
@@ -3597,7 +3633,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=88></a>
+## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=89></a>
 
 ###### Article 196 bis
 
@@ -3647,11 +3683,11 @@ _Créé par_:
   - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
 
 
-# Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=89></a>
+# Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=90></a>
 
-## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=90></a>
+## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=91></a>
 
-### Section 1 : Circulation des marchandises.<a id=91></a>
+### Section 1 : Circulation des marchandises.<a id=92></a>
 
 ###### Article 197
 
@@ -3833,7 +3869,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 3 : Compte ouvert des marchandises.<a id=92></a>
+### Section 3 : Compte ouvert des marchandises.<a id=93></a>
 
 ###### Article 207
 
@@ -3863,7 +3899,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 4 : Compte ouvert du bétail.<a id=93></a>
+### Section 4 : Compte ouvert du bétail.<a id=94></a>
 
 ###### Article 208
 
@@ -3954,7 +3990,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes.<a id=94></a>
+### Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes.<a id=95></a>
 
 ###### Article 213
 
@@ -3987,11 +4023,11 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-# Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier<a id=95></a>
+# Titre VIII : Circulation et détention des marchandises à l'intérieur du territoire douanier<a id=96></a>
 
-## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=96></a>
+## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=97></a>
 
-### Section 1 : Circulation des marchandises.<a id=97></a>
+### Section 1 : Circulation des marchandises.<a id=98></a>
 
 ###### Article 198
 
@@ -4024,7 +4060,7 @@ _Cité par_:
   - Code des douanes - art. 417 (V)
 
 
-### Section 2 : Détention des marchandises.<a id=98></a>
+### Section 2 : Détention des marchandises.<a id=99></a>
 
 ###### Article 206
 
@@ -4051,13 +4087,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre IX : Navigation<a id=99></a>
+# Titre IX : Navigation<a id=100></a>
 
-## Chapitre Ier : Régime administratif des navires<a id=100></a>
+## Chapitre Ier : Régime administratif des navires<a id=101></a>
 
-### Section 2 : Francisation des navires<a id=101></a>
+### Section 2 : Francisation des navires<a id=102></a>
 
-#### Paragraphe 2 : Conditions requises pour obtenir la francisation.<a id=102></a>
+#### Paragraphe 2 : Conditions requises pour obtenir la francisation.<a id=103></a>
 
 ###### Article 220
 
@@ -4077,9 +4113,9 @@ _Cité par_:
   - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
 
 
-### Section 7 : Hypothèques maritimes<a id=103></a>
+### Section 7 : Hypothèques maritimes<a id=104></a>
 
-#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.<a id=104></a>
+#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.<a id=105></a>
 
 ###### Article 252
 
@@ -4181,7 +4217,7 @@ _Abrogé par_:
   - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
 
 
-## Chapitre II : Navigation réservée.<a id=105></a>
+## Chapitre II : Navigation réservée.<a id=106></a>
 
 ###### Article 257
 
@@ -4277,7 +4313,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Relâches forcées.<a id=106></a>
+## Chapitre III : Relâches forcées.<a id=107></a>
 
 ###### Article 261
 
@@ -4320,7 +4356,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Marchandises sauvées des naufrages, épaves.<a id=107></a>
+## Chapitre IV : Marchandises sauvées des naufrages, épaves.<a id=108></a>
 
 ###### Article 263
 
@@ -4345,9 +4381,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre X : Taxes diverses perçues par la douane<a id=108></a>
+# Titre X : Taxes diverses perçues par la douane<a id=109></a>
 
-## Chapitre II : Droit de timbre douanier.<a id=109></a>
+## Chapitre II : Droit de timbre douanier.<a id=110></a>
 
 ###### Article 269
 
@@ -4409,11 +4445,11 @@ _Cite_:
   - Code des douanes - art. 265 (M)
 
 
-## Chapitre III : Droit de port et redevances d'équipement<a id=110></a>
+## Chapitre III : Droit de port et redevances d'équipement<a id=111></a>
 
-### Section 1 : Droit de quai<a id=111></a>
+### Section 1 : Droit de quai<a id=112></a>
 
-#### Paragraphe 1 : Généralités.<a id=112></a>
+#### Paragraphe 1 : Généralités.<a id=113></a>
 
 ###### Article 270
 
@@ -4458,7 +4494,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Taxes sur les navires.<a id=113></a>
+#### Paragraphe 2 : Taxes sur les navires.<a id=114></a>
 
 ###### Article 271
 
@@ -4723,7 +4759,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Taxes sur les marchandises.<a id=114></a>
+#### Paragraphe 3 : Taxes sur les marchandises.<a id=115></a>
 
 ###### Article 277
 
@@ -4880,7 +4916,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 4 : Taxes sur les passagers.<a id=115></a>
+#### Paragraphe 4 : Taxes sur les passagers.<a id=116></a>
 
 ###### Article 278
 
@@ -4948,7 +4984,7 @@ _Cité par_:
   - Code des douanes - art. 279 (Ab)
 
 
-#### Paragraphe 5 : Dispositions spéciales à l'Algérie.<a id=116></a>
+#### Paragraphe 5 : Dispositions spéciales à l'Algérie.<a id=117></a>
 
 ###### Article 279
 
@@ -4986,9 +5022,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Taxes de péages<a id=117></a>
+### Section 2 : Taxes de péages<a id=118></a>
 
-#### Paragraphe 1 : Généralités.<a id=118></a>
+#### Paragraphe 1 : Généralités.<a id=119></a>
 
 ###### Article 280
 
@@ -5086,7 +5122,7 @@ _Modifié par_:
   - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
 
 
-#### Paragraphe 2 : Recouvrement des taxes.<a id=119></a>
+#### Paragraphe 2 : Recouvrement des taxes.<a id=120></a>
 
 ###### Article 283
 
@@ -5115,7 +5151,7 @@ _Modifié par_:
   - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
 
 
-## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=120></a>
+## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=121></a>
 
 ###### Article 284
 
@@ -5137,7 +5173,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Droits et taxes divers.<a id=121></a>
+## Chapitre VI : Droits et taxes divers.<a id=122></a>
 
 ###### Article 285 bis
 
@@ -5169,7 +5205,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XI : Zones franches.<a id=122></a>
+# Titre XI : Zones franches.<a id=123></a>
 
 ###### Article 292
 
@@ -5297,11 +5333,11 @@ _Abrogé par_:
   - Loi n°71-545 1971-07-08 art. 4 JORF 9 juillet 1971
 
 
-# Titre XI bis : Régimes particuliers à certains départements et régimes des échanges entre les différentes parties du territoire douanier<a id=123></a>
+# Titre XI bis : Régimes particuliers à certains départements et régimes des échanges entre les différentes parties du territoire douanier<a id=124></a>
 
-## Chapitre Ier : Régimes particuliers de la Corse et des départements d'outre-mer<a id=124></a>
+## Chapitre Ier : Régimes particuliers de la Corse et des départements d'outre-mer<a id=125></a>
 
-### Section 1 : Corse.<a id=125></a>
+### Section 1 : Corse.<a id=126></a>
 
 ###### Article 299
 
@@ -5366,7 +5402,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=126></a>
+### Section 2 : Départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.<a id=127></a>
 
 ###### Article 300
 
@@ -5408,7 +5444,7 @@ _Cite_:
   - Code des douanes - art. 8 (P)
 
 
-## Chapitre II : Régime douanier des échanges entre les différentes parties du territoire douanier.<a id=127></a>
+## Chapitre II : Régime douanier des échanges entre les différentes parties du territoire douanier.<a id=128></a>
 
 ###### Article 303
 
@@ -5468,11 +5504,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XI ter : Importations des territoires d'outre-mer de la République, d'Algérie, du Maroc et des Nouvelles-Hébrides et exportations à destination de ces territoires et pays<a id=128></a>
+# Titre XI ter : Importations des territoires d'outre-mer de la République, d'Algérie, du Maroc et des Nouvelles-Hébrides et exportations à destination de ces territoires et pays<a id=129></a>
 
-## Chapitre Ier : Importations des territoires d'outre-mer de la République et exportations à destination de ces territoires<a id=129></a>
+## Chapitre Ier : Importations des territoires d'outre-mer de la République et exportations à destination de ces territoires<a id=130></a>
 
-### Section 1 : Importations.<a id=130></a>
+### Section 1 : Importations.<a id=131></a>
 
 ###### Article 305
 
@@ -5572,7 +5608,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Exportations.<a id=131></a>
+### Section 2 : Exportations.<a id=132></a>
 
 ###### Article 308
 
@@ -5599,7 +5635,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre II : Importations d'Algérie.<a id=132></a>
+## Chapitre II : Importations d'Algérie.<a id=133></a>
 
 ###### Article 309
 
@@ -5632,7 +5668,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Importations du Maroc.<a id=133></a>
+## Chapitre III : Importations du Maroc.<a id=134></a>
 
 ###### Article 319
 
@@ -5703,7 +5739,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Importations des Nouvelles-Hébrides.<a id=134></a>
+## Chapitre IV : Importations des Nouvelles-Hébrides.<a id=135></a>
 
 ###### Article 322
 
@@ -5727,13 +5763,13 @@ _Cité par_:
   - Décret n°2013-956 du 24 octobre 2013 (V)
 
 
-# Titre XII : Contentieux<a id=135></a>
+# Titre XII : Contentieux<a id=136></a>
 
-## Chapitre Ier : Constatations des infractions douanières<a id=136></a>
+## Chapitre Ier : Constatations des infractions douanières<a id=137></a>
 
-### Section 1 : Constatation par procès-verbal de saisie<a id=137></a>
+### Section 1 : Constatation par procès-verbal de saisie<a id=138></a>
 
-#### Paragraphe 1 : Personnes appelées à opérer des saisies ; droits et obligations des saisissants.<a id=138></a>
+#### Paragraphe 1 : Personnes appelées à opérer des saisies ; droits et obligations des saisissants.<a id=139></a>
 
 ###### Article 323
 
@@ -5759,9 +5795,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=139></a>
+#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=140></a>
 
-##### B. - Saisies à domicile.<a id=140></a>
+##### B. - Saisies à domicile.<a id=141></a>
 
 ###### Article 330
 
@@ -5785,9 +5821,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre II : Poursuites<a id=141></a>
+## Chapitre II : Poursuites<a id=142></a>
 
-### Section 1 : Dispositions générales.<a id=142></a>
+### Section 1 : Dispositions générales.<a id=143></a>
 
 ###### Article 343
 
@@ -5811,9 +5847,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Poursuite par voie de contrainte<a id=143></a>
+### Section 2 : Poursuite par voie de contrainte<a id=144></a>
 
-#### Paragraphe 1 : Emploi de la contrainte.<a id=144></a>
+#### Paragraphe 1 : Emploi de la contrainte.<a id=145></a>
 
 ###### Article 345
 
@@ -5835,7 +5871,33 @@ _Cité par_:
   - Code des douanes - art. 67 D (M)
 
 
-#### Paragraphe 2 : Titres.<a id=145></a>
+###### Article 346
+
+Ils peuvent décerner contrainte dans le cas prévu à l'article 57 ci-dessus ainsi que dans le cas d'inobservation totale ou
+partielle des obligations mentionnées à l'article 122 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°63-1351 1963-12-31 art. 7 JORF 3 janvier 1964 rectificatif JORF 14 janvier 1964
+
+_Cite_:
+
+  - Code des douanes - art. 122 (V)
+  - Code des douanes - art. 57 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 345 (V)
+  - Code des douanes - art. 348 (V)
+
+
+#### Paragraphe 2 : Titres.<a id=146></a>
 
 ###### Article 347
 
@@ -5892,11 +5954,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Extinction des droits de poursuite et de répression<a id=146></a>
+### Section 3 : Extinction des droits de poursuite et de répression<a id=147></a>
 
-#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=147></a>
+#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=148></a>
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=148></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=149></a>
 
 ###### Article 355
 
@@ -5921,11 +5983,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Procédure devant les tribunaux<a id=149></a>
+## Chapitre III : Procédure devant les tribunaux<a id=150></a>
 
-### Section 1 : Tribunaux compétents en matière de douane<a id=150></a>
+### Section 1 : Tribunaux compétents en matière de douane<a id=151></a>
 
-#### Paragraphe 1 : Compétence "ratione materiae".<a id=151></a>
+#### Paragraphe 1 : Compétence "ratione materiae".<a id=152></a>
 
 ###### Article 357 bis
 
@@ -5948,7 +6010,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-#### Paragraphe 2 : Compétence "ratione loci".<a id=152></a>
+#### Paragraphe 2 : Compétence "ratione loci".<a id=153></a>
 
 ###### Article 358
 
@@ -5972,9 +6034,9 @@ _Cité par_:
   - Code des douanes - art. 352 (V)
 
 
-### Section 2 : Procédure devant les juridictions civiles<a id=153></a>
+### Section 2 : Procédure devant les juridictions civiles<a id=154></a>
 
-#### Paragraphe 4 : Signification des jugements et autres actes de procédure.<a id=154></a>
+#### Paragraphe 4 : Signification des jugements et autres actes de procédure.<a id=155></a>
 
 ###### Article 362
 
@@ -5998,7 +6060,7 @@ _Modifié par_:
   - Décret n°59-625 1959-05-12 art. 3, art. 5 JORF 16 mai 1959
 
 
-### Section 3 : Procédure devant les juridictions répressives.<a id=155></a>
+### Section 3 : Procédure devant les juridictions répressives.<a id=156></a>
 
 ###### Article 364
 
@@ -6015,9 +6077,9 @@ _Abrogé par_:
   - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
 
 
-### Section 5 : Dispositions diverses<a id=156></a>
+### Section 5 : Dispositions diverses<a id=157></a>
 
-#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=157></a>
+#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=158></a>
 
 ###### Article 371
 
@@ -6049,11 +6111,11 @@ _Abrogé par_:
   - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
 
 
-## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=158></a>
+## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=159></a>
 
-### Section 1 : Sûretés garantissant l'exécution<a id=159></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=160></a>
 
-#### Paragraphe 1 : Droit de rétention.<a id=160></a>
+#### Paragraphe 1 : Droit de rétention.<a id=161></a>
 
 ###### Article 378
 
@@ -6068,7 +6130,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=161></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=162></a>
 
 ###### Article 379
 
@@ -6101,9 +6163,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Voies d'exécution<a id=162></a>
+### Section 2 : Voies d'exécution<a id=163></a>
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=163></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=164></a>
 
 ###### Article 383
 
@@ -6209,9 +6271,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=164></a>
+#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=165></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=165></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=166></a>
 
 ###### Article 389
 
@@ -6245,7 +6307,7 @@ _Cite_:
   - Code des douanes 362-2
 
 
-##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=166></a>
+##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=167></a>
 
 ###### Article 390
 
@@ -6273,7 +6335,7 @@ _Cité par_:
   - Arrêté du 4 mars 2013 (V)
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=167></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=168></a>
 
 ###### Article 391
 
@@ -6291,11 +6353,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Responsabilité et solidarité<a id=168></a>
+## Chapitre V : Responsabilité et solidarité<a id=169></a>
 
-### Section 1 : Responsabilité pénale<a id=169></a>
+### Section 1 : Responsabilité pénale<a id=170></a>
 
-#### Paragraphe 6 : Complices.<a id=170></a>
+#### Paragraphe 6 : Complices.<a id=171></a>
 
 ###### Article 398
 
@@ -6316,9 +6378,9 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-### Section 2 : Responsabilité civile<a id=171></a>
+### Section 2 : Responsabilité civile<a id=172></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=172></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=173></a>
 
 ###### Article 403
 
@@ -6337,13 +6399,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Dispositions répressives<a id=173></a>
+## Chapitre VI : Dispositions répressives<a id=174></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=174></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=175></a>
 
-#### Paragraphe 3 : Délits douaniers<a id=175></a>
+#### Paragraphe 3 : Délits douaniers<a id=176></a>
 
-##### B. - Deuxième classe.<a id=176></a>
+##### B. - Deuxième classe.<a id=177></a>
 
 ###### Article 415
 
@@ -6408,9 +6470,9 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-### Section 2 : Peines complémentaires<a id=177></a>
+### Section 2 : Peines complémentaires<a id=178></a>
 
-#### Paragraphe 2 : Astreinte.<a id=178></a>
+#### Paragraphe 2 : Astreinte.<a id=179></a>
 
 ###### Article 431
 
@@ -6435,7 +6497,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=179></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=180></a>
 
 ###### Article 441
 
