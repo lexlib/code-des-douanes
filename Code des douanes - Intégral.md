@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1994-08-10
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -120,14 +120,14 @@ Version Consolidée au 1994-03-01
     - [Chapitre III : Propriétés limitrophes. (art. 196)](#117)
     - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#118)
     - [Chapitre V : Plateau continental et zone économique. (art. 196 quater à 196 quinquies)](#119)
-  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 bis)](#120)
+  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 ter)](#120)
     - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#121)
       - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#122)
       - [Section 2 : Détention des marchandises. (art. 206)](#123)
       - [Section 3 : Compte ouvert des marchandises. (art. 207)](#124)
       - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#125)
       - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#126)
-    - [Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 215 à 215 bis)](#127)
+    - [Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 215 à 215 ter)](#127)
   - [Titre IX : Navigation (art. 216 à 264)](#128)
     - [Chapitre Ier : Régime administratif des navires (art. 216 à 252)](#129)
       - [Section 1 : Champ d'application. (art. 216)](#130)
@@ -201,40 +201,38 @@ Version Consolidée au 1994-03-01
           - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#198)
       - [Section 3 : Droit de remise. (art. 390 bis)](#199)
       - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#200)
-    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#201)
-      - [Section 1 : Responsabilité pénale (art. 398)](#202)
-        - [Paragraphe 6 : Complices. (art. 398)](#203)
-      - [Section 2 : Responsabilité civile (art. 403)](#204)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#205)
-    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#206)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#207)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#208)
-          - [A. - Première classe. (art. 410)](#209)
-          - [C. - Troisième classe. (art. 412)](#210)
-          - [E. - Cinquième classe. (art. 413 bis)](#211)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#212)
-          - [A. - Première classe. (art. 414)](#213)
-          - [B. - Deuxième classe. (art. 415)](#214)
-        - [Paragraphe 4 : Contrebande. (art. 419)](#215)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#216)
-      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#217)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#218)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#219)
-      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#220)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#221)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#222)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#223)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#224)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#225)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#226)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#227)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#228)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#229)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne (art. 467)](#230)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté. (art. 467)](#231)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 468 à 470)](#232)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#233)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#234)
+    - [Chapitre V : Responsabilité et solidarité (art. 403)](#201)
+      - [Section 2 : Responsabilité civile (art. 403)](#202)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#203)
+    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#204)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#205)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#206)
+          - [A. - Première classe. (art. 410)](#207)
+          - [C. - Troisième classe. (art. 412)](#208)
+          - [E. - Cinquième classe. (art. 413 bis)](#209)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#210)
+          - [A. - Première classe. (art. 414)](#211)
+          - [B. - Deuxième classe. (art. 415)](#212)
+        - [Paragraphe 4 : Contrebande. (art. 419)](#213)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#214)
+      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#215)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#216)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#217)
+      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#218)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#219)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#220)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#221)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#222)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#223)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#224)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#225)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#226)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#227)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne (art. 467)](#228)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté. (art. 467)](#229)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 468 à 470)](#230)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#231)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#232)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -7256,6 +7254,34 @@ _Cite_:
   - Code des douanes - art. 38 (M)
 
 
+###### Article 215 ter
+
+Par dérogation à l'article 215 bis, ceux qui détiennent ou transportent les biens culturels ou les trésors nationaux visés au
+4 de l'article 38 doivent, à première réquisition des agents des douanes, produire soit des documents attestant que ces
+marchandises peuvent quitter le territoire douanier en conformité avec les dispositions portant prohibition d'exportation,
+soit toute justification d'origine émanant de personnes ou de sociétés régulièrement établies à l'intérieur du territoire
+douanier communautaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Loi n°94-679 du 8 août 1994 - art. 60 () JORF 10 août 1994
+
+_Cite_:
+
+  - Code des douanes - art. 215 bis (M)
+  - Code des douanes - art. 38 (M)
+
+_Cité par_:
+
+  - Code des douanes - art. 419 (V)
+
+
 # Titre IX : Navigation<a id=128></a>
 
 ## Chapitre Ier : Régime administratif des navires<a id=129></a>
@@ -9365,14 +9391,15 @@ _Codifié par_:
 
 ###### Article 268
 
-1. Les cigarettes, les cigares et cigarillos, le tabac à fumer, le tabac à mâcher et le tabac à priser, destinés à être
-consommés dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, sont passibles d'un droit
-de consommation.
+1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler
+les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane,
+de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
 
 Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
 taux permettant leur vente au détail à la Guadeloupe, à la Guyane, à la Martinique et à la Réunion à des prix égaux aux deux
-tiers des prix de vente au détail en France continentale s'il s'agit de cigarettes et de tabac à fumer, à mâcher et à priser,
-et aux 85 p. 100 des prix de vente au détail en France continentale, s'il s'agit de cigares et de cigarillos.
+tiers des prix de vente au détail en France continentale s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser,
+de tabacs fine coupe destinés à rouler les cigarettes et des autres tabacs à fumer, et aux 85 % des prix de vente au détail
+en France continentale, s'il s'agit de cigares et de cigarillos.
 
 Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
 présentant la plus grande analogie avec les produits considérés.
@@ -9392,36 +9419,39 @@ modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
+_Modifié par_:
+
+  - Loi n°94-679 1994-08-08 art. 55 I, II JORF 10 août 1994
+  - Loi n°94-679 du 8 août 1994 - art. 55 () JORF 10 août 1994
+
 _Cité par_:
 
+  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
   - Code des douanes - art. 268 ter (M)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Modifié par_:
-
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-  - Loi n°66-1011 1966-12-28 art. 1, art. 3, art. 4 JORF 29 décembre 1966
-
 
 ###### Article 268 bis
 
-1. Les cigarettes, les cigares, les cigarillos, les tabacs à fumer, les tabacs à mâcher et les tabacs à priser destinés à
-être consommés en Corse sont passibles d'un droit de consommation.
+1. Les cigarettes, les cigares, les cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à
+rouler les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de Corse, sont passibles
+d'un droit de consommation.
 
 Pour les produits des espèces fabriquées et vendues au public en France continentale, le droit de consommation est fixé à des
-taux permettant leur vente au détail en Corse à des prix égaux aux deux tiers des prix de vente au détail en France
-continentale, s'il s'agit de cigarettes et de tabacs à fumer, à mâcher ou à priser, et aux 85 p. 100 des prix de vente au
-détail en France continentale, s'il s'agit de cigares et de cigarillos.
+taux permettant leur vente au détail dans les départements de Corse à des prix égaux aux deux tiers des prix de vente au
+détail en France continentale, s'il s'agit de cigarettes, de tabacs à mâcher, de tabacs à priser, de tabacs fine coupe
+destinés à rouler les cigarettes et des autres tabacs à fumer, et aux 85 % des prix de vente au détail en France
+continentale, s'il s'agit de cigares et de cigarillos.
 
 Pour les autres produits, les taux du droit de consommation sont ceux applicables aux produits visés à l'alinéa précédent et
 présentant la plus grande analogie avec les produits considérés.
 
-2. Le droit de consommation est exigible soit à l'importation, soit à l'issue de la fabrication par les usines locales.
+2. Le droit de consommation est exigible soit à l'importation, soit à la cessation du bénéfice du régime suspensif d'accise,
+soit à l'issue de la fabrication par les usines locales.
 
 3. Le droit de consommation est recouvré comme en matière de droit de douane. Les infractions sont constatées et réprimées et
 les instances instruites et jugées conformément aux dispositions du titre XII du code des douanes.
@@ -9429,9 +9459,9 @@ les instances instruites et jugées conformément aux dispositions du titre XII 
 4. Le produit du droit de consommation est affecté au financement de travaux de mise en valeur de la Corse et versé à
 concurrence :
 
-D'un quart au budget du département de la Corse ;
+- d'un quart au budget des départements de la Corse,
 
-De trois quarts à un compte spécial du Trésor.
+- de trois quarts au budget de la collectivité territoriale de Corse.
 
 5. Des arrêtés du ministre de l'économie et des finances fixent les taux du droit de consommation visé au paragraphe 1 ci-
 dessus et déterminent les autres modalités d'application des dispositions des paragraphes 1 à 4 ci-dessus.
@@ -9440,11 +9470,14 @@ dessus et déterminent les autres modalités d'application des dispositions des 
 
 _Modifié par_:
 
-  - Loi n°67-1114 1967-12-21 art. 20 JORF 22 décembre 1967
-  - Loi n°76-448 1976-05-24 art. 14 JORF 25 mai 1976
-  - Loi n°82-659 1982-07-30 art. 23, art. 24 JORF 31 juillet 1982
-  - Loi n°83-1179 1983-12-29 art. 124 JORF 30 décembre 1983 en vigueur le 1er janvier 1984
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+  - Loi n°92-677 du 17 juillet 1992 - art. 103 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
+  - Loi n°94-679 1994-08-08 art. 55 III, IV JORF 10 août 1994
+  - Loi n°94-679 du 8 août 1994 - art. 55 () JORF 10 août 1994
+
+_Abrogé par_:
+
+  - Loi - art. 40 (V) JORF 31 décembre 2002 en vigueur le 6 janvier 2003
+  - Loi n°2002-1576 2002-12-30 art. 40 II, III Finances rectificative pour 2002 JORF 31 décembre 2002 en vigueur le 6 janvier 2003
 
 _Cité par_:
 
@@ -11425,32 +11458,9 @@ _Codifié par_:
 
 ## Chapitre V : Responsabilité et solidarité<a id=201></a>
 
-### Section 1 : Responsabilité pénale<a id=202></a>
+### Section 2 : Responsabilité civile<a id=202></a>
 
-#### Paragraphe 6 : Complices.<a id=203></a>
-
-###### Article 398
-
-Les dispositions des articles 59 et 60 du code pénal sont applicables aux complices de délits douaniers.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code pénal 59, 60
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Cité par_:
-
-  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
-
-
-### Section 2 : Responsabilité civile<a id=204></a>
-
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=205></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=203></a>
 
 ###### Article 403
 
@@ -11469,13 +11479,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Dispositions répressives<a id=206></a>
+## Chapitre VI : Dispositions répressives<a id=204></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=207></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=205></a>
 
-#### Paragraphe 2 : Contraventions douanières<a id=208></a>
+#### Paragraphe 2 : Contraventions douanières<a id=206></a>
 
-##### A. - Première classe.<a id=209></a>
+##### A. - Première classe.<a id=207></a>
 
 ###### Article 410
 
@@ -11528,7 +11538,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Troisième classe.<a id=210></a>
+##### C. - Troisième classe.<a id=208></a>
 
 ###### Article 412
 
@@ -11585,7 +11595,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-##### E. - Cinquième classe.<a id=211></a>
+##### E. - Cinquième classe.<a id=209></a>
 
 ###### Article 413 bis
 
@@ -11634,9 +11644,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Délits douaniers<a id=212></a>
+#### Paragraphe 3 : Délits douaniers<a id=210></a>
 
-##### A. - Première classe.<a id=213></a>
+##### A. - Première classe.<a id=211></a>
 
 ###### Article 414
 
@@ -11705,7 +11715,7 @@ _Anciens textes_:
   - Code des douanes - art. 416 (T)
 
 
-##### B. - Deuxième classe.<a id=214></a>
+##### B. - Deuxième classe.<a id=212></a>
 
 ###### Article 415
 
@@ -11773,7 +11783,7 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-#### Paragraphe 4 : Contrebande.<a id=215></a>
+#### Paragraphe 4 : Contrebande.<a id=213></a>
 
 ###### Article 419
 
@@ -11809,7 +11819,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=216></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=214></a>
 
 ###### Article 426
 
@@ -11900,9 +11910,9 @@ _Modifié par_:
   - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
 
 
-### Section 2 : Peines complémentaires<a id=217></a>
+### Section 2 : Peines complémentaires<a id=215></a>
 
-#### Paragraphe 2 : Astreinte.<a id=218></a>
+#### Paragraphe 2 : Astreinte.<a id=216></a>
 
 ###### Article 431
 
@@ -11927,7 +11937,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=219></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=217></a>
 
 ###### Article 432 bis
 
@@ -11962,9 +11972,9 @@ _Cite_:
   - Code des douanes 431-1, 459
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=220></a>
+### Section 3 : Cas particuliers d'application des peines<a id=218></a>
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=221></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=219></a>
 
 ###### Article 437
 
@@ -11996,7 +12006,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=222></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=220></a>
 
 ###### Article 441
 
@@ -12337,9 +12347,9 @@ _Cite_:
   - Code des douanes 65, 445-1, 351, 354, 334
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=223></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=221></a>
 
-## Chapitre Ier : Dispositions communes.<a id=224></a>
+## Chapitre Ier : Dispositions communes.<a id=222></a>
 
 ###### Article 451
 
@@ -12380,7 +12390,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=225></a>
+## Chapitre II : Constatation des infractions.<a id=223></a>
 
 ###### Article 453
 
@@ -12481,7 +12491,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre III : Poursuite des infractions.<a id=226></a>
+## Chapitre III : Poursuite des infractions.<a id=224></a>
 
 ###### Article 458
 
@@ -12499,7 +12509,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=227></a>
+## Chapitre IV : Dispositions répressives.<a id=225></a>
 
 ###### Article 459
 
@@ -12567,7 +12577,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=228></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=226></a>
 
 ###### Article 460
 
@@ -12660,7 +12670,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=229></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=227></a>
 
 ###### Article 464
 
@@ -12721,9 +12731,9 @@ _Cite_:
   - Code des douanes - art. 465 (M)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne<a id=230></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne<a id=228></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté.<a id=231></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté.<a id=229></a>
 
 ###### Article 467
 
@@ -12798,9 +12808,9 @@ _Cité par_:
   - Livre des procédures fiscales - art. R*247-5 B (V)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=232></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=230></a>
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=233></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=231></a>
 
 ###### Article 468
 
@@ -12865,7 +12875,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=234></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=232></a>
 
 ###### Article 470
 
