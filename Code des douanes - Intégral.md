@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2003-11-26
+Version Consolidée au 2003-12-20
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -177,7 +177,7 @@ Version Consolidée au 2003-11-26
       - [Section 01 : Droit de consignation. (art. 322 bis)](#174)
       - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#175)
         - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 323)](#176)
-        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 328)](#177)
+        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#177)
         - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#178)
           - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#179)
           - [B. - Saisies à domicile. (art. 330)](#180)
@@ -13223,31 +13223,6 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-###### Article 328
-
-1. Les procès-verbaux sont affirmés devant le juge d'instance dans le délai donné pour comparaître ; l'affirmation énonce
-qu'il en a été donné lecture à l'affirmant.
-
-2. En matière correctionnelle ou criminelle, les saisissants ont trois jours pour affirmer leurs procès-verbaux.
-
-3. Les agents des douanes et les fonctionnaires assermentés des autres administrations sont toutefois dispensés de la
-formalité de l'affirmation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi - art. 44 (V) JORF décembre 2002
-
-_Abrogé par_:
-
-  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 4 () JORF 20 décembre 2003
-
-
 #### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=178></a>
 
 ##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=179></a>
@@ -13365,13 +13340,17 @@ _Cité par_:
 
 ###### Article 333
 
-1. Après affirmation s'il y a lieu, les procès-verbaux constatant les délits de douane sont remis au procureur de la
-République et les prévenus capturés sont traduits devant ce magistrat.
+1. Les procès-verbaux constatant les délits de douane sont remis au procureur de la République et les prévenus capturés sont
+traduits devant ce magistrat.
 
 2. A cet effet, les autorités civiles et militaires sont tenues de prêter main-forte aux agents des douanes à la première
 réquisition.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Ordonnance n°2003-1216 du 18 décembre 2003 - art. 5 () JORF 20 décembre 2003
 
 _Cité par_:
 
@@ -13380,10 +13359,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi - art. 44 (V) JORF décembre 2002
 
 
 ### Section 2 : Constatation par procès-verbal de constat.<a id=184></a>
