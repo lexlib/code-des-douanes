@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1968-02-04
+Version Consolidée au 1968-08-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1612,6 +1612,28 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 62
+
+Les agents des douanes peuvent visiter tous navires au-dessous de 100 tonneaux de jauge nette ou 500 tonneaux de jauge brute
+se trouvant dans la zone maritime du rayon des douanes.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°68-690 1968-07-31 art. 16 JORF 1er août 1968
+
+_Cité par_:
+
+  - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
+  - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+  - Code des douanes - art. 67 bis (V)
 
 
 ###### Article 63
