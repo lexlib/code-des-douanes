@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1964-01-14
+Version Consolidée au 1964-07-22
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -2135,6 +2135,33 @@ _Cité par_:
 _Cite_:
 
   - Code des douanes - art. 87 (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+
+###### Article 87
+
+1. Nul ne peut faire profession d'accomplir pour autrui les formalités de douane concernant la déclaration en détail des
+marchandises s'il n'a été agréé comme commissionnaire en douane.
+
+2. Cet agrément est donné par le ministre de l'économie et des finances sur la proposition du directeur général des douanes
+et droits indirects et après avis d'un comité ont la composition est fixée par arrêté du ministre de l'économie et des
+finances. La décision ministérielle fixe le ou les bureaux de douane pour lesquels l'agrément est valable.
+
+3. Le ministre de l'économie et des finances peut, suivant la même procédure, retirer son agrément à titre temporaire ou
+définitif.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 15 (V)
+  - Arrêté du 24 décembre 1986 - art. 42 (Ab)
+  - Code des douanes - art. 413 bis (V)
+  - Code des douanes - art. 86 (V)
+  - Code des douanes - art. 88 (Ab)
 
 _Codifié par_:
 
