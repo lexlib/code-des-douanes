@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1989-07-01
+Version Consolidée au 1989-12-30
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -8083,6 +8083,71 @@ _Cite_:
 
   - Code des douanes - art. 265 (M)
   - Code des douanes - art. 265 quater (M)
+
+
+###### Article 265 sexies
+
+Le taux de la taxe intérieure sur les produits pétroliers perçu sur les carburants utilisés par les chauffeurs de taxi est
+réduit de 100 % dans la limite de 5.000 litres par an pour chaque véhicule.
+
+A compter du 1er janvier 1990, la taxe intérieure de consommation sur les carburants utilisés par les commerçants sédentaires
+dont le principal établissement est situé dans une commune de moins de 3.000 habitants et qui réalisent une partie de leur
+chiffre d'affaires par des ventes ambulantes est remboursée dans la limite de 1.500 litres par an et par entreprise.
+
+Les modalités d'application de cette mesure sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 1 (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 1 bis (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 1 ter (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 2 (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 3 (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 4 (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 5 (V)
+  - TXT_SOURCE: Décret n°90-317 du 9 avril 1990 - art. 6 (V)
+  - TXT_SOURCE: Décret n°95-616 du 6 mai 1995
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 1 (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 2 (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 3 bis (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 5 (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 6 (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 7 (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 7 bis (V)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 8 (Ab)
+  - TXT_SOURCE: Décret n°97-1279 du 23 décembre 1997 - art. 9 (V)
+  - TXT_SOURCE: Décret n°99-802 du 14 septembre 1999
+  - TXT_SOURCE: Décret n°99-802 du 14 septembre 1999 - art. 1 ()
+
+_Cité par_:
+
+  - Décret n°90-317 du 9 avril 1990 - art. 1 (V)
+  - Décret n°90-317 du 9 avril 1990 - art. 1 bis (V)
+  - Décret n°90-317 du 9 avril 1990 - art. 1 ter (V)
+  - Arrêté du 18 octobre 1991 - art. 1 (V)
+  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+  - Décret n°97-1279 du 23 décembre 1997 - art. 1 (V)
+  - Décret n°97-1279 du 23 décembre 1997 - art. 3 bis (V)
+  - Décret n°2009-731 du 18 juin 2009 - art. 1 (V)
+  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+  - Arrêté du 14 avril 2015 (V)
+  - Arrêté du 14 avril 2015 - art. (Ab)
+  - Arrêté du 14 avril 2015 - art. 1 (V)
+  - Décret n°2015-419 du 14 avril 2015 (V)
+  - Arrêté du 18 décembre 2015 (V)
+  - Décret n°2017-1826 du 28 décembre 2017 (V)
+  - Arrêté du 11 janvier 2018 (V)
+  - Décret n°2020-68 du 30 janvier 2020 - art. 41
 
 
 ###### Article 265 ter
