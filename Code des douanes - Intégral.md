@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1997-04-24
+Version Consolidée au 1997-12-30
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -3523,17 +3523,21 @@ _Codifié par_:
 
 ###### Article 87
 
-1. Nul ne peut faire profession d'accomplir pour autrui les formalités de douane concernant la déclaration en détail des
-marchandises s'il n'a été agréé comme commissionnaire en douane.
+1. Nul ne peut faire profession d'accomplir au nom et pour le compte d' autrui les formalités de douane concernant la
+déclaration en détail des marchandises s'il n'a été agréé comme commissionnaire en douane.
 
 2. Cet agrément est donné par le ministre de l'économie et des finances sur la proposition du directeur général des douanes
-et droits indirects et après avis d'un comité ont la composition est fixée par arrêté du ministre de l'économie et des
+et droits indirects et après avis d'un comité dont la composition est fixée par arrêté du ministre de l'économie et des
 finances. La décision ministérielle fixe le ou les bureaux de douane pour lesquels l'agrément est valable.
 
 3. Le ministre de l'économie et des finances peut, suivant la même procédure, retirer son agrément à titre temporaire ou
 définitif.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 26 () JORF 30 décembre 1997
 
 _Cité par_:
 
@@ -3548,45 +3552,19 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-###### Article 88
-
-1. Toute personne morale ou physique qui, sans exercer la profession de commissionnaire en douane, entend, à l'occasion de
-son industrie ou de son commerce, faire à la douane des déclarations en détail pour autrui, doit obtenir l'autorisation de
-dédouaner.
-
-2. Cette autorisation est accordée à titre temporaire et révocable et pour des opérations portant sur des marchandises
-déterminées, dans les conditions fixées par le 2 de l'article 87.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi - art. 26 () JORF 30 décembre 1997
-
-_Cité par_:
-
-  - Arrêté du 24 décembre 1986 - art. 1 (Ab)
-  - Arrêté du 24 décembre 1986 - art. 42 (Ab)
-  - Code des douanes - art. 413 bis (V)
-
-_Cite_:
-
-  - Code des douanes - art. 87 (M)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
 ###### Article 89
 
-1. L'agrément de commissionnaire en douane est donné à titre personnel. Lorsqu'il s'agit d'une société, il doit être obtenu
-pour la société et pour toute personne habile à représenter la société.
+1. L'agrément de commissionnaire en douane est donné à titre personnel. Lorsqu'il s'agit d'une personne morale, il doit être
+obtenu pour la personne morale et pour toute personne physique habilitée à la représenter.
 
-2. En aucun cas, le refus ou le retrait, temporaire ou définitif, de l'agrément ou de l'autorisation de dédouaner ne peut
-ouvrir droit à indemnité ou dommages-intérêts.
+2. En aucun cas, le refus ou le retrait, temporaire ou définitif, de l'agrément ne peut ouvrir droit à indemnité ou dommages-
+intérêts.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 26 () JORF 30 décembre 1997
 
 _Cité par_:
 
@@ -3645,12 +3623,17 @@ _Cité par_:
 
 ###### Article 94
 
-1. Les conditions d'application des dispositions des articles 86 à 93 sont fixées par des arrêtés des ministres intéressés.
-
-2. Ces arrêtés déterminent les conditions dans lesquelles les services publics, concédés ou subventionnés, peuvent accomplir
-pour autrui des opérations de dédouanement et les obligations qui leur incombent à cet égard.
+Les conditions d'application des dispositions des articles 86 à 93 sont fixées par des arrêtés des ministres intéressés.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi - art. 26 () JORF 30 décembre 1997
 
 _Cité par_:
 
@@ -3660,10 +3643,6 @@ _Cité par_:
 _Cite_:
 
   - Code des douanes 86 à 93
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 
 ### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=62></a>
@@ -3675,13 +3654,18 @@ _Codifié par_:
 2. Elles doivent contenir toutes les indications nécessaires pour l'application des mesures douanières et pour
 l'établissement des statistiques de douane.
 
-3. Elles doivent être signés par le déclarant.
+3. Elles doivent être signés par le déclarant. Celui-ci est la personne qui fait la déclaration en douane en son nom propre
+ou celle au nom de laquelle une déclaration en douane est faite.
 
 4. Le directeur général des douanes et droits indirects détermine par arrêté la forme des déclarations, les énonciations
-qu'elles doivent contenir et les documents qui doivent être annexés. Il peut autoriser, dans certains cas, le remplacement de
-la déclaration écrite par une déclaration verbale.
+qu'elles doivent contenir et les documents qui doivent y être annexés. Il peut autoriser, dans certains cas, le remplacement
+de la déclaration écrite par une déclaration verbale.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi - art. 26 () JORF 30 décembre 1997
 
 _Cité par_:
 
@@ -11436,9 +11420,9 @@ _Codifié par_:
 
 ###### Article 381
 
-1. Les commissionnaires en douane agréés qui ont acquitté pour un tiers des droits, des amendes, des taxes de toute nature
-dont la douane assure le recouvrement, sont subrogés au privilège de la douane, quelles que soient les modalités de
-recouvrement observées par eux à l'égard de ce tiers.
+1. Toute personne physique ou morale qui a acquitté pour le compte d'un tiers des droits, des amendes, des taxes de toute
+nature dont la douane assure le recouvrement est subrogée au privilège de la douane, quelles que soient les modalités de
+recouvrement observées par elle à l'égard de ce tiers.
 
 2. Toutefois, cette subrogation ne peut, en aucun cas, être opposée aux administrations de l'Etat.
 
@@ -11450,7 +11434,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°67-1172 1967-12-22 art. 17 Finances pour 1968 JORF 29 décembre 1967
+  - Loi - art. 26 () JORF 30 décembre 1997
 
 
 #### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=192></a>
