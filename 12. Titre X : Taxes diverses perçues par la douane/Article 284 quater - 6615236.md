@@ -10,17 +10,15 @@ R. 238 du code de la route.
 2. Le montant de la taxe est exigible d'avance.
 
 3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant
-la date d'exigibilité donne lieu à application d'une majoration de 10 % qui ne peut être inférieure à 10 F.
+la date d'exigibilité donne lieu à application d'une majoration de 10 %.
+
+Cette majoration n'est mise en recouvrement que lorsque son montant excède 50 F.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°72-357 1972-04-28 art. 1 II JORF 6 mai 1972
 
 _Cite_:
 
@@ -35,4 +33,4 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°73-1128 1973-12-21 art. 7 Finances rectificative pour 1973 JORF 23 décembre 1973
+  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
