@@ -19,23 +19,20 @@ précédente par le taux prévisionnel d'évolution des prix à la consommation 
 projet de loi de finances de l'année du remboursement.
 
 Le remboursement est plafonné à 40 000 litres de gazole par an et par véhicule. Il est accordé aux entreprises établies dans
-l'Union européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte
-par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et immatriculés dans
-l'un des Etats membres.
+la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
+couverte par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et
+immatriculés dans l'un des Etats membres.
 
 La période couverte par le remboursement s'entend de la période comprise entre le 11 janvier d'une année et le 10 janvier de
 l'année suivante.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 12 janvier de
-l'année suivant la période au titre de laquelle le remboursement est sollicité.
+l'année suivant la période au titre de laquelle le remboursement est sollicité et au plus tard dans les trois ans qui suivent
+à compter de cette date.
 
 Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -65,10 +62,6 @@ _Cité par_:
   - Décret n°2020-278 du 18 mars 2020 - art. 1
   - Code des douanes - art. 265 octies (M)
 
-_Créé par_:
-
-  - Loi - art. 26 (V) JORF 31 décembre 1998
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°99-723 du 3 août 1999
@@ -94,6 +87,14 @@ _Créé par_:
   - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000
   - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000 - art. 1 ()
 
+_Modifié par_:
+
+  - Loi - art. 39 (V) JORF 31 décembre 1999
+
 _Cite_:
 
   - Code des douanes - art. 284 bis A (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
