@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1958-12-30
+Version Consolidée au 1958-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
@@ -76,7 +76,7 @@ Version Consolidée au 1958-12-30
     - [Chapitre VIII : Dépôts spéciaux. (art. 178)](#73)
   - [Titre VI : Dépôt de douane (art. 182 à 187)](#74)
     - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#75)
-    - [Chapitre II : Vente des marchandises en dépôt. (art. 187)](#76)
+    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 187)](#76)
   - [Titre VII : Opérations privilégiées (art. 189 à 196)](#77)
     - [Chapitre Ier : Admissions en franchise. (art. 189)](#78)
     - [Chapitre II : Avitaillement des navires et des aéronefs (art. 191 à 194)](#79)
@@ -3050,6 +3050,25 @@ _Cité par_:
 
 
 ## Chapitre II : Vente des marchandises en dépôt.<a id=76></a>
+
+###### Article 186
+
+1. Les marchandises qui n'ont pas été enlevées dans le délai de quatre mois à dater de leur inscription au registre de dépôt
+sont vendues aux enchères publiques.
+
+2. Les marchandises périssables ou en mauvais état de conservation peuvent être vendues immédiatement avec l'autorisation du
+juge d'instance.
+
+3. Les marchandises d'une valeur inférieure à 100 F qui ne sont pas enlevées à l'expiration du délai de quatre mois visé au 1
+ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en faire
+don à des hôpitaux, hospices ou autres établissements de bienfaisance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 187
 
