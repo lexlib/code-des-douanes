@@ -1,12 +1,12 @@
 # Code des douanes  
-Version Consolidée au 1951-11-04
+Version Consolidée au 1954-04-22
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
     - [Chapitre II : Tarif des douanes. (art. 4 à 6)](#3)
     - [Chapitre III : Pouvoirs généraux du gouvernement (art. 8 à 25)](#4)
       - [Section 1 : Droits de douane (art. 8 à 14)](#5)
-        - [Paragraphe 1 : Droits d'importation. (art. 8 à 13)](#6)
+        - [Paragraphe 1 : Droits d'importation. (art. 8 à 9)](#6)
         - [Paragraphe 2 : Droits d'exportation. (art. 14)](#7)
       - [Section 2 : Concession des droits du tarif minimum et de droits intermédiaires. (art. 15 à 16)](#8)
       - [Section 3 : Clauses douanières contenues dans les traités et conventions de commerce. (art. 17)](#9)
@@ -299,77 +299,6 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
-
-
-###### Article 10
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
-
-
-###### Article 11
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Cité par_:
-
-  - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (VD)
-  - Décret n°2016-934 du 7 juillet 2016 - art. 2
-  - Code de l'Office national interprofessionnel du bl - art. 16 (Ab)
-
-_Abrogé par_:
-
-  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
-
-
-###### Article 12
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 25
-  - Code des douanes - art. 67 D (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
-
-
-###### Article 13
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Abrogé par_:
-
-  - Loi n°54-445 1954-04-15 art. 4 JORF 22 avril 1954
 
 
 #### Paragraphe 2 : Droits d'exportation.<a id=7></a>
