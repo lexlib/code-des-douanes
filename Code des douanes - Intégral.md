@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-04-14
+Version Consolidée au 2001-05-04
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -2138,8 +2138,16 @@ _Codifié par_:
 
 ###### Article 62
 
-Les agents des douanes peuvent visiter tout navire en dessous de 1.000 tonneaux de jauge brute se trouvant dans la zone
-maritime du rayon des douanes et dans la zone définie à l'article 44 bis dans les conditions prévues à cet article.
+Les agents des douanes peuvent visiter tout navire se trouvant dans la zone maritime du rayon des douanes et dans la zone
+définie à l'article 44 bis dans les conditions prévues à cet article.
+
+**Nota:**
+
+Dans sa décision n° 2013-357 QPC du 29 novembre 2013 (NOR : CSCX1329486S), le Conseil constitutionnel a déclaré l'article 62
+du code des douanes contraire à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet à compter
+de la publication de la présente décision dans les conditions prévues au considérant 10. Dans sa décision n° 2013-357 R QPC
+du 29 décembre 2013, les mots " de la publication de la présente décision " sont remplacés par les mots " du 1er janvier 2015
+".
 
 **Liens relatifs à cet article**
 
@@ -2147,15 +2155,15 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Modifié par_:
-
-  - Loi n°87-1157 du 31 décembre 1987 - art. 11 () JORF 5 janvier 1988
-
 _Cité par_:
 
   - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
   - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
   - Code des douanes - art. 67 bis (V)
+
+_Modifié par_:
+
+  - Loi n°2001-380 du 3 mai 2001 - art. 9 () JORF 4 mai 2001
 
 _Cite_:
 
