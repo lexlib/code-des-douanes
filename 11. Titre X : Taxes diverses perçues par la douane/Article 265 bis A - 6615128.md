@@ -16,13 +16,18 @@ d'huile végétale, d'alcool éthylique et de ses dérivés doivent être agré�
 ministre chargé de l'agriculture et du ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au
 Journal officiel des Communautés européennes.
 
+2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
+lancés par appel d'offres communautaire.
+
 3. La durée de validité des agréments délivrés ne peut excéder six ans.
 
 4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
-consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Il est également
-tenu de mettre en place auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la
-réduction de la taxe intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la
-consommation au cours de la même année en application de la décision d'agrément.
+consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Le transfert d'une
+partie d'un agrément délivré à une unité de production est autorisé au profit d'une autre unité agréée d'un même opérateur.
+Ce transfert donne lieu à accord préalable de l'administration des douanes. L'opérateur est également tenu de mettre en place
+auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la réduction de la taxe
+intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la consommation au cours de la
+même année en application de la décision d'agrément.
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
 quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
@@ -38,13 +43,25 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Arrêté du 9 juin 2020 - art. 1
+  - Décret n°2004-506 du 7 juin 2004 - art. 1 (V)
+  - Décret n°2004-506 du 7 juin 2004 - art. 2 (V)
+  - Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
+  - Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
+  - Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
+  - Décret n°2006-127 du 6 février 2006 - art. 1 (V)
+  - Décret n°2008-93 du 29 janvier 2008 (V)
+  - Code de l'énergie - art. L661-2 (VD)
+
+_Cite_:
+
+  - Code des douanes - art. 265 (M)
+
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi - art. 38 () JORF 31 décembre 2003
 
 **Liens**:
 
@@ -54,19 +71,8 @@ _Modifié par_:
   - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
   - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
   - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
+  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 31 II finances pour 2005 (date d'effet)
 
-_Cité par_:
+_Modifié par_:
 
-  - Décret n°2004-506 du 7 juin 2004 - art. 1 (V)
-  - Décret n°2004-506 du 7 juin 2004 - art. 2 (V)
-  - Décret n°2004-506 du 7 juin 2004 - art. 3 (V)
-  - Décret n°2004-506 du 7 juin 2004 - art. 4 (V)
-  - Décret n°2004-506 du 7 juin 2004 - art. 5 (V)
-  - Décret n°2006-127 du 6 février 2006 - art. 1 (V)
-  - Décret n°2008-93 du 29 janvier 2008 (V)
-  - Arrêté du 9 juin 2020 - art. 1
-  - Code de l'énergie - art. L661-2 (VD)
-
-_Cite_:
-
-  - Code des douanes - art. 265 (M)
+  - Loi n°2004-1484 du 30 décembre 2004 - art. 31 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
