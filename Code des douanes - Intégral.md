@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -7672,7 +7672,9 @@ _Codifié par_:
 
 ###### Article 224
 
-1. Le droit de francisation et de navigation est perçu au profit de l'Etat.
+1. Le droit de francisation et de navigation est perçu au profit de l'Etat, ou, lorsqu'il est perçu au titre des navires de
+plaisance visés au dernier alinéa de l'article 223, au profit de la collectivité territoriale de Corse un prélèvement pour
+frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
 
 Il est recouvré par année civile.
 
@@ -7701,8 +7703,7 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
 _Modifié par_:
 
-  - Loi n°83-1179 1983-12-29 art. 31 III Finances pour 1984 JORF 30 décembre 1983
-  - Loi - art. 31 () JORF 30 décembre 1990
+  - Loi - art. 6 (V) JORF 31 décembre 1995
 
 _Cité par_:
 
@@ -7724,13 +7725,13 @@ _Cité par_:
   - Décret n°2019-271 du 3 avril 2019 - art. 1 (V)
   - Arrêté du 19 février 2020 (V)
 
-_Cite_:
-
-  - Code des douanes - art. 223 (M)
-
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Code des douanes - art. 223 (M)
 
 
 ###### Article 225
@@ -8050,15 +8051,18 @@ vue de lutter contre l'évasion et la fraude fiscales et douanières, le droit d
 de francisation et de navigation pour les navires de moins de 20 tonneaux de jauge brute et à un taux quintuple de ce droit
 pour les navires d'au moins 20 tonneaux de jauge brute.
 
+Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
+passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
+l'année écoulée, au profit de la collectivité territoriale de Corse.
+
+L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité territoriale de Corse un prélèvement
+pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°76-1232 1976-12-29 art. 15 II Finances pour 1977 JORF 30 décembre 1976
 
 _Cité par_:
 
@@ -8068,6 +8072,10 @@ _Cité par_:
   - Loi n°2019-1479 du 28 décembre 2019 - art. 184 (V)
   - Code général des collectivités territoriales - art. L4425-1 (MMN)
   - Code général des collectivités territoriales - art. L4425-22 (V)
+
+_Modifié par_:
+
+  - Loi n°95-1347 1995-12-30 Finances rectificative pour 1995 JORF 31 décembre 1995
 
 _Cite_:
 
