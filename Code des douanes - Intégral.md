@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1999-01-11
+Version Consolidée au 1999-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -7976,14 +7976,9 @@ _Cité par_:
 ###### Article 226
 
 Les dispositions relatives au droit de francisation et de navigation sont applicables dans les ports de la Corse, dans les
-ports des départements d'outre-mer, dans les ports du Rhin et de la Moselle, dans les ports fluviaux ouverts au trafic par
-bâtiments de mer.
+ports des départements d'outre-mer et dans les ports fluviaux ouverts au trafic par bâtiments de mer.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -7994,7 +7989,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°90-1168 1990-12-29 art. 124 VI JORF 30 décembre 1990
+  - Loi - art. 30 () JORF 31 décembre 1999
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 #### Paragraphe 5 : Acte de francisation.<a id=137></a>
@@ -8325,8 +8324,7 @@ _Cité par_:
 ###### Article 240
 
 Les dispositions relatives au droit de passeport sont applicables dans les ports de la Corse, dans ceux des départements
-d'outre-mer, ainsi que dans les ports du Rhin et de la Moselle et dans les ports fluviaux ouverts au trafic par bâtiments de
-mer.
+d'outre-mer et dans les ports fluviaux ouverts au trafic par bâtiments de mer.
 
 **Liens relatifs à cet article**
 
@@ -8336,7 +8334,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
+  - Loi - art. 30 () JORF 31 décembre 1999
 
 _Cité par_:
 
@@ -9022,21 +9020,18 @@ _Abrogé par_:
 
 ###### Article 265 quinquies
 
-1. Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
+Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
 réfaction de 6,63 F par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
-territoire du département de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance
-et de sport : 
+territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
 
 <table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
   <tbody>
     <tr>
       <td width="166">
 
-NUMERO
+NUMEROS
 
-de la nomenclature
-
-du système harmonisé
+du tarif des douanes
 
 </td>
       <td width="237">
@@ -9053,7 +9048,7 @@ d'identification
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="166">
+      <td valign="top" width="166">
 
 27.10.00
 
@@ -9069,23 +9064,8 @@ Supercarburants
 
 </td>
     </tr>
-    <tr>
-      <td valign="top" width="237">
-
-Essence normale
-
-</td>
-      <td valign="top" width="202">
-
-indice 12
-
-</td>
-    </tr>
   </tbody>
 </table>
-
-2. En ce qui concerne l'essence utilisée pour les travaux agricoles, la réfaction prévue au 1 ci-dessus s'ajoute au
-dégrèvement institué à l'article 265 quater.
 
 **Liens relatifs à cet article**
 
@@ -9093,19 +9073,15 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
-
-  - Loi n°67-1114 1967-12-21 art. 20 IV Finances pour 1968 JORF 22 décembre 1967
-
 _Modifié par_:
 
-  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
-  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988 en vigueur le 1er juillet 1989
+  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
+  - Loi - art. 39 (V) JORF 31 décembre 1999
+  - Loi n°99-1172 1999-12-30 art. 39 VIII, IX Finances pour 2000 JORF 31 décembre 1999
 
 _Cite_:
 
   - Code des douanes - art. 265 (M)
-  - Code des douanes - art. 265 quater (M)
 
 
 ###### Article 265 septies
@@ -9129,23 +9105,20 @@ précédente par le taux prévisionnel d'évolution des prix à la consommation 
 projet de loi de finances de l'année du remboursement.
 
 Le remboursement est plafonné à 40 000 litres de gazole par an et par véhicule. Il est accordé aux entreprises établies dans
-l'Union européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte
-par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et immatriculés dans
-l'un des Etats membres.
+la Communauté européenne qui sont en mesure de justifier qu'elles ont acquis du gazole en France au cours de la période
+couverte par le remboursement et que ce gazole a été utilisé comme carburant dans des véhicules ci-dessus définis et
+immatriculés dans l'un des Etats membres.
 
 La période couverte par le remboursement s'entend de la période comprise entre le 11 janvier d'une année et le 10 janvier de
 l'année suivante.
 
 Les entreprises concernées peuvent adresser leur demande de remboursement au service des douanes à partir du 12 janvier de
-l'année suivant la période au titre de laquelle le remboursement est sollicité.
+l'année suivant la période au titre de laquelle le remboursement est sollicité et au plus tard dans les trois ans qui suivent
+à compter de cette date.
 
 Les modalités d'application du présent article sont fixées par décret.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -9175,10 +9148,6 @@ _Cité par_:
   - Décret n°2020-278 du 18 mars 2020 - art. 1
   - Code des douanes - art. 265 octies (M)
 
-_Créé par_:
-
-  - Loi - art. 26 (V) JORF 31 décembre 1998
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°99-723 du 3 août 1999
@@ -9204,9 +9173,17 @@ _Créé par_:
   - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000
   - TXT_SOURCE: Décret n°2000-678 du 19 juillet 2000 - art. 1 ()
 
+_Modifié par_:
+
+  - Loi - art. 39 (V) JORF 31 décembre 1999
+
 _Cite_:
 
   - Code des douanes - art. 284 bis A (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 265 sexies
@@ -9218,21 +9195,16 @@ A compter du 1er janvier 1990, la taxe intérieure de consommation sur les carbu
 dont le principal établissement est situé dans une commune de moins de 3.000 habitants et qui réalisent une partie de leur
 chiffre d'affaires par des ventes ambulantes est remboursée dans la limite de 1.500 litres par an et par entreprise.
 
-A compter du 1er janvier 1997, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
-produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de réseaux de transport public
-en commun de voyageurs, dans la limite de 12 000 litres par véhicule et par an.
-
-A compter du 1er janvier 1997, la limite visée au premier alinéa est fixée à 6 500 litres pour le gaz naturel véhicules et la
-taxe intérieure sur les produits pétroliers pour le gaz de pétrole liquéfié carburant.
-
 A compter du 1er janvier 1999, la taxe intérieure de consommation sur le gaz naturel véhicules et la taxe intérieure sur les
 produits pétroliers pour le gaz de pétrole liquéfié carburant sont remboursées aux exploitants de transport public en commun
-de voyageurs, dans la limite de 40 000 litres par an et par véhicule.
+de voyageurs, dans la limite de 40 000 litres par an et par véhicule. A compter du 1er janvier 2000, ces taxes sont
+remboursées dans la même limite aux exploitants de bennes de ramassage de déchets ménagers d'un poids total roulant autorisé
+égal ou supérieur à 12 tonnes.
 
 Les modalités d'application de ces mesures sont fixées par décret.
 
-A compter du 1er janvier 1999, la limite visée au premier alinéa est fixée à 9 000 litres pour le gaz naturel véhicules et la
-taxe intérieure sur les produits pétroliers pour le gaz de pétrole liquéfié carburant.
+A compter du 1er janvier 1999, la limite visée au premier alinéa est fixée à 9 000 litres pour le gaz naturel véhicules et
+pour le gaz de pétrole liquéfié carburant.
 
 **Liens relatifs à cet article**
 
@@ -9289,8 +9261,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 26 (V) JORF 31 décembre 1998
-  - Loi - art. 28 () JORF 31 décembre 1998
+  - Loi - art. 39 (V) JORF 31 décembre 1999
+  - Loi - art. 41 () JORF 31 décembre 1999
 
 
 ###### Article 265 ter
@@ -9408,25 +9380,24 @@ déclarés pour la consommation avant la date de changement du tarif existant en
 producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à l'exception des produits se
 trouvant dans les cuves des stations-services.
 
+Ce relèvement n'est pas recouvré lorsque son montant est inférieur à 500 F.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
-
-  - Loi n°53-611 1953-07-11 art. 3 JORF 12 juillet 1953
-
-_Modifié par_:
-
-  - Loi n°81-734 du 3 août 1981 - art. 11 () JORF 4 août 1981
-
 _Cité par_:
 
   - Loi n°83-1179 du 29 décembre 1983 - art. 34 (V)
   - Décret n°2001-58 du 18 janvier 2001 - art. 6 (V)
   - Loi - art. 37 (V)
+
+_Modifié par_:
+
+  - Loi n°88-1193 du 29 décembre 1988 - art. 28 () JORF 30 décembre 1988
+  - Loi - art. 39 (V) JORF 31 décembre 1999
 
 _Cite_:
 
@@ -9668,71 +9639,91 @@ _Cite_:
 1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, une
 taxe spéciale de consommation sur les produits désignés ci-après :
 
-<table border="1" cellpadding="0" cellspacing="0" width="680">
+<table border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td width="154">
+      <td>
 
-Numéro du tarif douanier
+Numéros du tarif des douanes
 
 </td>
-      <td width="154">
+      <td>
 
 Désignation des produits
 
 </td>
-      <td width="154">
+      <td>
 
 Unité de perception
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td>
 
 27 10 50
 
 </td>
-      <td valign="top" width="154">
+      <td>
 
 Essences et supercarburants à forte teneur en hydrocarbures aromatiques
 
 </td>
-      <td valign="top" width="154">
+      <td>
 
 Hectolitre
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td>
 
 27 10 00
 
 </td>
-      <td valign="top" width="154">
+      <td>
 
 Essences et supercarburants
 
 </td>
-      <td valign="top" width="154">
+      <td>
 
 Hectolitre
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td>
 
 27 10 00
 
 </td>
-      <td valign="top" width="154">
+      <td>
 
 Gazole présentant un point d'éclair inférieur à 120 °C
 
 </td>
-      <td valign="top" width="154">
+      <td>
+
+Hectolitre
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+EX 3824.90
+
+</td>
+      <td>
+
+- Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 %
+en volume sans dépasser 20 % en volume :
+
+-- autre, destinée à être utilisée comme carburant
+
+</td>
+      <td>
 
 Hectolitre
 
@@ -9741,14 +9732,14 @@ Hectolitre
   </tbody>
 </table>
 
-2. Le taux de cette taxe est fixé par arrêté du préfet sur proposition du conseil général. Ce taux ne peut excéder :
+2. Le taux de cette taxe est fixé par le Conseil régional. Ce taux ne peut excéder :
 
 a) pour les essences et les supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
 
 b) pour le gazole, le taux de la taxe intérieure de consommation applicable à ce même produit.
 
-2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
+2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le Conseil
 régional aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement
@@ -9757,13 +9748,6 @@ chez les importateurs, producteurs, raffineurs, négociants et distributeurs de 
 l'exception des produits se trouvant dans les cuves des stations-service.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Arrêté 1988-02-05 art. 4 JORF 28 février 1988
-  - Loi n°88-15 du 5 janvier 1988 - art. 52 (V) JORF 6 janvier 1988
-  - Loi n°88-1149 1988-12-23 art. 27 IV, V Finances pour 1989 JORF 28 décembre 1988 en vigueur le 1er juillet 1989
-  - Loi n°88-1149 du 23 décembre 1988 - art. 27 (P) JORF 28 décembre 1988 en vigueur le 1er juillet 1989
 
 _Cité par_:
 
@@ -9792,6 +9776,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L3332-1 (VD)
   - Code général des collectivités territoriales - art. L4331-2 (M)
   - Code général des collectivités territoriales - art. L4434-2 (V)
+
+_Modifié par_:
+
+  - Loi - art. 27 () JORF 31 décembre 1998
+  - Loi - art. 39 (V) JORF 31 décembre 1999
 
 _Cite_:
 
@@ -9886,6 +9875,42 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 quinquies A
+
+Les livraisons de fioul lourd d'une teneur en soufre inférieure ou égale à 2 %, de gaz naturel et de gaz de raffinerie
+destinés à être utilisés dans des installations de cogénération, pour la production combinée de chaleur et d'électricité ou
+de chaleur et d'énergie mécanique, sont exonérées des taxes intérieures de consommation prévues aux articles 265 et 266
+quinquies pendant une durée de cinq années à compter de la mise en service des installations.
+
+Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2005.
+
+La nature et la puissance minimale de ces installations ainsi que le rapport entre les deux énergies produites sont fixés par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi - art. 108 () JORF 31 décembre 1999
+
+_Cité par_:
+
+  - Arrêté du 25 juin 2008 - art. 1 (V)
+  - Arrêté du 5 août 2008 - art. 10 (V)
+  - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
+  - Code des douanes - art. 265 bis (VD)
+  - Code des douanes - art. 266 quinquies (VD)
+  - Code des douanes - art. 266 quinquies B (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Code des douanes - art. 265 (M)
 
 
 ###### Article 266 septies
@@ -10440,6 +10465,34 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 1999
+
+
+###### Article 284 bis A
+
+Est redevable de la taxe spéciale sur certains véhicules routiers, au lieu et place du propriétaire, le locataire d'un
+véhicule faisant l'objet, soit d'un contrat de crédit-bail, soit d'un contrat de location de deux ans ou plus. Toutefois, le
+propriétaire est solidairement responsable du paiement de la taxe ainsi que, le cas échéant, de la majoration de retard
+applicable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
+
+_Modifié par_:
+
+  - Loi - art. 39 (V) JORF 31 décembre 1999
+
+_Cité par_:
+
+  - Arrêté du 14 avril 2015 - art. 2 (VT)
+  - Arrêté du 25 avril 2016 - art. 2 (V)
+  - Code des douanes - art. 265 septies (V)
 
 
 ###### Article 284 quater
