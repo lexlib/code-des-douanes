@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -178,69 +178,61 @@ Version Consolidée au 1992-04-01
     - [Chapitre II : Importations d'Algérie. (art. 309)](#175)
     - [Chapitre III : Importations du Maroc. (art. 319 à 321)](#176)
     - [Chapitre IV : Importations des Nouvelles-Hébrides. (art. 322)](#177)
-  - [Titre XII : Contentieux (art. 330 à 437)](#178)
-    - [Chapitre Ier : Constatations des infractions douanières (art. 330)](#179)
-      - [Section 1 : Constatation par procès-verbal de saisie (art. 330)](#180)
-        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 330)](#181)
-          - [B. - Saisies à domicile. (art. 330)](#182)
-    - [Chapitre II : Poursuites (art. 343 à 355)](#183)
-      - [Section 1 : Dispositions générales. (art. 343)](#184)
-      - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#185)
-        - [Paragraphe 1 : Emploi de la contrainte. (art. 345 à 346)](#186)
-        - [Paragraphe 2 : Titres. (art. 347 à 349)](#187)
-      - [Section 3 : Extinction des droits de poursuite et de répression (art. 354 à 355)](#188)
-        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 354 à 355)](#189)
-          - [B. - Prescription contre l'administration. (art. 354)](#190)
-          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#191)
-    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 370)](#192)
-      - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#193)
-        - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#194)
-        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#195)
-      - [Section 2 : Procédure devant les juridictions civiles (art. 362)](#196)
-        - [Paragraphe 4 : Signification des jugements et autres actes de procédure. (art. 362)](#197)
-      - [Section 5 : Dispositions diverses (art. 369 à 370)](#198)
-        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 369 à 370)](#199)
-    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#200)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381)](#201)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#202)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#203)
-      - [Section 2 : Voies d'exécution (art. 382 à 390)](#204)
-        - [Paragraphe 1 : Règles générales. (art. 382)](#205)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#206)
-        - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 388)](#207)
-        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#208)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#209)
-          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#210)
-      - [Section 3 : Droit de remise. (art. 390 bis)](#211)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#212)
-    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#213)
-      - [Section 1 : Responsabilité pénale (art. 398)](#214)
-        - [Paragraphe 6 : Complices. (art. 398)](#215)
-      - [Section 2 : Responsabilité civile (art. 403)](#216)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#217)
-    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#218)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#219)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#220)
-          - [A. - Première classe. (art. 410)](#221)
-          - [C. - Troisième classe. (art. 412)](#222)
-          - [E. - Cinquième classe. (art. 413 bis)](#223)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#224)
-          - [A. - Première classe. (art. 414)](#225)
-          - [B. - Deuxième classe. (art. 415)](#226)
-        - [Paragraphe 4 : Contrebande. (art. 419)](#227)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#228)
-      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#229)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#230)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#231)
-      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#232)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#233)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#234)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#235)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#236)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#237)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#238)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#239)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#240)
+  - [Titre XII : Contentieux (art. 343 à 437)](#178)
+    - [Chapitre II : Poursuites (art. 343 à 355)](#179)
+      - [Section 1 : Dispositions générales. (art. 343)](#180)
+      - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#181)
+        - [Paragraphe 1 : Emploi de la contrainte. (art. 345 à 346)](#182)
+        - [Paragraphe 2 : Titres. (art. 347 à 349)](#183)
+      - [Section 3 : Extinction des droits de poursuite et de répression (art. 354 à 355)](#184)
+        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 354 à 355)](#185)
+          - [B. - Prescription contre l'administration. (art. 354)](#186)
+          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#187)
+    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 358)](#188)
+      - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#189)
+        - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#190)
+        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#191)
+    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#192)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381)](#193)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#194)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#195)
+      - [Section 2 : Voies d'exécution (art. 382 à 390)](#196)
+        - [Paragraphe 1 : Règles générales. (art. 382)](#197)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#198)
+        - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 388)](#199)
+        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#200)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#201)
+          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#202)
+      - [Section 3 : Droit de remise. (art. 390 bis)](#203)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#204)
+    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#205)
+      - [Section 1 : Responsabilité pénale (art. 398)](#206)
+        - [Paragraphe 6 : Complices. (art. 398)](#207)
+      - [Section 2 : Responsabilité civile (art. 403)](#208)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#209)
+    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#210)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#211)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#212)
+          - [A. - Première classe. (art. 410)](#213)
+          - [C. - Troisième classe. (art. 412)](#214)
+          - [E. - Cinquième classe. (art. 413 bis)](#215)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#216)
+          - [A. - Première classe. (art. 414)](#217)
+          - [B. - Deuxième classe. (art. 415)](#218)
+        - [Paragraphe 4 : Contrebande. (art. 419)](#219)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#220)
+      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#221)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#222)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#223)
+      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#224)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#225)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#226)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#227)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#228)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#229)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#230)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#231)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#232)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -7844,35 +7836,22 @@ _Cite_:
 
 ###### Article 265 bis
 
-1. Les produits visés au tableau B annexé à l'article 265 ci-dessus peuvent être admis en exemption totale ou partielle de la
-taxe intérieure de consommation, de la redevance prévue à l'article 266 ter et en suspension de la taxe sur la valeur ajoutée
-lorsqu'ils sont utilisés pour la fabrication des produits chimiques dont la ligne est fixée par décret.
+1. Les produits pétroliers visés au tableau B de l'article 265 ci-dessus sont admis en exonération de la taxe intérieure de
+consommation lorsqu'ils sont destinés à être utilisés :
 
-Ces décrets déterminent les conditions de mise en oeuvre des produits bénéficiant de ce régime fiscal et le montant de
-l'exonération applicable.
+a) autrement que comme carburant ou combustible de chauffage ;
 
-2. Les produits visés au tableau B annexé à l'article 265 ci-dessus peuvent être admis par décret en suspension des taxes et
-redevances, dont la perception incombe à l'administration des douanes, autres que celles visés au 1 ci-dessus.
+b) comme carburéacteur à bord des aéronefs ;
 
-Cette suspension est de droit pour les produits admis en exemption totale de la taxe intérieure de consommation dans les
-conditions fixées au 1 ci-dessus.
+c) comme carburant pour la navigation maritime dans les eaux communautaires, autre que la navigation d'agrément privée.
 
-3. Les décrets prévus aux 1 et 2 ci-dessus sont pris après avis d'une commission spéciale dont la composition est fixé par
-arrêté du ministre de l'économie et des finances et du ministre chargé de l'industrie.
+2. Le carburéacteur, identifié aux indices 13 bis et 17 bis du tableau B de l'article 265 du présent code, est exonéré de la
+taxe intérieure de consommation lorsqu'il est utilisé comme carburant pour la construction, la mise au point, les essais ou
+l'entretien des moteurs d'aviation à réaction ou à turbine.
+
+Les modalités d'application des exonérations visées ci-dessus sont fixées par arrêté du ministre chargé du budget.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Loi n°66-923 1966-12-14 art. 4 JORF 15 décembre 1966
-
-_Modifié par_:
-
-  - Décret n°67-1218 1967-12-22 art. 5 JORF 30 décembre 1967
 
 _Cité par_:
 
@@ -7936,9 +7915,17 @@ _Cité par_:
   - Code des douanes - art. 266 quindecies (V)
   - Code des douanes - art. 266 ter (Ab)
 
+_Modifié par_:
+
+  - Loi - art. 31 () JORF 31 décembre 1992
+
 _Cite_:
 
   - Code des douanes - art. 265 (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 265 quater
@@ -8454,6 +8441,97 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 266 quinquies
+
+1. Le gaz naturel repris à la position 2711.21.00 du tarif douanier est soumis à une taxe intérieure de consommation lors de
+sa livraison à l'utilisateur final.
+
+2. La taxe est exigible lorsque les quantités livrées au même utilisateur au cours des douze derniers mois précédant la
+période de facturation ont excédé 5 millions de kilowatt/heures. Elle est due par les entreprises de transport et de
+distribution, pour chaque facturation mensuelle, sur la fraction des livraisons excédant 400.000 kilowatt/heures. Lorsque la
+facturation n'est pas mensuelle, le chiffre de 400.000 kilowatt/heures est corrigé proportionnellement à la période couverte
+par la facturation.
+
+3. Sont exonérées les livraisons destinées au chauffage des immeubles à usage principal d'habitation.
+
+Sont également exonérées les livraisons de gaz destiné à être utilisé :
+
+a) Comme matière première ;
+
+b) Comme combustible pour la fabrication sous le régime de l'usine exercée des huiles minérales visées aux tableaux B et C de
+l'article 265.
+
+4. Les livraisons taxables sont exprimées en milliers de kilowatt/heures, après arrondissement au millier le plus voisin.
+
+5. Le tarif de la taxe intérieure de consommation sur le gaz naturel livré à l'utilisateur final est relevé conformément aux
+dispositions du 4 de l'article 266.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi - art. 22 () JORF 31 décembre 1992
+
+_Cité par_:
+
+  - Loi - art. 23 (V)
+  - Loi n°2004-1485 du 30 décembre 2004 - art. 3 (V)
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 5 (V)
+  - Loi n°2006-1771 du 30 décembre 2006 - art. 3 (V)
+  - Décret n°2007-856 du 14 mai 2007 - art. 1 (M)
+  - Décret n°2007-856 du 14 mai 2007 - art. 2 (Ab)
+  - Décret n°2007-856 du 14 mai 2007 - art. 3 (Ab)
+  - Arrêté du 12 mars 2008 (Ab)
+  - Arrêté du 12 mars 2008 - art. 1 (Ab)
+  - Arrêté du 12 mars 2008 - art. 2 (Ab)
+  - Arrêté du 12 mars 2008 - art. 3 (Ab)
+  - Décret n°2008-676 du 2 juillet 2008 - art. 2 (Ab)
+  - Décret n°2008-676 du 2 juillet 2008 - art. 4 (Ab)
+  - Arrêté du 4 août 2008 (Ab)
+  - Arrêté du 4 août 2008 - art. 1 (Ab)
+  - Arrêté du 4 août 2008 - art. 2 (Ab)
+  - Arrêté du 4 août 2008 - art. 8 (Ab)
+  - Arrêté du 5 août 2008 - art. 10 (V)
+  - Décret n°2008-1001 du 24 septembre 2008 - art. 3 (V)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 76 (V)
+  - Décret n°2013-972 du 30 octobre 2013 (Ab)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
+  - Décret n°2014-1395 du 24 novembre 2014 - art. 1 (V)
+  - Arrêté du 6 février 2015 - art. 1 (V)
+  - Arrêté du 14 avril 2015 - art. (V)
+  - Décret n°2015-568 du 22 mai 2015 - art. 1 (V)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 5 (M)
+  - Décret n°2016-397 du 31 mars 2016 (V)
+  - Décret n°2016-397 du 31 mars 2016 - art. 1 (V)
+  - Décret n°2018-210 du 27 mars 2018 (V)
+  - Décret n°2018-210 du 27 mars 2018 - art. 1 (V)
+  - Décret n°2018-210 du 27 mars 2018 - art. 2 (V)
+  - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. Etat A (V)
+  - Décret n°2020-1301 du 27 octobre 2020 (V)
+  - Décret n°2020-1301 du 27 octobre 2020 - art. 2 (V)
+  - Code de l'environnement - art. L229-14 (V)
+  - Code de l'énergie - art. D461-2 (V)
+  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265 nonies (V)
+  - Code des douanes - art. 266 quinquies (V)
+  - Code des douanes - art. 266 quinquies A (Ab)
+  - Code des douanes - art. 266 quinquies B (V)
+  - Code des douanes - art. 266 quinquies C (M)
+  - Code des douanes - art. 267 (VD)
+  - Code des douanes - art. 411 (V)
+  - Code des douanes - art. 427 (V)
+  - Code rural - art. L723-43 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Code des douanes - art. 266 (M)
 
 
 ###### Article 266 ter
@@ -9866,39 +9944,9 @@ _Cité par_:
 
 # Titre XII : Contentieux<a id=178></a>
 
-## Chapitre Ier : Constatations des infractions douanières<a id=179></a>
+## Chapitre II : Poursuites<a id=179></a>
 
-### Section 1 : Constatation par procès-verbal de saisie<a id=180></a>
-
-#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=181></a>
-
-##### B. - Saisies à domicile.<a id=182></a>
-
-###### Article 330
-
-1. En cas de saisie à domicile, les marchandises non prohibées ne sont pas déplacées, sous réserve que le prévenu donne
-caution solvable de leur valeur. Si le prévenu ne fournit pas caution, ou s'il s'agit d'objets prohibés, les marchandises
-sont transportés au plus prochain bureau ou confiées à un tiers gardien constitué soit sur les lieux de la saisie, soit dans
-une autre localité.
-
-2. L'officier municipal du lieu ou l'officier de police judiciaire, intervenu dans les conditions prévues à l'article 64 ci-
-dessus, doit assister à la rédaction du procès-verbal ; en cas de refus, il suffit, pour la régularité des opérations, que le
-procès-verbal contienne la mention de la réquisition et du refus.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des douanes - art. 64 (M)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
-## Chapitre II : Poursuites<a id=183></a>
-
-### Section 1 : Dispositions générales.<a id=184></a>
+### Section 1 : Dispositions générales.<a id=180></a>
 
 ###### Article 343
 
@@ -9922,9 +9970,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Poursuite par voie de contrainte<a id=185></a>
+### Section 2 : Poursuite par voie de contrainte<a id=181></a>
 
-#### Paragraphe 1 : Emploi de la contrainte.<a id=186></a>
+#### Paragraphe 1 : Emploi de la contrainte.<a id=182></a>
 
 ###### Article 345
 
@@ -9972,7 +10020,7 @@ _Cité par_:
   - Code des douanes - art. 348 (V)
 
 
-#### Paragraphe 2 : Titres.<a id=187></a>
+#### Paragraphe 2 : Titres.<a id=183></a>
 
 ###### Article 347
 
@@ -10010,11 +10058,11 @@ _Cite_:
   - Code des douanes - art. 362 (M)
 
 
-### Section 3 : Extinction des droits de poursuite et de répression<a id=188></a>
+### Section 3 : Extinction des droits de poursuite et de répression<a id=184></a>
 
-#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=189></a>
+#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=185></a>
 
-##### B. - Prescription contre l'administration.<a id=190></a>
+##### B. - Prescription contre l'administration.<a id=186></a>
 
 ###### Article 354
 
@@ -10044,7 +10092,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=191></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=187></a>
 
 ###### Article 355
 
@@ -10073,11 +10121,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Procédure devant les tribunaux<a id=192></a>
+## Chapitre III : Procédure devant les tribunaux<a id=188></a>
 
-### Section 1 : Tribunaux compétents en matière de douane<a id=193></a>
+### Section 1 : Tribunaux compétents en matière de douane<a id=189></a>
 
-#### Paragraphe 1 : Compétence "ratione materiae".<a id=194></a>
+#### Paragraphe 1 : Compétence "ratione materiae".<a id=190></a>
 
 ###### Article 357 bis
 
@@ -10100,7 +10148,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-#### Paragraphe 2 : Compétence "ratione loci".<a id=195></a>
+#### Paragraphe 2 : Compétence "ratione loci".<a id=191></a>
 
 ###### Article 358
 
@@ -10124,132 +10172,11 @@ _Cité par_:
   - Code des douanes - art. 352 (V)
 
 
-### Section 2 : Procédure devant les juridictions civiles<a id=196></a>
+## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=192></a>
 
-#### Paragraphe 4 : Signification des jugements et autres actes de procédure.<a id=197></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=193></a>
 
-###### Article 362
-
-1. Les significations à l'administration des douanes sont faites à l'agent qui la représente.
-
-2. Les significations à l'autre partie sont faites conformément aux règles du code de procédure civile.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des douanes - art. 349 (M)
-  - Code des douanes - art. 389 bis (VD)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Décret n°59-625 1959-05-12 art. 3, art. 5 JORF 16 mai 1959
-
-
-### Section 5 : Dispositions diverses<a id=198></a>
-
-#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=199></a>
-
-###### Article 369
-
-1. S'il retient les circonstances atténuantes, le tribunal peut :
-
-a) Libérer les contrevenants de la confiscation des moyens de transport ; ces dispositions ne sont toutefois pas applicables
-dans les cas où les actes de contrebande ou assimiles ont été commis par dissimulation dans des cachettes spécialement
-aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises ;
-
-b) Libérer les contrevenants de la confiscation des objets ayant servi à masquer la fraude ;
-
-c) Réduire le montant des sommes tenant lieu de confiscation des marchandises de fraude jusqu'au tiers de la valeur de ces
-marchandises ;
-
-d) Réduire le montant des amendes fiscales jusqu'au tiers de leur montant minimal, sous réserve des dispositions de l'article
-437 ci-après ;
-
-e) Limiter, en ce qui concerne les sanctions fiscales visées au c et au d ci-dessus,l'étendue de la solidarité à l'égard de
-certains des condamnés.
-
-Si les circonstances atténuantes ne sont retenues qu'à l'égard de certains coprévenus pour un même fait de fraude, le
-tribunal prononce d'abord les sanctions fiscales auxquelles les condamnés ne bénéficiant pas des circonstances atténuantes
-seront solidairement tenus, il peut ensuite, en ce qui concerne les sommes tenant lieu de confiscation et les amendes
-fiscales, limiter l'étendue de la solidarité à l'égard des personnes bénéficiant des circonstances atténuantes.
-
-S'il retient les circonstances atténuantes à l'égard d'un prévenu, le tribunal peut : dispenser le prévenu des sanctions
-pénales prévues par le présent code, ordonner qu'il soit sursis à l'exécution de celles-ci, décider que la condamnation ne
-soit pas mentionné au bulletin n° 2 du casier judiciaire.
-
-2. Les tribunaux ne peuvent relaxer les contrevenants pour défaut d'intention.
-
-3. Les tribunaux ne peuvent donner mainlevée de marchandises saisies qu'en jugeant définitivement le tout.
-
-4. Les tribunaux ne peuvent dispenser le redevable du paiement des sommes fraudées ou indûment obtenues.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°77-1453 1977-12-29 art. 10 I, II, III JORF 30 décembre 1977
-  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
-
-_Cité par_:
-
-  - Code des douanes - art. 377 bis (V)
-
-_Cite_:
-
-  - Code des douanes - art. 437 (M)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
-###### Article 370
-
-1. Si le contrevenant aux dispositions des articles 410, 411, 412, 413, 414 ou 416 du présent code commet dans les cinq ans
-qui suivent une transaction ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des
-sanctions prévues par les articles précités, le taux maximal des pénalités encourues est doublé.
-
-2. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour
-autrui les formalités de douane.
-
-**Liens relatifs à cet article**
-
-_Abrogé par_:
-
-  - Loi n°77-1453 du 29 décembre 1977 - art. 10 () JORF 30 décembre 1977
-
-_Modifié par_:
-
-  - Loi n°87-502 1987-07-08 art. 25 JORF 9 juillet 1987
-
-_Cite_:
-
-  - Code des douanes - art. 410 (M)
-  - Code des douanes - art. 411 (M)
-  - Code des douanes - art. 412 (M)
-  - Code des douanes - art. 413 (T)
-  - Code des douanes - art. 414 (M)
-  - Code des douanes - art. 416 (T)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-
-
-## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=200></a>
-
-### Section 1 : Sûretés garantissant l'exécution<a id=201></a>
-
-#### Paragraphe 1 : Droit de rétention.<a id=202></a>
+#### Paragraphe 1 : Droit de rétention.<a id=194></a>
 
 ###### Article 378
 
@@ -10264,7 +10191,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=203></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=195></a>
 
 ###### Article 379
 
@@ -10336,9 +10263,9 @@ _Modifié par_:
   - Loi n°67-1172 1967-12-22 art. 17 Finances pour 1968 JORF 29 décembre 1967
 
 
-### Section 2 : Voies d'exécution<a id=204></a>
+### Section 2 : Voies d'exécution<a id=196></a>
 
-#### Paragraphe 1 : Règles générales.<a id=205></a>
+#### Paragraphe 1 : Règles générales.<a id=197></a>
 
 ###### Article 382
 
@@ -10373,7 +10300,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 98 () JORF 31 décembre 1981
 
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=206></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=198></a>
 
 ###### Article 383
 
@@ -10534,7 +10461,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=207></a>
+#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=199></a>
 
 ###### Article 388
 
@@ -10556,9 +10483,9 @@ _Modifié par_:
   - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
 
 
-#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=208></a>
+#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=200></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=209></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=201></a>
 
 ###### Article 389
 
@@ -10592,7 +10519,7 @@ _Cite_:
   - Code des douanes 362-2
 
 
-##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=210></a>
+##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=202></a>
 
 ###### Article 390
 
@@ -10621,7 +10548,7 @@ _Cité par_:
   - Arrêté du 4 mars 2013 (V)
 
 
-### Section 3 : Droit de remise.<a id=211></a>
+### Section 3 : Droit de remise.<a id=203></a>
 
 ###### Article 390 bis
 
@@ -10653,7 +10580,7 @@ _Anciens textes_:
   - Loi n°77-1453 1977-12-29 art. 16
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=212></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=204></a>
 
 ###### Article 391
 
@@ -10671,11 +10598,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Responsabilité et solidarité<a id=213></a>
+## Chapitre V : Responsabilité et solidarité<a id=205></a>
 
-### Section 1 : Responsabilité pénale<a id=214></a>
+### Section 1 : Responsabilité pénale<a id=206></a>
 
-#### Paragraphe 6 : Complices.<a id=215></a>
+#### Paragraphe 6 : Complices.<a id=207></a>
 
 ###### Article 398
 
@@ -10696,9 +10623,9 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-### Section 2 : Responsabilité civile<a id=216></a>
+### Section 2 : Responsabilité civile<a id=208></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=217></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=209></a>
 
 ###### Article 403
 
@@ -10717,13 +10644,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Dispositions répressives<a id=218></a>
+## Chapitre VI : Dispositions répressives<a id=210></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=219></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=211></a>
 
-#### Paragraphe 2 : Contraventions douanières<a id=220></a>
+#### Paragraphe 2 : Contraventions douanières<a id=212></a>
 
-##### A. - Première classe.<a id=221></a>
+##### A. - Première classe.<a id=213></a>
 
 ###### Article 410
 
@@ -10777,7 +10704,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Troisième classe.<a id=222></a>
+##### C. - Troisième classe.<a id=214></a>
 
 ###### Article 412
 
@@ -10835,7 +10762,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### E. - Cinquième classe.<a id=223></a>
+##### E. - Cinquième classe.<a id=215></a>
 
 ###### Article 413 bis
 
@@ -10885,9 +10812,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Délits douaniers<a id=224></a>
+#### Paragraphe 3 : Délits douaniers<a id=216></a>
 
-##### A. - Première classe.<a id=225></a>
+##### A. - Première classe.<a id=217></a>
 
 ###### Article 414
 
@@ -10958,7 +10885,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### B. - Deuxième classe.<a id=226></a>
+##### B. - Deuxième classe.<a id=218></a>
 
 ###### Article 415
 
@@ -11027,7 +10954,7 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-#### Paragraphe 4 : Contrebande.<a id=227></a>
+#### Paragraphe 4 : Contrebande.<a id=219></a>
 
 ###### Article 419
 
@@ -11063,7 +10990,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=228></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=220></a>
 
 ###### Article 426
 
@@ -11151,9 +11078,9 @@ _Modifié par_:
   - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
 
 
-### Section 2 : Peines complémentaires<a id=229></a>
+### Section 2 : Peines complémentaires<a id=221></a>
 
-#### Paragraphe 2 : Astreinte.<a id=230></a>
+#### Paragraphe 2 : Astreinte.<a id=222></a>
 
 ###### Article 431
 
@@ -11178,7 +11105,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=231></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=223></a>
 
 ###### Article 432 bis
 
@@ -11221,9 +11148,9 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=232></a>
+### Section 3 : Cas particuliers d'application des peines<a id=224></a>
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=233></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=225></a>
 
 ###### Article 437
 
@@ -11255,7 +11182,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=234></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=226></a>
 
 ###### Article 441
 
@@ -11596,9 +11523,9 @@ _Cite_:
   - Code des douanes 65, 445-1, 351, 354, 334
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=235></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=227></a>
 
-## Chapitre Ier : Dispositions communes.<a id=236></a>
+## Chapitre Ier : Dispositions communes.<a id=228></a>
 
 ###### Article 451
 
@@ -11639,7 +11566,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=237></a>
+## Chapitre II : Constatation des infractions.<a id=229></a>
 
 ###### Article 453
 
@@ -11740,7 +11667,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre III : Poursuite des infractions.<a id=238></a>
+## Chapitre III : Poursuite des infractions.<a id=230></a>
 
 ###### Article 458
 
@@ -11758,7 +11685,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=239></a>
+## Chapitre IV : Dispositions répressives.<a id=231></a>
 
 ###### Article 459
 
@@ -11826,7 +11753,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=240></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=232></a>
 
 ###### Article 460
 
