@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-01-01
+Version Consolidée au 2001-01-05
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1289,14 +1289,22 @@ cas, faire l'objet d'un prêt, d'une vente, d'une cession et, d'une manière gé
 des titulaires auxquels ils ont été nominativement accordés.
 
 4. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont applicables aux
-marchandises relevant des articles 2, 3, 4, 5, 16, 17 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits
-soumis à certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de
-douane, aux marchandises présentées sous une marque contrefaite, ainsi qu'aux produits sanguins labiles définis par le code
-de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés à l'article 18 de la loi
-précitée, aux radio-éléments artificiels définis à l'article L. 631 du code de la santé publique et aux déchets relevant de
-la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la récupération des matériaux et des textes
-pris pour son application. Les dispositions du présent article s'appliquent également aux objets de toute nature comportant
-des images ou des représentations d'un mineur à caractère pornographique visées par l'article 227-23 du code pénal.
+marchandises relevant des articles 2, 3, 4, 5 et 19 de la loi n° 92-1477 du 31 décembre 1992 relative aux produits soumis à
+certaines restrictions de circulation et à la complémentarité entre les services de police, de gendarmerie et de douane, aux
+marchandises visées à l'article L. 5132-9 du code de la santé publique, aux médicaments à usage humain visés à l'article L.
+5124-13 du code de la santé publique, aux marchandises présentées sous une marque contrefaite, ainsi qu'aux produits sanguins
+labiles définis par le code de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés
+aux articles L. 1235-1, L. 1244-8 et L. 1245-4 du code de la santé publique, aux radioéléments artificiels définis à
+l'article L. 1333-3 du code de la santé publique et aux déchets relevant de la loi n° 75-633 du 15 juillet 1975 relative à
+l'élimination des déchets et à la récupération des matériaux et des textes pris pour son application. Les dispositions du
+présent article s'appliquent également aux objets de toute nature comportant des images ou des représentations d'un mineur à
+caractère pornographique visées par l'article 227-23 du code pénal.
+
+5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
+applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
+soit par les lois et règlements en vigueur, applicables aux échanges de certaines marchandises communautaires avec les autres
+Etats membres de la Communauté européenne. La liste des marchandises concernées est fixée par arrêté conjoint du ministre
+chargé des douanes et du ou des ministres concernés.
 
 **Liens relatifs à cet article**
 
@@ -1365,7 +1373,6 @@ des images ou des représentations d'un mineur à caractère pornographique vis�
   - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe IV (V)
   - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe V (V)
   - TXT_SOURCE: Arrêté du 15 juillet 1987 - art. Annexe VI (V)
-  - SPEC_APPLI: Loi n°98-468 1998-06-17 art. 51 (non application de l'article 46 de la loi aux TOM et à Mayotte)
   - TXT_SOURCE: Arrêté du 24 juillet 2001
   - TXT_SOURCE: Arrêté du 24 juillet 2001 - art. 1 (Ab)
   - TXT_SOURCE: Arrêté du 24 juillet 2001 - art. Annexe I (Ab)
@@ -1389,10 +1396,15 @@ des images ou des représentations d'un mineur à caractère pornographique vis�
 _Cite_:
 
   - Loi n°75-633 1975-07-15
-  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 16, art. 17, art. 19, art. 18
+  - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 19
   - Code pénal - art. 227-23 (M)
   - Code des douanes - art. 2 bis (V)
-  - Code de la santé publique - art. L631 (Ab)
+  - Code de la santé publique - art. L1235-1 (M)
+  - Code de la santé publique - art. L1244-8 (M)
+  - Code de la santé publique - art. L1245-4 (M)
+  - Code de la santé publique - art. L1333-3 (T)
+  - Code de la santé publique - art. L5124-13 (M)
+  - Code de la santé publique - art. L5132-9 (V)
 
 _Cité par_:
 
@@ -1424,7 +1436,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-468 du 17 juin 1998 - art. 46 () JORF 18 juin 1998
+  - Rapport - art. 3 (V) JORF 22 juin 2000
+  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
 
 _Codifié par_:
 
@@ -2762,24 +2775,22 @@ _Cite_:
 ###### Article 65 C
 
 Les dispositions prévues par les articles 1er, 2 et 3, par le présent titre et les titres XII et XV du présent code sont
-applicables en ce qui concerne les produits mentionnés au 4 de l'article 38.
+applicables en ce qui concerne les produits mentionnés au 4 et au 5 de l'article 38.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Loi n°92-1477 du 31 décembre 1992 - art. 24 () JORF 5 janvier 1993
+  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
 
 _Cite_:
 
   - Code des douanes - art. 1 (V)
-  - Code des douanes - art. 2 (V)
-  - Code des douanes - art. 3 (V)
-  - Code des douanes - art. 38 (M)
+  - Code des douanes - art. 38 (VT)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ### Section 5 : Contrôles douaniers des envois par la poste.<a id=47></a>
@@ -7529,21 +7540,17 @@ _Codifié par_:
 
 ###### Article 215 bis
 
-Ceux qui détiennent ou transportent des marchandises visées au 4 de l'article 38 ci-dessus doivent, à la première réquisition
-des agents des douanes, produire soit des documents attestant que ces marchandises ont été introduites sur le territoire
-douanier en conformité avec les dispositions portant prohibition d'importation ou que ces marchandises peuvent quitter le
-territoire douanier en conformité avec les dispositions portant prohibition d'exportation, soit toute justification d'origine
-émanant de personnes ou de sociétés régulièrement établies à l'intérieur du territoire douanier.
+Ceux qui détiennent ou transportent des marchandises visées au 4 et au 5 de l'article 38 ci-dessus doivent, à la première
+réquisition des agents des douanes, produire soit des documents attestant que ces marchandises ont été introduites sur le
+territoire douanier en conformité avec les dispositions portant prohibition d'importation ou que ces marchandises peuvent
+quitter le territoire douanier en conformité avec les dispositions portant prohibition d'exportation, soit toute
+justification d'origine émanant de personnes ou de sociétés régulièrement établies à l'intérieur du territoire douanier.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
 _Modifié par_:
 
-  - Loi n°92-1477 du 31 décembre 1992 - art. 21 () JORF 5 janvier 1993
+  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
 
 _Cité par_:
 
@@ -7552,7 +7559,11 @@ _Cité par_:
 
 _Cite_:
 
-  - Code des douanes - art. 38 (M)
+  - Code des douanes - art. 38 (VT)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 215 ter
@@ -14794,10 +14805,8 @@ _Modifié par_:
 
 ###### Article 468
 
-Lors de la présentation en douane des marchandises visées aux articles 2, 3, 16 et 19 de la loi n° 92-1477 du 31 décembre
-1992 relative aux produits soumis à certaines restrictions de circulation et à la complémentarité entre les services de
-police, de gendarmerie et de douane, le service des douanes effectue le contrôle de ces marchandises en présence du
-détenteur.
+Lorsqu'une présentation en douane est prévue pour les marchandises visées au 4 et au 5 de l'article 38, le service des
+douanes effectue le contrôle de ces marchandises en présence du détenteur.
 
 Lorsque le détenteur refuse d'assister au contrôle, le service notifie, par lettre recommandée, au destinataire ou à
 l'exportateur des produits selon le cas, son intention de commencer les opérations de contrôle ; si, à l'expiration d'un
@@ -14810,23 +14819,23 @@ bis, celle-ci ne peut être prononcée qu'une fois que les opérations de contr�
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 _Cite_:
 
   - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 16, art. 19
   - Code des douanes - art. 322 bis (M)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 17 () JORF 11 février 1994
+  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
 
 _Cité par_:
 
   - Code des douanes - art. 469 (V)
   - Code des douanes - art. 65 A bis (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 469
@@ -14859,23 +14868,23 @@ _Codifié par_:
 
 ###### Article 470
 
-Les marchandises visées au 4 de l'article 38 importées dans le territoire douanier en infraction aux dispositions portant
-prohibition d'importation peuvent être renvoyées dans le pays d'origine. En cas d'inexécution, les agents des douanes peuvent
-prendre toutes dispositions utiles pour assurer ce retour ; les dépenses correspondantes sont alors mises à la charge des
-personnes ayant contribué à l'importation de ces marchandises.
+Les marchandises visées au 4 et au 5 de l'article 38 importées dans le territoire douanier en infraction aux dispositions
+portant prohibition d'importation peuvent être renvoyées dans le pays d'origine. En cas d'inexécution, les agents des douanes
+peuvent prendre toutes dispositions utiles pour assurer ce retour ; les dépenses correspondantes sont alors mises à la charge
+des personnes ayant contribué à l'importation de ces marchandises.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des douanes - art. 38 (VD)
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°94-114 du 10 février 1994 - art. 18 () JORF 11 février 1994
-
-_Cite_:
-
-  - Code des douanes - art. 38 (M)
+  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
 
 
