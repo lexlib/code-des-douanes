@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1990-12-30
+Version Consolidée au 1991-07-27
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -11350,7 +11350,10 @@ _Codifié par_:
 1. Le président de la commission peut prescrire toutes auditions de personne, recherche ou analyses qu'il juge utiles à
 l'instruction de l'affaire.
 
-2. Après examen de mémoires éventuellement produits et après avoir convoqué le parties ou leurs représentants pour être
+Lorsque la contestation ne porte pas sur l'espèce, l'origine ou la valeur des marchandises, le président constate, par une
+décision non susceptible de recours, l'incompétence de la commission.
+
+2. Après examen de mémoires éventuellement produits et après avoir convoqué les parties ou leurs représentants pour être
 entendus, ensemble et contradictoirement, dans leurs observations, la commission, à moins d'accord entre les parties, fixe un
 délai au terme duquel, après avoir délibéré, elle fait connaître ses conclusions qui sont prises à la majorité de ses
 membres.
@@ -11371,9 +11374,9 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Décret n°71-209 1971-03-18
+  - Loi n°91-716 du 26 juillet 1991 - art. 39 () JORF 27 juillet 1991
 
 _Cité par_:
 
