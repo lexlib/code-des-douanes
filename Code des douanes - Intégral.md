@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-02-28
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -171,7 +171,7 @@ Version Consolidée au 2002-01-01
     - [Chapitre II : Importations d'Algérie. (art. 309)](#168)
     - [Chapitre III : Importations du Maroc. (art. 319 à 321)](#169)
     - [Chapitre IV : Importations des Nouvelles-Hébrides. (art. 322)](#170)
-  - [Titre XII : Contentieux (art. 345 à 437)](#171)
+  - [Titre XII : Contentieux (art. 345 à 414)](#171)
     - [Chapitre II : Poursuites (art. 345 à 355)](#172)
       - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#173)
         - [Paragraphe 1 : Emploi de la contrainte. (art. 345 à 346)](#174)
@@ -199,34 +199,22 @@ Version Consolidée au 2002-01-01
           - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#196)
       - [Section 3 : Droit de remise. (art. 390 bis)](#197)
       - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#198)
-    - [Chapitre V : Responsabilité et solidarité (art. 403)](#199)
-      - [Section 2 : Responsabilité civile (art. 403)](#200)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#201)
-    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#202)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 414)](#203)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#204)
-          - [A. - Première classe. (art. 410)](#205)
-          - [C. - Troisième classe. (art. 412)](#206)
-          - [E. - Cinquième classe. (art. 413 bis)](#207)
-        - [Paragraphe 3 : Délits douaniers (art. 414)](#208)
-          - [A. - Première classe. (art. 414)](#209)
-      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#210)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#211)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#212)
-      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#213)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#214)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#215)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#216)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#217)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#218)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#219)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#220)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#221)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#222)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#223)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#224)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#225)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#226)
+    - [Chapitre VI : Dispositions répressives (art. 414)](#199)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 414)](#200)
+        - [Paragraphe 3 : Délits douaniers (art. 414)](#201)
+          - [A. - Première classe. (art. 414)](#202)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#203)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#204)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#205)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#206)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#207)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#208)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#209)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#210)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#211)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#212)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#213)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#214)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -12013,8 +12001,8 @@ embarqués à destination :
 
 - d'une réserve naturelle créée en application de l'article L. 332-1 du livre III du même code ;
 
-- d'un site appartenant au Conservatoire de l'espace littoral et des rivages lacustres, en application de l'article L. 322-1
-du livre III du même code ;
+- d'un site du domaine relevant du Conservatoire de l'espace littoral et des rivages lacustres ou sur lequel il a instauré
+une servitude de protection, en application de l'article L. 322-1 du livre III du même code ;
 
 - ou d'un port desservant exclusivement ou principalement un des espaces protégés mentionnés ci-dessus mais sans y être
 inclus.
@@ -12077,27 +12065,25 @@ _Cité par_:
   - Code rural - art. R*241-28 (Ab)
   - Code rural - art. R*243-31 (Ab)
 
-_Modifié par_:
-
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000
   - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000 - art. 1 ()
   - PILOTE_SUIVEUR: Code de l'environnement - art. L321-12 (M)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°48-1985 1948-12-08
+  - Loi n°2002-276 du 27 février 2002 - art. 166 () JORF 28 février 2002
 
 _Cite_:
 
   - Code de l'environnement - art. L322-1 (M)
   - Code de l'environnement - art. L331-1 (M)
   - Code de l'environnement - art. L332-1 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 285 quinquies
@@ -13538,197 +13524,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Responsabilité et solidarité<a id=199></a>
+## Chapitre VI : Dispositions répressives<a id=199></a>
 
-### Section 2 : Responsabilité civile<a id=200></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=200></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=201></a>
+#### Paragraphe 3 : Délits douaniers<a id=201></a>
 
-###### Article 403
-
-S'il n'est point constaté qu'il y ait motif de saisie, il doit être payé la somme de 5 F à celui au domicile duquel les
-recherches ont été faites, en vertu de l'article 64 ci-dessus, sauf plus grands dommages et intérêts auxquels les
-circonstances de la visite peuvent éventuellement donner lieu.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des douanes - art. 64 (M)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
-## Chapitre VI : Dispositions répressives<a id=202></a>
-
-### Section 1 : Classification des infractions douanières et peines principales<a id=203></a>
-
-#### Paragraphe 2 : Contraventions douanières<a id=204></a>
-
-##### A. - Première classe.<a id=205></a>
-
-###### Article 410
-
-1. Est passible d'une amende de 2 000 F à 20 000 F toute infraction aux dispositions des lois et règlements que
-l'administration des douanes est chargée d'appliquer lorsque cette irrégularité n'est pas plus sévèrement réprimée par le
-présent code.
-
-2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
-
-a) toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
-l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
-
-b) toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
-
-c) toute infraction aux dispositions des articles 72, 77-1, 232, 236 et 261 ci-dessus ou aux dispositions des arrêtés pris
-pour l'application de l'article 24-2 du présent code ;
-
-d) toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
-n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°87-502 1987-07-08 art. 25 I JORF 9 juillet 1987
-
-_Cité par_:
-
-  - Arrêté du 27 avril 2001 - art. 6 (V)
-  - Code des douanes - art. 370 (V)
-  - Code des douanes - art. 65 A bis (V)
-  - Code rural - art. L936-6 (T)
-  - Code rural - art. L936-7 (T)
-  - Code rural ancien - art. 275-6 (Ab)
-  - Code rural ancien - art. 275-7 (Ab)
-  - Code rural et  de la pêche maritime - art. L236-6 (V)
-  - Code rural et de la pêche maritime - art. L236-7 (V)
-
-_Cite_:
-
-  - Code des douanes - art. 232 (V)
-  - Code des douanes - art. 236 (V)
-  - Code des douanes - art. 261 (V)
-  - Code des douanes - art. 72 (V)
-  - Code des douanes - art. 92 (V)
-  - Code des douanes 24-2, 72, 77-1, 92, 232, 236, 261
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
-##### C. - Troisième classe.<a id=206></a>
-
-###### Article 412
-
-Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 1 000 F à 10 000 F :
-
-1° tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction porte
-sur des marchandises de la catégorie de celles qui ne sont ni prohibées ou fortement taxées à l'entrée, ni soumises à des
-taxes de consommation intérieure, ni prohibées ou taxés à la sortie ;
-
-2° toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
-régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse déclaration ;
-
-3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
-
-4° toute fausse déclaration tendant à obtenir indûment le bénéfice des dispositions prévues par la réglementation
-communautaire en matière de franchises ;
-
-5° tout détournement de marchandises non prohibées de leur destination privilégiée ;
-
-6° la présentation comme unité dans les manifestes ou déclarations de plusieurs balles ou autres colis fermés, réunis de
-quelque manière que ce soit ;
-
-7° le transport de marchandises par navires étrangers d'un port français à un autre port français, hors les cas prévus à
-l'article 259 ci-dessus ;
-
-8° l'absence de manifeste ou la non-représentation de l'original du manifeste ; toute omission de marchandises dans les
-manifestes ou dans les déclarations sommaires ; toute différence dans la nature des marchandises manifestées ou déclarées
-sommairement ;
-
-9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
-non autorisées.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des douanes - art. 189 (P)
-  - Code des douanes - art. 259 (M)
-
-_Cité par_:
-
-  - Code des douanes - art. 370 (M)
-  - Code des douanes - art. 387 (V)
-  - Loi n°74-1114 du 27 décembre 1974 - art. 10 (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-  - Loi n°77-1453 du 29 décembre 1977 - art. 8 () JORF 30 décembre 1977
-  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
-
-
-##### E. - Cinquième classe.<a id=207></a>
-
-###### Article 413 bis
-
-1. Est passible d'un emprisonnement d'un mois et d'une amende de 600 F à 3 000 F, toute infraction aux dispositions des
-articles 53-1, 61-1, 69 b, 71 et 117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation de
-pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus.
-
-2. Tombent également sous le coup des dispositions de l'alinéa précédent :
-
-a) toute personne qui, ayant fait l'objet d'un retrait de l'agrément ou d'un retrait de l'autorisation de dédouaner prévus
-respectivement aux articles 87-3 et 88 ci-dessus, continue, soit à accomplir pour autrui, directement ou indirectement, les
-formalités de douane concernant la déclaration en détail des marchandises, soit à bénéficier, directement ou indirectement,
-de tout ou partie de rémunérations de la nature de celles définies à l'article 93 ci-dessus ;
-
-b) toute personne qui prête sciemment son concours en vue de soustraire aux effets du retrait d'agrément ou du retrait de
-l'autorisation de dédouaner ceux qui en auraient été atteints.
-
-3. En cas de récidive des contraventions mentionnées au présent article, la peine de prison pourra être portée à deux mois.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°68-1247 1968-12-31 art. 19 II JORF 3 janvier 1969
-
-_Modifié par_:
-
-  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
-
-_Cité par_:
-
-  - Arrêté du 15 septembre 2005 - art. 2 (V)
-
-_Cite_:
-
-  - Code des douanes - art. 65 (M)
-  - Code des douanes - art. 69 (V)
-  - Code des douanes - art. 71 (V)
-  - Code des douanes - art. 88 (Ab)
-  - Code des douanes - art. 92 (V)
-  - Code des douanes - art. 93 (V)
-  - Code des douanes 53-1, 61-1, 65, 69, 71, 87-3, 88, 92, 93, 117-2
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
-#### Paragraphe 3 : Délits douaniers<a id=208></a>
-
-##### A. - Première classe.<a id=209></a>
+##### A. - Première classe.<a id=202></a>
 
 ###### Article 414
 
@@ -13798,103 +13600,7 @@ _Anciens textes_:
   - Code des douanes - art. 416 (T)
 
 
-### Section 2 : Peines complémentaires<a id=210></a>
-
-#### Paragraphe 2 : Astreinte.<a id=211></a>
-
-###### Article 431
-
-Indépendamment de l'amende encourue pour refus de communication dans les conditions prévues aux articles 65 et 92 ci-dessus,
-les contrevenants doivent être condamnés à représenter les livres, pièces ou documents non communiqués, sous une astreinte de
-10 F au minimum par chaque jour de retard.
-
-Cette astreinte commence à courir du jour même de la signature par les parties ou de la notification du procès-verbal dressé
-pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au
-moyen d'une mention inscrite par un agent de contrôle sur un des principaux livres de la société ou de l'établissement, que
-l'administration a été mise à même d'obtenir la communication ordonnée.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code des douanes - art. 65 (M)
-  - Code des douanes - art. 92 (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-
-#### Paragraphe 3 : Peines privatives de droits.<a id=212></a>
-
-###### Article 432 bis
-
-1. Le tribunal peut, à titre de peine complémentaire, prononcer à l'encontre des personnes condamnées pour infractions
-prévues aux articles 414 et 459 du présent code, l'interdiction temporaire d'exercer, directement ou par personne interposée,
-pour leur compte ou le compte d'autrui, toute profession industrielle, commerciale ou libérale ; la suspension du permis de
-conduire un véhicule automobile peut être prononcée dans les mêmes conditions. La durée de l'interdiction ou de la suspension
-ne peut excéder trois ans ; cette durée pourra être doublée en cas de récidive. Le tribunal peut autoriser le condamné à
-faire usage de son permis de conduire pour l'exercice d'une activité professionnelle selon les modalités prévues pour
-l'application du 1° de l'article 131-6 du code pénal.
-
-2. Quiconque contreviendra aux interdictions prévues au 1 ci-dessus sera puni d'un emprisonnement de deux ans et d'une amende
-de 100 000 F ou de l'une de ces deux peines seulement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
-  - Loi n°92-1336 1992-12-16 art. 158, art. 372, art. 373 JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 158 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
-  - Loi n°92-1336 du 16 décembre 1992 - art. 372 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
-
-_Cite_:
-
-  - Code pénal - art. 131-6 (M)
-  - Code des douanes - art. 459 (M)
-  - Code des douanes 431-1, 459
-
-
-### Section 3 : Cas particuliers d'application des peines<a id=213></a>
-
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=214></a>
-
-###### Article 437
-
-Le montant des amendes multiples de droits ou de la valeur ne peut être inférieur à 1 000 F ou 2 000 F selon qu'elles sont
-définies en fonction des droits ou de la valeur.
-
-Dans les cas visés à l'article 411-2 a et b relatif aux déficits dans le nombre des colis et sur les quantités de
-marchandises et dans les cas visés à l'article 417-2 c relatif aux soustractions ou substitutions en cours de transport de
-marchandises, le taux minimal des amendes prononcées est fixé à 200 F par colis, ou, s'il s'agit de marchandises en vrac, par
-tonne ou fraction de tonne.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des douanes - art. 369 (V)
-
-_Cite_:
-
-  - Code des douanes 411-2, 417-2
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°77-1453 du 29 décembre 1977 - art. 8 () JORF 30 décembre 1977
-  - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
-
-
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=215></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=203></a>
 
 ###### Article 441
 
@@ -14236,9 +13942,9 @@ _Cite_:
   - Code des douanes 63 ter, 65, 334, 445-1, 351, 354
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=216></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=204></a>
 
-## Chapitre Ier : Dispositions communes.<a id=217></a>
+## Chapitre Ier : Dispositions communes.<a id=205></a>
 
 ###### Article 451
 
@@ -14301,7 +14007,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=218></a>
+## Chapitre II : Constatation des infractions.<a id=206></a>
 
 ###### Article 453
 
@@ -14425,7 +14131,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=219></a>
+## Chapitre III : Poursuite des infractions.<a id=207></a>
 
 ###### Article 458
 
@@ -14443,7 +14149,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=220></a>
+## Chapitre IV : Dispositions répressives.<a id=208></a>
 
 ###### Article 459
 
@@ -14521,7 +14227,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=221></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=209></a>
 
 ###### Article 460
 
@@ -14614,7 +14320,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=222></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=210></a>
 
 ###### Article 464
 
@@ -14714,9 +14420,9 @@ _Cite_:
   - Code des douanes - art. 465 (M)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=223></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=211></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=224></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=212></a>
 
 ###### Article 467
 
@@ -14802,7 +14508,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=225></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=213></a>
 
 ###### Article 468
 
@@ -14865,7 +14571,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=226></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=214></a>
 
 ###### Article 470
 
