@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1993-08-11
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1993-07-27
         - [Paragraphe 2 : Droits d'exportation. (art. 14)](#7)
       - [Section 2 : Concession des droits du tarif minimum et de droits intermédiaires. (art. 15 à 16)](#8)
       - [Section 3 : Clauses douanières contenues dans les traités et conventions de commerce. (art. 17)](#9)
-      - [Section 4 : Mesures particulières. (art. 18 à 19 ter)](#10)
+      - [Section 4 : Mesures particulières. (art. 18 à 20)](#10)
       - [Section 5 : Contrôle du commerce extérieur et prohibitions (art. 21 à 23 bis)](#11)
         - [Paragraphe 1 : Dispositions communes à l'importation et à l'exportation. (art. 21)](#12)
         - [Paragraphe 2 : Dispositions spéciales à l'exportation (art. 22 à 23)](#13)
@@ -45,7 +45,7 @@ Version Consolidée au 1993-07-27
       - [Section 3 : Droit de communication (art. 64 A à 65)](#42)
         - [Paragraphe 1 : Droit de communication de l'administration des finances. (art. 64 A)](#43)
         - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 65)](#44)
-      - [Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne. (art. 65 B à 65 C)](#45)
+      - [Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne. (art. 65 A à 65 C)](#45)
       - [Section 5 : Contrôles douaniers des envois par la poste. (art. 66 à 66 bis)](#46)
       - [Section 6 : Présentation des passeports. (art. 67)](#47)
       - [Section 7 : Livraisons surveillées. (art. 67 bis)](#48)
@@ -118,7 +118,7 @@ Version Consolidée au 1993-07-27
       - [Section 3 : Dispositions communes aux navires et aux aéronefs. (art. 195 bis)](#115)
     - [Chapitre III : Propriétés limitrophes. (art. 196)](#116)
     - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#117)
-    - [Chapitre V : Plateau continental. (art. 196 quater à 196 quinquies)](#118)
+    - [Chapitre V : Plateau continental et zone économique. (art. 196 quater à 196 quinquies)](#118)
   - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 bis)](#119)
     - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#120)
       - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#121)
@@ -228,6 +228,9 @@ Version Consolidée au 1993-07-27
     - [Chapitre III : Poursuite des infractions. (art. 458)](#225)
     - [Chapitre IV : Dispositions répressives. (art. 459)](#226)
   - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#227)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#228)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne (art. 467)](#229)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté. (art. 467)](#230)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -765,6 +768,45 @@ _Codifié par_:
 _Créé par_:
 
   - Loi n°61-1396 1961-12-21 art. 3 Finances pour 1962 JORF 22 décembre 1961
+
+
+###### Article 20
+
+1. Dans les cas énumérés à l'article 2 de la loi n° 83-1119 du 23 décembre 1983, peuvent être décidés, selon des conditions
+et modalités d'application fixées par décret en Conseil d'Etat :
+
+a) Un prélèvement financier sur les navires utilisés par ou pour le compte d'entreprises ressortissant de l'Etat étranger
+concerné, à l'occasion de leurs opérations commerciales dans les ports français. Son montant, établi en fonction du volume du
+navire tel qu'il est défini pour le calcul des droits de port et de navigation, est fixé à 30 F par mètre cube ou fraction de
+mètre cube, pour un navire dont le volume ne dépasse pas 50.000 mètres cubes. Pour un navire dont le volume dépasse 50.000
+mètres cubes s'ajoutent à ce montant 20 F par mètre cube pour chaque mètre cube compris entre 50.000 et 100.000 mètres cubes
+et 10 F par mètre cube au-delà de 100.000 mètres cubes ;
+
+b) Un prélèvement financier s'élevant à 30 % de leur valeur en douane, sur les marchandises d'origine française ou à
+destination de la France, transportées à bord de navires utilisés par ou pour le compte d'entreprises ressortissant de l'Etat
+étranger concerné.
+
+2. Le calcul et le recouvrement des prélèvements financiers prévus au 1 ci-dessus sont assurés par l'administration des
+douanes selon les règles, garanties et sanctions applicables en matière de douane.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des douanes - art. 67 D (V)
+  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Loi n°83-1119 du 23 décembre 1983 - art. 2 (V)
+
+_Créé par_:
+
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
 
 
 ### Section 5 : Contrôle du commerce extérieur et prohibitions<a id=11></a>
@@ -2008,11 +2050,15 @@ _Abrogé par_:
 
 ###### Article 63 bis
 
-Les agents des douanes peuvent à tout moment visiter les installations et dispositifs du plateau continental. Ils peuvent
-également visiter les moyens de transport concourant à son exploration ou à l'exploitation de ses ressources naturelles, à
-l'intérieur des zones de sécurité prévues par la loi et dans la zone maritime du rayon des douanes.
+Les agents des douanes peuvent à tout moment visiter les installations et dispositifs du plateau continental et de la zone
+économique. Ils peuvent également visiter les moyens de transport concourant à leur exploration ou à l'exploitation de leurs
+ressources naturelles, à l'intérieur des zones de sécurité prévues par la loi et dans la zone maritime du rayon des douanes.
 
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
 
 _Cité par_:
 
@@ -2021,14 +2067,6 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°69-268 1969-03-14 art. 1 JORF 28 mars 1969
-
-_Anciens textes_:
-
-  - Loi n°68-1181 du 30 décembre 1968 - art. 17 (V)
 
 
 ### Section 3 : Droit de communication<a id=42></a>
@@ -2205,6 +2243,38 @@ _Anciens textes_:
 
 
 ### Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne.<a id=45></a>
+
+###### Article 65 A
+
+L'administration des douanes est habilitée à contrôler les bénéficiaires d'avantages alloués en régime intérieur par le Fonds
+européen d'orientation et de garantie agricole, section garantie, ainsi que les redevables des sommes dues en régime
+intérieur à cet organisme.
+
+Ces contrôles sont effectués dans le cadre de l'article 65 ci-dessus. Les auteurs d'irrégularités doivent s'acquitter des
+sommes indûment obtenues et des sommes éludées au vu d'un avis de recouvrement établi par l'organisme d'intervention
+compétent.
+
+Les dispositions du présent code relatives aux sommes éludées ou compromises lors d'opérations du commerce extérieur sont
+également applicables aux irrégularités constatées lors de ces contrôles.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Anciens textes_:
+
+  - Loi n°81-1160 du 30 décembre 1981 - art. 108, v. init.
+
+_Créé par_:
+
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+
+_Cité par_:
+
+  - Code des douanes - art. 65 (V)
+
 
 ###### Article 65 B
 
@@ -6338,11 +6408,12 @@ _Créé par_:
   - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
 
 
-## Chapitre V : Plateau continental.<a id=118></a>
+## Chapitre V : Plateau continental et zone économique.<a id=118></a>
 
 ###### Article 196 quater
 
-Les produits extraits du plateau continental sont considérés comme extraits d'une nouvelle partie du territoire douanier.
+Les produits extraits du plateau continental ou de la zone économique sont considérés comme extraits d'une nouvelle partie du
+territoire douanier.
 
 Les mêmes produits doivent, pour l'application de la législation fiscale, être considérés comme extraits du territoire
 français métropolitain.
@@ -6353,16 +6424,17 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°68-1181 1968-12-30 art. 15
+  - Loi n°76-655 1976-07-16 art. 2 JORF 18 juillet 1976
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
 
 
 ###### Article 196 quinquies
 
 Les matériels industriels, ainsi que les produits nécessaires à leur fonctionnement et à leur entretien, affectés sur le
-plateau continental à la recherche ou à l'exploitation des hydrocarbures et d'autres substances minérales et organiques dont
-la liste est fixée par décret, sont exemptées des droits de douane d'importation.
+plateau continental ou dans la zone économique à la recherche ou à l'exploitation des hydrocarbures et d'autres substances
+minérales et organiques dont la liste est fixée par décret, sont exemptés des droits de douane d'importation.
 
 **Liens relatifs à cet article**
 
@@ -6370,9 +6442,10 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Loi n°68-1181 du 30 décembre 1968 - art. 16 (V)
+  - Loi n°76-655 1976-07-16 art. 2 JORF 18 juillet 1976
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
 
 
 # Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=119></a>
@@ -12213,5 +12286,143 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+
+
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=228></a>
+
+###### Article 464
+
+Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
+l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
+établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration dans des
+conditions fixées par décret. Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant
+est inférieur à 50 000 F.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Loi n°84-46 1984-01-24 art. 8
+
+_Créé par_:
+
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+
+_Cité par_:
+
+  - Arrêté du 1 juillet 2003 - art. 1 (V)
+  - Arrêté du 1 juillet 2003 - art. 2 (V)
+  - Arrêté du 1 juillet 2003 - art. 6 (V)
+  - Arrêté du 7 novembre 2012 - art. 1 (V)
+  - Code des douanes - art. 465 (V)
+
+
+###### Article 466
+
+Sous réserve de l'article 465 ci-dessus, les dispositions du titre XII du présent code sont applicables aux infractions aux
+obligations fixées au présent titre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+
+_Abrogé par_:
+
+  - Décret n°2004-759 du 27 juillet 2004 - art. 3 (V) JORF 30 juillet 2004 en vigueur le 1er octobre 2004
+
+_Cité par_:
+
+  - Décret n°2004-759 du 27 juillet 2004 - art. 3 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 465 (M)
+
+
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté économique européenne<a id=229></a>
+
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté.<a id=230></a>
+
+###### Article 467
+
+1. Les échanges de biens entre Etats membres de la Communauté économique européenne font l'objet de la déclaration périodique
+prévue à l'article 13 du règlement (CEE) n° 3330-91 du 7 novembre 1991 relatif aux statistiques des échanges de biens entre
+Etats membres.
+
+2. L'Etat récapitulatif des clients mentionné à l'article 289 B du code général des impôts et la déclaration statistique
+périodique prévues au 1 ci-dessus font l'objet d'une déclaration unique. Un décret détermine le contenu et les modalités de
+cette déclaration.
+
+3. La déclaration visée au 2 ci-dessus peut être transmise par voie informatique. Les déclarants, utilisateurs de cette
+méthode de transmission, doivent respecter les prescriptions d'un cahier des charges, publié par arrêté du ministre chargé du
+budget, définissant notamment les modalités de cette transmission, les supports autorisés et les conditions
+d'authentification des déclarations ainsi souscrites.
+
+4. Le défaut de production dans les délais de la déclaration prévue au 2 ci-dessus donne lieu à l'application d'une amende de
+5.000 F.
+
+Elle est portée à 10.000 F à défaut de production de la déclaration dans les trente jours d'une mise en demeure.
+
+Chaque omission ou inexactitude dans la déclaration produite donne lieu à l'application d'une amende de 100 F, sans que le
+total puisse excéder 10.000 F.
+
+L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du
+document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs
+de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce délai ses observations.
+
+L'amende est prononcée par l'administration qui constate l'infraction. Elle est recouvrée parle comptable de cette
+administration suivant les mêmes procédures et sous les mêmes garanties, sûretés et privilèges que celles prévues pour la
+taxe sur la valeur ajoutée. Les recours contre les décisions prises par l'administration sont portés devant le tribunal
+administratif.
+
+Lorsqu'une infraction prévue au 4 ci-dessus a fait l'objet d'une amende prononcée par l'une des deux administrations, elle ne
+peut plus être sanctionnée par l'autre.
+
+5. Les agents des douanes peuvent adresser aux personnes tenues de souscrire la déclaration mentionnée au 2 ci-dessus des
+demandes de renseignements et de documents destinées à rechercher et à constater les manquements visés au 4 ci-dessus. Ces
+demandes fixent un délai de réponse qui ne peut être inférieur à cinq jours.
+
+L'administration peut procéder à la convocation du redevable de la déclaration. Celui-ci est entendu, à sa demande, par
+l'administration. L'audition donne lieu à l'établissement d'un procès-verbal d'audition dont une copie est remise au
+redevable. Le redevable peut se faire représenter.
+
+Le refus de déférer à une convocation, le défaut de réponse à une demande de renseignements écrite, ou la non-remise de
+documents nécessaires à l'établissement de la déclaration mentionnée au 2 ci-dessus donne lieu à l'application d'une amende
+de 10.000 F. Cette amende est recouvrée selon les modalités prévues aux quatrième et cinquième alinéas du 4 ci-dessus. Les
+recours contre les décisions prises par l'administration sont portés devant le tribunal administratif.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 289 B
+  - Règlement CEE 3330-91 1991-11-07 art. 13
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+  - Arrêté du 23 juillet 2010 (V)
+  - Arrêté du 27 juillet 2010 (V)
+  - Arrêté du 16 décembre 2010 (V)
+  - Arrêté du 16 novembre 2012 (V)
+  - Livre des procédures fiscales - art. R*247-5 B (V)
 
 
