@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1984-12-30
+Version Consolidée au 1985-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -7502,17 +7502,21 @@ _Anciens textes_:
 
 ###### Article 257
 
-1. Les transports effectués entre les ports de la France métropolitaine sont réservés au pavillon français.
+1. Les transports effectués entre les ports de la France métropolitaine sont réservés au pavillon français. Toutefois, le
+ministre chargé de la marine marchande peut autoriser un navire étranger à assurer un transport déterminé.
 
-2. Les transports autres que ceux d'hydrocarbures effectués entre les ports de la France métropolitaine et les ports
-algériens sont réservés aux navires battant pavillon de la France ou de l'Algérie ou affrétés par l'un ou l'autre des deux
-pays.
+2. (dénonciation de l'accord franco-algérien relatif aux transports maritimes ; la dénonciation a pris effet le 1er août
+1988).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
 
 _Cité par_:
 
@@ -7531,17 +7535,16 @@ _Cité par_:
 
 1. Sont également réservés au pavillon français les transports effectués :
 
-a) Entre les ports d'un même département français d'outre-mer ;
+a) entre les ports d'un même département français d'outre-mer ;
 
-b) Entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
+b) entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
 
 2. Des arrêtés du ministre chargé de la marine marchande, pris après avis du ministre de l'économie et des finances, peuvent
-réserver aux navires français les transports de certaines marchandises originaires des départements français d'outre-mer
-effectués :
+réserver aux navires français les transports de certaines marchandises effectués :
 
-a) Entre les ports de ces départements et les ports de la France métropolitaine ;
+a) entre les ports des départements français d'outre-mer et ceux de la France métropolitaine ;
 
-b) Entre les ports de la Réunion et des autres départements français d'outre-mer.
+b) entre les ports de la Réunion et des autres départements français d'outre-mer.
 
 3. Il peut être dérogé aux dispositions prévues par le paragraphe 1er et par le paragraphe 2 du présent article par des
 décisions de l'administration locale des affaires maritimes.
@@ -7551,6 +7554,10 @@ décisions de l'administration locale des affaires maritimes.
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
 
 _Cité par_:
 
