@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1991-12-31
+Version Consolidée au 1992-02-08
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -192,57 +192,55 @@ Version Consolidée au 1991-12-31
         - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 354 à 355)](#189)
           - [B. - Prescription contre l'administration. (art. 354)](#190)
           - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#191)
-    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 377 bis)](#192)
+    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 370)](#192)
       - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#193)
         - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#194)
         - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#195)
       - [Section 2 : Procédure devant les juridictions civiles (art. 362)](#196)
         - [Paragraphe 4 : Signification des jugements et autres actes de procédure. (art. 362)](#197)
-      - [Section 5 : Dispositions diverses (art. 369 à 377 bis)](#198)
+      - [Section 5 : Dispositions diverses (art. 369 à 370)](#198)
         - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 369 à 370)](#199)
-        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 377 bis)](#200)
-          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#201)
-    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#202)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381)](#203)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#204)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#205)
-      - [Section 2 : Voies d'exécution (art. 382 à 390)](#206)
-        - [Paragraphe 1 : Règles générales. (art. 382)](#207)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#208)
-        - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 388)](#209)
-        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#210)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#211)
-          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#212)
-      - [Section 3 : Droit de remise. (art. 390 bis)](#213)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#214)
-    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#215)
-      - [Section 1 : Responsabilité pénale (art. 398)](#216)
-        - [Paragraphe 6 : Complices. (art. 398)](#217)
-      - [Section 2 : Responsabilité civile (art. 403)](#218)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#219)
-    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#220)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#221)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#222)
-          - [A. - Première classe. (art. 410)](#223)
-          - [C. - Troisième classe. (art. 412)](#224)
-          - [E. - Cinquième classe. (art. 413 bis)](#225)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#226)
-          - [A. - Première classe. (art. 414)](#227)
-          - [B. - Deuxième classe. (art. 415)](#228)
-        - [Paragraphe 4 : Contrebande. (art. 419)](#229)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#230)
-      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#231)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#232)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#233)
-      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#234)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#235)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#236)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#237)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#238)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#239)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#240)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#241)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#242)
+    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#200)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381)](#201)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#202)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#203)
+      - [Section 2 : Voies d'exécution (art. 382 à 390)](#204)
+        - [Paragraphe 1 : Règles générales. (art. 382)](#205)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#206)
+        - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 388)](#207)
+        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#208)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#209)
+          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#210)
+      - [Section 3 : Droit de remise. (art. 390 bis)](#211)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#212)
+    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#213)
+      - [Section 1 : Responsabilité pénale (art. 398)](#214)
+        - [Paragraphe 6 : Complices. (art. 398)](#215)
+      - [Section 2 : Responsabilité civile (art. 403)](#216)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#217)
+    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#218)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#219)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#220)
+          - [A. - Première classe. (art. 410)](#221)
+          - [C. - Troisième classe. (art. 412)](#222)
+          - [E. - Cinquième classe. (art. 413 bis)](#223)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#224)
+          - [A. - Première classe. (art. 414)](#225)
+          - [B. - Deuxième classe. (art. 415)](#226)
+        - [Paragraphe 4 : Contrebande. (art. 419)](#227)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#228)
+      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#229)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#230)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#231)
+      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#232)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#233)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#234)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#235)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#236)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#237)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#238)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#239)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#240)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -10231,38 +10229,11 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=200></a>
+## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=200></a>
 
-##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=201></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=201></a>
 
-###### Article 377 bis
-
-En sus des pénalités fiscales, les tribunaux ordonnent le paiement des sommes fraudées ou indûment obtenues.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Code des douanes - art. 343 (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
-
-_Anciens textes_:
-
-  - Loi n°77-1453 1977-12-29 art. 7 et art. 10
-
-
-## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=202></a>
-
-### Section 1 : Sûretés garantissant l'exécution<a id=203></a>
-
-#### Paragraphe 1 : Droit de rétention.<a id=204></a>
+#### Paragraphe 1 : Droit de rétention.<a id=202></a>
 
 ###### Article 378
 
@@ -10277,7 +10248,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=205></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=203></a>
 
 ###### Article 379
 
@@ -10349,9 +10320,9 @@ _Modifié par_:
   - Loi n°67-1172 1967-12-22 art. 17 Finances pour 1968 JORF 29 décembre 1967
 
 
-### Section 2 : Voies d'exécution<a id=206></a>
+### Section 2 : Voies d'exécution<a id=204></a>
 
-#### Paragraphe 1 : Règles générales.<a id=207></a>
+#### Paragraphe 1 : Règles générales.<a id=205></a>
 
 ###### Article 382
 
@@ -10386,7 +10357,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 98 () JORF 31 décembre 1981
 
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=208></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=206></a>
 
 ###### Article 383
 
@@ -10542,7 +10513,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=209></a>
+#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=207></a>
 
 ###### Article 388
 
@@ -10564,9 +10535,9 @@ _Modifié par_:
   - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
 
 
-#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=210></a>
+#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=208></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=211></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=209></a>
 
 ###### Article 389
 
@@ -10600,7 +10571,7 @@ _Cite_:
   - Code des douanes 362-2
 
 
-##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=212></a>
+##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=210></a>
 
 ###### Article 390
 
@@ -10628,7 +10599,7 @@ _Cité par_:
   - Arrêté du 4 mars 2013 (V)
 
 
-### Section 3 : Droit de remise.<a id=213></a>
+### Section 3 : Droit de remise.<a id=211></a>
 
 ###### Article 390 bis
 
@@ -10660,7 +10631,7 @@ _Anciens textes_:
   - Loi n°77-1453 1977-12-29 art. 16
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=214></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=212></a>
 
 ###### Article 391
 
@@ -10678,11 +10649,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Responsabilité et solidarité<a id=215></a>
+## Chapitre V : Responsabilité et solidarité<a id=213></a>
 
-### Section 1 : Responsabilité pénale<a id=216></a>
+### Section 1 : Responsabilité pénale<a id=214></a>
 
-#### Paragraphe 6 : Complices.<a id=217></a>
+#### Paragraphe 6 : Complices.<a id=215></a>
 
 ###### Article 398
 
@@ -10703,9 +10674,9 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-### Section 2 : Responsabilité civile<a id=218></a>
+### Section 2 : Responsabilité civile<a id=216></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=219></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=217></a>
 
 ###### Article 403
 
@@ -10724,13 +10695,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Dispositions répressives<a id=220></a>
+## Chapitre VI : Dispositions répressives<a id=218></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=221></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=219></a>
 
-#### Paragraphe 2 : Contraventions douanières<a id=222></a>
+#### Paragraphe 2 : Contraventions douanières<a id=220></a>
 
-##### A. - Première classe.<a id=223></a>
+##### A. - Première classe.<a id=221></a>
 
 ###### Article 410
 
@@ -10784,7 +10755,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Troisième classe.<a id=224></a>
+##### C. - Troisième classe.<a id=222></a>
 
 ###### Article 412
 
@@ -10841,7 +10812,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-##### E. - Cinquième classe.<a id=225></a>
+##### E. - Cinquième classe.<a id=223></a>
 
 ###### Article 413 bis
 
@@ -10890,9 +10861,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Délits douaniers<a id=226></a>
+#### Paragraphe 3 : Délits douaniers<a id=224></a>
 
-##### A. - Première classe.<a id=227></a>
+##### A. - Première classe.<a id=225></a>
 
 ###### Article 414
 
@@ -10963,7 +10934,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### B. - Deuxième classe.<a id=228></a>
+##### B. - Deuxième classe.<a id=226></a>
 
 ###### Article 415
 
@@ -11032,7 +11003,7 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-#### Paragraphe 4 : Contrebande.<a id=229></a>
+#### Paragraphe 4 : Contrebande.<a id=227></a>
 
 ###### Article 419
 
@@ -11068,7 +11039,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=230></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=228></a>
 
 ###### Article 426
 
@@ -11156,9 +11127,9 @@ _Modifié par_:
   - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
 
 
-### Section 2 : Peines complémentaires<a id=231></a>
+### Section 2 : Peines complémentaires<a id=229></a>
 
-#### Paragraphe 2 : Astreinte.<a id=232></a>
+#### Paragraphe 2 : Astreinte.<a id=230></a>
 
 ###### Article 431
 
@@ -11183,7 +11154,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=233></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=231></a>
 
 ###### Article 432 bis
 
@@ -11226,9 +11197,9 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=234></a>
+### Section 3 : Cas particuliers d'application des peines<a id=232></a>
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=235></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=233></a>
 
 ###### Article 437
 
@@ -11260,7 +11231,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=236></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=234></a>
 
 ###### Article 441
 
@@ -11605,9 +11576,9 @@ _Cite_:
   - Code des douanes 65, 445-1, 351, 354, 334
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=237></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=235></a>
 
-## Chapitre Ier : Dispositions communes.<a id=238></a>
+## Chapitre Ier : Dispositions communes.<a id=236></a>
 
 ###### Article 451
 
@@ -11648,7 +11619,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=239></a>
+## Chapitre II : Constatation des infractions.<a id=237></a>
 
 ###### Article 453
 
@@ -11749,7 +11720,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre III : Poursuite des infractions.<a id=240></a>
+## Chapitre III : Poursuite des infractions.<a id=238></a>
 
 ###### Article 458
 
@@ -11767,7 +11738,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=241></a>
+## Chapitre IV : Dispositions répressives.<a id=239></a>
 
 ###### Article 459
 
@@ -11835,7 +11806,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=242></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=240></a>
 
 ###### Article 460
 
@@ -11890,22 +11861,18 @@ _Créé par_:
 ###### Article 462
 
 Le comité élabore à l'intention du Gouvernement et du Parlement un rapport annuel, qui fera l'objet d'une publication, sur
-les conditions dans lesquelles ont été conclues les transactions relevant de la compétence des services extérieurs de la
-direction générale des douanes et droits indirects ; il procède dans les services extérieurs de cette direction aux enquêtes
-qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des membres du
-comité.
+les conditions dans lesquelles ont été conclues les transactions relevant de la compétence des services déconcentrés de la
+direction générale des douanes et droits indirects ; il procède dans les services déconcentrés de cette direction aux
+enquêtes qu'il juge utiles. A cette fin, les agents de l'administration sont déliés du secret professionnel vis-à-vis des
+membres du comité.
 
 Un décret en Conseil d'Etat fixe la composition et les conditions de fonctionnement du comité.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
+  - Loi n°92-125 du 6 février 1992 - art. 3 (V)
 
 
 ###### Article 463
