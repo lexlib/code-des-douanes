@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1956-08-31
+Version Consolidée au 1958-12-18
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 2 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 2 à 3)](#2)
@@ -53,7 +53,7 @@ Version Consolidée au 1956-08-31
       - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 101 à 103)](#50)
       - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 105 à 106)](#51)
     - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 110 à 112)](#52)
-      - [Section 2 : Paiement au comptant. (art. 110)](#53)
+      - [Section 2 : Paiement au comptant. (art. 110 à 111)](#53)
       - [Section 3 : Crédit des droits et taxes. (art. 112)](#54)
     - [Chapitre IV : Enlèvement des marchandises (art. 114 à 119)](#55)
       - [Section 2 : Crédit d'enlèvement. (art. 114)](#56)
@@ -94,7 +94,7 @@ Version Consolidée au 1956-08-31
       - [Section 7 : Hypothèques maritimes (art. 252 à 256)](#91)
         - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252 à 256)](#92)
     - [Chapitre II : Navigation réservée. (art. 257 à 259)](#93)
-    - [Chapitre III : Relâches forcées. (art. 262)](#94)
+    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#94)
     - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#95)
   - [Titre X : Taxes diverses perçues par la douane (art. 269 à 284)](#96)
     - [Chapitre II : Droit de timbre douanier. (art. 269)](#97)
@@ -154,23 +154,24 @@ Version Consolidée au 1956-08-31
       - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 379)](#151)
         - [Paragraphe 1 : Droit de rétention. (art. 378)](#152)
         - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379)](#153)
-      - [Section 2 : Voies d'exécution (art. 383 à 389)](#154)
+      - [Section 2 : Voies d'exécution (art. 383 à 390)](#154)
         - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387)](#155)
-        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389)](#156)
+        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#156)
           - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#157)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#158)
-    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#159)
-      - [Section 1 : Responsabilité pénale (art. 398)](#160)
-        - [Paragraphe 6 : Complices. (art. 398)](#161)
-      - [Section 2 : Responsabilité civile (art. 403)](#162)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#163)
-    - [Chapitre VI : Dispositions répressives (art. 415 à 431)](#164)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 415)](#165)
-        - [Paragraphe 3 : Délits douaniers (art. 415)](#166)
-          - [B. - Deuxième classe. (art. 415)](#167)
-      - [Section 2 : Peines complémentaires (art. 431)](#168)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#169)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 449)](#170)
+          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#158)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#159)
+    - [Chapitre V : Responsabilité et solidarité (art. 398 à 403)](#160)
+      - [Section 1 : Responsabilité pénale (art. 398)](#161)
+        - [Paragraphe 6 : Complices. (art. 398)](#162)
+      - [Section 2 : Responsabilité civile (art. 403)](#163)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#164)
+    - [Chapitre VI : Dispositions répressives (art. 415 à 431)](#165)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 415)](#166)
+        - [Paragraphe 3 : Délits douaniers (art. 415)](#167)
+          - [B. - Deuxième classe. (art. 415)](#168)
+      - [Section 2 : Peines complémentaires (art. 431)](#169)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#170)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 449)](#171)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -2206,6 +2207,29 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
+###### Article 111
+
+1. Les droits et taxes ne sont pas dus sur les marchandises dont l'administration des douanes accepte l'abandon à son profit.
+
+2. Les marchandises dont l'abandon est accepté par l'administration des douanes sont vendues dans les mêmes conditions que
+les marchandises abandonnées par transaction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Ordonnance 58-1238 1958-12-17 art. 2 JORF 18 décembre 1958
+
+_Cité par_:
+
+  - Décret n°97-1194 du 19 décembre 1997 - art. Annexe (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+
 ### Section 3 : Crédit des droits et taxes.<a id=54></a>
 
 ###### Article 112
@@ -3584,6 +3608,32 @@ _Codifié par_:
 
 
 ## Chapitre III : Relâches forcées.<a id=94></a>
+
+###### Article 261
+
+Les capitaines qui sont forcés de relâcher par fortune de mer, poursuite d'ennemis ou autres cas fortuits sont tenus : 
+
+a) dès leur entrée dans la zone maritime du rayon des douanes, de se conformer aux obligations prévues par l'article 69 ci-
+dessus ; 
+
+b) dans les vingt-quatre heures de leur arrivée au port, de justifier, par un rapport, des causes de la relâche et de se
+conformer aux prescriptions de l'article 72 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code des douanes - art. 410 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 69 (V)
+  - Code des douanes - art. 72 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 
 ###### Article 262
 
@@ -5539,7 +5589,35 @@ _Cite_:
   - Code des douanes 362-2
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=158></a>
+##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=158></a>
+
+###### Article 390
+
+1. Les objets confisqués ou abandonnés sont aliénés par le service des douanes dans les conditions fixées par arrêté du
+ministre de l'économie et des finances lorsque le jugement de confiscation est passé en force de chose jugée, ou, en cas de
+jugement par défaut, lorsque l'exécution provisoire a été ordonnée par le jugement de confiscation, ou après ratification de
+l'abandon consenti par transaction.
+
+2. Toutefois, les jugements et ordonnances portant confiscation de marchandises saisies sur des particuliers inconnus, et par
+eux abandonnées et non réclamées, ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à celle de
+l'auditoire du juge d'instance ; passé ce délai, aucune demande en répétition n'est recevable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Ordonnance 58-1238 1958-12-17 art. 12 JORF 18 décembre 1958
+
+_Cité par_:
+
+  - Arrêté du 4 mars 2013 (V)
+
+
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=159></a>
 
 ###### Article 391
 
@@ -5557,11 +5635,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Responsabilité et solidarité<a id=159></a>
+## Chapitre V : Responsabilité et solidarité<a id=160></a>
 
-### Section 1 : Responsabilité pénale<a id=160></a>
+### Section 1 : Responsabilité pénale<a id=161></a>
 
-#### Paragraphe 6 : Complices.<a id=161></a>
+#### Paragraphe 6 : Complices.<a id=162></a>
 
 ###### Article 398
 
@@ -5582,9 +5660,9 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-### Section 2 : Responsabilité civile<a id=162></a>
+### Section 2 : Responsabilité civile<a id=163></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=163></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=164></a>
 
 ###### Article 403
 
@@ -5603,13 +5681,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Dispositions répressives<a id=164></a>
+## Chapitre VI : Dispositions répressives<a id=165></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=165></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=166></a>
 
-#### Paragraphe 3 : Délits douaniers<a id=166></a>
+#### Paragraphe 3 : Délits douaniers<a id=167></a>
 
-##### B. - Deuxième classe.<a id=167></a>
+##### B. - Deuxième classe.<a id=168></a>
 
 ###### Article 415
 
@@ -5674,9 +5752,9 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-### Section 2 : Peines complémentaires<a id=168></a>
+### Section 2 : Peines complémentaires<a id=169></a>
 
-#### Paragraphe 2 : Astreinte.<a id=169></a>
+#### Paragraphe 2 : Astreinte.<a id=170></a>
 
 ###### Article 431
 
@@ -5701,7 +5779,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=170></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=171></a>
 
 ###### Article 441
 
