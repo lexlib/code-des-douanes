@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 1975-12-28
+Version Consolidée au 1976-12-30
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -5022,6 +5022,43 @@ _Cité par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 238
+
+Le passeport délivré aux navires de plaisance ou de sport appartenant à des personnes physiques ou morales, quelle que soit
+leur nationalité, ayant leur résidence principale ou leur siège social en France, ou dont ces mêmes personnes ont la
+jouissance, est soumis à un visa annuel donnant lieu à la perception d'un droit de passeport.
+
+Ce droit est à la charge du propriétaire ou de l'utilisateur du navire. Il est calculé dans les mêmes conditions, selon la
+même assiette, le même taux et les mêmes modalités d'application que le droit de francisation et de navigation prévu à
+l'article 233 ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de plaisance ou de
+sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention d'assistance administrative en
+vue de lutter contre l'évasion et la fraude fiscales et douanières, le droit de passeport est perçu à un taux triple du droit
+de francisation et de navigation pour les navires de moins de 20 tonneaux de jauge brute et à un taux quintuple de ce droit
+pour les navires d'au moins 20 tonneaux de jauge brute.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°76-1232 1976-12-29 art. 15 II Finances pour 1977 JORF 30 décembre 1976
+
+_Cité par_:
+
+  - Loi n°81-1160 du 30 décembre 1981 - art. 31 (M)
+  - Loi - art. 6 (V)
+  - Décret n°2018-498 du 19 juin 2018 (V)
+  - Code général des collectivités territoriales - art. L4425-1 (MMN)
+  - Code général des collectivités territoriales - art. L4425-22 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 233 (V)
 
 
 ###### Article 239
