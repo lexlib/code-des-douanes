@@ -49,9 +49,9 @@ le linge.
 
 - dont la teneur en phosphates est supérieur à 30 % du poids, 570.
 
-Grains minéraux naturels.
+Matériaux d'extraction.
 
-Grains minéraux naturels, 0,60.
+Matériaux d'extraction, 0,60.
 
 Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés.
@@ -160,10 +160,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
 _Cité par_:
 
   - Décret n°99-508 du 17 juin 1999 - art. 10 (V)
@@ -200,7 +196,6 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°99-1140 1999-12-29 art. 7 III, IV (redevance et recettes)
   - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
   - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 1 (Ab)
   - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000 - art. 2 (Ab)
@@ -211,14 +206,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°99-1140 du 29 décembre 1999 - art. 7 () JORF 30 décembre 1999 en vigueur le 1er janvier 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
-  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
+  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
 
-_Cite_:
+_Codifié par_:
 
-  - Code des douanes - art. 266 septies (M)
-  - Code des douanes - art. 266 sexies (M)
-  - Code du travail - art. R231-51 (M)
-  - Code de l'environnement - art. L541-14 (M)
-  - Code de l'environnement - art. L571-15 (M)
+  - Décret n°48-1985 1948-12-08
