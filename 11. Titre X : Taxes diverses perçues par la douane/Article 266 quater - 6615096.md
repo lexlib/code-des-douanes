@@ -3,12 +3,12 @@
 1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, une
 taxe spéciale de consommation sur les produits désignés ci-après :
 
-<table border="1" cellspacing="0" cellpadding="0" width="680">
+<table border="1" cellpadding="0" width="680" cellspacing="0">
   <tbody>
     <tr>
       <td width="154">
 
-Numéros du tarif des douanes
+Numéro du tarif des douanes
 
 </td>
       <td width="154">
@@ -23,7 +23,7 @@ Unité de perception
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27 10 50
 
@@ -40,12 +40,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 27 10 00
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 Essences et supercarburants
 
@@ -57,12 +57,12 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 27 10 00
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Gazole présentant un point d'éclair inférieur à 120 °C
 
@@ -74,7 +74,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 38 24 90
 
@@ -109,6 +109,14 @@ s'applique aux produits déclarés pour la consommation avant la date du changem
 chez les importateurs, producteurs, raffineurs, négociants et distributeurs de produits pétroliers et assimilés, à
 l'exception des produits se trouvant dans les cuves des stations-service.
 
+4. Par dérogation aux dispositions du présent article, les communes de Saint-Barthélemy et de Saint-Martin fixent, par
+délibération du conseil municipal et dans la limite de 1,50 F par litre de carburant consommé, les taux de la taxe spéciale
+de consommation sur les produits visés au premier alinéa et perçoivent cette taxe sur leur territoire, en lieu et place du
+Conseil régional. Les recettes correspondantes sont affectées à des fonds d'investissement destinés à financer l'entretien et
+la modernisation de la voirie des îles de Saint-Barthélemy et de Saint-Martin. En conséquence, les communes de Saint-
+Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux communes par la région de la Guadeloupe du produit de la
+taxe spéciale de consommation sur les produits visés au premier alinéa.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -142,8 +150,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 27 () JORF 31 décembre 1998
-  - Loi - art. 39 (V) JORF 31 décembre 1999
+  - Loi n°2000-1207 du 13 décembre 2000 - art. 57
 
 _Cite_:
 
