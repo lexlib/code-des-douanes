@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-03-31
+Version Consolidée au 2001-04-14
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1275,10 +1275,13 @@ marchandises visées à l'article L. 5132-9 du code de la santé publique, aux m
 labiles définis par le code de la santé publique, aux organes, tissus, cellules ou gamètes issus du corps humain mentionnés
 aux articles L. 1235-1, L. 1244-8 et L. 1245-4 du code de la santé publique, aux sources artificielles et naturelles de
 radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des articles L. 1333-2 et L. 1333-4 du
-même code et aux déchets relevant de la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la
-récupération des matériaux et des textes pris pour son application. Les dispositions du présent article s'appliquent
-également aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique
-visées par l'article 227-23 du code pénal.
+même code et aux déchets définis au II de l'article L. 541-1 du code de l'environnement dont l'importation, l'exportation ou
+le transit sont régis soit par les articles L. 541-40 à L. 541-42 du même code et les dispositions réglementaires prises pour
+leur application, soit par le règlement (CEE) n° 259/93 du Conseil du 1er février 1993 concernant la surveillance et le
+contrôle des transferts de déchets à l'entrée et à la sortie de la Communauté européenne, ainsi que par les décisions des
+autorités communautaires prises en application de ce règlement. Les dispositions du présent article s'appliquent également
+aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique visées par
+l'article 227-23 du code pénal.
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -1375,7 +1378,6 @@ chargé des douanes et du ou des ministres concernés.
 
 _Cite_:
 
-  - Loi n°75-633 1975-07-15
   - Loi n°92-1477 1992-12-31 art. 2, art. 3, art. 4, art. 5, art. 19
   - Code pénal - art. 227-23 (M)
   - Code des douanes - art. 2 bis (V)
@@ -1387,6 +1389,9 @@ _Cite_:
   - Code de la santé publique - art. L1333-4 (T)
   - Code de la santé publique - art. L5124-13 (M)
   - Code de la santé publique - art. L5132-9 (V)
+  - Code de l'environnement - art. L541-1 (M)
+  - Code de l'environnement L541-1, L541-40 à L541-42
+  - Règlement CEE 259-93 1993-02-01 Conseil
 
 _Cité par_:
 
@@ -1401,10 +1406,10 @@ _Cité par_:
   - Arrêté du 29 juillet 2008 (V)
   - Arrêté du 22 décembre 2008 (V)
   - Arrêté du 20 janvier 2009 (V)
+  - Décret n°2009-873 du 16 juillet 2009 (V)
   - Arrêté du 30 septembre 2009 (V)
   - Arrêté du 22 septembre 2011 - art. 1 (V)
   - Arrêté du 22 novembre 2011 (V)
-  - Décret n°2009-873 du 16 juillet 2009 (V)
   - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (V)
   - Arrêté du 11 juillet 2012 - art. 2 (V)
   - Loi n°2016-41 du 26 janvier 2016 - art. 166 (VD)
@@ -1418,7 +1423,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2001-270 du 28 mars 2001 - art. 4 () JORF 31 mars 2001
+  - Ordonnance n°2001-321 du 11 avril 2001 - art. 11 () JORF 14 avril 2001
 
 _Codifié par_:
 
