@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-12-29
+Version Consolidée au 2002-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -764,10 +764,10 @@ et modalités d'application fixées par décret en Conseil d'Etat :
 
 a) Un prélèvement financier sur les navires utilisés par ou pour le compte d'entreprises ressortissant de l'Etat étranger
 concerné, à l'occasion de leurs opérations commerciales dans les ports français. Son montant, établi en fonction du volume du
-navire tel qu'il est défini pour le calcul des droits de port et de navigation, est fixé à 30 F par mètre cube ou fraction de
-mètre cube, pour un navire dont le volume ne dépasse pas 50.000 mètres cubes. Pour un navire dont le volume dépasse 50.000
-mètres cubes s'ajoutent à ce montant 20 F par mètre cube pour chaque mètre cube compris entre 50.000 et 100.000 mètres cubes
-et 10 F par mètre cube au-delà de 100.000 mètres cubes ;
+navire tel qu'il est défini pour le calcul des droits de port et de navigation, est fixé à 4,57 euros par mètre cube ou
+fraction de mètre cube, pour un navire dont le volume ne dépasse pas 50 000 mètres cubes. Pour un navire dont le volume
+dépasse 50 000 mètres cubes s'ajoutent à ce montant 3,05 euros par mètre cube pour chaque mètre cube compris entre 50 000 et
+100 000 mètres cubes et 1,52 euro par mètre cube au-delà de 100 000 mètres cubes ;
 
 b) Un prélèvement financier s'élevant à 30 % de leur valeur en douane, sur les marchandises d'origine française ou à
 destination de la France, transportées à bord de navires utilisés par ou pour le compte d'entreprises ressortissant de l'Etat
@@ -778,11 +778,6 @@ douanes selon les règles, garanties et sanctions applicables en matière de dou
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code des douanes - art. 67 D (V)
-  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V)
-
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
@@ -791,9 +786,15 @@ _Cite_:
 
   - Loi n°83-1119 du 23 décembre 1983 - art. 2 (V)
 
-_Créé par_:
+_Cité par_:
 
-  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+  - Loi n°83-1119 du 23 décembre 1983 - art. 11 (V)
+  - Code des douanes - art. 67 D (V)
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ### Section 5 : Contrôle du commerce extérieur et prohibitions<a id=11></a>
@@ -1899,7 +1900,7 @@ cas où ils seraient révoqués, à moins qu'ils ne retournent au domicile qu'il
 l'administration des douanes.
 
 2. Les agents révoqués qui n'obtempèrent pas, dans le mois, à la sommation de quitter le rayon sont punis de six mois
-d'emprisonnement et de 50 000 F d'amende.
+d'emprisonnement et de 7500 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -1909,8 +1910,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
-  - Loi n°92-1336 du 16 décembre 1992 - art. 156 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -2083,22 +2084,13 @@ Les résultats de l'examen communiqués par le médecin, les observations de la 
 procédure doivent être consignés dans un procès-verbal transmis au magistrat.
 
 Toute personne qui aura refusé de se soumettre aux examens médicaux prescrits par le magistrat sera punie d'une peine
-d'emprisonnement d'un an et d'une amende de 25 000 F.
+d'emprisonnement d'un an et d'une amende de 3750 euros.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Loi n°87-1157 du 31 décembre 1987 - art. 10 () JORF 5 janvier 1988
-
-_Modifié par_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 114 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 _Cité par_:
 
@@ -2109,6 +2101,11 @@ _Cité par_:
   - Code de la santé publique - art. L1333-18 (V)
   - Code de la santé publique - art. L1513-1 (VT)
   - Code de procédure pénale - art. 398-1 (VD)
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 61
@@ -4237,18 +4234,24 @@ _Cité par_:
 1. Les redevables peuvent être admis à présenter des obligations dûment cautionnées, à quatre mois d'échéance, pour le
 paiement des droits et taxes recouvrés par l'administration des douanes.
 
-2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 5 000 F.
+2. Ces obligations ne sont pas admises lorsque la somme à payer d'après chaque décompte est inférieure à 762 euros.
 
 3. Elles donnent lieu à un intérêt de crédit et à une remise spéciale dont le taux et le montant sont fixés par des arrêtés
 du ministre de l'économie et des finances.
 
-4. La remise spéciale ne peut dépasser un tiers de franc pour cent.
+4. La remise spéciale ne peut dépasser un tiers d'euro pour cent.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 _Modifié par_:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2001-1275 du 28 décembre 2001 - art. 1 (V)
 
 _Cité par_:
 
@@ -4256,9 +4259,9 @@ _Cité par_:
   - Arrêté du 16 juillet 1982 - art. 1 (V)
   - Code des douanes - art. 448 (Ab)
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°48-1985 1948-12-08
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ## Chapitre IV : Enlèvement des marchandises<a id=71></a>
@@ -4303,7 +4306,7 @@ les redevables, de payer une remise de 1 pour 1000 du montant des droits et taxe
 2. La répartition de la remise de 1 pour 1000 entre le comptable et le Trésor est fixée par arrêté du ministre de l'économie
 et des finances.
 
-3. Le paiement des droits et taxes ainsi garantis dont le montant total à l'échéance excède 500 000 F doit être fait par
+3. Le paiement des droits et taxes ainsi garantis dont le montant total à l'échéance excède 50000 euros doit être fait par
 virement directement opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France ;
 
 4. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne l'application d'une majoration de 0,2 % du montant des
@@ -4338,8 +4341,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 22 (V) JORF 31 décembre 1999 en vigueur le 1er mars 2000
-  - Loi n°99-1173 1999-12-30 art. 22 I, III JORF 31 décembre 1999 en vigueur le 1er mars 2000
+  - Loi - art. 74 (V) JORF 29 décembre 2001 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -6624,8 +6626,8 @@ sont vendues aux enchères publiques.
 2. Les marchandises périssables ou en mauvais état de conservation peuvent être vendues immédiatement avec l'autorisation du
 juge d'instance.
 
-3. Les marchandises d'une valeur inférieure à 1 000 F qui ne sont pas enlevées à l'expiration du délai de quatre mois visé au
-1 ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en
+3. Les marchandises d'une valeur inférieure à 152 euros qui ne sont pas enlevées à l'expiration du délai de quatre mois visé
+au 1 ci-dessus sont considérées comme abandonnées. L'administration des douanes peut les vendre aux enchères publiques ou en
 faire don à des hôpitaux, hospices ou autres établissements de bienfaisance.
 
 **Liens relatifs à cet article**
@@ -6634,9 +6636,10 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 187
@@ -6667,8 +6670,8 @@ b) au recouvrement des droits et taxes dont sont passibles les marchandises en r
 marchandises.
 
 Le reliquat éventuel est versé à la caisse des dépôts et consignations où il reste pendant deux ans à la disposition du
-propriétaire des marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à
-20 F, le reliquat est pris sans délai en recette au budget.
+propriétaire des marchandises ou des ayants droit. Passé ce délai, il est acquis au Trésor. Toutefois, s'il est inférieur à 3
+euros, le reliquat est pris sans délai en recette au budget.
 
 3. Lorsque le produit de la vente est insuffisant pour régler les créances énumérées au 2 ci-dessus, les sommes obtenues sont
 versées à la caisse des dépôts et consignations et réparties, s'il y a lieu, selon la procédure de distribution par
@@ -6682,8 +6685,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 58-1238 1958-12-17 art. 3 JORF 18 décembre 1958
-  - Loi n°65-525 1965-07-03 art. 6 JORF 4 juillet 1965
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 # Titre VII : Opérations privilégiées<a id=112></a>
@@ -7940,50 +7943,50 @@ a) Droit sur la coque.
 
 Jusqu'à 3 tonneaux inclusivement : exonération.
 
-De plus de 3 tonneaux à 5 tonneaux inclusivement : 222 F par navire plus 151 F par tonneau ou fraction de tonneau au-dessus
-de 3 tonneaux.
+De plus de 3 tonneaux à 5 tonneaux inclusivement : 33,84 euros par navire plus 23,02 euros par tonneau ou fraction de tonneau
+au-dessus de 3 tonneaux.
 
-De plus de 5 tonneaux à 8 tonneaux inclusivement : 222 F par navire plus 106 F par tonneau ou fraction de tonneau au-dessus
-de 3 tonneaux.
+De plus de 5 tonneaux à 8 tonneaux inclusivement : 33,84 euros par navire plus 16,16 euros par tonneau ou fraction de tonneau
+au-dessus de 3 tonneaux.
 
 De plus de 8 tonneaux à 10 tonneaux inclusivement :
 
-- de plus de 10 ans : 222 F par navire plus 106 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de plus de 10 ans : 33,84 euros par navire plus 16,16 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-- de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
 De plus de 10 tonneaux à 20 tonneaux inclusivement :
 
-- de plus de 10 ans : 222 F par navire plus 98 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de plus de 10 ans : 33,84 euros par navire plus 14,94 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-- de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
 De plus de 20 tonneaux :
 
-- de plus de 10 ans : 222 F par navire plus 93 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de plus de 10 ans : 33,84 euros par navire plus 14,18 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
-- de moins de 10 ans : 222 F par navire plus 207 F par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
+- de moins de 10 ans : 33,84 euros par navire plus 31,56 euros par tonneau ou fraction de tonneau au-dessus de 3 tonneaux.
 
 b) Droit sur le moteur (puissance administrative).
 
 Jusqu'à 5 CV inclusivement : exonération.
 
-de 6 à 8 CV : 54 F par CV au-dessus du cinquième.
+de 6 à 8 CV : 8,23 euros par CV au-dessus du cinquième.
 
-de 9 à 10 CV : 68 F par CV au-dessus du cinquième.
+de 9 à 10 CV : 10,37 euros par CV au-dessus du cinquième.
 
-de 11 à 20 CV : 136 F par CV au-dessus du cinquième.
+de 11 à 20 CV : 20,73 euros par CV au-dessus du cinquième.
 
-de 21 à 25 CV : 151 F par CV au-dessus du cinquième.
+de 21 à 25 CV : 23,02 euros par CV au-dessus du cinquième.
 
-de 26 à 50 CV : 172 F par CV au-dessus du cinquième.
+de 26 à 50 CV : 26,22 euros par CV au-dessus du cinquième.
 
-de 51 à 99 CV : 190 F par CV au-dessus du cinquième.
+de 51 à 99 CV : 28,97 euros par CV au-dessus du cinquième.
 
 c) Taxe spéciale.
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b) ci-dessus est remplacé
-par une taxe spéciale de 297 F par CV.
+par une taxe spéciale de 45,28 euros par CV.
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
 port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
@@ -7993,9 +7996,9 @@ et doit être compris entre 50 p. 100 et 90 p. 100 du taux prévu dans le tablea
 
 _Cité par_:
 
+  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
   - Loi n°83-1179 du 29 décembre 1983 - art. 31 (V)
   - Loi n°93-1353 du 30 décembre 1993 - art. 28 (V)
-  - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
   - Décret n°2017-974 du 10 mai 2017 - art. 2 (V)
   - Décret n°2018-498 du 19 juin 2018 (V)
   - Code des douanes - art. 224 (V)
@@ -8004,13 +8007,14 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-1 (MMN)
   - Code général des collectivités territoriales - art. L4425-22 (V)
 
-_Modifié par_:
-
-  - Loi n°94-1131 du 27 décembre 1994 - art. 6 (V) JORF 28 décembre 1994 en vigueur le 1er janvier 1995
-
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ###### Article 224
@@ -8026,7 +8030,7 @@ Il est recouvré par année civile.
 
 En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par décret,
 une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
-lorsque son montant excède 50 F.
+lorsque son montant excède 8 euros.
 
 2. Lorsque les navires de commerce ou de pêche sont désarmés pendant une période qui recouvre en totalité une année civile,
 le droit annuel de francisation et de navigation n'est pas dû au titre de ladite année.
@@ -8043,7 +8047,8 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
 - 75 % pour le bateaux de plus de 25 ans.
 
-5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 500 F.
+5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 76
+euros.
 
 **Liens relatifs à cet article**
 
@@ -8068,7 +8073,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 15 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -8186,14 +8192,14 @@ _Cité par_:
 
 ###### Article 230
 
-Sous réserve des dispositions du 2 ci-dessous, les articles incorporés à des navires français hors du territoire douanier
+1. Sous réserve des dispositions du 2 ci-dessous, les articles incorporés à des navires français hors du territoire douanier
 sont traités comme s'ils étaient importés directement dans la partie du territoire douanier où se trouve le port d'attache,
 pour y recevoir la même affectation.
 
 Toutefois, il y a exonération, sous réserve des dispositions relatives à la taxe sur la valeur ajoutée, de tous droits et
-taxes lorsque le montant des réparations n'excède pas 40 F par tonneau de jauge brute ou, quel que soit le montant de celles-
-ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du territoire douanier. Dans ce dernier cas, il doit
-être justifié de la nécessité invoquée au moyen d'une attestation du consul français du port de radoub, délivrée, le cas
+taxes lorsque le montant des réparations n'excède pas 6 euros par tonneau de jauge brute ou, quel que soit le montant de
+celles-ci, lorsque le navire s'est trouvé contraint à se faire réparer hors du territoire douanier. Dans ce dernier cas, il
+doit être justifié de la nécessité invoquée au moyen d'une attestation du consul français du port de radoub, délivrée, le cas
 échéant, sur rapport d'expert provoqué par ledit consul.
 
 Lorsqu'il s'agit de transformations, d'aménagements ou d'incorporations n'ayant pas le caractère de réparations, les
@@ -8211,20 +8217,18 @@ de l'arrivée.
 
 **Liens relatifs à cet article**
 
+_Cité par_:
+
+  - Code des douanes - art. 427 (V)
+
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
 _Modifié par_:
 
-  - Décret n°72-357 1972-04-28 art. 1 V JORF 6 mai 1972
-  - Ordonnance n°58-1372 du 29 décembre 1958 - art. 27 () JORF 31 décembre 1958
-  - Loi n°66-10 1966-01-06 art. 8 JORF 7 janvier 1966
-  - Loi n°71-1025 1971-12-24 art. 7 JORF 25 décembre 1971
-
-_Cité par_:
-
-  - Code des douanes - art. 427 (V)
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 #### Paragraphe 7 : Ventes de navires francisés.<a id=139></a>
@@ -8843,7 +8847,7 @@ c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
 2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins
 qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises
 représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût
-excède 3 F par tonneau de jauge brute totale.
+excède 0,46 euro par tonneau de jauge brute totale.
 
 3. Toutefois, le pavillon étranger peut être admis à pratiquer les opérations de remorquage susvisées dans le cas où il
 n'existerait pas de remorqueur français disponible ou suffisant sur place ni dans les ports français plus proches que les
@@ -8857,18 +8861,18 @@ d'amarrage.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
 _Modifié par_:
 
-  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
-  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
   - Code des douanes 257 à 259
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ## Chapitre III : Relâches forcées.<a id=151></a>
@@ -8954,181 +8958,177 @@ Tableau B : Produits pétroliers et assimilés.
 
 1. Nomenclature et tarif.
 
-Numéros du tarif des douanes, désignation des produits, indice d'identification, unité de perception et quotité (en francs)
+Code NC, désignation des produits, indice d'identification, unité de perception et quotité (en euros)
 
-. Ex 2706-00, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris
-les goudrons reconstitués, utilisés comme combustibles : indice 1, 100 kg net, 8,03.
+Ex 2706-00, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris
+les goudrons reconstitués, utilisés comme combustibles : indice 1, 100 kg net, 1,22.
 
-. 2705-50, Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume y compris les pertes à
-250° C d'après la méthode A.S.T.M. D 86, destinés à être utilisés comme carburants ou combustibles : indice 2, hectolitre ou
-100 kg net (suivant les caractéristiques du produit), taxe intérieure applicable aux huiles légères ou moyennes du 2710-00,
-suivant les caractéristiques du produit.
+2705-50, Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume à 250° C d'après la
+méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles : indice 2, hectolitre ou 100 kg net, taxe
+intérieure selon le type de produit.
 
-. 2709-00, Huiles brutes de pétrole ou de minéraux bitumineux :
+2709-00, Huiles brutes de pétrole ou de minéraux bitumineux :
 
-indice 3, hectolitre ou 100 kg net (suivant les caractéristiques du produit), taxe intérieure applicable aux huiles légères
-ou moyennes du 2710-00, suivant les caractéristiques du produit.
+indice 3, hectolitre ou 100 kg net, taxe intérieure selon le type de produit.
 
-. 2710-00, Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni
-comprises ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles
-constituent l'élément de base :
+2710-00, Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises
+ailleurs, contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent
+l'élément de base :
 
-1° Huiles légères.
+1° Huiles légères, indice 4 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à l'indice 20.
 
-. Essences spéciales, White spirit,
+a) Essences spéciales.
 
-- destiné à être utilisé comme combustible : indice 4 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à
-l'indice 20.
+. White spirit :
 
-- autre : indice 5, exemption.
+destinées à être utilisées comme combustible.
 
-. Essences spéciales, autres essences spéciales,
+autre : indice 5, exemption.
 
-- destinées à être utilisées comme carburants ou combustibles :
+. Autres essences spéciales :
+
+destinées à être utilisées comme carburants ou combustibles :
 
 indice 6, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
 
-- autres : indice 9, exemption.
+autres : indice 9, exemption.
 
-. Autres huiles légères, essences pour moteur :
+b) Autres huiles légères.
 
-. Essences d'aviation : indice 10, hectolitre, 212,25.
+. Essences pour moteur :
 
-- supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice
-d'identification n° 11 bis : indice 11, hectolitre, 384,62.
+essences d'aviation : indice 10, hectolitre, 32,36.
 
-- supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, contenant un additif spécifique améliorant les
-caractéristiques antirécesion de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
+supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, autre que le supercarburant correspondant à l'indice
+d'identification n° 11 bis : indice 11, hectolitre, 58,63.
+
+supercarburant d'une teneur en plomb n'excédant pas 0,005 g/litre, contenant un additif spécifique améliorant les
+caractéristiques antirécession de soupape (ARS), à base de potassium, ou tout autre additif reconnu de qualité équivalente
 dans un autre Etat membre de la Communauté européenne ou dans un autre Etat membre de l'Espace économique européen : indice
-11 bis, hectolitre, 417,68.
+11 bis, hectolitre, 63,67.
 
-. Carburéacteurs, type essence :
+carburéacteurs, type essence :
 
-- sous condition d'emploi : indice 13, hectolitre, 14,76.
+sous condition d'emploi : indice 13, hectolitre, 14,76.
 
-- autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
+autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
 
 . Autres essences : indice 15, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
 
 2° Huiles moyennes.
 
-. Pétrole lampant :
+a) Pétrole lampant :
 
-- sous condition d'emploi : indice 15 bis, hectolitre, taxe intérieure applicable au fioul domestique visé à l'indice 20.
+sous condition d'emploi : indice 15 bis, hectolitre, taxe intérieure FOD.
 
-- autre : indice 16, hectolitre, taxe intérieure applicable au gazole d'un point éclair inférieur à 120° C, visé à l'indice
-22.
+autre : indice 16, hectolitre, taxe intérieure gazole.
 
-. Carburéacteurs, type pétrole lampant :
+b) Carburéacteurs, type pétrole lampant :
 
-- sous condition d'emploi : indice 17, hectolitre, 14,76.
+sous condition d'emploi : indice 17, hectolitre, 2,25.
 
-- autre : indice 17 bis, hectolitre, taxe intérieure applicable au gazole d'un point éclair inférieur à 120° C, visé à
-l'indice 22.
+autre : indice 17 bis, hectolitre, taxe intérieure gazole.
 
-. Autres huiles moyennes : indice 18, hectolitre, taxe intérieure applicable au gazole d'un point éclair inférieur à 120° C,
-visé à l'indice 22.
+c) Autres huiles moyennes : indice 18, hectolitre, taxe intérieure gazole.
 
 3° Huiles lourdes.
 
-. Gazole :
+a) Gazole :
 
-- sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 51,73.
+sous conditions d'emploi (fioul domestique) : indice 20, hectolitre, 5,49.
 
-- présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 255,18.
+présentant un point d'éclair inférieur à 120° C : indice 22, hectolitre, 38,90.
 
-- autre : indice 23, exemption.
+autre : indice 23, hectolitre, exemption.
 
-. Fioul :
+b) Fioul :
 
 . Fioul présentant une viscosité cinématique à 20° C inférieure ou égale à 9,5 centistockes :
 
-- présentant un point d'éclair inférieur à 120° C : indice 26, hectolitre, taxe intérieure applicable au gazole d'un point
-éclair inférieur à 120° C, visé à l'indice 22.
+présentant un point d'éclair inférieur à 120° C : indice 26, hectolitre, taxe intérieure gazole.
 
-- autre : indice 27, exemption.
+autre : indice 27, exemption.
 
 . Fiouls lourds :
 
-- d'une teneur en soufre supérieure à 2 % : indice 28, 100 kg net, 15,23.
+d'une teneur en soufre supérieure à 2 % : indice 28, 100 kg net, 2,32.
 
-- d'une teneur en soufre inférieure à 2 % : indice 28 bis, 100 kg net, 11,01.
+d'une teneur en soufre inférieure à 2 % : indice 28 bis, 100 kg net, 1,68.
 
-. Huiles lubrifiantes et autres : indice 29, exemption.
+c) Huiles lubrifiantes et autres : indice 29, exemption.
 
-. 2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou supérieure à 99 %) :
+2711-12, Propane liquéfié (à l'exclusion du propane d'une pureté égale ou supérieure à 99 %) :
 
-. destiné à être utilisé comme carburant, y compris le mélange spécial de butane et de propane dans lequel le propane
+destiné à être utilisé comme carburant, y compris le mélange spécial de butane et de propane dans lequel le propane
 représente plus de 50 % en poids :
 
-- sous condition d'emploi : indice 30 bis, 100 kg net, 25,86.
+sous condition d'emploi : indice 30 bis, 100 kg net, 3,94.
 
-- autre : indice 30 ter, 100 kg net, 65,71.
+autre : indice 30 ter, 100 kg net, 10,02.
 
-. destiné à d'autres usages : indice 31, exemption.
+destiné à d'autres usages : indice 31, exemption.
 
-. 2711-13, Butanes liquéfiés :
+2711-13, Butanes liquéfiés :
 
-. destinés à être utilisés comme carburant, y compris le mélange spécial de butane et de propane dans lequel le butane
+destinés à être utilisés comme carburant, y compris le mélange spécial de butane et de propane dans lequel le butane
 représente au moins 50 % en poids :
 
-- sous condition d'emploi : indice 31 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
+sous condition d'emploi : indice 31 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
 
-- autres : indice 31 ter, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
+autres : indice 31 ter, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
 
-. destinés à d'autres usages : indice 32, exemption.
+destinés à d'autres usages : indice 32, exemption.
 
-. 2711-14, Ethylène, propylène, butylène et butadiène : indice 33, exemption.
+2711-14, Ethylène, propylène, butylène et butadiène : indice 33, exemption.
 
-. 2711-19, Autres gaz liquéfiés :
+2711-19, Autres gaz liquéfiés :
 
-. destinés à être utilisés comme carburant :
+destinés à être utilisés comme carburant :
 
-- sous condition d'emploi : indice 33 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
+sous condition d'emploi : indice 33 bis, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 bis.
 
-- autre : indice 34, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
+autre : indice 34, 100 kg net, taxe intérieure applicable aux produits visés à l'indice 30 ter.
 
-. non dénommés : indice 35, exemption.
+non dénommés : indice 35, exemption.
 
-. Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 55,00.
+Ex 2711-21, Gaz naturel comprimé destiné à être utilisé comme carburant : indice 36, 100 mètres cubes, 8,38.
 
-. 2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
+2711-29, Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
 
-. destinés à être utilisés comme carburant : indice 38 bis, 100 mètres cubes, taxe intérieure applicable au gaz naturel
-comprimé utilisé comme carburant visé à l'indice 36.
+destinés à être utilisés comme carburant : indice 38 bis, 100 mètres cubes, taxe intérieure GNV.
 
-. destinés à d'autres usages : indice 39, exemption.
+destinés à d'autres usages : indice 39, exemption.
 
-. 2712-10, Vaseline : indice 40, exemption.
+2712-10, Vaseline : indice 40, exemption.
 
-. 2712-20, Paraffine contenant en poids moins de 0,75 % d'huile :
+2712-20, Paraffine contenant en poids moins de 0,75 % d'huile :
 
 indice 41, exemption.
 
-. Ex 2712-90, Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés : indice
-42, exemption.
-
-. Ex 2715-00, Bitumes fluxés ("cut-backs"), émulsions de bitume de pétrole et similaires : indice 47, exemption.
-
-. 3403-11, Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant
-moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux :
-
-indice 48, exemption.
-
-. Ex 3403-19, Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux :
-indice 49, exemption.
-
-. 3811 21-00, Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux : indice 51,
+Ex 2712-90, Paraffine (autre que celle visée au 2712-20), cires de pétrole et résidus paraffineux, même colorés : indice 42,
 exemption.
 
-. Ex 3824 90-95, Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou
+Ex 2715-00, Bitumes fluxés ("cut-backs"), émulsions de bitume de pétrole et similaires : indice 47, exemption.
+
+3403-11, Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant
+moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux : indice 48, exemption.
+
+Ex 3403-19, Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumineux : indice
+49, exemption.
+
+3811 21-00, Additifs pour huiles lubrifiantes, contenant des huiles de pétrole ou de minéraux bitumineux : indice 51,
+exemption.
+
+Ex 3824-90-95, Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou
 supérieure à 7 % en volume sans dépasser 20 % en volume :
 
-- sous condition d'emploi : indice 52, hectolitre, 40,85.
+sous condition d'emploi : indice 52, hectolitre, 1,80.
 
-- autre, destinée à être utilisée comme carburant : indice 53, hectolitre, 198,95.
+autre, destinée à être utilisée comme carburant : indice 53, hectolitre, 24,54.
 
-- autre, destinée à un usage autre que carburant ou combustible : indice 54, hectolitre, exemption.
+autre, destinée à un usage autre que carburant ou combustible :
+
+indice 54, hectolitre, exemption.
 
 2. Règles d'application.
 
@@ -9172,7 +9172,7 @@ bimestriel du "brent daté" est redevenu inférieur à la moyenne constatée au 
 Le ministre chargé du budget constate par arrêté les modifications de tarifs de la taxe intérieure de consommation résultant
 des alinéas précédents.
 
-Un décret fixe les modalités d'application de ces dispositions. 
+Un décret fixe les modalités d'application de ces dispositions.
 
 Tableau C : Autres huiles minérales.
 
@@ -9185,58 +9185,58 @@ Les produits visés au présent tableau sont exemptés de la taxe intérieure de
 
 3. Nomenclature.
 
-Numéros du tarif des douanes, désignation des produits, indice d'identification
+Code NC, désignation des produits, indice d'identification
 
-. Ex 2706, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris
-les goudrons reconstitués, destinés à des usages autres que combustibles.
+Ex 2706, Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les
+goudrons reconstitués, destinés à des usages autres que combustibles.
 
-. 2707 10, Benzols, indice 1.
+2707-10, Benzols, indice 1.
 
-. 2707 20, Toluols, indice 2.
+2707-20, Toluols, indice 2.
 
-. 2707 30, Xylois, indice 3.
+2707-30, Xylois, indice 3.
 
-. 2707 50-91 et 2707 50-99, Solvant-naphta et autres mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou
-plus de leur volume (y compris les pertes) à 250° C d'après la méthode A.S.T.M. D 86, destinés à des usages autres que
-carburants ou combustibles, indice 4.
+2707-50-91 et 2707-50-99, Solvant-naphta et autres mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou
+plus de leur volume (y compris les pertes) à 250° C d'après la méthode ASTM D 86, destinés à des usages autres que carburants
+ou combustibles, indice 4.
 
-. 2707 91-00, Huiles de créosote.
+2707-91-00, Huiles de créosote.
 
-. 2707 99-11, Huiles légères brutes distillant 90 % ou plus de leur volume jusqu'à 200° C.
+2707-99-11, Huiles légères brutes distillant 90 % ou plus de leur volume jusqu'à 200° C.
 
-. 2707 99-19, Autres huiles brutes.
+2707-99-19, Autres huiles brutes.
 
-. Ex 2711-12, Propane liquéfié d'une pureté égale ou supérieure à 99 %.
+Ex 2711-12, Propane liquéfié d'une pureté égale ou supérieure à 99 %.
 
-. Ex 2715-00, Mélanges bitumineux autres que les bitumes fluxés, émulsions de bitume de pétrole et similaires.
+Ex 2715-00, Mélanges bitumineux autres que les bitumes fluxés, émulsions de bitume de pétrole et similaires.
 
-. 2901, Hydrocarbures acycliques.
+2901, Hydrocarbures acycliques.
 
-. 2902 11, Cyclohexane, indice 12.
+2902-11, Cyclohexane, indice 12.
 
-. Ex 2902-19, Autres hydrocarbures cyclaniques et cycléniques (à l'exclusion de l'azulène et de ses dérivés alkylés), indice
+Ex 2902-19, Autres hydrocarbures cyclaniques et cycléniques (à l'exclusion de l'azulène et de ses dérivés alkylés), indice
 13.
 
-. 2902 20, Benzène, indice 14.
+2902-20, Benzène, indice 14.
 
-. 2902 30, Toluène, indice 15.
+2902-30, Toluène, indice 15.
 
-. 2902 41 00, O-xylène, indice 16.
+2902-41-00, O-xylène, indice 16.
 
-. 2902 42 00, M-xylène, indice 17.
+2902-42-00, M-xylène, indice 17.
 
-. 2902 43 00, P-xylène, indice 18.
+2902-43-00, P-xylène, indice 18.
 
-. 2902 44, Isomères du xylène en mélange, indice 19.
+2902-44, Isomères du xylène en mélange, indice 19.
 
-. 3403 19 10, Préparation contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux non considérés comme
+3403-19-10, Préparation contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux non considérés comme
 constituants de base.
 
-. Ex 3811, Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs
+Ex 3811, Préparations antidétonantes, inhibiteurs d'oxydation, additifs peptisants, améliorants de viscosité, additifs
 anticorrosifs et autres additifs préparés pour huiles minérales ou autres liquides utilisés aux mêmes fins (à l'exclusion des
 produits repris au 38 11 21 00).
 
-. 3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux des positions 27 07 ou 29 02.
+3817, Alkylbenzènes en mélange et alkylnaphtalène en mélange, autres que ceux des positions 27 07 ou 29 02.
 
 2. - (abrogé).
 
@@ -9580,9 +9580,16 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 26 novembre 2002
   - TXT_SOURCE: Arrêté du 10 novembre 1993
 
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 _Modifié par_:
 
-  - Loi n°2000-1352 du 30 décembre 2000 - art. 12 (V)
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi - art. 12 (V) JORF 31 décembre 2000
+  - Loi n°2000-1352 2000-12-30 art. 12 I, IV Finances pour 2001 JORF 31 décembre 2000
 
 
 ###### Article 265 A
@@ -9904,22 +9911,22 @@ _Abrogé par_:
 ###### Article 265 quinquies
 
 Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
-réfaction de 6,63 F par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
+réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
 territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
 
-<table cellpadding="0" border="1" align="center" cellspacing="0" width="605">
+<table align="center" width="605" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="166">
 
-NUMEROS
+NUMÉROS
 
 du tarif des douanes
 
 </td>
       <td width="237">
 
-DESIGNATION DES PRODUITS
+DÉSIGNATION DES PRODUITS
 
 </td>
       <td width="202">
@@ -9941,7 +9948,7 @@ d'identification
 Supercarburants
 
 </td>
-      <td width="202" valign="top">
+      <td valign="top" width="202">
 
 11 et 11 bis
 
@@ -9958,9 +9965,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
-  - Loi - art. 39 (V) JORF 31 décembre 1999
-  - Loi n°99-1172 1999-12-30 art. 39 VIII, IX Finances pour 2000 JORF 31 décembre 1999
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cite_:
 
@@ -10396,87 +10402,87 @@ _Cité par_:
 
 1. Le montant de la taxe mentionnée à l'article 266 sexies est fixé comme suit :
 
-Désignation des matières ou opérations imposables, l'unité de perception est la tonne, la quotité est en francs.
+Désignation des matières ou opérations imposables, l'unité de perception est la tonne, la quotité est en euros.
 
 Déchets.
 
-Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 60.
+Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés, 9,15.
 
 Déchets réceptionnés dans une installation de stockage de déchets ménagers et assimilés de provenance extérieure au périmètre
 du plan d'élimination des déchets, élaboré en vertu de l'article L. 541-14 du code de l'environnement, dans lequel est située
-l'installation de stockage, 90.
+l'installation de stockage, 13,72.
 
-Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 60.
+Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux, 9,15.
 
-Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 120.
+Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux, 18,29.
 
 Substances émises dans l'atmosphère.
 
-Oxydes de soufre et autres composés soufrés, 250.
+Oxydes de soufre et autres composés soufrés, 38,11.
 
-Acide chlorhydrique, 250.
+Acide chlorhydrique, 38,11.
 
-Protoxyde d'azote, 375.
+Protoxyde d'azote, 57,17.
 
-Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 300.
+Oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote, 45,73.
 
-Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 250.
+Hydrocarbures non méthaniques, solvants et autres composés organiques volatils, 38,11.
 
 Décollage d'aéronefs.
 
-Aérodromes du groupe 1, 68.
+Aérodromes du groupe 1, 10,37.
 
-Aérodromes du groupe 2, 25.
+Aérodromes du groupe 2, 3,81.
 
-Aérodromes du groupe 3, 5.
+Aérodromes du groupe 3, 0,76.
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
-Lubrifiants, huiles et préparations lubrifiantes, 250.
+Lubrifiants, huiles et préparations lubrifiantes, 38,11.
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants et assouplissants pour
 le linge.
 
-- dont la teneur en phosphates est inférieure à 5 % du poids, 470.
+- dont la teneur en phosphates est inférieure à 5 % du poids, 71,65.
 
-- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 520.
+- dont la teneur en phosphates est comprise entre 5 % et 30 % du poids, 79,27.
 
-- dont la teneur en phosphates est supérieur à 30 % du poids, 570.
+- dont la teneur en phosphates est supérieur à 30 % du poids, 86,90.
 
 Matériaux d'extraction.
 
-Matériaux d'extraction, 0,60.
+Matériaux d'extraction, 0,09.
 
 Substances classées dangereuses qui entrent dans la composition des produits antiparasitaires à usage agricole et des
 produits assimilés.
 
 Catégorie 1, 0.
 
-Catégorie 2, 2500.
+Catégorie 2, 381,12.
 
-Catégorie 3, 4000.
+Catégorie 3, 609,80.
 
-Catégorie 4, 5500.
+Catégorie 4, 838,47.
 
-Catégorie 5, 7000.
+Catégorie 5, 1067,14.
 
-Catégorie 6, 9000.
+Catégorie 6, 1372,04.
 
-Catégorie 7, 11000.
+Catégorie 7, 1676,94.
 
 Installations classées.
 
 Délivrance d'autorisation :
 
-- artisan n'employant pas plus de deux salariés, 2900.
+- artisan n'employant pas plus de deux salariés, 442,10.
 
-- autres entreprises inscrites au répertoire des métiers, 7000.
+- autres entreprises inscrites au répertoire des métiers, 1067,14.
 
-- autres entreprises, 14600.
+- autres entreprises, 2225,76.
 
-Exploitation au cours d'une année civile (tarif de base), 2200.
+Exploitation au cours d'une année civile (tarif de base), 335,39.
 
-2. Le montant minimal annuel de la taxe relative aux déchets est de 3000 F par installation.
+2. Le montant minimal annuel de la taxe relative aux déchets est de 450 euros par installation.
 
 3. La majoration applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe.
@@ -10554,6 +10560,10 @@ produit du tarif de base fixé dans le tableau figurant au 1 ci-dessus et du coe
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 _Cité par_:
 
   - Décret n°99-508 du 17 juin 1999 - art. 10 (V)
@@ -10588,6 +10598,12 @@ _Cité par_:
   - Code de l'environnement - art. R151-2 (VT)
   - Code des douanes - art. 266 undecies (V)
 
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - TXT_SOURCE: Décret n°2000-1349 du 26 décembre 2000
@@ -10597,15 +10613,6 @@ _Cité par_:
   - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004
   - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. 1 ()
   - TXT_SOURCE: Décret n°2004-1479 du 23 décembre 2004 - art. Annexe ()
-
-_Modifié par_:
-
-  - Loi - art. 36 (V) JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-  - Loi n°2000-1353 2000-12-30 art. 36 IV, VII Finances rectificative pour 2000 JORF 31 décembre 2000 en vigueur le 1er janvier 2001
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 octies
@@ -11720,7 +11727,14 @@ R. 238 du code de la route.
 3. Lorsque la taxe est recouvrée sur la base du tarif trimestriel, toute somme non réglée dans le délai de deux mois suivant
 la date d'exigibilité donne lieu à application d'une majoration de 10 %.
 
-Cette majoration n'est mise en recouvrement que lorsque son montant excède 50 F.
+Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
+
+4. Le paiement de la taxe doit être fait par virement directement opéré sur le compte du Trésor ouvert dans les écritures de
+la Banque de France, lorsque son montant excède 7600 euros.
+
+5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
+le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
+sanctions prévues en matière de droits de douane.
 
 **Liens relatifs à cet article**
 
@@ -11741,7 +11755,9 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°90-1169 du 29 décembre 1990 - art. 56 () JORF 30 décembre 1990
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2001-1275 du 28 décembre 2001 - art. 74 (V)
 
 
 ###### Article 284 quinquies
@@ -11811,28 +11827,29 @@ _Codifié par_:
 Lorsque des véhicules routiers ou des ensembles routiers immatriculés en France sont soumis dans un Etat étranger à des
 taxes, impôts ou redevances perçus à raison de leur séjour ou de leur passage en transit sur son territoire, sans qu'ils
 aient pu faire l'objet avec cet Etat de réductions ou d'exonérations réciproques, une taxe sur les véhicules ou ensembles de
-véhicules immatriculés dans cet Etat étranger et circulant sur le territoire français est instituée.
+véhicules immatriculés dans cet Etat étranger et circulant sur le territoire français est instituée. 
 
-La taxe est perçue à l'entrée des véhicules ou ensembles de véhicules sur le territoire français.
+La taxe est perçue à l'entrée des véhicules ou ensembles de véhicules sur le territoire français. 
 
 Elle est fixée à :
 
-- 250 F par jour pour les véhicules routiers dont le poids total en charge est supérieur à 16 tonnes ;
+- 38,11 euros par jour pour les véhicules routiers dont le poids total en charge est supérieur à 16 tonnes ;
 
-- 500 F par jour pour les ensembles de véhicules dont le poids total roulant autorisé est supérieur à 26 tonnes, avec un
-maximum de perception par séjour ou par passage de six jours.
+- 76,22 euros par jour pour les ensembles de véhicules dont le poids total roulant autorisé est supérieur à 26 tonnes, avec
+un maximum de perception par séjour ou par passage de six jours. 
 
 La taxe peut être suspendue ou réduite et ses modalités de perception aménagées par décret en fonction des accords passés
 avec les Etats concernés. A défaut d'accord, elle peut être réduite en fonction du niveau des taxes équivalentes dans chacun
-des Etats concernés.
+des Etats concernés. 
 
 Sa perception est exclusive de la perception de la taxe spéciale sur certains véhicules routiers visés à l'article 284 bis du
-présent code.
+présent code. 
 
 La taxe est perçue par l'administration des douanes selon les règles, garanties et sanctions applicables en matière
-douanière.
+douanière. 
 
-Des décrets pris en Conseil d'Etat désignent les Etats concernés et fixent dans chaque cas le champ d'application de la taxe.
+Des décrets pris en Conseil d'Etat désignent les Etats concernés et fixent dans chaque cas le champ d'application de la
+taxe. 
 
 Les présentes dispositions s'appliquent sous réserve des traités ou accords internationaux qui lient la France, en
 particulier les traités instituant les communautés européennes.
@@ -11843,10 +11860,6 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
-
-  - Loi n°86-1318 du 30 décembre 1986 - art. 33 () JORF 31 décembre 1986
-
 _Cité par_:
 
   - Décret n°88-964 du 12 octobre 1988 - art. 1 (V)
@@ -11854,18 +11867,19 @@ _Cité par_:
   - Décret n°89-142 du 3 mars 1989 - art. 1 (V)
   - Décret n°98-901 du 5 octobre 1998 - art. 1 (V)
 
-_Modifié par_:
-
-  - Loi n°88-1193 du 29 décembre 1988 - art. 33 () JORF 30 décembre 1988
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°98-901 du 5 octobre 1998
   - TXT_SOURCE: Décret n°98-901 du 5 octobre 1998 - art. 1 (V)
 
+_Modifié par_:
+
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 _Cite_:
 
-  - Code des douanes - art. 284 bis (M)
+  - Code des douanes - art. 284 bis (V)
 
 
 ###### Article 284 ter
@@ -11874,58 +11888,58 @@ I. - 1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme sui
 civil :
 
 catégorie de véhicules, poids total autorisé en charge ou poids total roulant autorisé (en tonnes), tarifs par trimestres en
-francs (tarif pour suspension pneumatique de l'(des) essieu(x) moteur(s) et tarif pour d'autres systèmes de suspension de
+euros (tarif pour suspension pneumatique de l'(des) essieu(x) moteur(s) et tarif pour d'autres systèmes de suspension de
 l'(des) essieu(x) moteur(s)) :
 
 Véhicules automobiles porteurs :
 
 a) à deux essieux :
 
-poids de 12 à 18, tarifs : 450 et 650.
+poids de 12 à 18, tarifs : 68,60 et 99,09.
 
-poids égal ou supérieur à 18, tarifs : 600 et 900.
+poids égal ou supérieur à 18, tarifs : 91,47 et 137,20.
 
 b) à trois essieux :
 
-poids égal ou supérieur à 12, tarifs : 450 et 650.
+poids égal ou supérieur à 12, tarifs : 68,60 et 99,09.
 
 c) à quatre essieux :
 
-poids de 12 à 27, tarifs : 450 et 650.
+poids de 12 à 27, tarifs : 68,60 et 99,09.
 
-poids égal ou supérieur à 27, tarifs : 600 et 890.
+poids égal ou supérieur à 27, tarifs : 91,47 et 135,68.
 
 Véhicules articulés composés d'un tracteur et d'une semi-remorque :
 
 a) semi-remorque à un essieu :
 
-poids de 12 à 20, tarifs : 620 et 860.
+poids de 12 à 20, tarifs : 94,52 et 131,11.
 
-poids de 20 à 27, tarifs : 950 et 1160.
+poids de 20 à 27, tarifs : 144,83 et 176,84.
 
-poids égal ou supérieur à 27, tarifs : 1450 et 1650.
+poids égal ou supérieur à 27, tarifs : 221,05 et 251,54.
 
 b) semi-remorque à deux essieux :
 
-poids de 12 à 27, tarifs : 620 et 860.
+poids de 12 à 27, tarifs : 94,52 et 131,11.
 
-poids de 27 à 33, tarifs : 770 et 1070.
+poids de 27 à 33, tarifs : 117,39 et 163,12.
 
-poids de 33 à 39, tarifs : 950 et 1270.
+poids de 33 à 39, tarifs : 144,83 et 193,61.
 
-poids égal ou supérieur à 39, tarifs : 1040 et 1540.
+poids égal ou supérieur à 39, tarifs : 158,55 et 234,77.
 
 c) semi-remorque à trois essieux :
 
-poids de 12 à 27, tarifs : 620 et 860.
+poids de 12 à 27, tarifs : 94,52 et 131,11.
 
-poids de 27 à 38, tarifs : 770 et 1070.
+poids de 27 à 38, tarifs : 117,39 et 163,12.
 
-poids égal ou supérieur à 38, tarifs : 860 et 1160.
+poids égal ou supérieur à 38, tarifs : 131,11 et 176,84.
 
 Remorques :
 
-poids égal ou supérieur à 16, tarifs : 450.
+poids égal ou supérieur à 16, tarifs : 68,60.
 
 Les tarifs prévus pour les véhicules équipés de suspension pneumatique de l'essieu moteur sont applicables aux véhicules dont
 l'essieu moteur dispose d'une suspension reconnue équivalente selon la définition de l'annexe III de la directive 92/7/CEE du
@@ -11960,13 +11974,10 @@ _Cité par_:
   - Loi n°98-546 du 2 juillet 1998 - art. 87 (V)
   - Code des douanes - art. 284 bis (V)
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 87 IV, V (dispositions transitoires)
-
 _Modifié par_:
 
-  - Loi n°98-546 du 2 juillet 1998 - art. 87 (V) JORF 3 juillet 1998 en vigueur le 1er janvier 1999
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ## Chapitre VI : Droits et taxes divers.<a id=157></a>
@@ -12083,30 +12094,29 @@ _Codifié par_:
 Il est perçu une taxe due par les entreprises de transport public maritime. Cette taxe est assise sur le nombre de passagers
 embarqués à destination :
 
-- d'un site naturel classé ou inscrit au titre de la loi du 2 mai 1930 ayant pour objet de réorganiser la protection des
-monuments naturels et des sites de caractère artistique, historique, scientifique, légendaire ou pittoresque ;
+- d'un site naturel classé ou inscrit au titre du chapitre Ier du titre IV du livre III du code de l'environnement ;
 
-- d'un parc national créé en application de l'article L. 241-1 du livre II nouveau du code rural ;
+- d'un parc national créé en application de l'article L. 331-1 du livre III du code de l'environnement ;
 
-- d'une réserve naturelle créée en application de l'article L. 242-1 du livre II nouveau du même code ;
+- d'une réserve naturelle créée en application de l'article L. 332-1 du livre III du même code ;
 
-- d'un site appartenant au Conservatoire de l'espace littoral et des rivages lacustres, en application de l'article L. 243-1
-du livre II nouveau du même code ;
+- d'un site appartenant au Conservatoire de l'espace littoral et des rivages lacustres, en application de l'article L. 322-1
+du livre III du même code ;
 
 - ou d'un port desservant exclusivement ou principalement un des espaces protégés mentionnés ci-dessus mais sans y être
 inclus.
 
 La liste des sites, parcs, réserves et ports mentionnés aux deuxième à sixième alinéas est fixée par décret. Les sites
-inscrits au titre de la loi du 2 mai 1930 précitée ne pourront figurer sur cette liste que sur demande des communes
-concernées.
+inscrits au titre du chapitre Ier du titre IV du livre III du code de l'environnement ne pourront figurer sur cette liste que
+sur demande des communes concernées.
 
 La taxe est ajoutée au prix demandé aux passagers. Elle est constatée, recouvrée et contrôlée par le service des douanes sous
 les mêmes garanties, sanctions et privilèges qu'en matière de droits de douane. L'Etat perçoit sur le produit de cette taxe
 un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 p. 100 dudit produit. Le tarif de la taxe est fixé par
-arrêté du ministre chargé du budget dans la limite de 10 F par passager. Cet arrêté peut prévoir des tarifs différents ou la
-gratuité selon les diverses catégories d'usagers pour tenir compte soit d'une nécessité d'intérêt général en rapport avec
-l'espace protégé, soit de la situation particulière de certains usagers, et notamment de ceux qui ont leur domicile ou leur
-lieu de travail dans l'espace protégé ou dans une île dont tout ou partie du territoire fait partie de l'espace protégé.
+arrêté du ministre chargé du budget dans la limite de 1,52 euro par passager. Cet arrêté peut prévoir des tarifs différents
+ou la gratuité selon les diverses catégories d'usagers pour tenir compte soit d'une nécessité d'intérêt général en rapport
+avec l'espace protégé, soit de la situation particulière de certains usagers, et notamment de ceux qui ont leur domicile ou
+leur lieu de travail dans l'espace protégé ou dans une île dont tout ou partie du territoire fait partie de l'espace protégé.
 
 La taxe est perçue au profit de la personne publique qui assure la gestion de l'espace naturel protégé ou, à défaut, de la
 commune sur le territoire de laquelle se trouve le site et est affectée à sa préservation.
@@ -12115,9 +12125,9 @@ Un décret en Conseil d'Etat précise les conditions d'application du présent a
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Codifié par_:
 
-  - Loi n°95-101 du 2 février 1995 - art. 48 () JORF 3 février 1995
+  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -12161,6 +12171,12 @@ _Cité par_:
   - Code rural - art. R*241-28 (Ab)
   - Code rural - art. R*243-31 (Ab)
 
+_Modifié par_:
+
+  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
 **Liens**:
 
   - TXT_SOURCE: Décret n°2000-1035 du 20 octobre 2000
@@ -12169,12 +12185,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Code rural L241-1, L242-1, L243-1
-  - Loi n°1930-05-02
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
+  - Code de l'environnement - art. L322-1 (M)
+  - Code de l'environnement - art. L331-1 (M)
+  - Code de l'environnement - art. L332-1 (V)
 
 
 ###### Article 285 quinquies
@@ -12204,7 +12217,7 @@ niveaux forfaitaires définis en écus par décision du Conseil de l'Union europ
 Ces taux de redevance sont fixés par arrêté conjoint du ministre chargé des douanes et du ministre chargé de l'agriculture.
 
 4. Pour les animaux et produits non concernés par les niveaux forfaitaires mentionnés au 3, le montant de la redevance est
-fixé à 40 F par tonne de marchandises, avec un minimum de 200 F et un maximum de 3 000 F par lot.
+fixé à 6,10 euros par tonne de marchandises, avec un minimum de 30,49 euros et un maximum de 457,35 euros par lot.
 
 5. Pour l'application des dispositions mentionnées aux 3 et 4, un lot est une quantité d'animaux de même espèce ou de
 produits de même nature, couverte par un même certificat ou document vétérinaire, transportée dans le même moyen de
@@ -12214,7 +12227,8 @@ transport, provenant ou originaire d'un même pays ou d'une même partie de pays
 
 _Modifié par_:
 
-  - Loi - art. 26 (V) JORF 31 décembre 1998 en vigueur le 1er janvier 1999
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Codifié par_:
 
@@ -12253,7 +12267,7 @@ entreprises de transport public aérien et maritime. Elle est ajoutée au prix d
 nombre de passagers embarquant dans ces régions.
 
 Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par
-chaque conseil régional dans la limite de 30 F par passager.
+chaque conseil régional dans la limite de 4,57 euros par passager.
 
 La taxe est due au titre des billets émis à compter du premier jour du quatrième mois qui suit la date de publication de la
 délibération du conseil régional.
@@ -12271,18 +12285,19 @@ Ces dispositions s'appliquent jusqu'au 31 décembre 2006.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code du tourisme. - art. L441-2 (V)
-  - Code général des collectivités territoriales - art. L4331-2 (V)
-
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
 _Modifié par_:
 
-  - Loi n°2000-1207 du 13 décembre 2000 - art. 60 () JORF 14 décembre 2000
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Cité par_:
+
+  - Code du tourisme. - art. L441-2 (V)
+  - Code général des collectivités territoriales - art. L4331-2 (V)
 
 
 # Titre XI : Zones franches.<a id=158></a>
@@ -13813,14 +13828,10 @@ fois la valeur de l'objet de fraude, tout fait de contrebande ainsi que tout fai
 déclaration lorsque ces infractions se rapportent à des marchandises de la catégorie de celles qui sont prohibées ou
 fortement taxées au sens du présent code.
 
-Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 5 000 F, sont passibles d'une amende
-égale à la valeur desdites marchandises.
+Les infractions portant sur des marchandises non prohibées, dont la valeur n'excède pas 770 euros, sont passibles d'une
+amende égale à la valeur desdites marchandises.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -13863,7 +13874,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°87-502 1987-07-08 art. 25 III JORF 9 juillet 1987
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 _Anciens textes_:
 
@@ -14696,7 +14712,7 @@ Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'
 l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
 établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration dans des
 conditions fixées par décret. Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant
-est inférieur à 50 000 F.
+est inférieur à 7600 euros.
 
 **Liens relatifs à cet article**
 
@@ -14708,9 +14724,10 @@ _Cite_:
 
   - Loi n°84-46 1984-01-24 art. 8
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -14810,12 +14827,12 @@ d'authentification des déclarations ainsi souscrites.
 assujettis pendant un délai de six ans à compter de la date de l'opération faisant l'objet de cette déclaration.
 
 4. Le défaut de production dans les délais de la déclaration prévue au 2 ci-dessus donne lieu à l'application d'une amende de
-5 000 F.
+750 euros.
 
-Elle est portée à 10 000 F à défaut de production de la déclaration dans les trente jours d'une mise en demeure.
+Elle est portée à 1500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure.
 
-Chaque omission ou inexactitude dans la déclaration produite donne lieu à l'application d'une amende de 100 F, sans que le
-total puisse excéder 10 000 F.
+Chaque omission ou inexactitude dans la déclaration produite donne lieu à l'application d'une amende de 15 euros, sans que le
+total puisse excéder 1500 euros.
 
 L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du
 document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs
@@ -14843,7 +14860,7 @@ souscrire celle-ci.
 
 Le refus de déférer à une convocation, le défaut de réponse à une demande de renseignements écrite, ou la non-remise de
 documents nécessaires à l'établissement de la déclaration mentionnée au 2 ci-dessus donne lieu à l'application d'une amende
-de 10 000 F.
+de 1500 euros.
 
 Cette amende est recouvrée selon les modalités prévues aux quatrième et cinquième alinéa du 4 ci-dessus. Le contentieux de
 l'amende est assuré et suivi selon les mêmes procédures et sous les mêmes garanties, sûretés et privilèges que ceux prévus
@@ -14854,10 +14871,10 @@ pour la taxe sur la valeur ajoutée.
 _Cité par_:
 
   - Arrêté du 23 juillet 2010 (V)
+  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
   - Arrêté du 27 juillet 2010 (V)
   - Arrêté du 16 décembre 2010 (V)
   - Arrêté du 16 novembre 2012 (V)
-  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
   - Livre des procédures fiscales - art. R*247-5 B (V)
 
 _Cite_:
@@ -14871,7 +14888,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-514 du 17 juin 1998 - art. 1 () JORF 25 juin 1998
+  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
 ## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=225></a>
