@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2001-01-05
+Version Consolidée au 2001-01-17
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -150,7 +150,7 @@ Version Consolidée au 2001-01-05
         - [Paragraphe 4 : Radiations. (art. 250)](#147)
         - [Paragraphe 5 : Ventes. (art. 251)](#148)
         - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252)](#149)
-    - [Chapitre II : Navigation réservée. (art. 257 à 259)](#150)
+    - [Chapitre II : Dispositions particulières. (art. 257 à 260)](#150)
     - [Chapitre III : Relâches forcées. (art. 261 à 262)](#151)
     - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#152)
   - [Titre X : Taxes diverses perçues par la douane (art. 265 à 285 ter)](#153)
@@ -171,64 +171,61 @@ Version Consolidée au 2001-01-05
     - [Chapitre II : Importations d'Algérie. (art. 309)](#168)
     - [Chapitre III : Importations du Maroc. (art. 319 à 321)](#169)
     - [Chapitre IV : Importations des Nouvelles-Hébrides. (art. 322)](#170)
-  - [Titre XII : Contentieux (art. 322 bis à 437)](#171)
-    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis)](#172)
-      - [Section 01 : Droit de consignation. (art. 322 bis)](#173)
-    - [Chapitre II : Poursuites (art. 345 à 355)](#174)
-      - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#175)
-        - [Paragraphe 1 : Emploi de la contrainte. (art. 345 à 346)](#176)
-        - [Paragraphe 2 : Titres. (art. 347 à 349)](#177)
-      - [Section 3 : Extinction des droits de poursuite et de répression (art. 354 à 355)](#178)
-        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 354 à 355)](#179)
-          - [B. - Prescription contre l'administration. (art. 354)](#180)
-          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#181)
-    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 358)](#182)
-      - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#183)
-        - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#184)
-        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#185)
-    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#186)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381 bis)](#187)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#188)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#189)
-        - [Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne. (art. 381 bis)](#190)
-      - [Section 2 : Voies d'exécution (art. 382 à 390)](#191)
-        - [Paragraphe 1 : Règles générales. (art. 382)](#192)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#193)
-        - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 388)](#194)
-        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#195)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#196)
-          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#197)
-      - [Section 3 : Droit de remise. (art. 390 bis)](#198)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#199)
-    - [Chapitre V : Responsabilité et solidarité (art. 403)](#200)
-      - [Section 2 : Responsabilité civile (art. 403)](#201)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#202)
-    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#203)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 428)](#204)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#205)
-          - [A. - Première classe. (art. 410)](#206)
-          - [C. - Troisième classe. (art. 412)](#207)
-          - [E. - Cinquième classe. (art. 413 bis)](#208)
-        - [Paragraphe 3 : Délits douaniers (art. 414)](#209)
-          - [A. - Première classe. (art. 414)](#210)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 426 à 428)](#211)
-      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#212)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#213)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#214)
-      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#215)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#216)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#217)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#218)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#219)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#220)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#221)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#222)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#223)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#224)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#225)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#226)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#227)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#228)
+  - [Titre XII : Contentieux (art. 345 à 437)](#171)
+    - [Chapitre II : Poursuites (art. 345 à 355)](#172)
+      - [Section 2 : Poursuite par voie de contrainte (art. 345 à 349)](#173)
+        - [Paragraphe 1 : Emploi de la contrainte. (art. 345 à 346)](#174)
+        - [Paragraphe 2 : Titres. (art. 347 à 349)](#175)
+      - [Section 3 : Extinction des droits de poursuite et de répression (art. 354 à 355)](#176)
+        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 354 à 355)](#177)
+          - [B. - Prescription contre l'administration. (art. 354)](#178)
+          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#179)
+    - [Chapitre III : Procédure devant les tribunaux (art. 357 bis à 358)](#180)
+      - [Section 1 : Tribunaux compétents en matière de douane (art. 357 bis à 358)](#181)
+        - [Paragraphe 1 : Compétence "ratione materiae". (art. 357 bis)](#182)
+        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#183)
+    - [Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière (art. 378 à 391)](#184)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381 bis)](#185)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#186)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#187)
+        - [Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne. (art. 381 bis)](#188)
+      - [Section 2 : Voies d'exécution (art. 382 à 390)](#189)
+        - [Paragraphe 1 : Règles générales. (art. 382)](#190)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#191)
+        - [Paragraphe 3 : Exercice anticipé de la contrainte par corps. (art. 388)](#192)
+        - [Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#193)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#194)
+          - [B. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#195)
+      - [Section 3 : Droit de remise. (art. 390 bis)](#196)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#197)
+    - [Chapitre V : Responsabilité et solidarité (art. 403)](#198)
+      - [Section 2 : Responsabilité civile (art. 403)](#199)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 403)](#200)
+    - [Chapitre VI : Dispositions répressives (art. 410 à 437)](#201)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 410 à 414)](#202)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#203)
+          - [A. - Première classe. (art. 410)](#204)
+          - [C. - Troisième classe. (art. 412)](#205)
+          - [E. - Cinquième classe. (art. 413 bis)](#206)
+        - [Paragraphe 3 : Délits douaniers (art. 414)](#207)
+          - [A. - Première classe. (art. 414)](#208)
+      - [Section 2 : Peines complémentaires (art. 431 à 432 bis)](#209)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#210)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 bis)](#211)
+      - [Section 3 : Cas particuliers d'application des peines (art. 437)](#212)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 437)](#213)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450)](#214)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#215)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#216)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#217)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#218)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#219)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#220)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 466)](#221)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#222)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#223)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#224)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#225)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -7676,73 +7673,62 @@ _Modifié par_:
 
 ###### Article 219
 
-I. - Pour être francisé, le navire doit répondre aux conditions suivantes :
+I. - Pour être francisé, un navire armé au commerce ou à la plaisance, qui a fait l'objet d'un contrôle de sécurité
+conformément à la réglementation en vigueur, doit répondre aux conditions suivantes :
 
-1. Avoir été construit dans le territoire de la République française dans lequel il doit être francisé ou y avoir acquitté
-les droits et taxes d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué
-pour infractions aux lois françaises.
+1° Avoir été construit dans le territoire d'un Etat membre de la Communauté européenne ou y avoir acquitté les droits et
+taxes d'importation exigibles à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour infractions
+aux lois françaises ;
 
-2. A. Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou, s'agissant
-des navires armés au commerce ou à la plaisance, d'un Etat partie à l'accord sur l'Espace économique européen qui, s'ils
-résident sur le territoire de la République française moins de six mois par an, doivent y faire élection de domicile pour
-toutes les affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire.
+2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat
+partie à l'accord sur l'Espace économique européen qui, s'ils résident sur le territoire de la République française moins de
+six mois par an, doivent y faire élection de domicile pour toutes les affaires administratives ou judiciaires se rapportant à
+la propriété et à l'état du navire ;
 
-B. Soit appartenir pour le tout à des sociétés ayant leur siège social sur le territoire de la République française ou d'un
-autre Etat membre de la Communauté européenne ou, s'agissant des navires armés au commerce ou à la plaisance, d'un Etat
-partie à l'accord sur l'Espace économique européen, sous réserve, dans ces deux derniers cas, que l'exploitation et
-l'utilisation du navire soient dirigées et contrôlées à partir d'un établissement stable situé sur le territoire français.
+B. - Soit appartenir pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le
+territoire de la République française ou d'un autre Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen, sous réserve, dans ces deux derniers cas, que le navire soit dirigé et contrôlé à
+partir d'un établissement stable situé sur le territoire français.
 
 Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à la Communauté européenne ou n'étant pas partie à
 l'accord sur l'Espace économique européen lorsque, en application d'une convention conclue entre la France et cet Etat, une
 société constituée conformément à la loi française peut régulièrement exercer son activité sur le territoire dudit Etat et y
-avoir son siège social. L'exploitation et l'utilisation du navire doivent alors être également dirigées et contrôlées à
-partir d'un établissement stable situé sur le territoire français.
+avoir son siège social. Le navire doit alors être également dirigé et contrôlé à partir d'un établissement stable situé sur
+le territoire français ;
 
-En outre, quel que soit le lieu du siège social, doivent être ressortissants d'un Etat membre de la Communauté européenne ou
-d'un Etat partie à l'accord sur l'Espace économique européen :
+C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat
+partie à l'accord sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les
+conditions prévues au B ;
 
-a) dans les sociétés anonymes : le président du conseil d'administration, les directeurs généraux et la majorité des membres
-du conseil d'administration, ou bien les membres du directoire et la majorité des membres du conseil de surveillance, selon
-le cas ;
-
-b) dans les sociétés en commandite par actions : les gérants et la majorité des membres du conseil de surveillance ;
-
-c) dans les sociétés en commandite simple, les sociétés à responsabilité limité, les sociétés en nom collectif et les
-sociétés civiles : les gérants et les associés détenant au moins la moitié du capital social ;
-
-C. Soit appartenir pour le tout, sans condition de proportion dans la répartition de la propriété, à des ressortissants d'un
-Etat membre de la Communauté européenne ou, s'agissant des navires armés au commerce ou à la plaisance, d'un Etat partie à
-l'accord sur l'Espace économique européen remplissant les conditions prévues au paragraphe A ci-dessus et à des sociétés
-remplissant les conditions prévues au paragraphe B ;
-
-D. Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
+D. - Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
 crédit-bail :
 
-a) ou pour moitié au moins, et quels que soient les titulaires de la propriété du reliquat, à des ressortissants d'un Etat
-membre de la Communauté européenne ou, s'agissant des navires armés au commerce ou à la plaisance, d'un Etat partie à
-l'accord sur l'Espace économique européen remplissant les conditions prévues au paragraphe A ci-dessus ;
+a) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
+sur l'Espace économique européen remplissant les conditions prévues au A ;
 
-b) ou pour le tout à des sociétés remplissant les conditions prévues au paragraphe B ci-dessus ;
+b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues au B ;
 
-c) ou pour le tout, sans condition de proportion dans la répartition de la propriété, à des français remplissant les
-conditions prévues au paragraphe A et à des sociétés remplissant les conditions prévues au paragraphe B.
+c) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord
+sur l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les conditions prévues
+au B ;
 
-3. Indépendamment des cas prévus au paragraphe 2 ci-dessus, la francisation d'un navire peut être accordée par agrément
-spécial du ministre chargé de la marine marchande et du ministre de l'économie et des finances dans les deux cas ci-après :
+3° Indépendamment des cas prévus au 2°, la francisation d'un navire de commerce ou de plaisance peut être accordée par
+agrément spécial dans des conditions fixées par décret :
 
-1° lorsque, dans l'une des hypothèses prévues aux paragraphes 2 B, 2 C, 2 D b ou c, les droits des personnes physiques ou
-morales remplissant les conditions de nationalité, de résidence ou de siège social définies par lesdites dispositions ne
-s'étendent pas à la totalité mais à la moitié au moins du navire et, en outre, à la condition que la gestion du navire soit
-assurée par ces personnes elles-mêmes ou, à défaut, confiée à d'autres personnes remplissant les conditions prévues au
-paragraphe 2 A ou 2 B ci-dessus ;
+A. - Lorsque, dans l'une des hypothèses prévues au 2°, les droits des personnes physiques ou morales remplissant les
+conditions de nationalité, de résidence, de siège social ou de principal établissement définies par lesdites dispositions ne
+s'étendent pas à la moitié mais au quart au moins du navire et, en outre, à la condition que la gestion du navire soit
+assurée par ces personnes elles-mêmes ou, à défaut, confiée à d'autres personnes remplissant les conditions prévues au 2° A
+ou au 2° B ;
 
-2° lorsque le navire a été affrété, coque nue, par une personne physique ou par une personne morale, répondant aux conditions
-prévues respectivement aux paragraphes A et B du 2 ci-dessus, qui en assure le contrôle, l'armement, l'exploitation et la
-gestion nautique, et si la loi de l'Etat du pavillon permet, en pareille hypothèse, l'abandon du pavillon étranger.
+B. - Lorsqu'un navire de commerce ou de plaisance a été affrété, coque nue, par une personne physique ou par une personne
+morale répondant aux conditions prévues respectivement au 2° A ou au 2° B, qui en assure le contrôle, l'armement,
+l'exploitation et, le cas échéant, la gestion nautique, et si la loi de l'Etat du pavillon permet, en pareille hypothèse,
+l'abandon du pavillon étranger.
 
-II. - Les navires étrangers peuvent être également francisés lorsque, à la suite d'un naufrage sur les côtes du territoire où
-la francisation doit avoir lieu, ils sont devenus entièrement propriété française et sont montés par des français, après
-réparations s'élevant au quadruple au moins de leur prix d'achat.
+II. - Lorsqu'il est frété coque nue, un navire de commerce ou de plaisance francisé ne peut conserver le pavillon français
+qu'à la condition qu'il soit, pendant la durée de son affrètement, dirigé et contrôlé à partir d'un établissement stable
+situé sur le territoire français.
 
 **Liens relatifs à cet article**
 
@@ -7773,7 +7759,87 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°96-151 du 26 février 1996 - art. 2 () JORF 27 février 1996
+  - Loi n°2001-43 du 16 janvier 2001 - art. 8 () JORF 17 janvier 2001
+
+
+###### Article 219 bis
+
+I. - Pour être francisé, un navire armé à la pêche doit répondre aux conditions suivantes :
+
+1° Avoir été construit dans le territoire d'un Etat membre de la Communauté européenne ou y avoir acquitté les droits et
+taxes d'importation exigibles, à moins qu'il n'ait été déclaré de bonne prise faite sur l'ennemi ou confisqué pour
+infractions aux lois françaises ;
+
+2° A. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne qui, s'ils
+résident sur le territoire de la République française moins de six mois par an, doivent y faire élection de domicile pour
+toutes les affaires administratives ou judiciaires se rapportant à la propriété et à l'état du navire ;
+
+B. - Soit appartenir pour moitié au moins à des sociétés ayant leur siège social ou leur principal établissement sur le
+territoire de la République française ou d'un autre Etat membre de la Communauté européenne sous réserve, dans ce dernier
+cas, que le navire soit dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français.
+
+Toutefois, le siège social peut être situé dans un Etat n'appartenant pas à la Communauté européenne lorsque, en application
+d'une convention conclue entre la France et cet Etat, une société constituée conformément à la loi française peut
+régulièrement exercer son activité sur le territoire dudit Etat et y avoir son siège social. Le navire doit alors être
+également dirigé et contrôlé à partir d'un établissement stable situé sur le territoire français ;
+
+C. - Soit appartenir pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les
+conditions prévues au A et à des sociétés remplissant les conditions prévues au B ;
+
+D. - Soit être destiné à appartenir après levée de l'option ouverte pour l'acquisition de la propriété par une opération de
+crédit-bail :
+
+a) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les conditions
+prévues au A ;
+
+b) Ou pour moitié au moins à des sociétés remplissant les conditions prévues au B ;
+
+c) Ou pour moitié au moins à des ressortissants d'un Etat membre de la Communauté européenne remplissant les conditions
+prévues au A et à des sociétés remplissant les conditions prévues au B ;
+
+3° Indépendamment des cas prévus au 2°, la francisation d'un navire armé à la pêche peut être accordée par agrément spécial
+dans des conditions fixées par décret :
+
+A. - Lorsque, dans l'une des hypothèses prévues au 2°, les droits des personnes physiques ou morales remplissant les
+conditions de nationalité, de résidence, de siège social ou de principal établissement définies par lesdites dispositions ne
+s'étendent pas à la moitié mais au quart au moins du navire ;
+
+B. - Lorsqu'un navire a été affrété coque nue, en vue d'être armé à la pêche, par une personne physique ou par une personne
+morale répondant aux conditions prévues respectivement au 2° A ou au 2° B et si la loi de l'Etat du pavillon permet, en
+pareille hypothèse, l'abandon du pavillon étranger.
+
+II. - Lorsqu'il est frété coque nue, un navire francisé et armé à la pêche ne peut conserver le pavillon français qu'à la
+condition qu'il soit, pendant la durée de son affrètement, dirigé et contrôlé à partir d'un établissement stable situé sur le
+territoire français.
+
+III. - Le navire francisé et armé à la pêche doit avoir un lien économique réel avec le territoire français.
+
+Le mandataire social de l'armement ou son représentant doit résider sur le territoire français.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Cité par_:
+
+  - Loi n°67-5 du 3 janvier 1967 - art. 3 (V)
+  - Loi n°2016-816 du 20 juin 2016 - art. 2
+  - Décret n°2017-974 du 10 mai 2017 (V)
+  - Décret n°2017-974 du 10 mai 2017 - art. 1 (V)
+  - Décret n°2017-974 du 10 mai 2017 - art. 6 (V)
+  - Arrêté du 6 juillet 2017 - art. (V)
+  - Code des douanes - art. 251 (V)
+  - Code des transports - art. R5232-7 (VD)
+
+**Liens**:
+
+  - TXT_SOURCE: Loi n°67-5 du 3 janvier 1967 - art. 3 (M)
+
+_Créé par_:
+
+  - Loi n°2001-43 du 16 janvier 2001 - art. 8 () JORF 17 janvier 2001
 
 
 ###### Article 220
@@ -8642,25 +8708,23 @@ _Anciens textes_:
   - Loi n°46-2294 1946-09-19 art. 2
 
 
-## Chapitre II : Navigation réservée.<a id=150></a>
+## Chapitre II : Dispositions particulières.<a id=150></a>
 
 ###### Article 257
 
-1. Les transports effectués entre les ports de la France métropolitaine sont réservés au pavillon français. Toutefois, le
-ministre chargé de la marine marchande peut autoriser un navire étranger à assurer un transport déterminé.
+Les transports effectués entre les ports de la France métropolitaine sont réservés aux navires exploités par des armateurs
+ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen et immatriculés dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
+économique européen et battant pavillon de ce même Etat.
 
-2. (dénonciation de l'accord franco-algérien relatif aux transports maritimes ; la dénonciation a pris effet le 1er août
-1988).
+Toutefois, l'autorité administrative peut, dans des conditions fixées par décret, autoriser un navire ne satisfaisant pas à
+ces conditions à assurer un transport déterminé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
 
 _Cité par_:
 
@@ -8674,34 +8738,37 @@ _Cité par_:
   - Code des douanes - art. 260 (V)
   - Code des douanes - art. 276 (Ab)
 
+_Modifié par_:
+
+  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
 
 ###### Article 258
 
-1. Sont également réservés au pavillon français les transports effectués :
+1° Sont également réservés aux navires exploités par des armateurs ressortissants d'un Etat membre de la Communauté
+européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, immatriculés dans un Etat membre de la
+Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et battant pavillon de ce même
+Etat, les transports effectués :
 
-a) entre les ports d'un même département français d'outre-mer ;
+a) Entre les ports d'un même département français d'outre-mer ;
 
-b) entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
+b) Entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
 
-2. Des arrêtés du ministre chargé de la marine marchande, pris après avis du ministre de l'économie et des finances, peuvent
-réserver aux navires français les transports de certaines marchandises effectués :
+2° L'autorité administrative peut réserver, dans des conditions fixées par décret, aux navires mentionnés au 1°, les
+transports de certaines marchandises effectués :
 
-a) entre les ports des départements français d'outre-mer et ceux de la France métropolitaine ;
+a) Entre les ports des départements français d'outre-mer et ceux de la France métropolitaine ;
 
-b) entre les ports de la Réunion et des autres départements français d'outre-mer.
+b) Entre les ports de la Réunion et des autres départements français d'outre-mer.
 
-3. Il peut être dérogé aux dispositions prévues par le paragraphe 1er et par le paragraphe 2 du présent article par des
-décisions de l'administration locale des affaires maritimes.
+3° Toutefois, par dérogation aux dispositions prévues aux 1° et 2°, les services des affaires maritimes locaux concernés
+peuvent autoriser un navire ne satisfaisant pas aux conditions du 1° à assurer un transport déterminé.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
 
 _Cité par_:
 
@@ -8712,37 +8779,83 @@ _Cité par_:
   - Code des transports - art. L5734-2 (VD)
   - Code des transports - art. L5744-2 (VD)
 
+_Modifié par_:
+
+  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
 
 ###### Article 259
 
-1. En cas d'événements exceptionnels ayant pour effet d'interrompre temporairement les relations maritimes réservées au
-pavillon français, le Gouvernement peut suspendre par décret pris en conseil des ministres et pendant tout le temps que dure
-cette interruption, l'application de l'article 257 ci-dessus.
+En cas d'événements exceptionnels ayant pour effet d'interrompre temporairement les relations maritimes réservées aux navires
+exploités par des armateurs ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur
+l'Espace économique européen, immatriculés dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à
+l'accord sur l'Espace économique européen et battant pavillon de ce même Etat, le Gouvernement peut suspendre par décret
+délibéré en conseil des ministres après avis du Conseil d'Etat, et pendant tout le temps que dure cette interruption,
+l'application de l'article 257 et autoriser ainsi les navires battant pavillon d'un Etat autre que ceux précités à effectuer
+des transports entre les ports de la France métropolitaine. 
 
-2. Il peut également, dans la même forme et durant la même période, admettre exceptionnellement au bénéfice de leur origine
-les produits qui, par suite de l'interruption des relations normales, ne peuvent être importés dans les conditions
-réglementaires. Le bénéfice de ce régime est réservé aux seuls produits accompagnés d'un certificat d'origine, dans les
-conditions fixées par l'administration des douanes.
-
-3. Le retour au régime normal est prononcé dans la même forme aussitôt que les circonstances le permettent.
-
-4. Restent admissibles au bénéfice de leur origine les marchandises en cours de route qui sont justifiées avoir été expédiées
-avant la publication du décret au Journal officiel.
+Le retour au régime normal est prononcé dans la même forme aussitôt que les circonstances le permettent.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Décret n°2016-935 du 7 juillet 2016 - art. 2
-  - Code des douanes - art. 412 (V)
-
 _Cite_:
 
-  - Code des douanes - art. 257 (M)
+  - Code des douanes - art. 257 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 412 (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
+
+###### Article 260
+
+1. Sont également réservées au pavillon français, dans les conditions prévues aux articles 257 à 259 qui précèdent, les
+opérations de remorquage effectuées :
+
+a) à l'intérieur des ports ou des eaux territoriales de la métropole et des départements français d'outre-mer ;
+
+b) entre les ports d'un de ces mêmes territoires ;
+
+c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
+
+2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins
+qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises
+représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût
+excède 3 F par tonneau de jauge brute totale.
+
+3. Toutefois, le pavillon étranger peut être admis à pratiquer les opérations de remorquage susvisées dans le cas où il
+n'existerait pas de remorqueur français disponible ou suffisant sur place ni dans les ports français plus proches que les
+ports d'attache des remorqueurs étrangers qui pourraient être requis.
+
+4. Les remorqueurs étrangers sont admis à pénétrer dans les ports français, soit lorsqu'ils remorquent des navires ou
+chalands, à partir d'un port étranger ou du large au-delà de la limite des eaux territoriales, soit lorsqu'ils viennent
+prendre à la remorque des navires ou chalands pour les conduire dans un port étranger ou au-delà de la limite des eaux
+territoriales, leurs opérations à l'intérieur des ports devant se borner à la conduite ou à la prise du navire à son poste
+d'amarrage.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Loi n°85-1404 du 30 décembre 1985 - art. 27 () JORF 31 décembre 1985
+  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+
+_Cite_:
+
+  - Code des douanes 257 à 259
 
 
 ## Chapitre III : Relâches forcées.<a id=151></a>
@@ -12753,64 +12866,11 @@ _Cité par_:
 
 # Titre XII : Contentieux<a id=171></a>
 
-## Chapitre Ier : Constatation des infractions douanières<a id=172></a>
+## Chapitre II : Poursuites<a id=172></a>
 
-### Section 01 : Droit de consignation.<a id=173></a>
+### Section 2 : Poursuite par voie de contrainte<a id=173></a>
 
-###### Article 322 bis
-
-Les agents des douanes peuvent consigner les marchandises visées au 4 de l'article 38 ci-dessus ou susceptibles d'appartenir
-à l'une des catégories de marchandises énumérées dans cette même disposition, et éventuellement les véhicules qui les
-transportent, dans les locaux professionnels ou dans tout autre lieu autorisé par le service, aux frais du propriétaire, du
-destinataire, de l'exportateur ou, à défaut, de toute autre personne qui participe à l'opération d'importation ou
-d'exportation, pendant une durée de dix jours, renouvelable sur autorisation du procureur de la République dans la limite de
-vingt et un jours au total, aux fins de vérification pour laquelle ils peuvent procéder ou faire procéder au prélèvement
-d'échantillons pour analyse. Ils peuvent, le cas échéant, contraindre le transporteur à se rendre sur un lieu approprié.
-
-Les marchandises et les véhicules consignés sont confiés à la garde du détenteur ou de toute autre personne sur les lieux de
-la consignation.
-
-**Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°55-989 1955-07-27 art. 1 JORF 28 juillet 1955
-  - Loi n°92-1477 du 31 décembre 1992 - art. 25 () JORF 5 janvier 1993
-  - Loi n°94-114 du 10 février 1994 - art. 14 () JORF 11 février 1994
-
-_Cité par_:
-
-  - Loi n°95-877 du 3 août 1995 - art. 22 (Ab)
-  - Code des douanes - art. 468 (VD)
-  - Code des douanes - art. 65 A bis (V)
-  - Code du patrimoine. - art. L112-22 (V)
-  - Code rural - art. L251-18 (M)
-  - Code rural - art. L936-6 (T)
-  - Code rural - art. L951-18 (T)
-  - Code rural ancien - art. 275-6 (Ab)
-  - Code rural ancien - art. 363-1 (Ab)
-  - Code rural ancien - art. 364 (M)
-  - Code rural et de la pêche maritime - art. L236-6 (VD)
-  - Code rural et de la pêche maritime - art. L251-18-1 (VD)
-
-_Cite_:
-
-  - Code des douanes - art. 38 (M)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°55-594 1955-05-20 art. 29 JORF 21 mars 1955
-
-
-## Chapitre II : Poursuites<a id=174></a>
-
-### Section 2 : Poursuite par voie de contrainte<a id=175></a>
-
-#### Paragraphe 1 : Emploi de la contrainte.<a id=176></a>
+#### Paragraphe 1 : Emploi de la contrainte.<a id=174></a>
 
 ###### Article 345
 
@@ -12858,7 +12918,7 @@ _Cité par_:
   - Code des douanes - art. 348 (V)
 
 
-#### Paragraphe 2 : Titres.<a id=177></a>
+#### Paragraphe 2 : Titres.<a id=175></a>
 
 ###### Article 347
 
@@ -12896,11 +12956,11 @@ _Cite_:
   - Code des douanes - art. 362 (M)
 
 
-### Section 3 : Extinction des droits de poursuite et de répression<a id=178></a>
+### Section 3 : Extinction des droits de poursuite et de répression<a id=176></a>
 
-#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=179></a>
+#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=177></a>
 
-##### B. - Prescription contre l'administration.<a id=180></a>
+##### B. - Prescription contre l'administration.<a id=178></a>
 
 ###### Article 354
 
@@ -12929,7 +12989,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=181></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=179></a>
 
 ###### Article 355
 
@@ -12958,11 +13018,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Procédure devant les tribunaux<a id=182></a>
+## Chapitre III : Procédure devant les tribunaux<a id=180></a>
 
-### Section 1 : Tribunaux compétents en matière de douane<a id=183></a>
+### Section 1 : Tribunaux compétents en matière de douane<a id=181></a>
 
-#### Paragraphe 1 : Compétence "ratione materiae".<a id=184></a>
+#### Paragraphe 1 : Compétence "ratione materiae".<a id=182></a>
 
 ###### Article 357 bis
 
@@ -12985,7 +13045,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-#### Paragraphe 2 : Compétence "ratione loci".<a id=185></a>
+#### Paragraphe 2 : Compétence "ratione loci".<a id=183></a>
 
 ###### Article 358
 
@@ -13009,11 +13069,11 @@ _Cité par_:
   - Code des douanes - art. 352 (V)
 
 
-## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=186></a>
+## Chapitre IV : Exécution des jugements, des contraintes et des obligations en matière douanière<a id=184></a>
 
-### Section 1 : Sûretés garantissant l'exécution<a id=187></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=185></a>
 
-#### Paragraphe 1 : Droit de rétention.<a id=188></a>
+#### Paragraphe 1 : Droit de rétention.<a id=186></a>
 
 ###### Article 378
 
@@ -13028,7 +13088,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=189></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=187></a>
 
 ###### Article 379
 
@@ -13100,7 +13160,7 @@ _Modifié par_:
   - Loi - art. 26 () JORF 30 décembre 1997
 
 
-#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=190></a>
+#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=188></a>
 
 ###### Article 381 bis
 
@@ -13146,9 +13206,9 @@ _Cité par_:
   - TXT_SOURCE: Décret n°2003-1387 du 31 décembre 2003 - art. 3 (V)
 
 
-### Section 2 : Voies d'exécution<a id=191></a>
+### Section 2 : Voies d'exécution<a id=189></a>
 
-#### Paragraphe 1 : Règles générales.<a id=192></a>
+#### Paragraphe 1 : Règles générales.<a id=190></a>
 
 ###### Article 382
 
@@ -13183,7 +13243,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 98 () JORF 31 décembre 1981
 
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=193></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=191></a>
 
 ###### Article 383
 
@@ -13339,7 +13399,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=194></a>
+#### Paragraphe 3 : Exercice anticipé de la contrainte par corps.<a id=192></a>
 
 ###### Article 388
 
@@ -13361,9 +13421,9 @@ _Modifié par_:
   - Loi n°77-1453 du 29 décembre 1977 - art. 15 () JORF 30 décembre 1977
 
 
-#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=195></a>
+#### Paragraphe 4 : Aliénation des marchandises saisies pour infraction aux lois de douane<a id=193></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=196></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=194></a>
 
 ###### Article 389
 
@@ -13397,7 +13457,7 @@ _Cite_:
   - Code des douanes 362-2
 
 
-##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=197></a>
+##### B. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=195></a>
 
 ###### Article 390
 
@@ -13425,7 +13485,7 @@ _Cité par_:
   - Arrêté du 4 mars 2013 (V)
 
 
-### Section 3 : Droit de remise.<a id=198></a>
+### Section 3 : Droit de remise.<a id=196></a>
 
 ###### Article 390 bis
 
@@ -13457,7 +13517,7 @@ _Anciens textes_:
   - Loi n°77-1453 1977-12-29 art. 16
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=199></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=197></a>
 
 ###### Article 391
 
@@ -13475,11 +13535,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre V : Responsabilité et solidarité<a id=200></a>
+## Chapitre V : Responsabilité et solidarité<a id=198></a>
 
-### Section 2 : Responsabilité civile<a id=201></a>
+### Section 2 : Responsabilité civile<a id=199></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=202></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=200></a>
 
 ###### Article 403
 
@@ -13498,13 +13558,13 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre VI : Dispositions répressives<a id=203></a>
+## Chapitre VI : Dispositions répressives<a id=201></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=204></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=202></a>
 
-#### Paragraphe 2 : Contraventions douanières<a id=205></a>
+#### Paragraphe 2 : Contraventions douanières<a id=203></a>
 
-##### A. - Première classe.<a id=206></a>
+##### A. - Première classe.<a id=204></a>
 
 ###### Article 410
 
@@ -13558,7 +13618,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Troisième classe.<a id=207></a>
+##### C. - Troisième classe.<a id=205></a>
 
 ###### Article 412
 
@@ -13615,7 +13675,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-##### E. - Cinquième classe.<a id=208></a>
+##### E. - Cinquième classe.<a id=206></a>
 
 ###### Article 413 bis
 
@@ -13664,9 +13724,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Délits douaniers<a id=209></a>
+#### Paragraphe 3 : Délits douaniers<a id=207></a>
 
-##### A. - Première classe.<a id=210></a>
+##### A. - Première classe.<a id=208></a>
 
 ###### Article 414
 
@@ -13737,100 +13797,9 @@ _Anciens textes_:
   - Code des douanes - art. 416 (T)
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=211></a>
+### Section 2 : Peines complémentaires<a id=209></a>
 
-###### Article 426
-
-Sont réputés importation ou exportation sans déclaration de marchandises prohibées :
-
-1° toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
-délivrance de l'un des titres visés à l'article 38-3 précité, soit par contrefaçon de sceaux publics, soit par fausses
-déclarations ou par tous autres moyens frauduleux ;
-
-2° toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
-marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
-qui les frappe ne sont point saisies : celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
-est demandée restent en France ;
-
-3° les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
-réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
-documents faux, inexacts, incomplets ou non applicables ;
-
-4° les fausses déclarations ou manoeuvres ayant pour but ou pour effet d'obtenir, en tout ou partie, un remboursement, une
-exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
-infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
-remboursement, une exonération, un droit réduit ou un avantage financier ;
-
-5° le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
-de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
-préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
-marchandises sortant du territoire douanier français ou y entrant ;
-
-6° les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
-compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus ;
-
-7° tout mouvement de marchandises visées au 4 de l'article 38, effectué en infraction aux dispositions portant prohibition
-d'exportation ou d'importation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°92-1477 du 31 décembre 1992 - art. 23 () JORF 5 janvier 1993
-  - Loi n°94-114 du 10 février 1994 - art. 19 () JORF 11 février 1994
-
-_Cité par_:
-
-  - Arrêté du 11 juillet 2012 - art. 2 (V)
-  - Code des douanes - art. 436 (V)
-  - Code des douanes - art. 438 bis (V)
-
-_Cite_:
-
-  - Code des douanes - art. 19 bis (P)
-  - Code des douanes - art. 38 (M)
-  - Code des douanes 19 bis, 38, 38-3
-
-
-###### Article 428
-
-1. Est réputée exportation sans déclaration de marchandises prohibées toute infraction aux dispositions, soit législatives,
-soit réglementaires portant prohibition d'exportation ou de réexpédition ou bien subordonnant l'exportation ou la
-réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières lorsque la fraude a été
-faite ou tentée par les bureaux et qu'elle n'est pas spécialement réprimée par une autre disposition du présent code.
-
-2. Dans le cas où les marchandises ayant été exportées par dérogation à une prohibition de sortie, à destination d'un pays
-déterminé, sont, après arrivée dans ce pays, réexpédiées sur un pays tiers, l'exportateur est passible des peines de
-l'exportation sans déclaration s'il est établi que cette réexpédition a été effectuée sur ses instructions, à son instigation
-ou avec sa complicité, ou encore s'il est démontré qu'il en a tiré profit ou qu'il avait connaissance de la réexpédition
-projetée au moment de l'exportation.
-
-3. Les dispositions du 1 ci-dessus ne sont pas applicables aux infractions aux règles de qualité ou de conditionnement
-imposées à l'exportation.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 11 juillet 2012 - art. 2 (V)
-  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°66-948 1966-12-22 art. 12 Finances pour 1967 JORF 23 décembre 1966
-
-
-### Section 2 : Peines complémentaires<a id=212></a>
-
-#### Paragraphe 2 : Astreinte.<a id=213></a>
+#### Paragraphe 2 : Astreinte.<a id=210></a>
 
 ###### Article 431
 
@@ -13855,7 +13824,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=214></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=211></a>
 
 ###### Article 432 bis
 
@@ -13894,9 +13863,9 @@ _Cite_:
   - Code des douanes 431-1, 459
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=215></a>
+### Section 3 : Cas particuliers d'application des peines<a id=212></a>
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=216></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=213></a>
 
 ###### Article 437
 
@@ -13928,7 +13897,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 99 () JORF 31 décembre 1981
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=217></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=214></a>
 
 ###### Article 441
 
@@ -14270,9 +14239,9 @@ _Cite_:
   - Code des douanes 63 ter, 65, 334, 445-1, 351, 354
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=218></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=215></a>
 
-## Chapitre Ier : Dispositions communes.<a id=219></a>
+## Chapitre Ier : Dispositions communes.<a id=216></a>
 
 ###### Article 451
 
@@ -14313,7 +14282,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=220></a>
+## Chapitre II : Constatation des infractions.<a id=217></a>
 
 ###### Article 453
 
@@ -14437,7 +14406,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=221></a>
+## Chapitre III : Poursuite des infractions.<a id=218></a>
 
 ###### Article 458
 
@@ -14455,7 +14424,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=222></a>
+## Chapitre IV : Dispositions répressives.<a id=219></a>
 
 ###### Article 459
 
@@ -14523,7 +14492,7 @@ _Modifié par_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=223></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=220></a>
 
 ###### Article 460
 
@@ -14616,7 +14585,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=224></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=221></a>
 
 ###### Article 464
 
@@ -14677,9 +14646,9 @@ _Cite_:
   - Code des douanes - art. 465 (M)
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=225></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=222></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=226></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=223></a>
 
 ###### Article 467
 
@@ -14764,7 +14733,7 @@ _Modifié par_:
   - Décret n°98-514 du 17 juin 1998 - art. 1 () JORF 25 juin 1998
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=227></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=224></a>
 
 ###### Article 468
 
@@ -14827,7 +14796,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=228></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=225></a>
 
 ###### Article 470
 
