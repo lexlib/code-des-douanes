@@ -1,25 +1,37 @@
 # Article 266 quindecies
 
-I. - Les personnes qui mettent à la consommation sur le marché intérieur des essences reprises aux indices 11 et 11 bis du
-tableau B du 1 de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement
-supplémentaire de la taxe générale sur les activités polluantes.
+I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis du tableau B du 1
+de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement supplémentaire de la
+taxe générale sur les activités polluantes.
 
 II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
 chaque carburant concerné.
 
-III. - Son taux est fixé à 1,2 %. Il est majoré de 0,3 % en 2006, de 1,5 % en 2007, de 1 % en 2008, de 1 % en 2009, puis de
-0,75 % en 2010. Il est diminué de la proportion de l'énergie exprimée en pouvoir calorifique inférieur, issue :
+III. - Son taux est fixé à 1,75 % en 2006. Il est majoré de 1,75 point en 2007, de 2,25 points en 2008, de 0,50 point en 2009
+et de 0,75 point en 2010.
 
-1° Pour les essences, des produits mentionnés aux b et c du 1 de l'article 265 bis A du présent code qui y sont incorporés ;
+Lors de la mise à la consommation des carburants mentionnés au I, les redevables émettent des certificats représentatifs des
+quantités, exprimées en pouvoir calorifique inférieur, de produits mentionnés au 1 de l'article 265 bis A que ces carburants
+incorporent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret.
 
-2° Pour le gazole, des produits mentionnés au a du 1 de ce même article qui y sont incorporés.
+Le taux du prélèvement est diminué :
 
-IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation.
+1° Pour les essences, du rapport entre les quantités de produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites
+dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ces
+carburants, soumises au prélèvement ;
+
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
+certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
+soumises au prélèvement.
+
+IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
+produits mentionnés au I à usage de carburant.
 
 V. - Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
-la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et de tous les éléments nécessaires au
-contrôle et à l'établissement de ce prélèvement supplémentaire. La forme de la déclaration et son contenu sont fixés
-conformément aux dispositions du 4 de l'article 95.
+la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
+du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95.
+
+VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2010.
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies.
@@ -29,9 +41,20 @@ privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - CGI 298
+  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265 bis (M)
+  - Code des douanes - art. 266 undecies (M)
+  - Code des douanes - art. 95 (M)
+
+_Modifié par_:
+
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°2004-1484 2004-12-30 art. 32 II finances pour 2005 (date d'effet)
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 1 (V)
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 10 (V)
@@ -46,10 +69,6 @@ privilèges que ceux prévus par le présent code.
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
 
-_Créé par_:
-
-  - Loi n°2004-1484 du 30 décembre 2004 - art. 32 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
-
 _Cité par_:
 
   - Décret n°2006-127 du 6 février 2006 - art. 1 (V)
@@ -62,22 +81,14 @@ _Cité par_:
   - Arrêté du 21 mars 2014 (Ab)
   - Arrêté du 21 mars 2014 - art. 1 (Ab)
   - Arrêté du 21 mars 2014 - art. 10 (Ab)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
   - Arrêté du 10 avril 2017 (V)
   - Arrêté du 10 avril 2017 - art. 1
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
   - Décret n°2017-1690 du 13 décembre 2017 (VD)
   - Arrêté du 29 juin 2018 (V)
   - Arrêté du 29 juin 2018 - art. 1 (V)
   - Arrêté du 29 juin 2018 - art. 2 (V)
   - Code de l'énergie - art. L661-2 (VD)
-
-_Cite_:
-
-  - CGI 298
-  - Code des douanes - art. 265 (M)
-  - Code des douanes - art. 265 bis (M)
-  - Code des douanes - art. 266 undecies (M)
-  - Code des douanes - art. 95 (M)
 
 _Codifié par_:
 
