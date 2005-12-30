@@ -5,34 +5,38 @@ production combinée de chaleur et d'électricité ou de chaleur et d'énergie m
 consommation prévues aux articles 265 et 266 quinquies pendant une durée de cinq années à compter de la mise en service des
 installations. Toutefois, la durée d'exonération pour les livraisons de fioul lourd d'une teneur en soufre supérieure à 1 %
 utilisé dans des installations de cogénération équipées de dispositifs de désulfuration des fumées conformément à la
-réglementation en vigueur est portée à dix années.
+réglementation en vigueur est portée à dix années. 
 
-Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2005. Toutefois, en ce qui
+Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2007. Toutefois, en ce qui
 concerne les huiles minérales, autres que le fioul lourd et les gaz de raffinerie, cette exonération ne s'applique qu'aux
-installations mises en service entre le 1er janvier 2003 et le 31 décembre 2005.
+installations mises en service entre le 1er janvier 2003 et le 31 décembre 2007. 
 
 La nature et la puissance minimale des installations de cogénération ainsi que le rapport entre les deux énergies produites
 sont fixés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Loi - art. 23 (V) JORF 31 décembre 2002 en vigueur le 1er janvier 2003
-
 _Cité par_:
 
   - Arrêté du 25 juin 2008 - art. 1 (V)
   - Arrêté du 5 août 2008 - art. 10 (V)
-  - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
   - Code des douanes - art. 265 bis (V)
   - Code des douanes - art. 266 quinquies (V)
-  - Code des douanes - art. 266 quinquies B (M)
+  - Code des douanes - art. 266 quinquies B (V)
+  - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 265
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Cite_:
+_Modifié par_:
 
-  - Code des douanes - art. 265 (M)
+  - Loi n°2005-1720 du 30 décembre 2005 - art. 82 () JORF 31 décembre 2005
+
+_Abrogé par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 68
