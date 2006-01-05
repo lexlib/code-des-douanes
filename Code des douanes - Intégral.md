@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-01-06
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -10108,9 +10108,14 @@ _Codifié par_:
 
 ###### Article 265 bis A
 
-1. Les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés comme carburant ou combustible,
-bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe intérieure de consommation, dont
-les tarifs sont fixés au tableau B du 1 de l'article 265. A compter du 1er janvier 2006, cette réduction est fixée à :
+1. Compte tenu du bilan environnemental global, notamment en termes de lutte contre les émissions de gaz à effet de serre, de
+leur production et de leur consommation, les produits désignés ci-après, élaborés sous contrôle fiscal en vue d'être utilisés
+comme carburant ou combustible, bénéficient, dans la limite des quantités fixées par agrément, d'une réduction de la taxe
+intérieure de consommation dont les tarifs sont fixés au tableau B du 1 de l'article 265. Cette réduction est modulée en
+fonction de l'évolution des cours des matières premières agricoles et des énergies fossiles et de la productivité des
+filières agro-industrielles concernées. Elle doit permettre d'assurer la compétitivité des biocarburants par rapport aux
+carburants fossiles sans toutefois aboutir à une surcompensation de l'écart de prix de revient entre ces produits. A compter
+du 1er janvier 2006, cette réduction est fixée à :
 
 a) 25 euros par hectolitre pour les esters méthyliques d'huile végétale et les esters méthyliques d'huile animale incorporés
 au gazole ou au fioul domestique ;
@@ -10130,10 +10135,6 @@ de consommation visée aux b et c du 1.
 d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et
 de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du
 ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
-
-Toutefois, si ces unités de production n'ont pas pour objet principal la production d'huiles utilisées comme carburant ou
-comme combustible, elles ne sont pas soumises à cette obligation. Dans ce cas, ces unités bénéficient d'une procédure de
-déclaration simplifiée définie par décret.
 
 2 bis. Pour l'année 2005, des agréments pour 130000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
 lancés par appel d'offres communautaire.
@@ -10162,10 +10163,6 @@ candidatures devant intervenir en application du 2 sont fixées par le ministre 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
 **Liens**:
 
   - TXT_SOURCE: Décret n°2004-506 du 7 juin 2004
@@ -10187,10 +10184,13 @@ _Cité par_:
   - Arrêté du 9 juin 2020 - art. 1
   - Code de l'énergie - art. L661-2 (VD)
 
+_Codifié par_:
+
+  - Loi n°2006-11 2006-01-05
+
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 20 () JORF 31 décembre 2005
+  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
 
 _Cite_:
 
@@ -10281,55 +10281,12 @@ _Cite_:
 
 ###### Article 265 quater
 
-1. L'essence de pétrole autre que le supercarburant employé aux usages énumérés au 2 ci-dessous bénéficie d'un dégrèvement de
-la taxe intérieure de consommation ramenant le montant de la taxe supportée par ce produit à 24,47 F par hectolitre.
-
-Le pétrole lampant employé aux mêmes usages bénéficie d'un dégrèvement de la taxe intérieure de consommation ramenant le
-montant de la taxe supportée par ce produit à 9,82 F par hectolitre.
-
-2. Les attributions d'essence et de pétrole lampant détaxés sont limitées :
-
-a) aux travaux agricoles réalisés au moyen de matériels de traction, de traitement des cultures, et de récolte, fonctionnant
-à l'essence ou au pétrole dans les exploitations ne disposant d'aucun matériel analogue fonctionnant au fuel. Elles sont
-limitées aux quinze premiers hectares de surface cultivée et calculées sans réduction sur les dix premiers hectares et avec
-une réduction de moitié sur les cinq hectares suivants. Par dérogation, elles sont attribuées sans limitation de surface,
-dans les exploitations situées dans les zones d'économie montagnarde ;
-
-b) aux utilisateurs de moteurs mobiles pour l'irrigation, pour la traite mécanique, pour les treuils mobiles dans la
-viticulture et les scies tronçonneuses pour les travaux forestiers.
-
-Sauf pour l'utilisation des scies tronçonneuses dans les travaux forestiers, les attributions d'essence ou de pétrole lampant
-détaxé ne peuvent être faites qu'au titre des exploitations agricoles dont le chef, soit bénéficie de prestations de
-l'assurance maladie, invalidité et maternité visée aux articles 1106 (1 à 16) du code rural ou en est exclu en application de
-l'article 1106 (1, 5°, 2e alinéa), soit bénéficie des prestations des assurances sociales agricoles en application de
-l'article 1026 du code rural. Toutefois, cette disposition ne s'applique pas aux agriculteurs qui ont perçu l'année précédant
-celle de l'attribution de carburant détaxé, au titre d'une autre activité, un revenu qui ne dépasse pas le double du salaire
-minimum interprofessionnel de croissance.
-
-Il ne sera fait aucune attribution pour les droits représentant un total annuel inférieur à 100 litres par exploitation.
-
-3. Les conditions d'application du présent article sont fixées par décret.
+La vente d'huile végétale pure en vue de son utilisation comme carburant agricole ou pour l'avitaillement des navires de
+pêche professionnelle ainsi que cette utilisation sont autorisées à compter du 1er janvier 2007. Un décret précise, au vu du
+bilan de l'application du 2 de l'article 265 ter, les modalités de production, de commercialisation et d'utilisation de ce
+produit.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code rural 1106-1 à 1106-16, 1026
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
-  - Loi n°72-1121 1972-12-20 art. 73 III Finances pour 1973 JORF 21 décembre 1972
-  - Loi n°74-644 1974-07-16 art. 6 I Finances rectificative pour 1974 JORF 17 juillet 1974
-  - Loi n°87-1060 du 30 décembre 1987 - art. 28 (P) JORF 31 décembre 1987
-
-_Créé par_:
-
-  - Loi n°67-1114 1967-12-21 art. 13 JORF 22 décembre 1967
 
 _Cité par_:
 
@@ -10349,9 +10306,13 @@ _Cité par_:
   - Code des douanes - art. 265 ter (VD)
   - Code des douanes - art. 299 bis (P)
 
-_Abrogé par_:
+_Codifié par_:
 
-  - Loi - art. 29 (V) JORF 30 décembre 1990
+  - Loi n°2006-11 2006-01-05
+
+_Créé par_:
+
+  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
 
 
 ###### Article 265 quinquies
@@ -10596,14 +10557,23 @@ _Modifié par_:
 ###### Article 265 ter
 
 1. Sont interdites l'utilisation à la carburation, la vente ou la mise en vente pour la carburation de produits dont
-l'utilisation et la vente pour cet usage n'ont pas été spécialement autorisés par des arrêtés du ministre de l'économie et
-des finances et du ministre de l'industrie.
+l'utilisation et la vente pour cet usage n'ont pas été spécialement autorisées par des arrêtés du ministre chargé du budget
+et du ministre chargé de l'industrie.
 
-2. Sans préjudice des interdictions ou pénalités qui pourraient résulter d'autres dispositions législatives, les produits
-utilisés ou destinés à être utilisés en violation des prescriptions du 1 ci-dessus sont passibles des taxes applicables au
-supercarburant plombé.
+Sans préjudice des interdictions ou pénalités qui pourraient résulter d'autres dispositions législatives, les produits
+utilisés ou destinés à être utilisés en violation des prescriptions du premier alinéa sont assujettis à la taxe intérieure de
+consommation selon les modalités prévues au premier alinéa du 3 de l'article 265.
 
-3. Les conditions d'application du 2 ci-dessus sont fixées par un arrêté du ministre de l'économie et des finances.
+2. L'utilisation, comme carburant agricole, d'huile végétale pure par les exploitants ayant produit les plantes dont l'huile
+est issue est autorisée.
+
+On entend par huile végétale pure l'huile, brute ou raffinée, produite à partir de plantes oléagineuses sans modification
+chimique par pression, extraction ou procédés comparables.
+
+Les huiles végétales pures utilisées dans les conditions prévues au présent article et à l'article 265 quater bénéficient
+d'une exonération de la taxe intérieure de consommation.
+
+Un décret détermine les conditions d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -10658,13 +10628,17 @@ _Cité par_:
   - Code des douanes - art. 265 quater (V)
   - Code des douanes - art. 266 quindecies (V)
 
-_Modifié par_:
-
-  - Loi - art. 28 () JORF 31 décembre 1991
-
 _Codifié par_:
 
-  - Décret n°48-1985 1948-12-08
+  - Loi n°2006-11 2006-01-05
+
+_Modifié par_:
+
+  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
+
+_Cite_:
+
+  - Code des douanes - art. 265 (M)
 
 
 ###### Article 266
@@ -12850,6 +12824,54 @@ _Modifié par_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 285 septies
+
+A titre expérimental, dans la région Alsace et pour une durée de cinq ans, les véhicules utilitaires dont le poids total en
+charge est égal ou supérieur à 12 tonnes peuvent être soumis, lorsqu'ils empruntent des routes ou portions de routes d'usage
+gratuit à proximité d'axes autoroutiers à péage situés ou non sur le territoire français, à une taxe non déductible dont le
+montant est compris entre 0,001 et 0,015 euros par tonne et par kilomètre.
+
+Cette taxe est perçue au profit de la collectivité propriétaire de la voie routière. Elle est décidée par décret en Conseil
+d'Etat lorsque la voie appartient au domaine public de l'Etat et par l'organe délibérant de la collectivité territoriale
+lorsque la voie appartient au domaine public d'un département ou d'une commune.
+
+Elle est acquittée par le propriétaire du véhicule ou, si le véhicule fait l'objet d'un contrat de crédit-bail ou d'un
+contrat de location, par son locataire.
+
+La taxe est prélevée lors de chaque passage sur les voies concernées ou mensuellement par les services de la direction
+générale des douanes et droits indirects sur la base des relevés kilométriques fournis par les transporteurs. Elle est
+recouvrée selon les mêmes règles et sous les mêmes garanties, sanctions et privilèges qu'en matière de droits de douane. Les
+infractions sont constatées et réprimées, et les instances instruites et jugées, conformément aux dispositions du présent
+code.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article et détermine les conditions dans
+lesquelles il sera procédé à une évaluation au terme de la période d'expérimentation.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Code de la route. - art. L325-1 (V)
+  - Code de la route. - art. L330-2 (V)
+  - Code des transports - art. L3222-3 (V)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Décret n°2009-1589 du 18 décembre 2009 - art. 1 (V)
+  - Décret n°2011-845 du 15 juillet 2011 - art. 1 (V)
+  - Décret n°2011-899 du 27 juillet 2011 - art. 1 (V)
+  - Décret n°2011-991 du 23 août 2011 - art. 31 (V)
+  - Décret n°2011-991 du 23 août 2011 - art. 36 (V)
+  - Code des douanes - art. 412 (V)
+  - Code des transports - art. L3221-2 (V)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Créé par_:
+
+  - Loi n°2006-10 du 5 janvier 2006 - art. 27 () JORF 6 janvier 2006
 
 
 ###### Article 285 sexies
