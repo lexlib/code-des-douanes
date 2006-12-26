@@ -1,8 +1,8 @@
 # Article 266 quindecies
 
 I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis du tableau B du 1
-de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement supplémentaire de la
-taxe générale sur les activités polluantes.
+de l'article 265, du gazole repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même tableau sont
+redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
 
 II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
 chaque carburant concerné.
@@ -16,9 +16,9 @@ incorporent. Les modalités d'émission et de cession éventuelle des certificat
 
 Le taux du prélèvement est diminué :
 
-1° Pour les essences, du rapport entre les quantités de produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites
-dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ces
-carburants, soumises au prélèvement ;
+1° Pour les essences ou le superéthanol E85, du rapport entre les quantités de produits mentionnés aux b et c du 1 de
+l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
+calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
 2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
 certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
@@ -52,10 +52,6 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
 
 **Liens**:
 
@@ -102,3 +98,7 @@ _Cité par_:
   - Décret n°2019-570 du 7 juin 2019 - art. 7 (V)
   - Décret n°2019-570 du 7 juin 2019 - art. 9 (V)
   - Code de l'énergie - art. L661-2 (VD)
+
+_Modifié par_:
+
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
