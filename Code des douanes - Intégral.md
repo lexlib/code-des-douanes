@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2006-10-06
+Version Consolidée au 2006-12-27
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -8295,9 +8295,8 @@ _Codifié par_:
 ###### Article 224
 
 1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
-de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté à
-concurrence de 80 % au Conservatoire de l'espace littoral et des rivages lacustres et à concurrence de 20 % au budget général
-de l'Etat.
+de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté en 2007
+au Conservatoire de l'espace littoral et des rivages lacustres.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
 Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
@@ -8348,7 +8347,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 59 () JORF 31 décembre 2005
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 43 () JORF 27 décembre 2006
 
 _Codifié par_:
 
@@ -9286,6 +9285,18 @@ autres : indice 13 bis, hectolitre, taxe intérieure applicable au supercarburan
 
 . Autres essences : indice 15, hectolitre, taxe intérieure applicable au supercarburant visé à l'indice 11.
 
+Ex 3824 90 99
+
+- Superéthanol E85
+
+-- destiné à être utilisé comme carburant
+
+55
+
+hectolitre
+
+33,43
+
 2° Huiles moyennes.
 
 a) Pétrole lampant :
@@ -9843,8 +9854,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 2005-12-30 art. 84 I, II, III Finances rectificative pour 2005 JORF 31 décembre 2005
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 84 () JORF 31 décembre 2005
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
 
 _Codifié par_:
 
@@ -10041,7 +10051,8 @@ au gazole ou au fioul domestique ;
 b) 33 euros par hectolitre pour le contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la
 composante alcool est d'origine agricole ;
 
-c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ;
+c) 33 euros par hectolitre pour l'alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85
+repris à l'indice d'identification 55 ;
 
 d) 25 euros par hectolitre pour le biogazole de synthèse et 30 euros par hectolitre pour les esters éthyliques d'huile
 végétale, incorporés au gazole ou au fioul domestique.
@@ -10107,7 +10118,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
 
 _Cite_:
 
@@ -11216,8 +11227,8 @@ _Codifié par_:
 ###### Article 266 quindecies
 
 I. - Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis du tableau B du 1
-de l'article 265 et du gazole repris à l'indice 22 de ce même tableau sont redevables d'un prélèvement supplémentaire de la
-taxe générale sur les activités polluantes.
+de l'article 265, du gazole repris à l'indice 22 et du superéthanol E85 repris à l'indice 55 de ce même tableau sont
+redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
 
 II. - Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
 chaque carburant concerné.
@@ -11231,9 +11242,9 @@ incorporent. Les modalités d'émission et de cession éventuelle des certificat
 
 Le taux du prélèvement est diminué :
 
-1° Pour les essences, du rapport entre les quantités de produits mentionnés aux b et c du 1 de l'article 265 bis A inscrites
-dans les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ces
-carburants, soumises au prélèvement ;
+1° Pour les essences ou le superéthanol E85, du rapport entre les quantités de produits mentionnés aux b et c du 1 de
+l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
+calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
 2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
 certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
@@ -11256,17 +11267,9 @@ privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Codifié par_:
 
-  - CGI 298
-  - Code des douanes - art. 265 (M)
-  - Code des douanes - art. 265 bis (M)
-  - Code des douanes - art. 266 undecies (M)
-  - Code des douanes - art. 95 (M)
-
-_Modifié par_:
-
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 19 () JORF 31 décembre 2005
+  - Décret n°48-1985 1948-12-08
 
 **Liens**:
 
@@ -11305,9 +11308,17 @@ _Cité par_:
   - Arrêté du 29 juin 2018 - art. 2 (V)
   - Code de l'énergie - art. L661-2 (VD)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°48-1985 1948-12-08
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
+
+_Cite_:
+
+  - CGI 298
+  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265 bis (M)
+  - Code des douanes - art. 266 undecies (M)
+  - Code des douanes - art. 95 (M)
 
 
 ###### Article 266 quinquies
@@ -12034,25 +12045,34 @@ les instances instruites et jugées conformément aux dispositions du code des d
 fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la
 Martinique à compter du 1er janvier 2001.
 
+Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un prix de détail des cigarettes exprimé
+aux 1 000 unités et un prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé aux 1 000 grammes, en
+deçà duquel ces différents produits du tabac ne peuvent être vendus dans leur circonscription administrative en raison de
+leur prix de nature promotionnelle au sens de l'article L. 3511-3 du code de la santé publique. Pour chacun de ces produits,
+ce prix est supérieur à 66 % et au plus égal à 110 % du prix de vente au détail déterminé pour la France continentale en
+application du premier alinéa du même article L. 3511-3.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 572, 575, 575 A
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
+  - CGI 572, 575 A, 575
+  - Code des douanes
+  - Code de la santé publique - art. L3511-3 (M)
 
 _Modifié par_:
 
-  - Loi - art. 104 () JORF 31 décembre 2003
+  - Loi n°2006-1666 du 21 décembre 2006 - art. 67 () JORF 27 décembre 2006
 
 _Cité par_:
 
   - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 572 (M)
   - Code des douanes - art. 268 ter (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 268 ter
