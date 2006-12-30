@@ -20,8 +20,8 @@ Le taux du prélèvement est diminué :
 l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
 calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
-certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a et d du 1 de l'article précité inscrites dans
+les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
 soumises au prélèvement.
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
@@ -40,10 +40,6 @@ Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sou
 privilèges que ceux prévus par le présent code.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 **Liens**:
 
@@ -83,10 +79,6 @@ _Cité par_:
   - Décret n°2018-1354 du 28 décembre 2018 (V)
   - Code de l'énergie - art. L661-2 (VD)
 
-_Modifié par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
-
 _Cite_:
 
   - CGI 298
@@ -94,3 +86,7 @@ _Cite_:
   - Code des douanes - art. 265 bis (M)
   - Code des douanes - art. 266 undecies (M)
   - Code des douanes - art. 95 (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
