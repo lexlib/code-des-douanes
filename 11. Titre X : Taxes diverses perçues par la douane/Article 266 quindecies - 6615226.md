@@ -20,8 +20,8 @@ Le taux du prélèvement est diminué :
 l'article 265 bis A inscrites dans les certificats produits à l'administration et les quantités, exprimées en pouvoir
 calorifique inférieur, de ces carburants, soumises au prélèvement ;
 
-2° Pour le gazole, du rapport entre les quantités de produits mentionnés au a du 1 de l'article précité inscrites dans les
-certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
+2° Pour le gazole, du rapport entre les quantités de produits mentionnés aux a et d du 1 de l'article précité inscrites dans
+les certificats produits à l'administration et les quantités, exprimées en pouvoir calorifique inférieur, de ce carburant,
 soumises au prélèvement.
 
 IV. - Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
@@ -57,10 +57,6 @@ privilèges que ceux prévus par le présent code.
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 8 (V)
   - TXT_SOURCE: Décret n°2006-127 du 6 février 2006 - art. 9 (V)
 
-_Modifié par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
-
 _Cité par_:
 
   - Arrêté du 26 avril 2010 (Ab)
@@ -74,9 +70,9 @@ _Cité par_:
   - Arrêté du 21 mars 2014 - art. 10 (V)
   - Arrêté du 10 avril 2017 (V)
   - Arrêté du 10 avril 2017 - art. 1
-  - Code de l'énergie - art. L661-2 (VD)
   - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
   - Décret n°2017-1690 du 13 décembre 2017 (VD)
+  - Code de l'énergie - art. L661-2 (VD)
 
 _Cite_:
 
