@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2006-12-31
+Version Consolidée au 2007-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -10068,10 +10068,7 @@ lancés par appel d'offres communautaire.
 4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
 consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Le transfert d'une
 partie d'un agrément délivré à une unité de production est autorisé au profit d'une autre unité agréée d'un même opérateur.
-Ce transfert donne lieu à accord préalable de l'administration des douanes. L'opérateur est également tenu de mettre en place
-auprès d'une banque ou d'un établissement financier une caution égale à 20 % du montant total de la réduction de la taxe
-intérieure de consommation correspondant à la quantité de biocarburants qu'il doit mettre à la consommation au cours de la
-même année en application de la décision d'agrément.
+Ce transfert donne lieu à accord préalable de l'administration des douanes.
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
 quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
@@ -10110,10 +10107,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°2006-11 2006-01-05
-
-_Modifié par_:
-
-  - Loi n°2006-1666 du 21 décembre 2006 - art. 23 () JORF 27 décembre 2006
 
 _Cite_:
 
@@ -10201,10 +10194,11 @@ _Cite_:
 
 ###### Article 265 quater
 
-La vente d'huile végétale pure en vue de son utilisation comme carburant agricole ou pour l'avitaillement des navires de
-pêche professionnelle ainsi que cette utilisation sont autorisées à compter du 1er janvier 2007. Un décret précise, au vu du
-bilan de l'application du 2 de l'article 265 ter, les modalités de production, de commercialisation et d'utilisation de ce
-produit.
+La vente d'huile végétale pure en vue de son utilisation comme carburant agricole, comme carburant pour les véhicules des
+flottes captives des collectivités territoriales et de leurs groupements dans les conditions mentionnées au 3 de l'article
+265 ter ou pour l'avitaillement des navires de pêche professionnelle ainsi que cette utilisation sont autorisées à compter du
+1er janvier 2007. Un décret précise, au vu du bilan de l'application du 2 de l'article 265 ter, les modalités de production,
+de commercialisation et d'utilisation de ce produit.
 
 **Liens relatifs à cet article**
 
@@ -10228,10 +10222,6 @@ _Cité par_:
 _Codifié par_:
 
   - Loi n°2006-11 2006-01-05
-
-_Créé par_:
-
-  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
 
 
 ###### Article 265 quinquies
@@ -10485,10 +10475,19 @@ est issue est autorisée.
 On entend par huile végétale pure l'huile, brute ou raffinée, produite à partir de plantes oléagineuses sans modification
 chimique par pression, extraction ou procédés comparables.
 
-Les huiles végétales pures utilisées dans les conditions prévues au présent article et à l'article 265 quater bénéficient
-d'une exonération de la taxe intérieure de consommation.
+Les huiles végétales pures utilisées dans les conditions prévues au présent article et à l'article 265 quater, à l'exclusion
+de l'utilisation comme carburant pour les véhicules des flottes captives des collectivités territoriales et de leurs
+groupements, bénéficient d'une exonération de la taxe intérieure de consommation.
 
-Un décret détermine les conditions d'application du présent article.
+3. Les huiles végétales pures définies au 2 peuvent être utilisées, pures ou en mélange, comme carburant dans les véhicules
+des flottes captives des collectivités territoriales ou de leurs groupements ayant conclu un protocole avec le préfet et le
+directeur régional des douanes territorialement compétents. A cet effet, ils concluent un protocole avec le préfet et le
+directeur régional des douanes territorialement compétents. Les huiles végétales sont utilisées dans ce cadre sous l'entière
+responsabilité des utilisateurs. Elles sont soumises à la taxe intérieure de consommation au tarif applicable au gazole
+identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265. Ce tarif est diminué de la valeur de la réduction
+appliquée aux esters méthyliques d'huile végétale mentionnés au a du 1 de l'article 265 bis A.
+
+Un décret détermine les conditions d'application du 2.
 
 **Liens relatifs à cet article**
 
@@ -10544,13 +10543,10 @@ _Codifié par_:
 
   - Loi n°2006-11 2006-01-05
 
-_Modifié par_:
-
-  - Loi n°2006-11 du 5 janvier 2006 - art. 49 (V) JORF 6 janvier 2006
-
 _Cite_:
 
   - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265 bis (M)
 
 
 ###### Article 266
