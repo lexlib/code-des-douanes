@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2007-04-27
+Version Consolidée au 2007-06-15
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -18296,26 +18296,14 @@ _Créé par_:
 
 ###### Article 464
 
-Les personnes physiques qui transfèrent vers l'étranger ou en provenance de l'étranger des sommes, titres ou valeurs, sans
-l'intermédiaire d'un organisme soumis à la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des
-établissements de crédit, ou d'un organisme cité à l'article 8 de ladite loi, doivent en faire la déclaration dans des
-conditions fixées par décret. Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant
-est inférieur à 7600 euros.
+Les personnes physiques qui transfèrent vers un Etat membre de l'Union européenne ou en provenance d'un Etat membre de
+l'Union européenne des sommes, titres ou valeurs, sans l'intermédiaire d'un établissement de crédit, ou d'un organisme ou
+service mentionné à l'article L. 518-1 du code monétaire et financier doivent en faire la déclaration dans des conditions
+fixées par décret.
+
+Une déclaration est établie pour chaque transfert à l'exclusion des transferts dont le montant est inférieur à 10 000 euros.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Cite_:
-
-  - Loi n°84-46 1984-01-24 art. 8
-
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 _Cité par_:
 
@@ -18325,11 +18313,24 @@ _Cité par_:
   - Arrêté du 7 novembre 2012 - art. 1 (V)
   - Code des douanes - art. 465 (V)
 
+_Cite_:
+
+  - Code monétaire et financier - art. L518-1 (M)
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Décret n°2007-471 du 28 mars 2007 - art. 1 () JORF 30 mars 2007 en vigueur le 15 juin 2007
+
 
 ###### Article 465
 
-I. - La méconnaissance des obligations déclaratives énoncées à l'article 464 est punie d'une amende égale au quart de la
-somme sur laquelle a porté l'infraction ou la tentative d'infraction.
+I. - La méconnaissance des obligations déclaratives énoncées à l'article 464 et dans le règlement (CE) n° 1889/2005 du
+Parlement européen et du Conseil du 26 octobre 2005 relatif aux contrôles de l'argent liquide entrant ou sortant de la
+Communauté est punie d'une amende égale au quart de la somme sur laquelle a porté l'infraction ou la tentative d'infraction.
 
 II. - En cas de constatation de l'infraction mentionnée au I par les agents des douanes, ceux-ci consignent la totalité de la
 somme sur laquelle a porté l'infraction ou la tentative d'infraction, pendant une durée de trois mois, renouvelable sur
@@ -18349,7 +18350,7 @@ saisie ordonnées. Il en est de même en cas d'extinction de l'action pour l'app
 III. - La recherche, la constatation et la poursuite des infractions mentionnées au I sont effectuées dans les conditions
 fixées par le présent code.
 
-Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1758 du
+Dans le cas où l'amende prévue au I est infligée, la majoration de 40 % mentionnée au premier alinéa de l'article 1759 du
 code général des impôts n'est pas appliquée.
 
 **Liens relatifs à cet article**
@@ -18361,16 +18362,17 @@ _Cité par_:
 
 _Cite_:
 
-  - CGI 1758
+  - CGI 1759
   - Code des douanes - art. 464 (M)
+  - Règlement 1889-2005 CE 2005-10-26
+
+_Modifié par_:
+
+  - Décret n°2007-471 du 28 mars 2007 - art. 2 () JORF 30 mars 2007 en vigueur le 15 juin 2007
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
 
 
 # Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=277></a>
