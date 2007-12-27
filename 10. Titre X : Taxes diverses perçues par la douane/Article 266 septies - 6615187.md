@@ -18,6 +18,8 @@ intracommunautaire ou la mise à la consommation des lubrifiants mentionnés au 
 
 b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
+c. L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
+
 5. La première livraison après fabrication nationale, la livraison sur le marché intérieur après achat, importation ou
 fabrication dans un autre Etat membre de la Communauté européenne ou la mise à la consommation des préparations pour
 lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge
@@ -78,14 +80,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 85 () JORF 31 décembre 2005
+  - Loi n°2007-1822 du 24 décembre 2007 - art. 33
 
 _Cite_:
 
-  - Code de l'environnement - art. L512-1 (M)
-  - Code de l'environnement - art. L512-8 (V)
+  - Code de l'environnement - art. L512-1
+  - Code de l'environnement - art. L512-8
   - Règlement CEE 259-93 1993-02-01 Conseil
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
