@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2008-04-01
+Version Consolidée au 2008-04-09
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -124,7 +124,7 @@ Version Consolidée au 2008-04-01
       - [Section 1 : Champ d'application. (art. 216)](#121)
       - [Section 2 : Francisation des navires (art. 217 à 231)](#122)
         - [Paragraphe 1 : Généralités. (art. 217 à 218)](#123)
-        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 219 à 221)](#124)
+        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 219 à 220)](#124)
         - [Paragraphe 3 : Jaugeage des navires. (art. 222)](#125)
         - [Paragraphe 4 : Droit de francisation et de navigation. (art. 223 à 226)](#126)
         - [Paragraphe 5 : Acte de francisation. (art. 227 à 229)](#127)
@@ -7711,32 +7711,6 @@ _Codifié par_:
 _Cité par_:
 
   - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
-
-
-###### Article 221
-
-A bord des navires battant pavillon français, le capitaine et l'officier chargé de sa suppléance doivent être français. Les
-autres membres de l'équipage doivent être ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à
-l'accord sur l'Espace économique européen dans une proportion minimale fixée par arrêté du ministre chargé de la marine
-marchande, en fonction des caractéristiques techniques des navires ou de leur mode d'exploitation.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°96-151 du 26 février 1996 - art. 24 () JORF 27 février 1996
-
-_Abrogé par_:
-
-  - Loi n°2008-324 du 7 avril 2008 - art. 3
-
-_Cité par_:
-
-  - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (VD)
 
 
 #### Paragraphe 3 : Jaugeage des navires.<a id=125></a>
