@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2010-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -28,7 +28,7 @@ Version Consolidée au 2009-05-29
       - [Section 1 : Généralités. (art. 38)](#25)
       - [Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine. (art. 39 à 40)](#26)
     - [Chapitre VI : Contrôle du commerce extérieur et des relations financières avec l'étranger. (art. 42 à 42 bis)](#27)
-  - [Titre II : Organisation et fonctionnement du service des douanes (art. 43 à 67 ter)](#28)
+  - [Titre II : Organisation et fonctionnement du service des douanes (art. 43 à 67 D)](#28)
     - [Chapitre Ier : Champ d'action du service des douanes. (art. 43 à 45)](#29)
     - [Chapitre II : Organisation des bureaux et des brigades de douane (art. 46 à 52)](#30)
       - [Section 1 : Etablissement des bureaux de douane. (art. 46 à 49)](#31)
@@ -46,203 +46,204 @@ Version Consolidée au 2009-05-29
       - [Section 6 : Présentation des passeports. (art. 67)](#43)
       - [Section 7 : Livraisons surveillées. (art. 67 bis)](#44)
       - [Section 8 : Retenue provisoire des personnes dans le cadre de la convention d'application de l'accord de Schengen du 14 juin 1985. (art. 67 quater à 67 ter)](#45)
-  - [Titre III : Conduite des marchandises en douane (art. 68 à 83)](#46)
-    - [Chapitre Ier : Importation (art. 68 à 82)](#47)
-      - [Section 1 : Transports par mer. (art. 68 à 74)](#48)
-      - [Section 2 : Transports par les voies terrestres. (art. 75 à 77)](#49)
-      - [Section 3 : Transports par la voie aérienne. (art. 78 à 82)](#50)
-    - [Chapitre Ier bis : Magasins et aires de dédouanement. (art. 82 bis à 82 ter)](#51)
-    - [Chapitre II : Exportation. (art. 83)](#52)
-  - [Titre IV : Opérations de dédouanement (art. 84 à 119 bis)](#53)
-    - [Chapitre Ier : Déclaration en détail (art. 84 à 100 ter)](#54)
-      - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 84 à 85)](#55)
-      - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 86 à 94)](#56)
-      - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 95 à 100 ter)](#57)
-    - [Chapitre II : Vérification des marchandises (art. 101 à 107)](#58)
-      - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 101 à 103)](#59)
-      - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 104)](#60)
-      - [Section 3 : Application des résultats de la vérification. (art. 107)](#61)
-    - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 108 à 112)](#62)
-      - [Section 1 : Liquidation des droits et taxes. (art. 108 à 109)](#63)
-      - [Section 2 : Paiement au comptant. (art. 110 à 111)](#64)
-      - [Section 3 : Crédit des droits et taxes. (art. 112)](#65)
-    - [Chapitre IV : Enlèvement des marchandises (art. 113 à 119)](#66)
-      - [Section 1 : Règles générales. (art. 113)](#67)
-      - [Section 2 : Crédit d'enlèvement. (art. 114)](#68)
-      - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 115 à 119)](#69)
-    - [Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires. (art. 119 bis)](#70)
-  - [Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux (art. 120 à 181 bis)](#71)
-    - [Chapitre Ier : Régime général des acquits-à-caution. (art. 120 à 124)](#72)
-    - [Chapitre II : Transit. (art. 125 à 131 bis)](#73)
-    - [Chapitre III : Entrepôt de douane (art. 157)](#74)
-      - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 157)](#75)
-    - [Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers. (art. 158 A à 158 D)](#76)
-    - [Chapitre V : Production d'huiles minérales en "usine exercée" (art. 163 à 167)](#77)
-      - [Section 1 : Généralités. (art. 163)](#78)
-      - [Section 2 : Usines exercées pétrolières et pétroléochimiques (art. 165 à 167)](#79)
-        - [Paragraphe 2 : Installations de production. (art. 165 à 165 B)](#80)
-        - [Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques. (art. 167)](#81)
-    - [Chapitre VI : Admission temporaire. (art. 169 à 174)](#82)
-    - [Chapitre VII : Exportation temporaire. (art. 175)](#83)
-    - [Chapitre VIII : Dépôts spéciaux. (art. 176 à 177)](#84)
-    - [Chapitre IX : Pacages. (art. 179 à 181)](#85)
-    - [Chapitre X : Intérêt compensatoire du régime du perfectionnement actif. (art. 181 bis)](#86)
-  - [Titre VI : Dépôt de douane (art. 182 à 188)](#87)
-    - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#88)
-    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 188)](#89)
-  - [Titre VII : Opérations privilégiées (art. 190 à 196 quinquies)](#90)
-    - [Chapitre II : Avitaillement des navires et des aéronefs (art. 190 à 195 bis)](#91)
-      - [Section 1 : Dispositions spéciales aux navires. (art. 190 à 194)](#92)
-      - [Section 2 : Dispositions spéciales aux aéronefs. (art. 195)](#93)
-      - [Section 3 : Dispositions communes aux navires et aux aéronefs. (art. 195 bis)](#94)
-    - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#95)
-    - [Chapitre V : Plateau continental et zone économique. (art. 196 quater à 196 quinquies)](#96)
-  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 ter)](#97)
-    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#98)
-      - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#99)
-      - [Section 2 : Détention des marchandises. (art. 206)](#100)
-      - [Section 3 : Compte ouvert des marchandises. (art. 207)](#101)
-      - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#102)
-      - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#103)
-    - [Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 215 à 215 ter)](#104)
-  - [Titre IX : Navigation (art. 216 à 264)](#105)
-    - [Chapitre Ier : Régime administratif des navires (art. 216 à 252)](#106)
-      - [Section 1 : Champ d'application. (art. 216)](#107)
-      - [Section 2 : Francisation des navires (art. 217 à 231)](#108)
-        - [Paragraphe 1 : Généralités. (art. 217 à 218)](#109)
-        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 219 à 220)](#110)
-        - [Paragraphe 3 : Jaugeage des navires. (art. 222)](#111)
-        - [Paragraphe 4 : Droit de francisation et de navigation. (art. 223 à 226)](#112)
-        - [Paragraphe 5 : Acte de francisation. (art. 227 à 229)](#113)
-        - [Paragraphe 6 : Réparations de navires français hors du territoire douanier. (art. 230)](#114)
-        - [Paragraphe 7 : Ventes de navires francisés. (art. 231)](#115)
-      - [Section 4 : Dispositions diverses relatives à la francisation et aux congés. (art. 235 à 236)](#116)
-      - [Section 5 : Passeports. (art. 237 à 240)](#117)
-      - [Section 7 : Hypothèques maritimes (art. 241 à 252)](#118)
-        - [Paragraphe 1 : Constitution de l'hypothèque. (art. 241 à 245)](#119)
-        - [Paragraphe 2 : Publicité de l'hypothèque. (art. 246)](#120)
-        - [Paragraphe 3 : Effets de l'hypothèque. (art. 247 à 249)](#121)
-        - [Paragraphe 4 : Radiations. (art. 250)](#122)
-        - [Paragraphe 5 : Ventes. (art. 251)](#123)
-        - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252)](#124)
-    - [Chapitre II : Dispositions particulières. (art. 257 à 260)](#125)
-    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#126)
-    - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#127)
-  - [Titre X : Taxes diverses perçues par la douane (art. 265 à 285 ter)](#128)
-    - [Chapitre Ier : Taxes intérieures. (art. 265 à 268 ter)](#129)
-    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#130)
-    - [Chapitre IV bis : Taxe spéciale sur certains véhicules routiers. (art. 284 bis à 284 ter)](#131)
-    - [Chapitre VI : Droits et taxes divers. (art. 285 à 285 ter)](#132)
-  - [Titre XI : Zones franches. (art. 286 à 291)](#133)
-  - [Titre XII : Contentieux et recouvrement (art. 322 bis à 440)](#134)
-    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis à 341 bis)](#135)
-      - [Section 01 : Droit de consignation. (art. 322 bis)](#136)
-      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#137)
-        - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 323)](#138)
-        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#139)
-        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#140)
-          - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#141)
-          - [B. - Saisies à domicile. (art. 330)](#142)
-          - [C. - Saisies sur les navires et bateaux pontés. (art. 331)](#143)
-          - [D. - Saisies en dehors du rayon. (art. 332)](#144)
-        - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 333)](#145)
-      - [Section 2 : Constatation par procès-verbal de constat. (art. 334)](#146)
-      - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 335 à 341 bis)](#147)
-        - [Paragraphe 1 : Timbre et enregistrement. (art. 335)](#148)
-        - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 336 à 341 bis)](#149)
-    - [Chapitre II : Poursuites et recouvrement (art. 342 à 355)](#150)
-      - [Section 1 : Dispositions générales. (art. 342 à 344)](#151)
-      - [Section 2 : Recouvrement. (art. 345 à 349 bis)](#152)
-      - [Section 3 : Extinction des droits de poursuite et de répression (art. 350 à 355)](#153)
-        - [Paragraphe 1 : Droit de transaction. (art. 350)](#154)
-        - [Paragraphe 2 : Prescription de l'action. (art. 351)](#155)
-        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 352 à 355)](#156)
-          - [A. - Prescription contre les redevables. (art. 352 à 353)](#157)
-          - [B. - Prescription contre l'administration. (art. 354)](#158)
-          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#159)
-    - [Chapitre III : Procédure devant les tribunaux (art. 356 à 377 bis)](#160)
-      - [Section 1 : Tribunaux compétents en matière de douane (art. 356 à 358)](#161)
-        - [Paragraphe 1 : Compétence "ratione materiae". (art. 356 à 357 bis)](#162)
-        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#163)
-      - [Section 2 : Procédure devant les juridictions civiles (art. 361 à 362)](#164)
-        - [Paragraphe 3 : Appel des jugements rendus par les juges d'instance. (art. 361)](#165)
-        - [Paragraphe 4 : Notification des jugements et autres actes de procédure. (art. 362)](#166)
-      - [Section 3 : Procédure devant les juridictions répressives. (art. 363 à 365)](#167)
-      - [Section 4 : Pourvois en cassation. (art. 366)](#168)
-      - [Section 5 : Dispositions diverses (art. 367 à 377 bis)](#169)
-        - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 367 à 368)](#170)
-          - [A. - Instruction et frais. (art. 367)](#171)
-          - [B. - Exploits. (art. 368)](#172)
-        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 369 à 370)](#173)
-        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 373 à 377 bis)](#174)
-          - [A. - Preuves de non-contravention. (art. 373)](#175)
-          - [B. - Action en garantie. (art. 374)](#176)
-          - [C. - Confiscation des objets saisis sur inconnus et des minutes. (art. 375)](#177)
-          - [D. - Revendication des objets saisis. (art. 376)](#178)
-          - [E. - Fausses déclarations. (art. 377)](#179)
-          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#180)
-    - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 378 à 391)](#181)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381 bis)](#182)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#183)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#184)
-        - [Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne. (art. 381 bis)](#185)
-      - [Section 2 : Voies d'exécution (art. 382 à 390)](#186)
-        - [Paragraphe 1 : Règles générales. (art. 382)](#187)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#188)
-        - [Paragraphe 3 : Exercice anticipé de la contrainte judiciaire. (art. 388)](#189)
-        - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#190)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#191)
-          - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 389 bis)](#192)
-          - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#193)
-      - [Section 3 : Droit de remise. (art. 390 bis)](#194)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#195)
-    - [Chapitre V : Responsabilité et solidarité (art. 392 à 407)](#196)
-      - [Section 1 : Responsabilité pénale (art. 392 à 400)](#197)
-        - [Paragraphe 1 : Détenteurs. (art. 392)](#198)
-        - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 393 à 394)](#199)
-        - [Paragraphe 3 : Déclarants. (art. 395)](#200)
-        - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 396)](#201)
-        - [Paragraphe 5 : Soumissionnaires. (art. 397)](#202)
-        - [Paragraphe 6 : Complices. (art. 398)](#203)
-        - [Paragraphe 7 : Intéressés à la fraude. (art. 399 à 400)](#204)
-      - [Section 2 : Responsabilité civile (art. 401 à 405)](#205)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 401 à 403)](#206)
-        - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 404)](#207)
-        - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 405)](#208)
-      - [Section 3 : Solidarité. (art. 406 à 407)](#209)
-    - [Chapitre VI : Dispositions répressives (art. 408 à 440)](#210)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 408 à 429)](#211)
-        - [Paragraphe 1 : Généralités. (art. 408 à 409)](#212)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#213)
-          - [A. - Première classe. (art. 410)](#214)
-          - [B. - Deuxième classe. (art. 411)](#215)
-          - [C. - Troisième classe. (art. 412)](#216)
-          - [E. - Cinquième classe. (art. 413 bis)](#217)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#218)
-          - [A. - Première classe. (art. 414 à 414-1)](#219)
-          - [B. - Deuxième classe. (art. 415)](#220)
-        - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#221)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#222)
-      - [Section 2 : Peines complémentaires (art. 430 à 433)](#223)
-        - [Paragraphe 1 : Confiscation. (art. 430)](#224)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#225)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#226)
-      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#227)
-        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#228)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#229)
-        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#230)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450-1)](#231)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#232)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#233)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#234)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#235)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#236)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#237)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#238)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#239)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#240)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#241)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#242)
+    - [Chapitre V : Procédure préalable à la prise de décision :  le droit d'être entendu. (art. 67 A à 67 D)](#46)
+  - [Titre III : Conduite des marchandises en douane (art. 68 à 83)](#47)
+    - [Chapitre Ier : Importation (art. 68 à 82)](#48)
+      - [Section 1 : Transports par mer. (art. 68 à 74)](#49)
+      - [Section 2 : Transports par les voies terrestres. (art. 75 à 77)](#50)
+      - [Section 3 : Transports par la voie aérienne. (art. 78 à 82)](#51)
+    - [Chapitre Ier bis : Magasins et aires de dédouanement. (art. 82 bis à 82 ter)](#52)
+    - [Chapitre II : Exportation. (art. 83)](#53)
+  - [Titre IV : Opérations de dédouanement (art. 84 à 119 bis)](#54)
+    - [Chapitre Ier : Déclaration en détail (art. 84 à 100 ter)](#55)
+      - [Section 1 : Caractère obligatoire de la déclaration en détail. (art. 84 à 85)](#56)
+      - [Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane. (art. 86 à 94)](#57)
+      - [Section 3 : Forme, énonciations et enregistrement des déclarations en détail. (art. 95 à 100 ter)](#58)
+    - [Chapitre II : Vérification des marchandises (art. 101 à 107)](#59)
+      - [Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises. (art. 101 à 103)](#60)
+      - [Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises. (art. 104)](#61)
+      - [Section 3 : Application des résultats de la vérification. (art. 107)](#62)
+    - [Chapitre III : Liquidation et acquittement des droits et taxes (art. 108 à 112)](#63)
+      - [Section 1 : Liquidation des droits et taxes. (art. 108 à 109)](#64)
+      - [Section 2 : Paiement au comptant. (art. 110 à 111)](#65)
+      - [Section 3 : Crédit des droits et taxes. (art. 112)](#66)
+    - [Chapitre IV : Enlèvement des marchandises (art. 113 à 119)](#67)
+      - [Section 1 : Règles générales. (art. 113)](#68)
+      - [Section 2 : Crédit d'enlèvement. (art. 114)](#69)
+      - [Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation. (art. 115 à 119)](#70)
+    - [Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires. (art. 119 bis)](#71)
+  - [Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux (art. 120 à 181 bis)](#72)
+    - [Chapitre Ier : Régime général des acquits-à-caution. (art. 120 à 124)](#73)
+    - [Chapitre II : Transit. (art. 125 à 131 bis)](#74)
+    - [Chapitre III : Entrepôt de douane (art. 157)](#75)
+      - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 157)](#76)
+    - [Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers. (art. 158 A à 158 D)](#77)
+    - [Chapitre V : Production d'huiles minérales en "usine exercée" (art. 163 à 167)](#78)
+      - [Section 1 : Généralités. (art. 163)](#79)
+      - [Section 2 : Usines exercées pétrolières et pétroléochimiques (art. 165 à 167)](#80)
+        - [Paragraphe 2 : Installations de production. (art. 165 à 165 B)](#81)
+        - [Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques. (art. 167)](#82)
+    - [Chapitre VI : Admission temporaire. (art. 169 à 174)](#83)
+    - [Chapitre VII : Exportation temporaire. (art. 175)](#84)
+    - [Chapitre VIII : Dépôts spéciaux. (art. 176 à 177)](#85)
+    - [Chapitre IX : Pacages. (art. 179 à 181)](#86)
+    - [Chapitre X : Intérêt compensatoire du régime du perfectionnement actif. (art. 181 bis)](#87)
+  - [Titre VI : Dépôt de douane (art. 182 à 188)](#88)
+    - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#89)
+    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 188)](#90)
+  - [Titre VII : Opérations privilégiées (art. 190 à 196 quinquies)](#91)
+    - [Chapitre II : Avitaillement des navires et des aéronefs (art. 190 à 195 bis)](#92)
+      - [Section 1 : Dispositions spéciales aux navires. (art. 190 à 194)](#93)
+      - [Section 2 : Dispositions spéciales aux aéronefs. (art. 195)](#94)
+      - [Section 3 : Dispositions communes aux navires et aux aéronefs. (art. 195 bis)](#95)
+    - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#96)
+    - [Chapitre V : Plateau continental et zone économique. (art. 196 quater à 196 quinquies)](#97)
+  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 ter)](#98)
+    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#99)
+      - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#100)
+      - [Section 2 : Détention des marchandises. (art. 206)](#101)
+      - [Section 3 : Compte ouvert des marchandises. (art. 207)](#102)
+      - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#103)
+      - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#104)
+    - [Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 215 à 215 ter)](#105)
+  - [Titre IX : Navigation (art. 216 à 264)](#106)
+    - [Chapitre Ier : Régime administratif des navires (art. 216 à 252)](#107)
+      - [Section 1 : Champ d'application. (art. 216)](#108)
+      - [Section 2 : Francisation des navires (art. 217 à 231)](#109)
+        - [Paragraphe 1 : Généralités. (art. 217 à 218)](#110)
+        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 219 à 220)](#111)
+        - [Paragraphe 3 : Jaugeage des navires. (art. 222)](#112)
+        - [Paragraphe 4 : Droit de francisation et de navigation. (art. 223 à 226)](#113)
+        - [Paragraphe 5 : Acte de francisation. (art. 227 à 229)](#114)
+        - [Paragraphe 6 : Réparations de navires français hors du territoire douanier. (art. 230)](#115)
+        - [Paragraphe 7 : Ventes de navires francisés. (art. 231)](#116)
+      - [Section 4 : Dispositions diverses relatives à la francisation et aux congés. (art. 235 à 236)](#117)
+      - [Section 5 : Passeports. (art. 237 à 240)](#118)
+      - [Section 7 : Hypothèques maritimes (art. 241 à 252)](#119)
+        - [Paragraphe 1 : Constitution de l'hypothèque. (art. 241 à 245)](#120)
+        - [Paragraphe 2 : Publicité de l'hypothèque. (art. 246)](#121)
+        - [Paragraphe 3 : Effets de l'hypothèque. (art. 247 à 249)](#122)
+        - [Paragraphe 4 : Radiations. (art. 250)](#123)
+        - [Paragraphe 5 : Ventes. (art. 251)](#124)
+        - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252)](#125)
+    - [Chapitre II : Dispositions particulières. (art. 257 à 260)](#126)
+    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#127)
+    - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#128)
+  - [Titre X : Taxes diverses perçues par la douane (art. 265 à 285 ter)](#129)
+    - [Chapitre Ier : Taxes intérieures. (art. 265 à 268 ter)](#130)
+    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#131)
+    - [Chapitre IV bis : Taxe spéciale sur certains véhicules routiers. (art. 284 bis à 284 ter)](#132)
+    - [Chapitre VI : Droits et taxes divers. (art. 285 à 285 ter)](#133)
+  - [Titre XI : Zones franches. (art. 286 à 291)](#134)
+  - [Titre XII : Contentieux et recouvrement (art. 322 bis à 440)](#135)
+    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis à 341 bis)](#136)
+      - [Section 01 : Droit de consignation. (art. 322 bis)](#137)
+      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#138)
+        - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 323)](#139)
+        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#140)
+        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#141)
+          - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#142)
+          - [B. - Saisies à domicile. (art. 330)](#143)
+          - [C. - Saisies sur les navires et bateaux pontés. (art. 331)](#144)
+          - [D. - Saisies en dehors du rayon. (art. 332)](#145)
+        - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 333)](#146)
+      - [Section 2 : Constatation par procès-verbal de constat. (art. 334)](#147)
+      - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 335 à 341 bis)](#148)
+        - [Paragraphe 1 : Timbre et enregistrement. (art. 335)](#149)
+        - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 336 à 341 bis)](#150)
+    - [Chapitre II : Poursuites et recouvrement (art. 342 à 355)](#151)
+      - [Section 1 : Dispositions générales. (art. 342 à 344)](#152)
+      - [Section 2 : Recouvrement. (art. 345 à 349 bis)](#153)
+      - [Section 3 : Extinction des droits de poursuite et de répression (art. 350 à 355)](#154)
+        - [Paragraphe 1 : Droit de transaction. (art. 350)](#155)
+        - [Paragraphe 2 : Prescription de l'action. (art. 351)](#156)
+        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 352 à 355)](#157)
+          - [A. - Prescription contre les redevables. (art. 352 à 353)](#158)
+          - [B. - Prescription contre l'administration. (art. 354)](#159)
+          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#160)
+    - [Chapitre III : Procédure devant les tribunaux (art. 356 à 377 bis)](#161)
+      - [Section 1 : Tribunaux compétents en matière de douane (art. 356 à 358)](#162)
+        - [Paragraphe 1 : Compétence "ratione materiae". (art. 356 à 357 bis)](#163)
+        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#164)
+      - [Section 2 : Procédure devant les juridictions civiles (art. 361 à 362)](#165)
+        - [Paragraphe 3 : Appel des jugements rendus par les juges d'instance. (art. 361)](#166)
+        - [Paragraphe 4 : Notification des jugements et autres actes de procédure. (art. 362)](#167)
+      - [Section 3 : Procédure devant les juridictions répressives. (art. 363 à 365)](#168)
+      - [Section 4 : Pourvois en cassation. (art. 366)](#169)
+      - [Section 5 : Dispositions diverses (art. 367 à 377 bis)](#170)
+        - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 367 à 368)](#171)
+          - [A. - Instruction et frais. (art. 367)](#172)
+          - [B. - Exploits. (art. 368)](#173)
+        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 369 à 370)](#174)
+        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 373 à 377 bis)](#175)
+          - [A. - Preuves de non-contravention. (art. 373)](#176)
+          - [B. - Action en garantie. (art. 374)](#177)
+          - [C. - Confiscation des objets saisis sur inconnus et des minutes. (art. 375)](#178)
+          - [D. - Revendication des objets saisis. (art. 376)](#179)
+          - [E. - Fausses déclarations. (art. 377)](#180)
+          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#181)
+    - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 378 à 391)](#182)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381 bis)](#183)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#184)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#185)
+        - [Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne. (art. 381 bis)](#186)
+      - [Section 2 : Voies d'exécution (art. 382 à 390)](#187)
+        - [Paragraphe 1 : Règles générales. (art. 382)](#188)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#189)
+        - [Paragraphe 3 : Exercice anticipé de la contrainte judiciaire. (art. 388)](#190)
+        - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#191)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#192)
+          - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 389 bis)](#193)
+          - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#194)
+      - [Section 3 : Droit de remise. (art. 390 bis)](#195)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#196)
+    - [Chapitre V : Responsabilité et solidarité (art. 392 à 407)](#197)
+      - [Section 1 : Responsabilité pénale (art. 392 à 400)](#198)
+        - [Paragraphe 1 : Détenteurs. (art. 392)](#199)
+        - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 393 à 394)](#200)
+        - [Paragraphe 3 : Déclarants. (art. 395)](#201)
+        - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 396)](#202)
+        - [Paragraphe 5 : Soumissionnaires. (art. 397)](#203)
+        - [Paragraphe 6 : Complices. (art. 398)](#204)
+        - [Paragraphe 7 : Intéressés à la fraude. (art. 399 à 400)](#205)
+      - [Section 2 : Responsabilité civile (art. 401 à 405)](#206)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 401 à 403)](#207)
+        - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 404)](#208)
+        - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 405)](#209)
+      - [Section 3 : Solidarité. (art. 406 à 407)](#210)
+    - [Chapitre VI : Dispositions répressives (art. 408 à 440)](#211)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 408 à 429)](#212)
+        - [Paragraphe 1 : Généralités. (art. 408 à 409)](#213)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#214)
+          - [A. - Première classe. (art. 410)](#215)
+          - [B. - Deuxième classe. (art. 411)](#216)
+          - [C. - Troisième classe. (art. 412)](#217)
+          - [E. - Cinquième classe. (art. 413 bis)](#218)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#219)
+          - [A. - Première classe. (art. 414 à 414-1)](#220)
+          - [B. - Deuxième classe. (art. 415)](#221)
+        - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#222)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#223)
+      - [Section 2 : Peines complémentaires (art. 430 à 433)](#224)
+        - [Paragraphe 1 : Confiscation. (art. 430)](#225)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#226)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#227)
+      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#228)
+        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#229)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#230)
+        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#231)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450-1)](#232)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#233)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#234)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#235)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#236)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#237)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#238)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#239)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#240)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#241)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#242)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#243)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -1816,21 +1817,17 @@ _Modifié par_:
 Dans le cadre de la lutte contre les activités lucratives non déclarées portant atteinte à l'ordre public et à la sécurité
 publique, les agents de la direction générale de la comptabilité publique, de la direction générale des douanes et droits
 indirects, de la direction générale des impôts et de la direction générale de la concurrence, de la consommation et de la
-répression des fraudes doivent répondre aux demandes formulées par les officiers et agents de police judiciaire concernant
-les renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au
-secret. Dans ce même cadre, les officiers et agents de police judiciaire doivent communiquer aux agents des quatre directions
-précitées tous les éléments susceptibles de comporter une implication de nature financière, fiscale ou douanière, sans que
-puisse être opposée l'obligation au secret.
+répression des fraudes transmettent, spontanément ou sur demande, aux officiers et agents de police judiciaire les
+renseignements et documents de nature financière, fiscale ou douanière, sans que puisse être opposée l'obligation au secret.
+Dans ce même cadre, les officiers et agents de police judiciaire transmettent, spontanément ou sur demande, aux agents des
+quatre directions précitées tous les éléments susceptibles de comporter une implication de nature financière, fiscale ou
+douanière, sans que puisse être opposée l'obligation au secret.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°48-1985 1948-12-08
-
-_Créé par_:
-
-  - Décret n°2004-759 du 27 juillet 2004 - art. 1 () JORF 30 juillet 2004
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 16 (V)
 
 _Cité par_:
 
@@ -3059,11 +3056,109 @@ _Cite_:
   - Code des douanes - art. 323 (M)
 
 
-# Titre III : Conduite des marchandises en douane<a id=46></a>
+## Chapitre V : Procédure préalable à la prise de décision :  le droit d'être entendu.<a id=46></a>
 
-## Chapitre Ier : Importation<a id=47></a>
+###### Article 67 A
 
-### Section 1 : Transports par mer.<a id=48></a>
+Sous réserve des dispositions de l'article 67 B, toute décision prise en application du code des douanes communautaire et de
+ses dispositions d'application, lorsqu'elle est défavorable ou lorsqu'elle notifie une dette douanière telle que définie à
+l'article 4, paragraphe 9, du code des douanes communautaire, est précédée de l'envoi ou de la remise à la personne concernée
+d'un document par lequel l'administration des douanes fait connaître la décision envisagée, les motifs de celle-ci, la
+référence des documents et informations sur lesquels elle sera fondée ainsi que la possibilité dont dispose l'intéressé de
+faire connaître ses observations dans un délai de trente jours à compter de la notification ou de la remise de ce document.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 25
+
+_Cité par_:
+
+  - Code des douanes - art. 67 B (V)
+  - Code des douanes - art. 67 C (M)
+
+
+###### Article 67 B
+
+Lorsque la décision envisagée porte sur la notification d'une dette douanière à la suite d'un contrôle douanier, la
+communication des motifs mentionnée à l'article 67 A peut être faite oralement par tout agent des douanes. La personne
+concernée est invitée à faire connaître immédiatement ses observations, de la même manière. Elle est informée qu'elle peut
+demander à bénéficier d'une communication écrite dans les conditions prévues au même article 67 A. 
+
+La date, l'heure et le contenu de la communication orale mentionnée à l'alinéa précédent sont consignés par l'administration
+des douanes. Cet enregistrement atteste, sauf preuve contraire, que la personne concernée a exercé son droit de faire
+connaître ses observations.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 25
+
+_Cité par_:
+
+  - Code des douanes - art. 67 A (V)
+
+
+###### Article 67 C
+
+Les délais impartis à l'administration des douanes pour la prise des décisions mentionnées à l'article 67 A sont suspendus à
+compter de la date d'envoi ou de la remise de la communication des motifs à la personne concernée jusqu'à la date de
+réception de ses observations, et au plus tard jusqu'à la date d'expiration du délai de trente jours prévu à ce même article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 25
+
+_Cite_:
+
+  - Code des douanes - art. 67 A
+
+
+###### Article 67 D
+
+Le présent chapitre ne s'applique pas : 
+
+a) Au rejet de demandes manifestement irrecevables ; 
+
+b) Aux décisions conduisant à la notification d'infractions prévues par le présent code et aux décisions de procéder aux
+contrôles prévus au chapitre IV du présent titre et à l'article 68 du code des douanes communautaire ; 
+
+c) Aux décisions fondées sur l'article 12 du code des douanes communautaire ; 
+
+d) Aux décisions portant refus de la prestation d'un contingent tarifaire sur le fondement de l'article 20, paragraphe 5, du
+code des douanes communautaire ; 
+
+e) Aux avis de mise en recouvrement notifiés conformément à l'article 345 du présent code aux fins de recouvrement des
+créances impayées à l'échéance, à l'exception de celles qui ont été constatées à la suite d'une infraction au même code ; 
+
+f) Aux mesures prises en application soit d'une décision de justice, soit d'un avis de mise en recouvrement notifié
+conformément à l'article 345 ; 
+
+g) Aux décisions prises en raison d'un risque sanitaire portant atteinte à l'environnement, à la santé humaine, animale ou
+des végétaux.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 25
+
+_Cite_:
+
+  - Code des douanes - art. 12 (Ab)
+  - Code des douanes - art. 20
+  - Code des douanes - art. 345
+
+
+# Titre III : Conduite des marchandises en douane<a id=47></a>
+
+## Chapitre Ier : Importation<a id=48></a>
+
+### Section 1 : Transports par mer.<a id=49></a>
 
 ###### Article 68
 
@@ -3199,7 +3294,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Transports par les voies terrestres.<a id=49></a>
+### Section 2 : Transports par les voies terrestres.<a id=50></a>
 
 ###### Article 75
 
@@ -3268,7 +3363,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Transports par la voie aérienne.<a id=50></a>
+### Section 3 : Transports par la voie aérienne.<a id=51></a>
 
 ###### Article 78
 
@@ -3355,7 +3450,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre Ier bis : Magasins et aires de dédouanement.<a id=51></a>
+## Chapitre Ier bis : Magasins et aires de dédouanement.<a id=52></a>
 
 ###### Article 82 bis
 
@@ -3461,7 +3556,7 @@ _Créé par_:
   - Loi n°65-525 1965-07-03 art. 4 JORF 4 juillet 1965
 
 
-## Chapitre II : Exportation.<a id=52></a>
+## Chapitre II : Exportation.<a id=53></a>
 
 ###### Article 83
 
@@ -3486,11 +3581,11 @@ _Cité par_:
   - Code des douanes - art. 417 (V)
 
 
-# Titre IV : Opérations de dédouanement<a id=53></a>
+# Titre IV : Opérations de dédouanement<a id=54></a>
 
-## Chapitre Ier : Déclaration en détail<a id=54></a>
+## Chapitre Ier : Déclaration en détail<a id=55></a>
 
-### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=55></a>
+### Section 1 : Caractère obligatoire de la déclaration en détail.<a id=56></a>
 
 ###### Article 84
 
@@ -3546,7 +3641,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=56></a>
+### Section 2 : Personnes habilitées à déclarer les marchandises en détail, commissionnaires en douane.<a id=57></a>
 
 ###### Article 86
 
@@ -3697,7 +3792,7 @@ _Cite_:
   - Code des douanes 86 à 93
 
 
-### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=57></a>
+### Section 3 : Forme, énonciations et enregistrement des déclarations en détail.<a id=58></a>
 
 ###### Article 95
 
@@ -3970,9 +4065,9 @@ _Modifié par_:
   - Loi n°2007-1824 du 25 décembre 2007 - art. 62
 
 
-## Chapitre II : Vérification des marchandises<a id=58></a>
+## Chapitre II : Vérification des marchandises<a id=59></a>
 
-### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=59></a>
+### Section 1 : Conditions dans lesquelles a lieu la vérification des marchandises.<a id=60></a>
 
 ###### Article 101
 
@@ -4053,7 +4148,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=60></a>
+### Section 2 : Règlement des contestations portant sur l'espèce, l'origine ou la valeur des marchandises.<a id=61></a>
 
 ###### Article 104
 
@@ -4083,7 +4178,7 @@ _Cité par_:
   - Décret n°2010-428 du 28 avril 2010 - art. 5 (V)
 
 
-### Section 3 : Application des résultats de la vérification.<a id=61></a>
+### Section 3 : Application des résultats de la vérification.<a id=62></a>
 
 ###### Article 107
 
@@ -4109,9 +4204,9 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-## Chapitre III : Liquidation et acquittement des droits et taxes<a id=62></a>
+## Chapitre III : Liquidation et acquittement des droits et taxes<a id=63></a>
 
-### Section 1 : Liquidation des droits et taxes.<a id=63></a>
+### Section 1 : Liquidation des droits et taxes.<a id=64></a>
 
 ###### Article 108
 
@@ -4160,7 +4255,7 @@ _Modifié par_:
   - Loi n°81-1160 du 30 décembre 1981 - art. 42 () JORF 31 décembre 1981
 
 
-### Section 2 : Paiement au comptant.<a id=64></a>
+### Section 2 : Paiement au comptant.<a id=65></a>
 
 ###### Article 110
 
@@ -4204,7 +4299,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-### Section 3 : Crédit des droits et taxes.<a id=65></a>
+### Section 3 : Crédit des droits et taxes.<a id=66></a>
 
 ###### Article 112
 
@@ -4241,9 +4336,9 @@ _Abrogé par_:
   - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
-## Chapitre IV : Enlèvement des marchandises<a id=66></a>
+## Chapitre IV : Enlèvement des marchandises<a id=67></a>
 
-### Section 1 : Règles générales.<a id=67></a>
+### Section 1 : Règles générales.<a id=68></a>
 
 ###### Article 113
 
@@ -4272,7 +4367,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Crédit d'enlèvement.<a id=68></a>
+### Section 2 : Crédit d'enlèvement.<a id=69></a>
 
 ###### Article 114
 
@@ -4330,7 +4425,7 @@ _Modifié par_:
   - Loi n°2008-1443 du 30 décembre 2008 - art. 67
 
 
-### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=69></a>
+### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=70></a>
 
 ###### Article 115
 
@@ -4452,7 +4547,7 @@ _Cite_:
   - Code des douanes - art. 78 (V)
 
 
-## Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires.<a id=70></a>
+## Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires.<a id=71></a>
 
 ###### Article 119 bis
 
@@ -4484,9 +4579,9 @@ _Cité par_:
   - Code des douanes - art. 429 (V)
 
 
-# Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux<a id=71></a>
+# Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux<a id=72></a>
 
-## Chapitre Ier : Régime général des acquits-à-caution.<a id=72></a>
+## Chapitre Ier : Régime général des acquits-à-caution.<a id=73></a>
 
 ###### Article 120
 
@@ -4618,7 +4713,7 @@ _Modifié par_:
   - Loi n°77-574 1977-06-07 art. 4 II JORF 8 juin 1977
 
 
-## Chapitre II : Transit.<a id=73></a>
+## Chapitre II : Transit.<a id=74></a>
 
 ###### Article 125
 
@@ -4839,9 +4934,9 @@ _Abrogé par_:
   - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 
-## Chapitre III : Entrepôt de douane<a id=74></a>
+## Chapitre III : Entrepôt de douane<a id=75></a>
 
-### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=75></a>
+### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=76></a>
 
 ###### Article 157
 
@@ -4869,7 +4964,7 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 59
 
 
-## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.<a id=76></a>
+## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.<a id=77></a>
 
 ###### Article 158 A
 
@@ -5013,9 +5108,9 @@ _Cite_:
   - Code des douanes - art. 266 quater (V)
 
 
-## Chapitre V : Production d'huiles minérales en "usine exercée"<a id=77></a>
+## Chapitre V : Production d'huiles minérales en "usine exercée"<a id=78></a>
 
-### Section 1 : Généralités.<a id=78></a>
+### Section 1 : Généralités.<a id=79></a>
 
 ###### Article 163
 
@@ -5063,9 +5158,9 @@ _Cite_:
   - Code des douanes - art. 265 (V)
 
 
-### Section 2 : Usines exercées pétrolières et pétroléochimiques<a id=79></a>
+### Section 2 : Usines exercées pétrolières et pétroléochimiques<a id=80></a>
 
-#### Paragraphe 2 : Installations de production.<a id=80></a>
+#### Paragraphe 2 : Installations de production.<a id=81></a>
 
 ###### Article 165
 
@@ -5177,7 +5272,7 @@ _Cite_:
   - Code des douanes - art. 265 (V)
 
 
-#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=81></a>
+#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=82></a>
 
 ###### Article 167
 
@@ -5201,7 +5296,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre VI : Admission temporaire.<a id=82></a>
+## Chapitre VI : Admission temporaire.<a id=83></a>
 
 ###### Article 169
 
@@ -5534,7 +5629,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre VII : Exportation temporaire.<a id=83></a>
+## Chapitre VII : Exportation temporaire.<a id=84></a>
 
 ###### Article 175
 
@@ -5563,7 +5658,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre VIII : Dépôts spéciaux.<a id=84></a>
+## Chapitre VIII : Dépôts spéciaux.<a id=85></a>
 
 ###### Article 176
 
@@ -5624,7 +5719,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IX : Pacages.<a id=85></a>
+## Chapitre IX : Pacages.<a id=86></a>
 
 ###### Article 179
 
@@ -5708,7 +5803,7 @@ _Cite_:
   - Code des douanes - art. 179 (V)
 
 
-## Chapitre X : Intérêt compensatoire du régime du perfectionnement actif.<a id=86></a>
+## Chapitre X : Intérêt compensatoire du régime du perfectionnement actif.<a id=87></a>
 
 ###### Article 181 bis
 
@@ -5729,9 +5824,9 @@ _Créé par_:
   - Loi - art. 30 () JORF 31 décembre 1991
 
 
-# Titre VI : Dépôt de douane<a id=87></a>
+# Titre VI : Dépôt de douane<a id=88></a>
 
-## Chapitre Ier : Constitution des marchandises en dépôt.<a id=88></a>
+## Chapitre Ier : Constitution des marchandises en dépôt.<a id=89></a>
 
 ###### Article 182
 
@@ -5801,7 +5896,7 @@ _Cité par_:
   - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
-## Chapitre II : Vente des marchandises en dépôt.<a id=89></a>
+## Chapitre II : Vente des marchandises en dépôt.<a id=90></a>
 
 ###### Article 186
 
@@ -5874,11 +5969,11 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-# Titre VII : Opérations privilégiées<a id=90></a>
+# Titre VII : Opérations privilégiées<a id=91></a>
 
-## Chapitre II : Avitaillement des navires et des aéronefs<a id=91></a>
+## Chapitre II : Avitaillement des navires et des aéronefs<a id=92></a>
 
-### Section 1 : Dispositions spéciales aux navires.<a id=92></a>
+### Section 1 : Dispositions spéciales aux navires.<a id=93></a>
 
 ###### Article 190
 
@@ -6060,7 +6155,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Dispositions spéciales aux aéronefs.<a id=93></a>
+### Section 2 : Dispositions spéciales aux aéronefs.<a id=94></a>
 
 ###### Article 195
 
@@ -6083,7 +6178,7 @@ _Modifié par_:
   - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 31 décembre 1978
 
 
-### Section 3 : Dispositions communes aux navires et aux aéronefs.<a id=94></a>
+### Section 3 : Dispositions communes aux navires et aux aéronefs.<a id=95></a>
 
 ###### Article 195 bis
 
@@ -6118,7 +6213,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=95></a>
+## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=96></a>
 
 ###### Article 196 bis
 
@@ -6168,7 +6263,7 @@ _Créé par_:
   - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
 
 
-## Chapitre V : Plateau continental et zone économique.<a id=96></a>
+## Chapitre V : Plateau continental et zone économique.<a id=97></a>
 
 ###### Article 196 quater
 
@@ -6208,11 +6303,11 @@ _Modifié par_:
   - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
 
 
-# Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=97></a>
+# Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=98></a>
 
-## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=98></a>
+## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=99></a>
 
-### Section 1 : Circulation des marchandises.<a id=99></a>
+### Section 1 : Circulation des marchandises.<a id=100></a>
 
 ###### Article 197
 
@@ -6433,7 +6528,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 2 : Détention des marchandises.<a id=100></a>
+### Section 2 : Détention des marchandises.<a id=101></a>
 
 ###### Article 206
 
@@ -6468,7 +6563,7 @@ _Cité par_:
   - Code des douanes - art. 418 (V)
 
 
-### Section 3 : Compte ouvert des marchandises.<a id=101></a>
+### Section 3 : Compte ouvert des marchandises.<a id=102></a>
 
 ###### Article 207
 
@@ -6498,7 +6593,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 4 : Compte ouvert du bétail.<a id=102></a>
+### Section 4 : Compte ouvert du bétail.<a id=103></a>
 
 ###### Article 208
 
@@ -6589,7 +6684,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes.<a id=103></a>
+### Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes.<a id=104></a>
 
 ###### Article 213
 
@@ -6622,7 +6717,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=104></a>
+## Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=105></a>
 
 ###### Article 215
 
@@ -6748,11 +6843,11 @@ _Modifié par_:
   - Loi n°2000-643 du 10 juillet 2000 - art. 5 () JORF 11 juillet 2000
 
 
-# Titre IX : Navigation<a id=105></a>
+# Titre IX : Navigation<a id=106></a>
 
-## Chapitre Ier : Régime administratif des navires<a id=106></a>
+## Chapitre Ier : Régime administratif des navires<a id=107></a>
 
-### Section 1 : Champ d'application.<a id=107></a>
+### Section 1 : Champ d'application.<a id=108></a>
 
 ###### Article 216
 
@@ -6774,9 +6869,9 @@ _Cité par_:
   - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 
 
-### Section 2 : Francisation des navires<a id=108></a>
+### Section 2 : Francisation des navires<a id=109></a>
 
-#### Paragraphe 1 : Généralités.<a id=109></a>
+#### Paragraphe 1 : Généralités.<a id=110></a>
 
 ###### Article 217
 
@@ -6824,7 +6919,7 @@ _Modifié par_:
   - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 
-#### Paragraphe 2 : Conditions requises pour obtenir la francisation.<a id=110></a>
+#### Paragraphe 2 : Conditions requises pour obtenir la francisation.<a id=111></a>
 
 ###### Article 219
 
@@ -7015,7 +7110,7 @@ _Cité par_:
   - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
 
 
-#### Paragraphe 3 : Jaugeage des navires.<a id=111></a>
+#### Paragraphe 3 : Jaugeage des navires.<a id=112></a>
 
 ###### Article 222
 
@@ -7043,7 +7138,7 @@ _Abrogé par_:
   - Loi n°2011-1978 du 28 décembre 2011 - art. 61 (V)
 
 
-#### Paragraphe 4 : Droit de francisation et de navigation.<a id=112></a>
+#### Paragraphe 4 : Droit de francisation et de navigation.<a id=113></a>
 
 ###### Article 223
 
@@ -7468,7 +7563,7 @@ _Modifié par_:
   - Loi - art. 30 () JORF 31 décembre 1999
 
 
-#### Paragraphe 5 : Acte de francisation.<a id=113></a>
+#### Paragraphe 5 : Acte de francisation.<a id=114></a>
 
 ###### Article 227
 
@@ -7528,7 +7623,7 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-#### Paragraphe 6 : Réparations de navires français hors du territoire douanier.<a id=114></a>
+#### Paragraphe 6 : Réparations de navires français hors du territoire douanier.<a id=115></a>
 
 ###### Article 230
 
@@ -7571,7 +7666,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-#### Paragraphe 7 : Ventes de navires francisés.<a id=115></a>
+#### Paragraphe 7 : Ventes de navires francisés.<a id=116></a>
 
 ###### Article 231
 
@@ -7598,7 +7693,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 4 : Dispositions diverses relatives à la francisation et aux congés.<a id=116></a>
+### Section 4 : Dispositions diverses relatives à la francisation et aux congés.<a id=117></a>
 
 ###### Article 235
 
@@ -7639,7 +7734,7 @@ _Cité par_:
   - Code des douanes - art. 410 (V)
 
 
-### Section 5 : Passeports.<a id=117></a>
+### Section 5 : Passeports.<a id=118></a>
 
 ###### Article 237
 
@@ -7663,7 +7758,7 @@ _Codifié par_:
 
 Le passeport délivré aux navires de plaisance ou de sport appartenant à des personnes physiques ou morales, quelle que soit
 leur nationalité, ayant leur résidence principale ou leur siège social en France, ou dont ces mêmes personnes ont la
-jouissance,  donne lieu à la perception d'un droit de passeport.
+jouissance, donne lieu à la perception d'un droit de passeport.
 
 Ce droit est à la charge du propriétaire ou de l'utilisateur du navire. Il est calculé dans les mêmes conditions, selon la
 même assiette, le même taux et les mêmes modalités d'application que le droit de francisation et de navigation prévu à
@@ -7675,7 +7770,11 @@ droit pour les navires d'une longueur de coque supérieure ou égale à 15 mètr
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
 passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
-l'année écoulée, au profit de la collectivité territoriale de Corse.
+l'année écoulée, au profit de la collectivité territoriale de Corse. Sont exonérées de droit de passeport les sociétés
+propriétaires d'un navire de plaisance ou de sport d'une valeur inférieure à 500 000 euros hors taxes faisant l'objet d'un
+contrat de location avec option d'achat ou de crédit-bail conclu avec une personne physique n'ayant pas sa résidence
+principale en France ou avec une personne morale ne disposant pas d'établissement en France, à l'exclusion de celles qui
+seraient contrôlées directement ou indirectement par une personne physique ayant sa résidence principale en France. 
 
 L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité territoriale de Corse un prélèvement
 pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
@@ -7691,7 +7790,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 81
 
 
 ###### Article 239
@@ -7735,9 +7834,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-1 (VT)
 
 
-### Section 7 : Hypothèques maritimes<a id=118></a>
+### Section 7 : Hypothèques maritimes<a id=119></a>
 
-#### Paragraphe 1 : Constitution de l'hypothèque.<a id=119></a>
+#### Paragraphe 1 : Constitution de l'hypothèque.<a id=120></a>
 
 ###### Article 241
 
@@ -7831,7 +7930,7 @@ _Modifié par_:
   - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
 
 
-#### Paragraphe 2 : Publicité de l'hypothèque.<a id=120></a>
+#### Paragraphe 2 : Publicité de l'hypothèque.<a id=121></a>
 
 ###### Article 246
 
@@ -7848,7 +7947,7 @@ _Modifié par_:
   - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
 
 
-#### Paragraphe 3 : Effets de l'hypothèque.<a id=121></a>
+#### Paragraphe 3 : Effets de l'hypothèque.<a id=122></a>
 
 ###### Article 247
 
@@ -7901,7 +8000,7 @@ _Modifié par_:
   - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
 
 
-#### Paragraphe 4 : Radiations.<a id=122></a>
+#### Paragraphe 4 : Radiations.<a id=123></a>
 
 ###### Article 250
 
@@ -7923,7 +8022,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-#### Paragraphe 5 : Ventes.<a id=123></a>
+#### Paragraphe 5 : Ventes.<a id=124></a>
 
 ###### Article 251
 
@@ -7955,7 +8054,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.<a id=124></a>
+#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.<a id=125></a>
 
 ###### Article 252
 
@@ -7989,7 +8088,7 @@ _Anciens textes_:
   - Loi n°46-2294 1946-09-19 art. 2
 
 
-## Chapitre II : Dispositions particulières.<a id=125></a>
+## Chapitre II : Dispositions particulières.<a id=126></a>
 
 ###### Article 257
 
@@ -8139,7 +8238,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Relâches forcées.<a id=126></a>
+## Chapitre III : Relâches forcées.<a id=127></a>
 
 ###### Article 261
 
@@ -8182,7 +8281,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Marchandises sauvées des naufrages, épaves.<a id=127></a>
+## Chapitre IV : Marchandises sauvées des naufrages, épaves.<a id=128></a>
 
 ###### Article 263
 
@@ -8207,9 +8306,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre X : Taxes diverses perçues par la douane<a id=128></a>
+# Titre X : Taxes diverses perçues par la douane<a id=129></a>
 
-## Chapitre Ier : Taxes intérieures.<a id=129></a>
+## Chapitre Ier : Taxes intérieures.<a id=130></a>
 
 ###### Article 265
 
@@ -10019,7 +10118,7 @@ Hectolitre.
 </td>
       <td align="center">
 
-26,27</td>
+24,78</td>
     </tr>
     <tr>
       <td align="center">
@@ -10673,7 +10772,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 76 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 76 (V)
 
 
 ###### Article 265 A
@@ -10872,84 +10971,81 @@ du contexte économique. Cette réduction est fixée comme suit :
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="3">
+      <td align="center" rowspan="3" valign="middle">
+        <font size="1">DÉSIGNATION DES PRODUITS</font>
+      </td>
+      <td valign="middle" align="center" colspan="3">
+        <font size="1">RÉDUCTION
 
-DÉSIGNATION DES PRODUITS 
-
-</th>
-      <th colspan="3">
-
-RÉDUCTION 
-
-(en euros par hectolitre) 
-
-</th>
+</font>
+        <font size="1">(en euros par hectolitre) </font>
+      </td>
     </tr>
     <tr>
-      <th colspan="3">
+      <td colspan="3">
 
-Année 
+<font size="1">Année</font>
 
-</th>
+</td>
     </tr>
     <tr>
-      <th>
+      <td>
 
-2009 
-
-</th>
-      <th>
-
-2010 
-
-</th>
-      <th>
-
-2011 
-
-</th>
-    </tr>
-    <tr>
-      <td align="center">
-
-1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique 
+<font size="1">2009 </font>
 
 </td>
-      <td align="center">
+      <td>
 
-15, 00 
-
-</td>
-      <td align="center">
-
-11, 00 
+<font size="1">2010 </font>
 
 </td>
-      <td align="center">
+      <td>
 
-8, 00 
+<font size="1">2011</font>
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-2. Esters méthyliques d'huile animale incorporés au gazole ou au fioul domestique 
+1. Esters méthyliques d'huile végétale incorporés au gazole ou au fioul domestique
 
 </td>
       <td align="center">
 
-15, 00 
+15,00 
 
 </td>
       <td align="center">
 
-11, 00 
+11,00 
 
 </td>
       <td align="center">
 
-8, 00 
+8,00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+2. Esters méthyliques d'huile animale ou usagée incorporés au gazole ou au fioul domestique
+
+</td>
+      <td align="center">
+
+15,00 
+
+</td>
+      <td align="center">
+
+11 00 
+
+</td>
+      <td align="center">
+
+8 00
 
 </td>
     </tr>
@@ -10957,121 +11053,121 @@ Année
       <td align="center">
 
 3. Contenu en alcool des dérivés de l'alcool éthylique incorporés aux supercarburants dont la composante alcool est d'origine
-agricole 
+agricole, sous nomenclature douanière combinée NC 220710 
 
 </td>
       <td align="center">
 
-21, 00 
+21,00 
 
 </td>
       <td align="center">
 
-18, 00 
+18,00 
 
 </td>
       <td align="center">
 
-14, 00 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-4. Alcool éthylique d'origine agricole incorporé aux supercarburants ou au superéthanol E85 repris à l'indice
-d'identification 55 
-
-</td>
-      <td align="center">
-
-21, 00 
-
-</td>
-      <td align="center">
-
-18, 00 
-
-</td>
-      <td align="center">
-
-14, 00 
+14,00 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-5. Biogazole de synthèse 
+4. Alcool éthylique d'origine agricole, sous nomenclature douanière combinée NC 220710, incorporé aux supercarburants ou au
+superéthanol E85 repris à l'indice d'identification 55 
 
 </td>
       <td align="center">
 
-15, 00 
+21,00
 
 </td>
       <td align="center">
 
-11, 00 
+18,00 
 
 </td>
       <td align="center">
 
-8, 00 
+14,00 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul domestique 
+5. Biogazole de synthèse
 
 </td>
       <td align="center">
 
-21, 00 
+15,00 
 
 </td>
       <td align="center">
 
-18, 00 
+11,00 
 
 </td>
       <td align="center">
 
-14, 00 
+8,00 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+6. Esters éthyliques d'huile végétale incorporés au gazole ou au fioul domestique
+
+</td>
+      <td align="center">
+
+21,00 
+
+</td>
+      <td align="center">
+
+18,00 
+
+</td>
+      <td align="center">
+
+14,00 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-1 bis. Seul l'alcool éthylique sous nomenclature douanière combinée NC 220710 ouvre droit à la réduction de taxe intérieure
-de consommation mentionnée au tableau du 1.
+1 bis. Abrogé. 
 
 2. Pour bénéficier de la réduction de la taxe intérieure de consommation, les unités de production des esters méthyliques
 d'huile végétale ou d'huile animale, des esters éthyliques d'huile végétale, de biogazole de synthèse, d'alcool éthylique et
 de ses dérivés doivent être agréées par le ministre chargé du budget après avis du ministre chargé de l'agriculture et du
-ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés européennes.
+ministre chargé de l'industrie, sur procédure d'appel à candidatures publiée au Journal officiel des Communautés
+européennes. 
 
 2 bis. Pour l'année 2005, des agréments pour 130 000 tonnes supplémentaires par rapport aux agréments accordés en 2004 seront
-lancés par appel d'offres communautaire.
+lancés par appel d'offres communautaire. 
 
-3. La durée de validité des agréments délivrés ne peut excéder six ans.
+3. La durée de validité des agréments délivrés ne peut excéder six ans. 
 
 4. L'opérateur dont les unités sont agréées est tenu de mettre à la consommation en France ou de céder aux fins de mise à la
 consommation en France la quantité annuelle de biocarburants fixée par l'agrément qui lui a été accordé. Le transfert d'une
 partie d'un agrément délivré à une unité de production est autorisé au profit d'une autre unité agréée d'un même opérateur.
-Ce transfert donne lieu à accord préalable de l'administration des douanes.
+Ce transfert donne lieu à accord préalable de l'administration des douanes. 
 
 En cas de mise à la consommation ou de cession aux fins de mise à la consommation en France d'une quantité inférieure à la
-quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret.
+quantité annuelle fixée par l'agrément, cette dernière peut être réduite dans les conditions fixées par décret. 
 
 5. La réduction de la taxe intérieure de consommation est accordée lors de la mise à la consommation en France des carburants
 et combustibles mélangés dans des entrepôts fiscaux de production ou de stockage situés dans la Communauté européenne aux
 produits désignés au 1, sur présentation d'un certificat de production émis par l'autorité désignée par l'Etat membre de
 production et d'un certificat de mélange délivré par l'administration chargée du contrôle des accises sur les huiles
-minérales.
+minérales. 
 
 6. Un décret précise les modalités d'application de ces dispositions. Toutefois, les règles relatives au premier appel à
 candidatures devant intervenir en application du 2 sont fixées par le ministre chargé du budget.
@@ -11100,7 +11196,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 39
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 8
 
 _Cite_:
 
@@ -11794,66 +11891,83 @@ transférés vers une telle installation située dans un autre Etat :
     <tr>
       <th>
 
-DÉSIGNATION DES MATIÈRES 
+<font size="1">DÉSIGNATION DES MATIÈRES </font>
 
-ou opérations imposables 
+<font size="1">ou opérations imposables 
+
+</font>
 
 </th>
       <th>
 
-UNITÉ 
+<font size="1">UNITÉ </font>
 
-de perception 
+<font size="1">de perception 
+
+</font>
 
 </th>
       <th colspan="7">
 
-QUOTITÉ EN EUROS 
+<font size="1">QUOTITÉ EN EUROS 
 
-</th>
+</font>
+      </th>
     </tr>
     <tr>
       <th>
+        <font size="1">
 
-</th>
+</font>
+      </th>
+      <th>
+        <font size="1">
+
+</font>
+      </th>
       <th>
 
-</th>
+<font size="1">2009 
+
+</font>
+      </th>
       <th>
 
-2009 
+<font size="1">2010 
 
-</th>
+</font>
+      </th>
       <th>
 
-2010 
+<font size="1">2011 
 
-</th>
+</font>
+      </th>
       <th>
 
-2011 
+<font size="1">2012 
 
-</th>
+</font>
+      </th>
       <th>
 
-2012 
+<font size="1">2013 
 
-</th>
+</font>
+      </th>
       <th>
 
-2013 
+<font size="1">2014 
 
-</th>
+</font>
+      </th>
       <th>
 
-2014 
+<font size="1">A compter </font>
 
-</th>
-      <th>
+<font size="1">de 2015 
 
-A compter 
-
-de 2015 
+</font>
 
 </th>
     </tr>
@@ -12056,11 +12170,11 @@ Tonne
   </tbody>
 </table>
 
-Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A du tableau du présent
-a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet
-équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le site de
-traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lorsqu'elle
-est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global. 
+Les déchets réceptionnés dans une installation de stockage de déchets ménagers ou assimilés visée au A ou au B du tableau du
+présent a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation
+d'effet équivalent bénéficient d'une réduction à raison des tonnages dont le transfert entre le site de regroupement et le
+site de traitement final est effectué par voie ferroviaire ou fluviale, sous réserve que la desserte routière terminale,
+lorsqu'elle est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global. 
 
 Cette réduction est égale à 0, 50 € par tonne en 2009, 0, 60 € par tonne en 2010 et 2011, 0, 70 € par tonne en 2012, 0, 80 €
 par tonne en 2013, 0, 90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016,
@@ -12074,56 +12188,71 @@ installation située dans un autre Etat :
     <tr>
       <th>
 
-DÉSIGNATION DES MATIÈRES 
+<font size="1">DÉSIGNATION DES MATIÈRES </font>
 
-ou opérations imposables 
+<font size="1">ou opérations imposables 
+
+</font>
 
 </th>
       <th>
 
-UNITÉ 
+<font size="1">UNITÉ </font>
 
-de perception 
+<font size="1">de perception 
+
+</font>
 
 </th>
       <th colspan="5">
 
-QUOTITÉ EN EUROS 
+<font size="1">QUOTITÉ EN EUROS 
 
-</th>
+</font>
+      </th>
     </tr>
     <tr>
       <th>
+        <font size="1">
 
-</th>
+</font>
+      </th>
+      <th>
+        <font size="1">
+
+</font>
+      </th>
       <th>
 
-</th>
+<font size="1">2009 
+
+</font>
+      </th>
       <th>
 
-2009 
+<font size="1">2010 
 
-</th>
+</font>
+      </th>
       <th>
 
-2010 
+<font size="1">2011 
 
-</th>
+</font>
+      </th>
       <th>
 
-2011 
+<font size="1">2012 
 
-</th>
+</font>
+      </th>
       <th>
 
-2012 
+<font size="1">A compter </font>
 
-</th>
-      <th>
+<font size="1">de 2013 
 
-A compter 
-
-de 2013 
+</font>
 
 </th>
     </tr>
@@ -12331,190 +12460,211 @@ Cette réduction est égale à 0, 50 € par tonne en 2009 et 2010, 0, 80 € pa
 de 2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première
 tranche de l'impôt sur le revenu.
 
+Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date d'obtention
+de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du a s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de
+la date de mise en service effective des équipements assurant la valorisation du biogaz à plus de 75 % et le 31 décembre de
+l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au B du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification au préfet de
+la date de mise en service effective des équipements assurant une performance énergétique de niveau élevé et le 31 décembre
+de l'année au titre de laquelle la taxe est due.
+
+Le tarif visé au C du tableau du b s'applique aux tonnages de déchets réceptionnés entre la date de notification de l'arrêté
+préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm³ et le 31 décembre de l'année au
+titre de laquelle la taxe est due
+
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit : 
 
-<table border="1">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
-      <th>
+      <td>
 
-DÉSIGNATION DES MATIÈRES 
+**
 
-ou opérations imposables 
+DÉSIGNATION DES MATIÈRES **
 
-</th>
-      <th>
+**ou opérations imposables **
 
-UNITÉ DE PERCEPTION 
+</td>
+      <td colspan="2">
 
-</th>
-      <th>
+**
 
-QUOTITÉ 
+UNITÉ DE PERCEPTION **
 
-(en euros) 
+</td>
+      <td width="79" colspan="2">
 
-</th>
+**
+
+QUOTITÉ **
+
+**(en euros) **
+
+</td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Déchets industriels spéciaux réceptionnés dans une installation d'élimination de déchets industriels spéciaux ou transférés
 vers une telle installation située dans un autre Etat. 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td width="79" colspan="2">
 
 10, 03 (10,32 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ou transférés vers une telle
 installation située dans un autre Etat. 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td width="79" colspan="2">
 
 20, 01 (20,59 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Substances émises dans l'atmosphère : 
 
 - oxydes de soufre et autres composés soufrés 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 43, 24 (44,49 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - acide chlorhydrique 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td width="79" colspan="2">
 
 43, 24 (44,49 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - protoxyde d'azote 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td width="79" colspan="2">
 
 64, 86 (66,74 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 51, 89 (53,39 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 43, 24 (44,49 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - poussières totales en suspension 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 64, 86 en 2009 et 85 à compter de 2010 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 44, 02 (45,30 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour
 le linge : 
@@ -12522,70 +12672,70 @@ le linge :
 - dont la teneur en phosphate est inférieure à 5 % du poids 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td width="79" colspan="2">
 
 39, 51(40,66 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - dont la teneur en phosphate est comprise entre 5 % et 30 % du poids 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td width="79" colspan="2">
 
 170, 19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 283, 65 (291,88 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Matériaux d'extraction. 
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
 Tonne 
 
 </td>
-      <td align="center">
+      <td colspan="2" width="79">
 
 0, 20 
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Installations classées : 
 
@@ -12594,41 +12744,47 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td align="center">
-      </td><td align="center">
+      <td colspan="2">
+
+</td>
+      <td colspan="2" width="79">
 
 501, 61 (516,16 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - autres entreprises inscrites au répertoire des métiers 
 
 </td>
-      <td align="center">
-      </td><td align="center">
+      <td colspan="2">
+
+</td>
+      <td colspan="2" width="79">
 
 1 210, 78 (1 245,89 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - autres entreprises 
 
 </td>
-      <td align="center">
-      </td><td align="center">
+      <td colspan="2">
 
-2 525, 35  (2 598,59 en 2009)
+</td>
+      <td colspan="2" width="79">
+
+2 525, 35 (2 598,59 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 Exploitation au cours d'une année civile (tarifs de base) : 
 
@@ -12637,40 +12793,85 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td align="center">
-      </td><td align="center">
+      <td colspan="2">
+
+</td>
+      <td colspan="2" width="79">
 
 339, 37 (349,21 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
 - autres installations 
 
 </td>
-      <td align="center">
-      </td><td align="center">
+      <td colspan="2">
+
+</td>
+      <td colspan="2" width="79">
 
 380, 44 (391,47 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
 
-Imprimés papiers émis à destination des utilisateurs finaux. 
-
-</td>
-      <td align="center">
-
-Kg 
+Imprimés papiers émis à destination des utilisateurs finaux
 
 </td>
-      <td align="center">
+      <td colspan="2">
 
-0, 91 
+Kilogramme
+
+</td>
+      <td colspan="2" width="79">
+
+0,12
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+Papiers à usage graphique, transformés, manufacturés, conditionnés et destinés à être imprimés par ou pour le compte
+d'utilisateurs finaux
+
+</td>
+      <td>
+
+Kilogramme
+
+</td>
+      <td width="39">
+
+2010 
+
+</td>
+      <td width="38">
+
+0,06
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+
+</td>
+      <td>
+
+</td>
+      <td width="39">
+
+2011 
+
+</td>
+      <td width="38">
+
+0,12
 
 </td>
     </tr>
@@ -12692,8 +12893,8 @@ c) Qu'à compter du 1er janvier 2016 aux tarifs mentionnés au a du A du 1.
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
 266 sexies est de 450 € par installation. 
 
-3. Le montant minimal annuel de la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 450 € par
-redevable. 
+3. Le seuil d'assujettissement à la taxe due par les personnes mentionnées au 9 du I de l'article 266 sexies est de 5 000
+kilogrammes. 
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets industriels spéciaux ne
 s'applique pas aux résidus de traitement des installations d'élimination de déchets assujetties à la taxe. 
@@ -12713,11 +12914,6 @@ produit du tarif de base fixé dans le tableau figurant au 1 du présent article
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies
 est fixé à 50 tonnes par an.
-
-**Nota:**
-
-Les modifications induites par le 1° du I de l'article 39 de la loi n° 2006-1771 du 30 décembre 2006 entrent en vigueur à
-compter du 1er juillet 2007.
 
 **Liens relatifs à cet article**
 
@@ -12764,37 +12960,37 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
 
 _Cite_:
 
-  - Code des douanes - art. 266 sexies (V)
-  - Code de l'environnement (V)
+  - Code des douanes - art. 266 sexies
+  - Code de l'environnement
 
 
 ###### Article 266 octies
 
-La taxe mentionnée à l'article 266 sexies est assise sur :
+La taxe mentionnée à l'article 266 sexies est assise sur : 
 
 1. Le poids des déchets reçus ou transférés vers un autre Etat par les exploitants ou les personnes mentionnés au 1 du I de
-l'article 266 sexies ;
+l'article 266 sexies ; 
 
-2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ;
+2. Le poids des substances émises dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies ; 
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ;
+3. (alinéa abrogé à compter du 1er janvier 2005) ; 
 
-4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ;
+4. Le poids net des lubrifiants, huiles et préparations lubrifiantes mentionnés au 4 du I de l'article 266 sexies ; 
 
 5. Le poids des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des produits adoucissants ou
-assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ;
+assouplissants pour le linge mentionnés au 5 du I de l'article 266 sexies ; 
 
-6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ;
+6. Le poids des matériaux d'extraction mentionnés au 6 du I de l'article 266 sexies ; 
 
-7. Alinéa abrogé ;
+7. Alinéa abrogé ; 
 
-8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers mentionnés au I de l'article L.  541-10-1 du code de
-l'environnement, pour lesquels la contribution prévue à ce même  article n'a pas été acquittée.
+8. La masse annuelle, exprimée en kilogrammes, des imprimés papiers et des papiers à usage graphique, respectivement
+mentionnés au I et au III de l'article L. 541-10-1 du code de l'environnement, pour lesquels la contribution prévue à ce même
+article n'a pas été acquittée.
 
 **Liens relatifs à cet article**
 
@@ -12808,7 +13004,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
 
 
 ###### Article 266 quater
@@ -13005,7 +13201,7 @@ l'industrie mentionné au premier alinéa du IV de l'article L. 541-10-1 du code
 l'administration chargée du recouvrement la liste des personnes qui ont acquitté la contribution.
 
 II. - Les redevables mentionnés au 9 du I de l'article 266 sexies liquident et acquittent la taxe due au titre d'une année
-civile sur une déclaration annuelle, qui doit être transmise à l'administration chargée du recouvrement au plus tard le 10
+civile sur une déclaration annuelle, qui doit être transmise à l'administration chargée du recouvrement au plus tard le 30
 avril de l'année qui suit celle au cours de laquelle le fait générateur est intervenu.
 
 La déclaration est accompagnée du paiement de la taxe.
@@ -13013,17 +13209,17 @@ La déclaration est accompagnée du paiement de la taxe.
 La déclaration comporte tous les éléments nécessaires au contrôle et à l'établissement de la taxe. La forme de cette
 déclaration et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95.
 
-En cas de cessation définitive d'activité, les assujettis déposent la déclaration visée au premier alinéa dans les trente
-jours qui suivent la date de fin de leur activité. La taxe due est immédiatement établie. La taxe est accompagnée du
-paiement.
-
 III. - La taxe mentionnée au 9 du I de l'article 266 sexies est due pour la première fois au titre de l'année 2005.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2008-1443 du 30 décembre 2008 - art. 14 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
+
+_Abrogé par_:
+
+  - Loi n°2012-1509 du 29 décembre 2012 - art. 20
 
 _Cite_:
 
@@ -13044,9 +13240,14 @@ chaque carburant concerné.
 III. - Son taux est fixé à 1, 75 % en 2006. Il est majoré de 1, 75 point en 2007, de 2, 25 points en 2008, de 0, 50 point en
 2009 et de 0, 75 point en 2010. 
 
-Lors de la mise à la consommation des carburants mentionnés au I, les redevables émettent des certificats représentatifs des
-quantités, exprimées en pouvoir calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces
-carburants incorporent. Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret. 
+Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22 et 55 du
+tableau B du 1 de l'article 265, les redevables émettent des certificats représentatifs des quantités, exprimées en pouvoir
+calorifique inférieur, de produits mentionnés au tableau du 1 de l'article 265 bis A que ces carburants incorporent. 
+
+Toutefois, les biocarburants désignés au 2 du tableau précité sont pris en compte pour le double de leur valeur réelle en
+pouvoir calorifique inférieur, dans des conditions précisées par arrêté du ministre chargé du budget.
+
+Les modalités d'émission et de cession éventuelle des certificats sont précisées par décret. 
 
 Le taux du prélèvement est diminué : 
 
@@ -13066,7 +13267,7 @@ la première fois avant le 10 avril 2006. La déclaration est accompagnée du pa
 du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
 
 VI. - Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier
-2010. 
+2013. 
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
 undecies. 
@@ -13104,24 +13305,15 @@ _Cité par_:
   - Arrêté du 21 mars 2014 (V)
   - Arrêté du 21 mars 2014 - art. 1 (V)
   - Arrêté du 21 mars 2014 - art. 10 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
   - Arrêté du 10 avril 2017 (V)
   - Arrêté du 10 avril 2017 - art. 1
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
   - Décret n°2017-1690 du 13 décembre 2017 (VD)
   - Code de l'énergie - art. L661-2 (VD)
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 16
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 17
-
-_Cite_:
-
-  - CGI 298
-  - Code des douanes - art. 265
-  - Code des douanes - art. 265 bis
-  - Code des douanes - art. 266 undecies
-  - Code des douanes - art. 95
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 61
 
 
 ###### Article 266 quinquies
@@ -13467,9 +13659,8 @@ b) La première utilisation de ces matériaux ;
 
 b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ;
 
-9. La mise à disposition ou la distribution gratuite aux particuliers d'imprimés (Dispositions déclarées non conformes à la
-Constitution par décision du Conseil constitutionnel n° 2003-488 DC du 29 décembre 2003) par les personnes mentionnées au 9
-du I de l'article 266 sexies.
+9. L'émission d'imprimés papiers et la mise sur le marché des papiers à usage graphique par les personnes et dans les
+conditions mentionnées au 9 du I de l'article 266 sexies.
 
 **Liens relatifs à cet article**
 
@@ -13500,12 +13691,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
-
-_Cite_:
-
-  - Code de l'environnement - art. L512-1
-  - Code de l'environnement - art. L512-8
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
 
 
 ###### Article 266 sexies
@@ -13565,6 +13751,10 @@ particuliers à l'environnement ;
 émis ou fait émettre des imprimés papiers dans les conditions mentionnées audit article et qui n'a pas acquitté la
 contribution financière ou en nature qui y est prévue. 
 
+A compter du 1er janvier 2010, toute personne mentionnée au dernier alinéa du III de l'article L. 541-10-1 du code de
+l'environnement qui, au titre d'une année civile, a mis sur le marché des papiers à usage graphique dans les conditions
+mentionnées au même article et qui n'a pas acquitté la contribution financière ou en nature qui y est prévue. 
+
 II.-La taxe ne s'applique pas : 
 
 1. Aux installations d'élimination de déchets industriels spéciaux exclusivement affectées à la valorisation comme matière
@@ -13576,7 +13766,7 @@ matière ;
 1 ter. Aux installations d'élimination de déchets exclusivement affectées à l'amiante-ciment ; 
 
 1 quater. Aux installations classées d'élimination de déchets tels que les bioréacteurs, lorsqu'elles maîtrisent et
-valorisent la totalité de leur production de biogaz ; (1) 
+valorisent la totalité de leur production de biogaz ; 
 
 2. (alinéa abrogé) ; 
 
@@ -13600,10 +13790,6 @@ installation, les réceptions de matériaux ou déchets inertes. Sont considér�
 décomposent pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne
 détériorent pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution
 de l'environnement ou de nuire à la santé humaine.
-
-**Nota:**
-
-(1) : Un décret détermine les bénéficiaires et les modalités d'application de l'exonération.
 
 **Liens relatifs à cet article**
 
@@ -13682,7 +13868,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 83 (V)
 
 
 ###### Article 266 terdecies
@@ -13764,12 +13950,12 @@ _Codifié par_:
 
 A l'exclusion de ceux mentionnés au 9 du I de l'article 266 sexies, les assujettis liquident et acquittent la taxe mentionnée
 à cet article due à compter de l'année 2009 sous la forme d'une déclaration annuelle et de trois acomptes. Ces acomptes font
-l'objet d'un paiement au plus tard les 10 avril, 10 juillet et 10 octobre de l'année au titre de laquelle la taxe est due.
+l'objet d'un paiement au plus tard les 30 avril, 31 juillet et 31 octobre de l'année au titre de laquelle la taxe est due.
 Chaque acompte est égal à un tiers du montant obtenu en appliquant à la base des opérations mentionnées aux 1, 1 bis, 2, 4, 5
 et 6 de l'article 266 septies réalisées l'année précédente les tarifs en vigueur à compter du 1er janvier de l'année au titre
 de laquelle la taxe est due. 
 
-Les redevables déposent, au plus tard le 10 avril de chaque année, la déclaration de la taxe due au titre de l'année
+Les redevables déposent, au plus tard le 30 avril de chaque année, la déclaration de la taxe due au titre de l'année
 précédente, ainsi que tous les éléments nécessaires au contrôle et à l'établissement de celle-ci. La forme de la déclaration
 et les énonciations qu'elle doit contenir sont fixées conformément aux dispositions du 4 de l'article 95. 
 
@@ -13836,14 +14022,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2008-1425 du 27 décembre 2008 - art. 29 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 24
 
 _Cite_:
 
-  - Code des douanes - art. 266 decies (V)
-  - Code des douanes - art. 266 septies (V)
-  - Code des douanes - art. 266 sexies (V)
-  - Code des douanes - art. 95 (V)
+  - Code des douanes - art. 266 decies
+  - Code des douanes - art. 266 septies
+  - Code des douanes - art. 266 sexies
+  - Code des douanes - art. 95
 
 
 ###### Article 267
@@ -14037,7 +14223,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=130></a>
+## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=131></a>
 
 ###### Article 284
 
@@ -14059,7 +14245,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.<a id=131></a>
+## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.<a id=132></a>
 
 ###### Article 284 bis
 
@@ -14601,7 +14787,7 @@ _Modifié par_:
   - RECTIFICATION: Loi n°2008-1425 du 27 décembre 2008, (rectificatif)
 
 
-## Chapitre VI : Droits et taxes divers.<a id=132></a>
+## Chapitre VI : Droits et taxes divers.<a id=133></a>
 
 ###### Article 285
 
@@ -15030,7 +15216,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XI : Zones franches.<a id=133></a>
+# Titre XI : Zones franches.<a id=134></a>
 
 ###### Article 286
 
@@ -15206,11 +15392,11 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-# Titre XII : Contentieux et recouvrement<a id=134></a>
+# Titre XII : Contentieux et recouvrement<a id=135></a>
 
-## Chapitre Ier : Constatation des infractions douanières<a id=135></a>
+## Chapitre Ier : Constatation des infractions douanières<a id=136></a>
 
-### Section 01 : Droit de consignation.<a id=136></a>
+### Section 01 : Droit de consignation.<a id=137></a>
 
 ###### Article 322 bis
 
@@ -15257,9 +15443,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 1 : Constatation par procès-verbal de saisie<a id=137></a>
+### Section 1 : Constatation par procès-verbal de saisie<a id=138></a>
 
-#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=138></a>
+#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=139></a>
 
 ###### Article 323
 
@@ -15307,7 +15493,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=139></a>
+#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=140></a>
 
 ###### Article 324
 
@@ -15411,9 +15597,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=140></a>
+#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=141></a>
 
-##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=141></a>
+##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=142></a>
 
 ###### Article 329
 
@@ -15434,7 +15620,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### B. - Saisies à domicile.<a id=142></a>
+##### B. - Saisies à domicile.<a id=143></a>
 
 ###### Article 330
 
@@ -15463,7 +15649,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### C. - Saisies sur les navires et bateaux pontés.<a id=143></a>
+##### C. - Saisies sur les navires et bateaux pontés.<a id=144></a>
 
 ###### Article 331
 
@@ -15484,7 +15670,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### D. - Saisies en dehors du rayon.<a id=144></a>
+##### D. - Saisies en dehors du rayon.<a id=145></a>
 
 ###### Article 332
 
@@ -15524,7 +15710,7 @@ _Cité par_:
   - Code des douanes - art. 64 (V)
 
 
-#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=145></a>
+#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=146></a>
 
 ###### Article 333
 
@@ -15549,7 +15735,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Constatation par procès-verbal de constat.<a id=146></a>
+### Section 2 : Constatation par procès-verbal de constat.<a id=147></a>
 
 ###### Article 334
 
@@ -15596,9 +15782,9 @@ _Cite_:
   - Code des douanes - art. 65 (V)
 
 
-### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=147></a>
+### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=148></a>
 
-#### Paragraphe 1 : Timbre et enregistrement.<a id=148></a>
+#### Paragraphe 1 : Timbre et enregistrement.<a id=149></a>
 
 ###### Article 335
 
@@ -15616,7 +15802,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=149></a>
+#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=150></a>
 
 ###### Article 336
 
@@ -15780,9 +15966,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-## Chapitre II : Poursuites et recouvrement<a id=150></a>
+## Chapitre II : Poursuites et recouvrement<a id=151></a>
 
-### Section 1 : Dispositions générales.<a id=151></a>
+### Section 1 : Dispositions générales.<a id=152></a>
 
 ###### Article 342
 
@@ -15891,7 +16077,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-### Section 2 : Recouvrement.<a id=152></a>
+### Section 2 : Recouvrement.<a id=153></a>
 
 ###### Article 345
 
@@ -16126,9 +16312,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Extinction des droits de poursuite et de répression<a id=153></a>
+### Section 3 : Extinction des droits de poursuite et de répression<a id=154></a>
 
-#### Paragraphe 1 : Droit de transaction.<a id=154></a>
+#### Paragraphe 1 : Droit de transaction.<a id=155></a>
 
 ###### Article 350
 
@@ -16185,7 +16371,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Prescription de l'action.<a id=155></a>
+#### Paragraphe 2 : Prescription de l'action.<a id=156></a>
 
 ###### Article 351
 
@@ -16216,9 +16402,9 @@ _Cité par_:
   - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 2 (V)
 
 
-#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=156></a>
+#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=157></a>
 
-##### A. - Prescription contre les redevables.<a id=157></a>
+##### A. - Prescription contre les redevables.<a id=158></a>
 
 ###### Article 352
 
@@ -16362,7 +16548,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### B. - Prescription contre l'administration.<a id=158></a>
+##### B. - Prescription contre l'administration.<a id=159></a>
 
 ###### Article 354
 
@@ -16393,7 +16579,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=159></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=160></a>
 
 ###### Article 355
 
@@ -16421,11 +16607,11 @@ _Cite_:
   - Code des douanes - art. 354
 
 
-## Chapitre III : Procédure devant les tribunaux<a id=160></a>
+## Chapitre III : Procédure devant les tribunaux<a id=161></a>
 
-### Section 1 : Tribunaux compétents en matière de douane<a id=161></a>
+### Section 1 : Tribunaux compétents en matière de douane<a id=162></a>
 
-#### Paragraphe 1 : Compétence "ratione materiae".<a id=162></a>
+#### Paragraphe 1 : Compétence "ratione materiae".<a id=163></a>
 
 ###### Article 356
 
@@ -16486,7 +16672,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-#### Paragraphe 2 : Compétence "ratione loci".<a id=163></a>
+#### Paragraphe 2 : Compétence "ratione loci".<a id=164></a>
 
 ###### Article 358
 
@@ -16511,9 +16697,9 @@ _Modifié par_:
   - Loi n°2008-1443 du 30 décembre 2008 - art. 57
 
 
-### Section 2 : Procédure devant les juridictions civiles<a id=164></a>
+### Section 2 : Procédure devant les juridictions civiles<a id=165></a>
 
-#### Paragraphe 3 : Appel des jugements rendus par les juges d'instance.<a id=165></a>
+#### Paragraphe 3 : Appel des jugements rendus par les juges d'instance.<a id=166></a>
 
 ###### Article 361
 
@@ -16536,7 +16722,7 @@ _Abrogé par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
-#### Paragraphe 4 : Notification des jugements et autres actes de procédure.<a id=166></a>
+#### Paragraphe 4 : Notification des jugements et autres actes de procédure.<a id=167></a>
 
 ###### Article 362
 
@@ -16561,7 +16747,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Procédure devant les juridictions répressives.<a id=167></a>
+### Section 3 : Procédure devant les juridictions répressives.<a id=168></a>
 
 ###### Article 363
 
@@ -16599,7 +16785,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 4 : Pourvois en cassation.<a id=168></a>
+### Section 4 : Pourvois en cassation.<a id=169></a>
 
 ###### Article 366
 
@@ -16617,11 +16803,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 5 : Dispositions diverses<a id=169></a>
+### Section 5 : Dispositions diverses<a id=170></a>
 
-#### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=170></a>
+#### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=171></a>
 
-##### A. - Instruction et frais.<a id=171></a>
+##### A. - Instruction et frais.<a id=172></a>
 
 ###### Article 367
 
@@ -16639,7 +16825,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-##### B. - Exploits.<a id=172></a>
+##### B. - Exploits.<a id=173></a>
 
 ###### Article 368
 
@@ -16658,7 +16844,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=173></a>
+#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=174></a>
 
 ###### Article 369
 
@@ -16742,9 +16928,9 @@ _Cite_:
   - Code des douanes - art. 410 (V)
 
 
-#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=174></a>
+#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=175></a>
 
-##### A. - Preuves de non-contravention.<a id=175></a>
+##### A. - Preuves de non-contravention.<a id=176></a>
 
 ###### Article 373
 
@@ -16761,7 +16947,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-##### B. - Action en garantie.<a id=176></a>
+##### B. - Action en garantie.<a id=177></a>
 
 ###### Article 374
 
@@ -16791,7 +16977,7 @@ _Cité par_:
   - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 
-##### C. - Confiscation des objets saisis sur inconnus et des minutes.<a id=177></a>
+##### C. - Confiscation des objets saisis sur inconnus et des minutes.<a id=178></a>
 
 ###### Article 375
 
@@ -16813,7 +16999,7 @@ _Modifié par_:
   - Loi n°2002-1576 du 30 décembre 2002 - art. 44 (V)
 
 
-##### D. - Revendication des objets saisis.<a id=178></a>
+##### D. - Revendication des objets saisis.<a id=179></a>
 
 ###### Article 376
 
@@ -16842,7 +17028,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-##### E. - Fausses déclarations.<a id=179></a>
+##### E. - Fausses déclarations.<a id=180></a>
 
 ###### Article 377
 
@@ -16865,7 +17051,7 @@ _Cite_:
   - Code des douanes - art. 100 (V)
 
 
-##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=180></a>
+##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=181></a>
 
 ###### Article 377 bis
 
@@ -16893,11 +17079,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=181></a>
+## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=182></a>
 
-### Section 1 : Sûretés garantissant l'exécution<a id=182></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=183></a>
 
-#### Paragraphe 1 : Droit de rétention.<a id=183></a>
+#### Paragraphe 1 : Droit de rétention.<a id=184></a>
 
 ###### Article 378
 
@@ -16916,7 +17102,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=184></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=185></a>
 
 ###### Article 379
 
@@ -17055,7 +17241,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=185></a>
+#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=186></a>
 
 ###### Article 381 bis
 
@@ -17136,9 +17322,9 @@ _Cite_:
   - Code des douanes - art. 379
 
 
-### Section 2 : Voies d'exécution<a id=186></a>
+### Section 2 : Voies d'exécution<a id=187></a>
 
-#### Paragraphe 1 : Règles générales.<a id=187></a>
+#### Paragraphe 1 : Règles générales.<a id=188></a>
 
 ###### Article 382
 
@@ -17171,7 +17357,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=188></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=189></a>
 
 ###### Article 383
 
@@ -17347,7 +17533,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.<a id=189></a>
+#### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.<a id=190></a>
 
 ###### Article 388
 
@@ -17373,9 +17559,9 @@ _Abrogé par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
-#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane<a id=190></a>
+#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane<a id=191></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=191></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=192></a>
 
 ###### Article 389
 
@@ -17419,7 +17605,7 @@ _Cite_:
   - Code des douanes 362-2
 
 
-##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=192></a>
+##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=193></a>
 
 ###### Article 389 bis
 
@@ -17474,7 +17660,7 @@ _Cite_:
   - Code des douanes - art. 389 (M)
 
 
-##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=193></a>
+##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=194></a>
 
 ###### Article 390
 
@@ -17502,7 +17688,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Droit de remise.<a id=194></a>
+### Section 3 : Droit de remise.<a id=195></a>
 
 ###### Article 390 bis
 
@@ -17526,7 +17712,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=195></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=196></a>
 
 ###### Article 391
 
@@ -17548,11 +17734,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre V : Responsabilité et solidarité<a id=196></a>
+## Chapitre V : Responsabilité et solidarité<a id=197></a>
 
-### Section 1 : Responsabilité pénale<a id=197></a>
+### Section 1 : Responsabilité pénale<a id=198></a>
 
-#### Paragraphe 1 : Détenteurs.<a id=198></a>
+#### Paragraphe 1 : Détenteurs.<a id=199></a>
 
 ###### Article 392
 
@@ -17577,7 +17763,7 @@ _Cité par_:
   - Arrêté du 1 juillet 2003 - art. 2 (V)
 
 
-#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=199></a>
+#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=200></a>
 
 ###### Article 393
 
@@ -17624,7 +17810,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Déclarants.<a id=200></a>
+#### Paragraphe 3 : Déclarants.<a id=201></a>
 
 ###### Article 395
 
@@ -17646,7 +17832,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 4 : Commissionnaires en douane agréés.<a id=201></a>
+#### Paragraphe 4 : Commissionnaires en douane agréés.<a id=202></a>
 
 ###### Article 396
 
@@ -17665,7 +17851,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 5 : Soumissionnaires.<a id=202></a>
+#### Paragraphe 5 : Soumissionnaires.<a id=203></a>
 
 ###### Article 397
 
@@ -17687,7 +17873,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 6 : Complices.<a id=203></a>
+#### Paragraphe 6 : Complices.<a id=204></a>
 
 ###### Article 398
 
@@ -17713,7 +17899,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 7 : Intéressés à la fraude.<a id=204></a>
+#### Paragraphe 7 : Intéressés à la fraude.<a id=205></a>
 
 ###### Article 399
 
@@ -17774,9 +17960,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 2 : Responsabilité civile<a id=205></a>
+### Section 2 : Responsabilité civile<a id=206></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=206></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=207></a>
 
 ###### Article 401
 
@@ -17842,7 +18028,7 @@ _Cite_:
   - Code des douanes - art. 64 (V)
 
 
-#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=207></a>
+#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=208></a>
 
 ###### Article 404
 
@@ -17864,7 +18050,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=208></a>
+#### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=209></a>
 
 ###### Article 405
 
@@ -17882,7 +18068,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Solidarité.<a id=209></a>
+### Section 3 : Solidarité.<a id=210></a>
 
 ###### Article 406
 
@@ -17925,11 +18111,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre VI : Dispositions répressives<a id=210></a>
+## Chapitre VI : Dispositions répressives<a id=211></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=211></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=212></a>
 
-#### Paragraphe 1 : Généralités.<a id=212></a>
+#### Paragraphe 1 : Généralités.<a id=213></a>
 
 ###### Article 408
 
@@ -17961,9 +18147,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Contraventions douanières<a id=213></a>
+#### Paragraphe 2 : Contraventions douanières<a id=214></a>
 
-##### A. - Première classe.<a id=214></a>
+##### A. - Première classe.<a id=215></a>
 
 ###### Article 410
 
@@ -18012,7 +18198,7 @@ _Cite_:
   - Code des douanes - art. 92 (V)
 
 
-##### B. - Deuxième classe.<a id=215></a>
+##### B. - Deuxième classe.<a id=216></a>
 
 ###### Article 411
 
@@ -18075,7 +18261,7 @@ _Cite_:
   - Code des douanes - art. 266 quinquies B (V)
 
 
-##### C. - Troisième classe.<a id=216></a>
+##### C. - Troisième classe.<a id=217></a>
 
 ###### Article 412
 
@@ -18126,7 +18312,7 @@ _Cite_:
   - Code des douanes - art. 259 (V)
 
 
-##### E. - Cinquième classe.<a id=217></a>
+##### E. - Cinquième classe.<a id=218></a>
 
 ###### Article 413 bis
 
@@ -18165,9 +18351,9 @@ _Cite_:
   - Code des douanes - art. 93
 
 
-#### Paragraphe 3 : Délits douaniers<a id=218></a>
+#### Paragraphe 3 : Délits douaniers<a id=219></a>
 
-##### A. - Première classe.<a id=219></a>
+##### A. - Première classe.<a id=220></a>
 
 ###### Article 414
 
@@ -18259,7 +18445,7 @@ _Cite_:
   - Code des douanes - art. 414
 
 
-##### B. - Deuxième classe.<a id=220></a>
+##### B. - Deuxième classe.<a id=221></a>
 
 ###### Article 415
 
@@ -18328,7 +18514,7 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-#### Paragraphe 4 : Contrebande.<a id=221></a>
+#### Paragraphe 4 : Contrebande.<a id=222></a>
 
 ###### Article 417
 
@@ -18548,7 +18734,7 @@ _Cite_:
   - Code des douanes - art. 180 (V)
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=222></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=223></a>
 
 ###### Article 423
 
@@ -18799,9 +18985,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Peines complémentaires<a id=223></a>
+### Section 2 : Peines complémentaires<a id=224></a>
 
-#### Paragraphe 1 : Confiscation.<a id=224></a>
+#### Paragraphe 1 : Confiscation.<a id=225></a>
 
 ###### Article 430
 
@@ -18833,7 +19019,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Astreinte.<a id=225></a>
+#### Paragraphe 2 : Astreinte.<a id=226></a>
 
 ###### Article 431
 
@@ -18864,7 +19050,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=226></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=227></a>
 
 ###### Article 432
 
@@ -18952,9 +19138,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=227></a>
+### Section 3 : Cas particuliers d'application des peines<a id=228></a>
 
-#### Paragraphe 1 : Confiscation.<a id=228></a>
+#### Paragraphe 1 : Confiscation.<a id=229></a>
 
 ###### Article 434
 
@@ -19001,7 +19187,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=229></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=230></a>
 
 ###### Article 436
 
@@ -19100,7 +19286,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Concours d'infractions.<a id=230></a>
+#### Paragraphe 3 : Concours d'infractions.<a id=231></a>
 
 ###### Article 439
 
@@ -19138,7 +19324,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=231></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=232></a>
 
 ###### Article 441
 
@@ -19491,9 +19677,9 @@ _Abrogé par_:
   - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=232></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=233></a>
 
-## Chapitre Ier : Dispositions communes.<a id=233></a>
+## Chapitre Ier : Dispositions communes.<a id=234></a>
 
 ###### Article 451
 
@@ -19556,7 +19742,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=234></a>
+## Chapitre II : Constatation des infractions.<a id=235></a>
 
 ###### Article 453
 
@@ -19680,7 +19866,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=235></a>
+## Chapitre III : Poursuite des infractions.<a id=236></a>
 
 ###### Article 458
 
@@ -19698,7 +19884,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=236></a>
+## Chapitre IV : Dispositions répressives.<a id=237></a>
 
 ###### Article 459
 
@@ -19784,7 +19970,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=237></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=238></a>
 
 ###### Article 460
 
@@ -19877,7 +20063,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=238></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=239></a>
 
 ###### Article 464
 
@@ -19960,35 +20146,38 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=239></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=240></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=240></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=241></a>
 
 ###### Article 467
 
 1. Les échanges de biens entre Etats membres de la Communauté européenne font l'objet de la déclaration périodique prévue à
 l'article 13 du règlement (CEE) n° 3330-91 du 7 novembre 1991 relatif aux statistiques des échanges de biens entre Etats
-membres.
+membres. 
 
-2. L'Etat récapitulatif des clients mentionné à l'article 289 B du code général des impôts et la déclaration statistique
-périodique prévue au 1 ci-dessus font l'objet d'une déclaration unique. Un décret détermine le contenu et les modalités de
-cette déclaration.
+2.L'Etat récapitulatif des clients mentionné au II de l'article 289 B du code général des impôts et la déclaration
+statistique périodique prévue au 1 ci-dessus font l'objet d'une déclaration unique. Un décret détermine le contenu et les
+modalités de cette déclaration. 
+
+2 bis.L'état récapitulatif des clients mentionné au III de l'article 289 B du code général des impôts fait l'objet d'une
+déclaration dont le contenu et les modalités sont déterminés par décret. 
 
 3. La déclaration visée au 2 ci-dessus peut être transmise par voie informatique. Les déclarants, utilisateurs de cette
 méthode de transmission, doivent respecter les prescriptions d'un cahier des charges, publié par arrêté du ministre chargé du
 budget, définissant notamment les modalités de cette transmission, les supports autorisés et les conditions
-d'authentification des déclarations ainsi souscrites.
+d'authentification des déclarations ainsi souscrites. 
 
 3 bis. Les documents nécessaires à l'établissement de la déclaration prévue au 2 ci-dessus doivent être conservés par les
-assujettis pendant un délai de six ans à compter de la date de l'opération faisant l'objet de cette déclaration.
+assujettis pendant un délai de six ans à compter de la date de l'opération faisant l'objet de cette déclaration. 
 
-4. Le défaut de production dans les délais de la déclaration prévue au 2 ci-dessus donne lieu à l'application d'une amende de
-750 euros.
+4. Le défaut de production dans les délais de la déclaration prévue au 2 ou au 2 bis ci-dessus donne lieu à l'application
+d'une amende de 750 euros. 
 
-Elle est portée à 1500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure.
+Elle est portée à 1500 euros à défaut de production de la déclaration dans les trente jours d'une mise en demeure. 
 
-Chaque omission ou inexactitude dans la déclaration produite donne lieu à l'application d'une amende de 15 euros, sans que le
-total puisse excéder 1500 euros.
+Chaque omission ou inexactitude dans la déclaration prévue au 2 ci-dessus donne lieu à l'application d'une amende de 15
+euros, sans que le total puisse excéder 1500 euros.
 
 L'amende ne peut être mise en recouvrement avant l'expiration d'un délai de trente jours à compter de la notification du
 document par lequel l'administration a fait connaître au contrevenant la sanction qu'elle se propose d'appliquer, les motifs
@@ -19997,26 +20186,26 @@ de celle-ci et la possibilité dont dispose l'intéressé de présenter dans ce 
 L'amende est prononcée, dans le même délai de reprise qu'en matière de taxe sur la valeur ajoutée, par l'administration qui
 constate l'infraction. Le recouvrement et le contentieux de cette amende sont assurés et suivis par l'administration qui
 prononce l'amende suivant les mêmes procédures, et sous les mêmes garanties, sûretés et privilèges que ceux prévus pour cette
-taxe.
+taxe. 
 
 Lorsqu'une infraction prévue au 4 ci-dessus a fait l'objet d'une amende prononcée par l'une des deux administrations, elle ne
-peut plus être sanctionnée par l'autre.
+peut plus être sanctionnée par l'autre. 
 
 5. Les agents des douanes peuvent adresser aux personnes tenues de souscrire la déclaration mentionnée au 2 ci-dessus des
 demandes de renseignements et de documents destinées à rechercher et à constater les manquements visés au 4 ci-dessus. Ces
 demandes fixent un délai de réponse qui ne peut être inférieur à cinq jours.
 
 L'administration peut procéder à la convocation du redevable de la déclaration. Celui-ci est entendu, à sa demande, par
-l'administration. L'audition donne lieu à l'établissement d'un procès-verbal d'audition dont une copie est remise au
-redevable. Le redevable peut se faire représenter.
+l'administration.L'audition donne lieu à l'établissement d'un procès-verbal d'audition dont une copie est remise au
+redevable. Le redevable peut se faire représenter. 
 
 Les agents des douanes peuvent exiger sans préavis, à des fins de contrôle statistique, la communication des documents
 nécessaires à l'établissement de la déclaration prévue au 2 ci-dessus chez toute personne physique ou morale tenue de
-souscrire celle-ci.
+souscrire celle-ci. 
 
 Le refus de déférer à une convocation, le défaut de réponse à une demande de renseignements écrite, ou la non-remise de
 documents nécessaires à l'établissement de la déclaration mentionnée au 2 ci-dessus donne lieu à l'application d'une amende
-de 1500 euros.
+de 1500 euros. 
 
 Cette amende est recouvrée selon les modalités prévues aux quatrième et cinquième alinéa du 4 ci-dessus. Le contentieux de
 l'amende est assuré et suivi selon les mêmes procédures et sous les mêmes garanties, sûretés et privilèges que ceux prévus
@@ -20026,29 +20215,24 @@ pour la taxe sur la valeur ajoutée.
 
 _Cité par_:
 
-  - Arrêté du 23 juillet 2010 (V)
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+  - Arrêté du 23 juillet 2010 (V)
   - Arrêté du 27 juillet 2010 (V)
   - Arrêté du 16 décembre 2010 (V)
   - Arrêté du 16 novembre 2012 (V)
   - Livre des procédures fiscales - art. R*247-5 B (V)
+
+_Modifié par_:
+
+  - Loi n°2009-1673 du 30 décembre 2009 - art. 102 (V)
 
 _Cite_:
 
   - CGI 289 B
   - Règlement CEE 3330-91 1991-11-07 art. 13
 
-_Codifié par_:
 
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=241></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=242></a>
 
 ###### Article 468
 
@@ -20111,7 +20295,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=242></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=243></a>
 
 ###### Article 470
 
