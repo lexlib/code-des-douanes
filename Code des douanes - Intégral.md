@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-03-11
+Version Consolidée au 2010-04-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -74,176 +74,178 @@ Version Consolidée au 2010-03-11
     - [Chapitre V : Procédures de dédouanement dans les relations entre certains pays et territoires. (art. 119 bis)](#71)
   - [Titre V : Régimes douaniers économiques, exportation temporaire, dépôts spéciaux (art. 120 à 181 bis)](#72)
     - [Chapitre Ier : Régime général des acquits-à-caution. (art. 120 à 124)](#73)
-    - [Chapitre II : Transit. (art. 125 à 131 bis)](#74)
+    - [Chapitre II : Transit. (art. 125 à 131)](#74)
     - [Chapitre III : Entrepôt de douane (art. 157)](#75)
       - [Section 6 : Dispositions applicables à tous les entrepôts de stockage. (art. 157)](#76)
-    - [Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers. (art. 158 A à 158 D)](#77)
-    - [Chapitre V : Production d'huiles minérales en "usine exercée" (art. 163 à 167)](#78)
-      - [Section 1 : Généralités. (art. 163)](#79)
-      - [Section 2 : Usines exercées pétrolières et pétroléochimiques (art. 165 à 167)](#80)
-        - [Paragraphe 2 : Installations de production. (art. 165 à 165 B)](#81)
-        - [Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques. (art. 167)](#82)
-    - [Chapitre VI : Admission temporaire. (art. 169 à 174)](#83)
-    - [Chapitre VII : Exportation temporaire. (art. 175)](#84)
-    - [Chapitre VIII : Dépôts spéciaux. (art. 176 à 177)](#85)
-    - [Chapitre IX : Pacages. (art. 179 à 181)](#86)
-    - [Chapitre X : Intérêt compensatoire du régime du perfectionnement actif. (art. 181 bis)](#87)
-  - [Titre VI : Dépôt de douane (art. 182 à 188)](#88)
-    - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#89)
-    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 188)](#90)
-  - [Titre VII : Opérations privilégiées (art. 190 à 196 quinquies)](#91)
-    - [Chapitre II : Avitaillement des navires et des aéronefs (art. 190 à 195 bis)](#92)
-      - [Section 1 : Dispositions spéciales aux navires. (art. 190 à 194)](#93)
-      - [Section 2 : Dispositions spéciales aux aéronefs. (art. 195)](#94)
-      - [Section 3 : Dispositions communes aux navires et aux aéronefs. (art. 195 bis)](#95)
-    - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#96)
-    - [Chapitre V : Plateau continental et zone économique. (art. 196 quater à 196 quinquies)](#97)
-  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 ter)](#98)
-    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#99)
-      - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#100)
-      - [Section 2 : Détention des marchandises. (art. 206)](#101)
-      - [Section 3 : Compte ouvert des marchandises. (art. 207)](#102)
-      - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#103)
-      - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#104)
-    - [Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 215 à 215 ter)](#105)
-  - [Titre IX : Navigation (art. 216 à 264)](#106)
-    - [Chapitre Ier : Régime administratif des navires (art. 216 à 252)](#107)
-      - [Section 1 : Champ d'application. (art. 216)](#108)
-      - [Section 2 : Francisation des navires (art. 217 à 231)](#109)
-        - [Paragraphe 1 : Généralités. (art. 217 à 218)](#110)
-        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 219 à 220)](#111)
-        - [Paragraphe 3 : Jaugeage des navires. (art. 222)](#112)
-        - [Paragraphe 4 : Droit de francisation et de navigation. (art. 223 à 226)](#113)
-        - [Paragraphe 5 : Acte de francisation. (art. 227 à 229)](#114)
-        - [Paragraphe 6 : Réparations de navires français hors du territoire douanier. (art. 230)](#115)
-        - [Paragraphe 7 : Ventes de navires francisés. (art. 231)](#116)
-      - [Section 4 : Dispositions diverses relatives à la francisation et aux congés. (art. 235 à 236)](#117)
-      - [Section 5 : Passeports. (art. 237 à 240)](#118)
-      - [Section 7 : Hypothèques maritimes (art. 241 à 252)](#119)
-        - [Paragraphe 1 : Constitution de l'hypothèque. (art. 241 à 245)](#120)
-        - [Paragraphe 2 : Publicité de l'hypothèque. (art. 246)](#121)
-        - [Paragraphe 3 : Effets de l'hypothèque. (art. 247 à 249)](#122)
-        - [Paragraphe 4 : Radiations. (art. 250)](#123)
-        - [Paragraphe 5 : Ventes. (art. 251)](#124)
-        - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252)](#125)
-    - [Chapitre II : Dispositions particulières. (art. 257 à 260)](#126)
-    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#127)
-    - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#128)
-  - [Titre X : Taxes diverses perçues par la douane (art. 265 à 285 ter)](#129)
-    - [Chapitre Ier : Taxes intérieures. (art. 265 à 268 ter)](#130)
-    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#131)
-    - [Chapitre IV bis : Taxe spéciale sur certains véhicules routiers. (art. 284 bis à 284 ter)](#132)
-    - [Chapitre VI : Droits et taxes divers. (art. 285 à 285 ter)](#133)
-  - [Titre XI : Zones franches. (art. 286 à 291)](#134)
-  - [Titre XII : Contentieux et recouvrement (art. 322 bis à 440)](#135)
-    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis à 341 bis)](#136)
-      - [Section 01 : Droit de consignation. (art. 322 bis)](#137)
-      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#138)
-        - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 323)](#139)
-        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#140)
-        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#141)
-          - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#142)
-          - [B. - Saisies à domicile. (art. 330)](#143)
-          - [C. - Saisies sur les navires et bateaux pontés. (art. 331)](#144)
-          - [D. - Saisies en dehors du rayon. (art. 332)](#145)
-        - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 333)](#146)
-      - [Section 2 : Constatation par procès-verbal de constat. (art. 334)](#147)
-      - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 335 à 341 bis)](#148)
-        - [Paragraphe 1 : Timbre et enregistrement. (art. 335)](#149)
-        - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 336 à 341 bis)](#150)
-    - [Chapitre II : Poursuites et recouvrement (art. 342 à 355)](#151)
-      - [Section 1 : Dispositions générales. (art. 342 à 344)](#152)
-      - [Section 2 : Recouvrement. (art. 345 à 349 bis)](#153)
-      - [Section 3 : Extinction des droits de poursuite et de répression (art. 350 à 355)](#154)
-        - [Paragraphe 1 : Droit de transaction. (art. 350)](#155)
-        - [Paragraphe 2 : Prescription de l'action. (art. 351)](#156)
-        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 352 à 355)](#157)
-          - [A. - Prescription contre les redevables. (art. 352 à 353)](#158)
-          - [B. - Prescription contre l'administration. (art. 354)](#159)
-          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#160)
-    - [Chapitre III : Procédure devant les tribunaux (art. 356 à 377 bis)](#161)
-      - [Section 1 : Tribunaux compétents en matière de douane (art. 356 à 358)](#162)
-        - [Paragraphe 1 : Compétence "ratione materiae". (art. 356 à 357 bis)](#163)
-        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#164)
-      - [Section 2 : Procédure devant les juridictions civiles (art. 361 à 362)](#165)
-        - [Paragraphe 3 : Appel des jugements rendus par les juges d'instance. (art. 361)](#166)
-        - [Paragraphe 4 : Notification des jugements et autres actes de procédure. (art. 362)](#167)
-      - [Section 3 : Procédure devant les juridictions répressives. (art. 363 à 365)](#168)
-      - [Section 4 : Pourvois en cassation. (art. 366)](#169)
-      - [Section 5 : Dispositions diverses (art. 367 à 377 bis)](#170)
-        - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 367 à 368)](#171)
-          - [A. - Instruction et frais. (art. 367)](#172)
-          - [B. - Exploits. (art. 368)](#173)
-        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 369 à 370)](#174)
-        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 373 à 377 bis)](#175)
-          - [A. - Preuves de non-contravention. (art. 373)](#176)
-          - [B. - Action en garantie. (art. 374)](#177)
-          - [C. - Confiscation des objets saisis sur inconnus et des minutes. (art. 375)](#178)
-          - [D. - Revendication des objets saisis. (art. 376)](#179)
-          - [E. - Fausses déclarations. (art. 377)](#180)
-          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#181)
-    - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 378 à 391)](#182)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381 bis)](#183)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#184)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#185)
-        - [Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne. (art. 381 bis)](#186)
-      - [Section 2 : Voies d'exécution (art. 382 à 390)](#187)
-        - [Paragraphe 1 : Règles générales. (art. 382)](#188)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#189)
-        - [Paragraphe 3 : Exercice anticipé de la contrainte judiciaire. (art. 388)](#190)
-        - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#191)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#192)
-          - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 389 bis)](#193)
-          - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#194)
-      - [Section 3 : Droit de remise. (art. 390 bis)](#195)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#196)
-    - [Chapitre V : Responsabilité et solidarité (art. 392 à 407)](#197)
-      - [Section 1 : Responsabilité pénale (art. 392 à 400)](#198)
-        - [Paragraphe 1 : Détenteurs. (art. 392)](#199)
-        - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 393 à 394)](#200)
-        - [Paragraphe 3 : Déclarants. (art. 395)](#201)
-        - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 396)](#202)
-        - [Paragraphe 5 : Soumissionnaires. (art. 397)](#203)
-        - [Paragraphe 6 : Complices. (art. 398)](#204)
-        - [Paragraphe 7 : Intéressés à la fraude. (art. 399 à 400)](#205)
-      - [Section 2 : Responsabilité civile (art. 401 à 405)](#206)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 401 à 403)](#207)
-        - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 404)](#208)
-        - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 405)](#209)
-      - [Section 3 : Solidarité. (art. 406 à 407)](#210)
-    - [Chapitre VI : Dispositions répressives (art. 408 à 440)](#211)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 408 à 429)](#212)
-        - [Paragraphe 1 : Généralités. (art. 408 à 409)](#213)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#214)
-          - [A. - Première classe. (art. 410)](#215)
-          - [B. - Deuxième classe. (art. 411)](#216)
-          - [C. - Troisième classe. (art. 412)](#217)
-          - [E. - Cinquième classe. (art. 413 bis)](#218)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#219)
-          - [A. - Première classe. (art. 414 à 414-1)](#220)
-          - [B. - Deuxième classe. (art. 415)](#221)
-        - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#222)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#223)
-      - [Section 2 : Peines complémentaires (art. 430 à 433)](#224)
-        - [Paragraphe 1 : Confiscation. (art. 430)](#225)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#226)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#227)
-      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#228)
-        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#229)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#230)
-        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#231)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450-1)](#232)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#233)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#234)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#235)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#236)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#237)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#238)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#239)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#240)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#241)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#242)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#243)
+    - [Chapitre III bis : Régime général d'accise relatif aux produits énergétiques (art. 158 bis à 158 vicies)](#77)
+    - [Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers. (art.  à 158 vicies)](#78)
+    - [Chapitre III ter : L'entrepôt fiscal de stockage des produits pétroliers. (art. 158 A à 158 D)](#79)
+    - [Chapitre V : Production d'huiles minérales en "usine exercée" (art. 163 à 167)](#80)
+      - [Section 1 : Généralités. (art. 163)](#81)
+      - [Section 2 : Usines exercées pétrolières et pétroléochimiques (art. 165 à 167)](#82)
+        - [Paragraphe 2 : Installations de production. (art. 165 à 165 B)](#83)
+        - [Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques. (art. 167)](#84)
+    - [Chapitre VI : Admission temporaire. (art. 169 à 174)](#85)
+    - [Chapitre VII : Exportation temporaire. (art. 175)](#86)
+    - [Chapitre VIII : Dépôts spéciaux. (art. 176 à 177)](#87)
+    - [Chapitre IX : Pacages. (art. 179 à 181)](#88)
+    - [Chapitre X : Intérêt compensatoire du régime du perfectionnement actif. (art. 181 bis)](#89)
+  - [Titre VI : Dépôt de douane (art. 182 à 188)](#90)
+    - [Chapitre Ier : Constitution des marchandises en dépôt. (art. 182 à 185)](#91)
+    - [Chapitre II : Vente des marchandises en dépôt. (art. 186 à 188)](#92)
+  - [Titre VII : Opérations privilégiées (art. 190 à 196 quinquies)](#93)
+    - [Chapitre II : Avitaillement des navires et des aéronefs (art. 190 à 195 bis)](#94)
+      - [Section 1 : Dispositions spéciales aux navires. (art. 190 à 194)](#95)
+      - [Section 2 : Dispositions spéciales aux aéronefs. (art. 195)](#96)
+      - [Section 3 : Dispositions communes aux navires et aux aéronefs. (art. 195 bis)](#97)
+    - [Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs. (art. 196 bis à 196 ter)](#98)
+    - [Chapitre V : Plateau continental et zone économique. (art. 196 quater à 196 quinquies)](#99)
+  - [Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier (art. 197 à 215 ter)](#100)
+    - [Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes (art. 197 à 214)](#101)
+      - [Section 1 : Circulation des marchandises. (art. 197 à 205)](#102)
+      - [Section 2 : Détention des marchandises. (art. 206)](#103)
+      - [Section 3 : Compte ouvert des marchandises. (art. 207)](#104)
+      - [Section 4 : Compte ouvert du bétail. (art. 208 à 212)](#105)
+      - [Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes. (art. 213 à 214)](#106)
+    - [Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises. (art. 215 à 215 ter)](#107)
+  - [Titre IX : Navigation (art. 216 à 264)](#108)
+    - [Chapitre Ier : Régime administratif des navires (art. 216 à 252)](#109)
+      - [Section 1 : Champ d'application. (art. 216)](#110)
+      - [Section 2 : Francisation des navires (art. 217 à 231)](#111)
+        - [Paragraphe 1 : Généralités. (art. 217 à 218)](#112)
+        - [Paragraphe 2 : Conditions requises pour obtenir la francisation. (art. 219 à 220)](#113)
+        - [Paragraphe 3 : Jaugeage des navires. (art. 222)](#114)
+        - [Paragraphe 4 : Droit de francisation et de navigation. (art. 223 à 226)](#115)
+        - [Paragraphe 5 : Acte de francisation. (art. 227 à 229)](#116)
+        - [Paragraphe 6 : Réparations de navires français hors du territoire douanier. (art. 230)](#117)
+        - [Paragraphe 7 : Ventes de navires francisés. (art. 231)](#118)
+      - [Section 4 : Dispositions diverses relatives à la francisation et aux congés. (art. 235 à 236)](#119)
+      - [Section 5 : Passeports. (art. 237 à 240)](#120)
+      - [Section 7 : Hypothèques maritimes (art. 241 à 252)](#121)
+        - [Paragraphe 1 : Constitution de l'hypothèque. (art. 241 à 245)](#122)
+        - [Paragraphe 2 : Publicité de l'hypothèque. (art. 246)](#123)
+        - [Paragraphe 3 : Effets de l'hypothèque. (art. 247 à 249)](#124)
+        - [Paragraphe 4 : Radiations. (art. 250)](#125)
+        - [Paragraphe 5 : Ventes. (art. 251)](#126)
+        - [Paragraphe 6 : Remises et salaires, responsabilité de l'administration. (art. 252)](#127)
+    - [Chapitre II : Dispositions particulières. (art. 257 à 260)](#128)
+    - [Chapitre III : Relâches forcées. (art. 261 à 262)](#129)
+    - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#130)
+  - [Titre X : Taxes diverses perçues par la douane (art. 265 à 285 ter)](#131)
+    - [Chapitre Ier : Taxes intérieures. (art. 265 à 268 ter)](#132)
+    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#133)
+    - [Chapitre IV bis : Taxe spéciale sur certains véhicules routiers. (art. 284 bis à 284 ter)](#134)
+    - [Chapitre VI : Droits et taxes divers. (art. 285 à 285 ter)](#135)
+  - [Titre XI : Zones franches. (art. 286 à 291)](#136)
+  - [Titre XII : Contentieux et recouvrement (art. 322 bis à 440)](#137)
+    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis à 341 bis)](#138)
+      - [Section 01 : Droit de consignation. (art. 322 bis)](#139)
+      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#140)
+        - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants. (art. 323)](#141)
+        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#142)
+        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#143)
+          - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#144)
+          - [B. - Saisies à domicile. (art. 330)](#145)
+          - [C. - Saisies sur les navires et bateaux pontés. (art. 331)](#146)
+          - [D. - Saisies en dehors du rayon. (art. 332)](#147)
+        - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 333)](#148)
+      - [Section 2 : Constatation par procès-verbal de constat. (art. 334)](#149)
+      - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 335 à 341 bis)](#150)
+        - [Paragraphe 1 : Timbre et enregistrement. (art. 335)](#151)
+        - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 336 à 341 bis)](#152)
+    - [Chapitre II : Poursuites et recouvrement (art. 342 à 355)](#153)
+      - [Section 1 : Dispositions générales. (art. 342 à 344)](#154)
+      - [Section 2 : Recouvrement. (art. 345 à 349 bis)](#155)
+      - [Section 3 : Extinction des droits de poursuite et de répression (art. 350 à 355)](#156)
+        - [Paragraphe 1 : Droit de transaction. (art. 350)](#157)
+        - [Paragraphe 2 : Prescription de l'action. (art. 351)](#158)
+        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 352 à 355)](#159)
+          - [A. - Prescription contre les redevables. (art. 352 à 353)](#160)
+          - [B. - Prescription contre l'administration. (art. 354)](#161)
+          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#162)
+    - [Chapitre III : Procédure devant les tribunaux (art. 356 à 377 bis)](#163)
+      - [Section 1 : Tribunaux compétents en matière de douane (art. 356 à 358)](#164)
+        - [Paragraphe 1 : Compétence "ratione materiae". (art. 356 à 357 bis)](#165)
+        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#166)
+      - [Section 2 : Procédure devant les juridictions civiles (art. 361 à 362)](#167)
+        - [Paragraphe 3 : Appel des jugements rendus par les juges d'instance. (art. 361)](#168)
+        - [Paragraphe 4 : Notification des jugements et autres actes de procédure. (art. 362)](#169)
+      - [Section 3 : Procédure devant les juridictions répressives. (art. 363 à 365)](#170)
+      - [Section 4 : Pourvois en cassation. (art. 366)](#171)
+      - [Section 5 : Dispositions diverses (art. 367 à 377 bis)](#172)
+        - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 367 à 368)](#173)
+          - [A. - Instruction et frais. (art. 367)](#174)
+          - [B. - Exploits. (art. 368)](#175)
+        - [Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive. (art. 369 à 370)](#176)
+        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 373 à 377 bis)](#177)
+          - [A. - Preuves de non-contravention. (art. 373)](#178)
+          - [B. - Action en garantie. (art. 374)](#179)
+          - [C. - Confiscation des objets saisis sur inconnus et des minutes. (art. 375)](#180)
+          - [D. - Revendication des objets saisis. (art. 376)](#181)
+          - [E. - Fausses déclarations. (art. 377)](#182)
+          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#183)
+    - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 378 à 391)](#184)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381 bis)](#185)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#186)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#187)
+        - [Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne. (art. 381 bis)](#188)
+      - [Section 2 : Voies d'exécution (art. 382 à 390)](#189)
+        - [Paragraphe 1 : Règles générales. (art. 382)](#190)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#191)
+        - [Paragraphe 3 : Exercice anticipé de la contrainte judiciaire. (art. 388)](#192)
+        - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#193)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#194)
+          - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 389 bis)](#195)
+          - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#196)
+      - [Section 3 : Droit de remise. (art. 390 bis)](#197)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#198)
+    - [Chapitre V : Responsabilité et solidarité (art. 392 à 407)](#199)
+      - [Section 1 : Responsabilité pénale (art. 392 à 400)](#200)
+        - [Paragraphe 1 : Détenteurs. (art. 392)](#201)
+        - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 393 à 394)](#202)
+        - [Paragraphe 3 : Déclarants. (art. 395)](#203)
+        - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 396)](#204)
+        - [Paragraphe 5 : Soumissionnaires. (art. 397)](#205)
+        - [Paragraphe 6 : Complices. (art. 398)](#206)
+        - [Paragraphe 7 : Intéressés à la fraude. (art. 399 à 400)](#207)
+      - [Section 2 : Responsabilité civile (art. 401 à 405)](#208)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 401 à 403)](#209)
+        - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 404)](#210)
+        - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 405)](#211)
+      - [Section 3 : Solidarité. (art. 406 à 407)](#212)
+    - [Chapitre VI : Dispositions répressives (art. 408 à 440)](#213)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 408 à 429)](#214)
+        - [Paragraphe 1 : Généralités. (art. 408 à 409)](#215)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 bis)](#216)
+          - [A. - Première classe. (art. 410)](#217)
+          - [B. - Deuxième classe. (art. 411)](#218)
+          - [C. - Troisième classe. (art. 412)](#219)
+          - [E. - Cinquième classe. (art. 413 bis)](#220)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 415)](#221)
+          - [A. - Première classe. (art. 414 à 414-1)](#222)
+          - [B. - Deuxième classe. (art. 415)](#223)
+        - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#224)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#225)
+      - [Section 2 : Peines complémentaires (art. 430 à 433)](#226)
+        - [Paragraphe 1 : Confiscation. (art. 430)](#227)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#228)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#229)
+      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#230)
+        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#231)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#232)
+        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#233)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450-1)](#234)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#235)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#236)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#237)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#238)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#239)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#240)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#241)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#242)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#243)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#244)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#245)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -4086,23 +4088,22 @@ ponctuelles, globales ou récapitulatives, dans les conditions prévues aux arti
 
 La sortie de produits énergétiques mentionnés à l'article 265 d'entrepôts fiscaux, leur mise à la consommation, leur
 exportation doivent faire l'objet, selon le cas, de déclarations ponctuelles, globales ou récapitulatives, dans les
-conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appliquent également aux cas prévus à l'article 267
-bis du présent code et au II de l'article 57 de la loi n° 92-677 du 17 juillet 1992.
+conditions prévues aux articles 84,85 et 95 à 100 bis. Ces dispositions s'appliquent également aux cas prévus aux articles
+158 unvicies, 158 duovicies et 267 bis.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 57
-  - Code des douanes - art. 265
-  - Code des douanes - art. 267 bis
-  - Code des douanes - art. 84
-  - Code des douanes - art. 85
-  - Code des douanes - art. 95
-
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 158 undecies (V)
+  - Code des douanes - art. 265 (V)
+  - Code des douanes - art. 267 bis (V)
+  - Code des douanes - art. 84 (V)
+  - Code des douanes - art. 95 (V)
 
 
 ## Chapitre II : Vérification des marchandises<a id=59></a>
@@ -4950,50 +4951,6 @@ _Cite_:
   - Code des douanes - art. 125 (V)
 
 
-###### Article 131 bis
-
-1. Les produits énergétiques mentionnés à l'article 265 circulent entre entrepôts fiscaux en suspension des taxes intérieures
-de consommation prévues aux articles 265 et 266 quater, sous couvert du document d'accompagnement visé à l'article 66 de la
-loi n° 92-677 du 17 juillet 1992 portant mise en oeuvre par la République française de la directive du Conseil des
-Communautés européennes (CEE) n° 91 / 680 complétant le système commun de taxe sur la valeur ajoutée et modifiant, en vue de
-la suppression des contrôles aux frontières, la directive (CEE) n° 77 / 388 et la directive (CEE) n° 92 / 12 relative au
-régime général, à la détention, à la circulation et au contrôle des produits soumis à accises.
-
-L'entrepositaire agréé destinataire des produits renvoie à l'entrepositaire agréé expéditeur l'exemplaire de ce document
-prévu à cet effet dans les quinze jours à compter de la date d'expédition des produits.
-
-L'entrepositaire agréé expéditeur est déchargé de sa responsabilité par l'apurement du régime suspensif dans les conditions
-fixées au I de l'article 69 de la loi n° 92-677 du 17 juillet 1992. 
-
-2.A défaut d'apurement dans les deux mois à compter de la date d'expédition, l'expéditeur informe l'administration.
-
-A défaut d'apurement dans les quatre mois à compter de la date d'expédition des produits, l'impôt est liquidé au taux en
-vigueur à la date d'expédition des produits et acquitté par l'expéditeur selon les règles applicables en matière de douane. 
-
-3. Le document d'accompagnement prévu au 1 peut être établi au moyen du service de suivi informatique des mouvements de
-marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects (1).
-
-**Nota:**
-
-Le 3 du présent article entre en vigueur à compter du 1er juillet 2008.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 66
-  - Loi n°92-677 du 17 juillet 1992 - art. 69
-
-_Modifié par_:
-
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 78
-
-_Abrogé par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
-
-
 ## Chapitre III : Entrepôt de douane<a id=75></a>
 
 ### Section 6 : Dispositions applicables à tous les entrepôts de stockage.<a id=76></a>
@@ -5025,7 +4982,685 @@ _Modifié par_:
   - Loi n°2009-526 du 12 mai 2009 - art. 59
 
 
-## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.<a id=77></a>
+## Chapitre III bis : Régime général d'accise relatif aux produits énergétiques<a id=77></a>
+
+###### Article 158 bis
+
+Le présent chapitre s'applique aux opérations d'échanges entre Etats membres de la Communauté européenne et en France
+métropolitaine, sauf dispositions expresses contraires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°2013-48 du 14 janvier 2013 (V)
+
+
+###### Article 158 decies
+
+I. ― Les personnes qui n'ont pas la qualité d'entrepositaire agréé mais qui ont été préalablement agréées par le directeur
+général des douanes et droits indirects en tant qu'expéditeur enregistré, sont exclusivement autorisées à expédier, dans
+l'exercice de leur profession, des produits soumis à accise sous un régime de suspension de droits à la suite de leur mise en
+libre pratique conformément à l'article 79 du règlement (CEE) n° 2913/92 du Conseil du 12 octobre 1992 établissant le code
+des douanes communautaire.
+
+II. ― Le directeur général des douanes et droits indirects accorde la qualité d'expéditeur enregistré à la personne qui
+fournit une caution solidaire garantissant le paiement des droits. L'expéditeur enregistré tient une comptabilité des
+expéditions de produits soumis à accise et la présente à toute réquisition des services de contrôle.
+
+En cas de violation par l'expéditeur enregistré de ses obligations, de défaillance de la caution ou de dénonciation par cette
+caution de son engagement, le directeur général des douanes et droits indirects peut retirer l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cite_:
+
+  - Code des douanes
+
+
+###### Article 158 duodecies
+
+I. ― Les pertes, constatées dans les conditions et limites prévues en régime intérieur, de produits circulant en suspension
+de droits à destination d'un entrepositaire agréé ou d'un destinataire enregistré ne sont pas soumises à l'impôt s'il est
+justifié auprès de l'administration des douanes et droits indirects qu'elles résultent d'un cas fortuit ou d'un cas de force
+majeure ou qu'elles sont inhérentes à la nature des produits. 
+
+II. ― Les pertes, constatées dans les conditions et limites prévues en régime intérieur, de produits mis à la consommation
+dans un Etat membre de la Communauté européenne, à destination d'une personne mentionnée aux I ou II de l'article 158
+unvicies ne sont pas soumises à l'impôt s'il est justifié auprès de l'administration des douanes et droits indirects qu'elles
+résultent d'un cas fortuit ou d'un cas de force majeure ou qu'elles sont inhérentes à la nature des produits. 
+
+La consignation mise en place au titre des articles 158 unvicies et 158 duovicies est alors levée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 158 unvicies (V)
+
+
+###### Article 158 duovicies
+
+L'opérateur établi dans un autre Etat membre de la Communauté européenne qui expédie des produits en France, dans les
+conditions prévues au II de l'article 158 unvicies, à destination d'une personne autre qu'un entrepositaire agréé ou un
+destinataire enregistré qui n'exerce pas d'activité économique indépendante, est tenu de désigner un représentant fiscal
+établi en France autre que le vendeur.
+
+A l'occasion de chaque expédition de produits soumis à accise, le représentant fiscal doit se conformer aux prescriptions
+suivantes :
+
+a) Préalablement à l'expédition des produits soumis à accise, s'identifier et consigner, auprès du bureau des douanes et
+droits indirects compétent, le paiement des droits d'accise dus au titre de cette opération ;
+
+b) Déclarer à ce bureau le lieu de livraison des marchandises ainsi que le nom et l'adresse du destinataire ;
+
+c) Acquitter les droits d'accise auprès de ce bureau après l'arrivée des produits soumis à accise ;
+
+d) Tenir une comptabilité des livraisons de produits.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 158 unvicies (V)
+
+
+###### Article 158 nonies
+
+I. ― Les personnes qui n'ont pas la qualité d'entrepositaire agréé peuvent, dans l'exercice de leur profession, recevoir des
+produits expédiés en suspension de droits d'accise en provenance d'un autre Etat membre de la Communauté européenne, si elles
+ont préalablement été agréées par l'administration des douanes et droits indirects en tant que destinataires enregistrés.
+Elles ne peuvent ni détenir, ni expédier des produits soumis à accise en suspension de droits.
+
+II. ― Le directeur général des douanes et droits indirects accorde la qualité de destinataire enregistré à la personne qui
+justifie être en mesure de remplir les obligations prévues au IV et qui, avant l'expédition des produits soumis à accise,
+fournit une caution solidaire garantissant le paiement des droits.
+
+L'impôt est exigible dès la réception des produits. Il est dû par le destinataire enregistré.
+
+En cas de violation par le destinataire enregistré de ses obligations, de défaillance de la caution ou de dénonciation par
+cette caution de son engagement, le directeur général des douanes et droits indirects peut retirer l'agrément.
+
+III. ― Le destinataire enregistré ne recevant des produits soumis à accise qu'à titre occasionnel doit, préalablement à
+l'expédition, en être autorisé par l'administration des douanes et droits indirects et consigner auprès d'elle le paiement
+des droits dus au titre de cette opération. Cette autorisation est limitée, pour une opération, à la quantité de produits
+pour laquelle les droits d'accise ont été consignés, à un seul expéditeur et est valable le temps nécessaire à l'acheminement
+et à la réception des marchandises par le destinataire.
+
+Dès la réception des produits par l'opérateur, les droits d'accise sont acquittés sur la base d'une déclaration dans les
+conditions et selon les modalités fixées par l'administration des douanes et droits indirects.
+
+Il est joint au document d'accompagnement une attestation de l'administration des douanes et droits indirects pour les
+produits reçus en France établissant que l'impôt a été acquitté ou qu'une garantie de son paiement a été acceptée.
+
+Lorsqu'un entrepositaire agréé ou un expéditeur enregistré expédie des produits à un destinataire enregistré établi dans un
+autre Etat membre de la Communauté européenne, il joint au document d'accompagnement une attestation délivrée par l'autorité
+compétente de l'Etat de destination justifiant que l'impôt a été acquitté ou qu'une garantie de son paiement a été acceptée.
+
+IV. ― Un destinataire enregistré est tenu :
+
+a) Dès la fin du mouvement, d'inscrire dans sa comptabilité les produits soumis à accise reçus en suspension de droits. La
+comptabilité doit être présentée à toute réquisition des services de contrôle ;
+
+b) De se prêter à tout contrôle permettant à l'administration des douanes et droits indirects de s'assurer de la réception
+effective des produits.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+  - Décret n°2010-632 du 9 juin 2010 - art. 3 (V)
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 novodecies
+
+I. ― L'impôt supporté au titre des produits mis à la consommation en France est remboursé à l'opérateur professionnel qui,
+dans le cadre de son activité, les a expédiés dans un autre Etat membre de la Communauté européenne, si les conditions
+suivantes sont remplies :
+
+1° La demande de remboursement a été présentée avant l'expédition des produits hors de France ;
+
+2° Le demandeur justifie par tout moyen qu'il a acquis les produits tous droits acquittés en France ;
+
+3° Le demandeur présente un exemplaire du document d'accompagnement annoté par le destinataire et une attestation de
+l'administration fiscale du pays de destination qui certifie que l'impôt a été payé dans cet Etat ou, le cas échéant,
+qu'aucun impôt n'était dû au titre de la livraison en cause.
+
+L'impôt est remboursé, dans un délai d'un an à partir de la présentation à l'administration des documents visés au présent
+3°, au taux en vigueur à la date de l'acquisition des produits par l'opérateur professionnel ou, à défaut d'individualisation
+de ces produits dans son stock, au taux en vigueur lors de l'acquisition des produits de même nature qui sont les plus
+anciens dans son stock.
+
+II. ― L'impôt supporté par des produits mis à la consommation en France est remboursé à l'opérateur professionnel lorsque des
+pertes ont été constatées, dans les conditions prévues en régime intérieur et s'il est justifié auprès de l'administration
+des douanes et droits indirects qu'elles résultent d'un cas fortuit ou d'un cas de force majeure ou qu'elles sont inhérentes
+à la nature des produits. Le demandeur doit justifier par tout moyen que les droits d'accise ont été acquittés sur les
+produits.
+
+Les droits d'accise sont remboursés, dans un délai d'un an à partir de la présentation à l'administration de la demande de
+remboursement, au taux en vigueur à la date de l'acquisition des produits par l'opérateur professionnel ou, à défaut
+d'individualisation de ces produits dans son stock, au taux en vigueur lors de l'acquisition des produits de même nature les
+plus anciens dans son stock.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Arrêté du 27 août 2018 - art. 4 (V)
+  - Arrêté du 27 août 2018 - art. 5 (V)
+
+
+###### Article 158 octies
+
+I. ― Les entrepositaires agréés en France sont habilités à recevoir en suspension des droits, dans un entrepôt fiscal, des
+produits en provenance d'un autre Etat membre de la Communauté européenne ou à expédier en suspension de droits des produits
+à destination d'un autre Etat membre de la Communauté européenne. Ils sont également habilités à produire, transformer et
+détenir des produits en suspension de droits.
+
+II. ― L'entrepositaire agréé est tenu :
+
+a) De fournir une caution solidaire afin de couvrir les risques inhérents à la production, à la transformation et à la
+détention des produits soumis à accise et garantissant le paiement des droits ;
+
+b) De tenir, pour chaque entrepôt fiscal, une comptabilité des stocks et des mouvements de produits soumis à accise ;
+
+c) D'introduire dans son entrepôt fiscal et d'inscrire dans sa comptabilité, dès leur réception, tous les produits soumis à
+accise circulant sous un régime de suspension de droits ;
+
+d) De se prêter à tout contrôle et à toute vérification de ses stocks.
+
+III. ― Le directeur général des douanes et droits indirects accorde la qualité d'entrepositaire agréé à la personne qui
+justifie être en mesure de remplir les obligations prévues au II. En cas de violation par l'entrepositaire de ses
+obligations, de défaillance de la caution ou de dénonciation par cette caution de son engagement, le directeur général des
+douanes et droits indirects peut retirer l'agrément.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
+  - Décret n°2014-1281 du 23 octobre 2014 - art. (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+  - Décret n°2019-570 du 7 juin 2019 - art. 5 (V)
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 octodecies
+
+I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie en suspension des droits et leur caution solidaire sont
+déchargés de leur responsabilité par l'apurement du régime suspensif ; à cette fin, l'entrepositaire agréé ou l'expéditeur
+enregistré produit un exemplaire du document d'accompagnement, soit rempli par le destinataire, soit comportant la
+certification, par un bureau de douane, d'un placement en régime suspensif douanier ou de la sortie du territoire
+communautaire.
+
+Lorsque des produits sont expédiés en suspension des droits d'accise par l'intermédiaire du service de suivi informatique des
+mouvements de marchandises soumises à accise, l'entrepositaire agréé ou l'expéditeur enregistré et leur caution solidaire
+sont déchargés de leur responsabilité par l'obtention de l'accusé de réception ou du rapport d'exportation établi dans les
+conditions et selon les modalités fixées par voie réglementaire.
+
+II. ― A défaut d'apurement dans les deux mois et demi à compter de la date d'expédition, l'expéditeur en informe
+l'administration.
+
+L'impôt est exigible au terme d'un délai de quatre mois à compter de la date d'expédition, sauf si la preuve est apportée
+dans ce même délai de la régularité de l'opération ou s'il est établi que l'infraction qui a entraîné la constatation de
+manquants a été commise hors de France.
+
+Si l'entrepositaire agréé ou l'expéditeur enregistré n'a pas eu ou a pu ne pas avoir connaissance du fait que les produits ne
+sont pas arrivés à destination, il dispose d'un délai d'un mois supplémentaire à compter de la communication de l'information
+qui lui a été notifiée par l'administration des douanes et droits indirects pour apporter cette preuve. Lorsque l'impôt est
+exigible, l'administration des douanes et droits indirects procède à la mise en recouvrement des droits à l'encontre du
+soumissionnaire et de sa caution. La procédure de recouvrement de l'administration doit être mise en œuvre, sous peine de
+déchéance, dans un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement.
+
+III. ― L'administration des douanes et droits indirects dispose d'un délai de trois ans à compter de la date d'expédition
+figurant sur le document d'accompagnement pour mettre en recouvrement les droits consécutifs à une infraction commise en
+France.
+
+Si, dans un délai de trois ans à compter de la date d'expédition figurant sur le document d'accompagnement, l'Etat membre de
+la Communauté européenne où l'infraction a été commise procède au recouvrement des droits, les droits perçus en France sont
+remboursés.
+
+IV. ― Les règles fixées en régime intérieur concernant la responsabilité de l'expéditeur s'appliquent sans préjudice des
+dispositions du présent article.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 quater
+
+I. ― Pour l'application du présent chapitre, la France s'entend du territoire de la France métropolitaine.
+
+II. ― Pour l'application de ce même chapitre, le territoire communautaire s'entend :
+
+1° Du territoire de la Communauté européenne tel que défini par l'article 299 du traité instituant la Communauté européenne
+du 7 février 1992 modifié, à l'exclusion des départements français d'outre-mer, de l'île d'Helgoland, du territoire de
+Büsingen, de Livigno, de Campione d'Italia, des eaux italiennes du lac de Lugano, de Ceuta, de Melilla, des îles Canaries,
+des îles Aland et des îles anglo-normandes ;
+
+2° De Jungholz, de Mittelberg, de l'île de Man, de Saint-Marin et des zones de souveraineté du Royaume-Uni d'Akrotiri et de
+Dhekelia.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
+
+
+###### Article 158 quaterdecies
+
+I. ― Pour l'application de l'article 158 terdecies, les produits en suspension de droits en provenance ou à destination d'un
+autre Etat membre de la Communauté européenne circulent, lorsqu'ils ne sont pas placés sous une procédure douanière
+suspensive ou sous un régime suspensif douanier, sous couvert d'un document d'accompagnement établi par l'expéditeur et
+permettant de vérifier leur situation au regard de l'impôt. 
+
+Le modèle et les conditions d'utilisation de ce document d'accompagnement sont fixés par le règlement (CEE) n° 2719/92 de la
+Commission du 11 septembre 1992 relatif au document administratif d'accompagnement lors de la circulation en régime de
+suspension des produits soumis à accise, modifié par le règlement (CEE) n° 2225/93 de la Commission du 27 juillet 1993. 
+
+Ce document d'accompagnement est également requis pour les produits qui circulent en suspension de droits entre deux
+entrepôts suspensifs des droits d'accise situés en France via le territoire d'un autre Etat membre. 
+
+II. ― Les produits soumis à accise mis à la consommation conformément au a du I de l'article 158 quinquies ou qui sont
+exonérés ou exemptés des droits et les produits qui ont déjà été mis à la consommation en provenance ou à destination d'un
+autre Etat membre de la Communauté européenne dont le destinataire est une personne mentionnée au I de l'article 158
+unvicies, circulent sous couvert d'un document simplifié d'accompagnement établi par l'expéditeur dont le modèle et les
+conditions d'utilisation sont fixés par le règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992 relatif au
+document d'accompagnement simplifié pour la circulation intracommunautaire de produits soumis à accises, qui ont été mis à la
+consommation dans l'Etat membre de départ ; il en est de même pour les produits qui ont été mis à la consommation en France
+et qui sont expédiés en France via le territoire d'un autre Etat membre. 
+
+III. ― Les documents d'accompagnement prévus aux I et II peuvent être établis au moyen du service de suivi informatique des
+mouvements de marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects. 
+
+Les dispositions mentionnées à l'article 158 septdecies sont applicables aux entrepositaires agréés ou aux expéditeurs
+enregistrés qui souhaitent utiliser ce service en France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°2010-632 du 9 juin 2010 - art. 2 (V)
+  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
+  - Arrêté du 14 janvier 2011 (V)
+  - Code des douanes - art. 158 quindecies (V)
+  - Code des douanes - art. 158 sexdecies (VT)
+
+_Cite_:
+
+  - Code des douanes - art. 158 septdecies (V)
+  - Code des douanes - art. 158 terdecies (V)
+
+
+###### Article 158 quindecies
+
+I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie des produits en suspension de droits peut modifier le
+document d'accompagnement mentionné au I de l'article 158 quaterdecies pour indiquer au verso soit un nouveau destinataire
+qui doit être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
+
+II. ― L'entrepositaire agréé expéditeur ou l'expéditeur enregistré doit aviser immédiatement l'administration des douanes et
+droits indirects de ces changements.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 158 quaterdecies (V)
+
+
+###### Article 158 quinquies
+
+I. ― L'impôt est exigible :
+
+a) Lors de la mise à la consommation en France. Le produit est mis à la consommation soit lorsqu'il cesse de bénéficier du
+régime suspensif, soit lorsqu'il est importé. L'importation s'entend de l'entrée en France en provenance de pays ou
+territoires non compris dans le territoire communautaire, ou de la sortie d'un régime douanier suspensif ; l'impôt est dû par
+la personne qui met à la consommation ;
+
+b) Lors de la constatation de manquants ;
+
+c) Lorsque les produits sont détenus en France à des fins commerciales alors qu'ils n'ont pas supporté l'impôt en France ;
+l'impôt est dû par le détenteur des produits.
+
+II. ― Lorsque plusieurs débiteurs sont redevables d'une même dette liée à un droit d'accise, ils sont tenus au paiement de
+cette dette à titre solidaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 267 bis (M)
+  - Code général des impôts, CGI. - art. 298 (VD)
+
+
+###### Article 158 septdecies
+
+Dans les échanges intracommunautaires, les mouvements de produits soumis à accise sont effectués en suspension de droits
+s'ils sont réalisés sous le couvert d'un document administratif électronique établi par l'expéditeur dans les conditions
+prévues par le règlement (CE) n° 684/2009 de la Commission du 24 juillet 2009 mettant en œuvre la directive 2008/118/CE du
+Conseil en ce qui concerne les procédures informatisées applicables aux mouvements en suspension de droits de produits soumis
+à accise et selon des modalités fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
+  - Décret n°2010-632 du 9 juin 2010 - art. 2 (M)
+  - Décret n°2010-632 du 9 juin 2010 - art. 3 (V)
+  - Code des douanes - art. 158 quaterdecies (VD)
+
+_Cite_:
+
+  - règlement (CE) n°684/2009
+
+
+###### Article 158 septies
+
+I. ― Les produits soumis à accise sont exonérés du paiement de l'accise lorsqu'ils sont destinés à être utilisés :
+
+a) Dans le cadre de relations diplomatiques ou consulaires ;
+
+b) Par les organismes internationaux reconnus comme tels par les autorités publiques de l'Etat membre d'accueil ainsi qu'aux
+membres de ces organismes, dans les limites et sous les conditions fixées par les conventions internationales instituant ces
+organismes ou par les accords de siège ;
+
+c) Par les forces armées de tout Etat partie au traité de l'Atlantique Nord autre que l'Etat membre à l'intérieur duquel
+l'accise est exigible, pour l'usage de ces forces ou du personnel civil qui les accompagne ou pour l'approvisionnement de
+leurs mess ou cantines ;
+
+d) Par les forces armées du Royaume-Uni stationnées à Chypre conformément au traité établissant la République de Chypre, en
+date du 16 août 1960, pour l'usage de ces forces ou du personnel civil qui les accompagne ou pour l'approvisionnement de
+leurs mess ou cantines ;
+
+e) Pour être consommés dans le cadre d'un accord conclu avec des pays tiers ou des organismes internationaux, pour autant
+qu'un tel accord soit admis ou autorisé en matière d'exonération de la taxe sur la valeur ajoutée.
+
+II. ― Les produits soumis à accise livrés à un destinataire mentionné au I circulent en suspension de droits, sous couvert
+d'un document d'accompagnement et d'un certificat d'exonération dont le modèle est repris au règlement CE n° 31/96 de la
+Commission du 10 janvier 1996 relatif au certificat d'exonération des droits d'accise.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°2010-632 du 9 juin 2010 - art. 4 (V)
+
+_Cite_:
+
+  - règlement CE n°31/96
+
+
+###### Article 158 sexdecies
+
+Dans les quinze premiers jours du mois suivant la réception, l'entrepositaire agréé ou le destinataire enregistré qui reçoit
+des produits en suspension de droits d'accise adresse à l'expéditeur l'exemplaire prévu à cet effet, dûment annoté et visé en
+tant que de besoin par l'administration des douanes et droits indirects, du document d'accompagnement mentionné au I de
+l'article 158 quaterdecies. 
+
+Il adresse un autre exemplaire de ce document à l'administration.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 158 quaterdecies
+
+
+###### Article 158 sexies
+
+L'exportation de produits placés sous régime suspensif d'accise met fin au bénéfice de ce régime. Elle s'effectue en
+exonération de droits d'accise.
+
+L'exportation s'entend de la sortie de France à destination de pays ou territoires non compris dans le territoire
+communautaire, ou du placement sous un régime douanier suspensif à destination de ces mêmes pays ou territoires.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 ter
+
+Sont soumis au présent chapitre les produits énergétiques soumis aux taxes intérieures de consommation prévues aux articles
+265 et 266 quater.
+
+Les dispositions du présent chapitre relatives aux contrôles et à la circulation des produits mentionnés à l'article 265
+s'appliquent aux produits suivants, y compris lorsqu'ils sont destinés à un usage qui les place en dehors du champ
+d'application de l'accise harmonisée telle que prévue par la directive 2003/96/CE du Conseil du 27 octobre 2003 restructurant
+le cadre communautaire de taxation des produits énergétiques et de l'électricité :
+
+a) Produits des codes NC 1507 à 1518 de la nomenclature douanière, lorsqu'ils sont destinés à être utilisés comme carburant
+ou combustible ;
+
+b) Produits des codes NC 2707-10, 2707-20, 2707-30 et 2707-50 de la nomenclature douanière ;
+
+c) Produits des codes NC 2710-11 à 2710-19-69 de la nomenclature douanière, à l'exception des produits relevant des codes NC
+2710-11-21, 2710-11-25 et 2710-19-29 non expédiés en vrac ;
+
+d) Produits du code NC 2711 de la nomenclature douanière, à l'exception des produits repris aux sous-positions 2711-11,
+2711-21 et 2711-29 ;
+
+e) Produits du code NC 2901-10 de la nomenclature douanière ;
+
+f) Produits des codes NC 2902-20, 2902-30, 2902-41, 2902-42, 2902-43 et 2902-44 de la nomenclature douanière ;
+
+g) Produits du code NC 2905-11-00 de la nomenclature douanière qui ne sont pas d'origine synthétique, lorsqu'ils sont
+destinés à être utilisés comme carburant ou combustible ;
+
+h) Produits du code NC 3824-90-98 de la nomenclature douanière, lorsqu'ils sont destinés à être utilisés comme carburant ou
+combustible.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+###### Article 158 terdecies
+
+I. ― La circulation des produits en suspension de droits en provenance ou à destination d'un autre Etat membre de la
+Communauté européenne s'effectue soit :
+
+1° Entre entrepositaires agréés ;
+
+2° D'un expéditeur enregistré à la suite de leur mise en libre pratique vers un entrepositaire agréé ;
+
+3° Lorsque les produits sont exportés au sens de l'article 158 sexies.
+
+II. ― L'expédition de produits dans un autre Etat membre de la Communauté européenne par un entrepositaire agréé ou par un
+expéditeur enregistré à la suite de leur mise en libre pratique s'effectue en suspension de droits lorsqu'elle est réalisée :
+
+1° Vers un destinataire enregistré ;
+
+2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 793 du règlement (CEE) n°
+2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du
+Conseil établissant le code des douanes communautaire, qui n'est pas situé en France.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Décret n°2017-1887 du 29 décembre 2017 (V)
+  - Code des douanes - art. 158 quaterdecies (V)
+
+_Cite_:
+
+  - Code des douanes
+
+
+###### Article 158 undecies
+
+Les personnes morales de droit public qui, pour les besoins de leur mission, sont agréées en tant qu'entrepositaire agréé,
+expéditeur enregistré ou destinataire enregistré sont dispensées de la présentation d'une caution ou de la consignation des
+droits dus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 100 ter (V)
+
+
+###### Article 158 unvicies
+
+I. ― 1. Lorsque des produits déjà mis à la consommation dans un autre Etat membre de la Communauté européenne sont livrés en
+France à un opérateur, autre qu'un particulier, qui entend les commercialiser, la personne qui effectue la livraison, celle
+qui détient les produits ou celle à qui sont destinés les produits établit, préalablement à l'expédition, une déclaration
+auprès de l'administration des douanes et droits indirects et consigne auprès d'elle le paiement des droits dus au titre de
+cette opération. 
+
+Cette personne acquitte, dès réception des produits, les droits et taxes dus au regard d'une déclaration dont les conditions
+et les modalités sont fixées par l'administration des douanes et droits indirects. 
+
+Il est joint au document d'accompagnement une attestation de l'administration des douanes et droits indirects pour les
+produits reçus en France établissant que l'impôt a été acquitté ou qu'une garantie de son paiement a été acceptée. 
+
+2. Lorsque des produits sont expédiés de France à un opérateur, autre qu'un particulier, qui entend les commercialiser et
+établi dans un autre Etat membre de la Communauté européenne, la personne qui effectue la livraison joint au document
+d'accompagnement une attestation délivrée par l'autorité compétente de l'Etat membre de destination justifiant que l'impôt a
+été acquitté ou qu'une garantie de leur paiement a été acceptée. 
+
+II. ― Lorsque des produits soumis à accise déjà mis à la consommation dans un Etat membre de la Communauté européenne sont
+achetés par une personne autre qu'un entrepositaire agréé ou un destinataire enregistré établie en France, qui n'exerce pas
+d'activité économique indépendante, et qui sont expédiés ou transportés directement ou indirectement en France par le vendeur
+ou pour le compte de celui-ci, l'impôt est dû par le représentant fiscal du vendeur mentionné à l'article 158 duovicies, lors
+de la réception des produits. 
+
+III. ― A défaut de déclaration préalable ou de mise en place d'une garantie conformément aux I et II du présent article et à
+l'article 158 duovicies, les droits d'accise sont exigibles dès la réception des produits, sauf si la preuve est apportée de
+la régularité de l'opération ou s'il est établi que l'infraction qui a entraîné la constatation de manquants a été commise
+hors de France. 
+
+Dans ce cas, l'impôt est dû : 
+
+a) Par les personnes mentionnées au I du présent article ; 
+
+b) Dans le cas mentionné au II par le représentant fiscal mentionné à l'article 158 duovicies ou, à défaut, par le
+destinataire des produits soumis à accises. 
+
+L'action de l'administration des douanes et droits indirects doit être intentée, sous peine de déchéance, dans un délai de
+trois ans à compter de la date de réception des produits. 
+
+Si, dans un délai de trois ans à compter de la date de réception des produits, l'Etat membre de la Communauté européenne où
+l'infraction a été commise procède au recouvrement des droits d'accise, les droits perçus en France sont remboursés.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 158 duodecies (V)
+  - Code des douanes - art. 267 (VD)
+
+_Cite_:
+
+  - Code des douanes - art. 158 duovicies (V)
+
+
+###### Article 158 vicies
+
+L'impôt n'est pas recouvré au titre des produits expédiés ou transportés dans un autre Etat membre de la Communauté
+européenne par un entrepositaire agréé ou un expéditeur enregistré établi en France ou pour son compte à destination d'une
+personne autre qu'un entrepositaire agréé ou un destinataire enregistré et qui n'exerce pas d'activité économique
+indépendante pour lesquels l'impôt dû dans l'Etat membre de destination a été acquitté.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+
+## Chapitre III bis : L'entrepôt fiscal de stockage des produits pétroliers.<a id=78></a>
+
+## Chapitre III ter : L'entrepôt fiscal de stockage des produits pétroliers.<a id=79></a>
 
 ###### Article 158 A
 
@@ -5172,9 +5807,9 @@ _Cite_:
   - Code des douanes - art. 266 quater (V)
 
 
-## Chapitre V : Production d'huiles minérales en "usine exercée"<a id=78></a>
+## Chapitre V : Production d'huiles minérales en "usine exercée"<a id=80></a>
 
-### Section 1 : Généralités.<a id=79></a>
+### Section 1 : Généralités.<a id=81></a>
 
 ###### Article 163
 
@@ -5223,9 +5858,9 @@ _Cite_:
   - Code des douanes - art. 265 (V)
 
 
-### Section 2 : Usines exercées pétrolières et pétroléochimiques<a id=80></a>
+### Section 2 : Usines exercées pétrolières et pétroléochimiques<a id=82></a>
 
-#### Paragraphe 2 : Installations de production.<a id=81></a>
+#### Paragraphe 2 : Installations de production.<a id=83></a>
 
 ###### Article 165
 
@@ -5338,7 +5973,7 @@ _Cite_:
   - Code des douanes - art. 265 (V)
 
 
-#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=82></a>
+#### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=84></a>
 
 ###### Article 167
 
@@ -5362,7 +5997,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre VI : Admission temporaire.<a id=83></a>
+## Chapitre VI : Admission temporaire.<a id=85></a>
 
 ###### Article 169
 
@@ -5695,7 +6330,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre VII : Exportation temporaire.<a id=84></a>
+## Chapitre VII : Exportation temporaire.<a id=86></a>
 
 ###### Article 175
 
@@ -5724,7 +6359,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre VIII : Dépôts spéciaux.<a id=85></a>
+## Chapitre VIII : Dépôts spéciaux.<a id=87></a>
 
 ###### Article 176
 
@@ -5785,7 +6420,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IX : Pacages.<a id=86></a>
+## Chapitre IX : Pacages.<a id=88></a>
 
 ###### Article 179
 
@@ -5869,7 +6504,7 @@ _Cite_:
   - Code des douanes - art. 179 (V)
 
 
-## Chapitre X : Intérêt compensatoire du régime du perfectionnement actif.<a id=87></a>
+## Chapitre X : Intérêt compensatoire du régime du perfectionnement actif.<a id=89></a>
 
 ###### Article 181 bis
 
@@ -5890,9 +6525,9 @@ _Créé par_:
   - Loi - art. 30 () JORF 31 décembre 1991
 
 
-# Titre VI : Dépôt de douane<a id=88></a>
+# Titre VI : Dépôt de douane<a id=90></a>
 
-## Chapitre Ier : Constitution des marchandises en dépôt.<a id=89></a>
+## Chapitre Ier : Constitution des marchandises en dépôt.<a id=91></a>
 
 ###### Article 182
 
@@ -5963,7 +6598,7 @@ _Cité par_:
   - Décret n°2016-934 du 7 juillet 2016 - art. 2
 
 
-## Chapitre II : Vente des marchandises en dépôt.<a id=90></a>
+## Chapitre II : Vente des marchandises en dépôt.<a id=92></a>
 
 ###### Article 186
 
@@ -6036,11 +6671,11 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-# Titre VII : Opérations privilégiées<a id=91></a>
+# Titre VII : Opérations privilégiées<a id=93></a>
 
-## Chapitre II : Avitaillement des navires et des aéronefs<a id=92></a>
+## Chapitre II : Avitaillement des navires et des aéronefs<a id=94></a>
 
-### Section 1 : Dispositions spéciales aux navires.<a id=93></a>
+### Section 1 : Dispositions spéciales aux navires.<a id=95></a>
 
 ###### Article 190
 
@@ -6225,7 +6860,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Dispositions spéciales aux aéronefs.<a id=94></a>
+### Section 2 : Dispositions spéciales aux aéronefs.<a id=96></a>
 
 ###### Article 195
 
@@ -6249,7 +6884,7 @@ _Modifié par_:
   - Loi n°78-1240 du 29 décembre 1978 - art. 48 () JORF 31 décembre 1978
 
 
-### Section 3 : Dispositions communes aux navires et aux aéronefs.<a id=95></a>
+### Section 3 : Dispositions communes aux navires et aux aéronefs.<a id=97></a>
 
 ###### Article 195 bis
 
@@ -6284,7 +6919,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=96></a>
+## Chapitre IV : Importation et exportation en franchise temporaire des objets destinés à l'usage personnel des voyageurs.<a id=98></a>
 
 ###### Article 196 bis
 
@@ -6334,7 +6969,7 @@ _Créé par_:
   - Loi n°63-1351 1963-12-31 art. 16 JORF 3 janvier 1964
 
 
-## Chapitre V : Plateau continental et zone économique.<a id=97></a>
+## Chapitre V : Plateau continental et zone économique.<a id=99></a>
 
 ###### Article 196 quater
 
@@ -6374,11 +7009,11 @@ _Modifié par_:
   - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
 
 
-# Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=98></a>
+# Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=100></a>
 
-## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=99></a>
+## Chapitre Ier : Circulation et détention des marchandises dans la zone terrestre du rayon des douanes<a id=101></a>
 
-### Section 1 : Circulation des marchandises.<a id=100></a>
+### Section 1 : Circulation des marchandises.<a id=102></a>
 
 ###### Article 197
 
@@ -6599,7 +7234,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 2 : Détention des marchandises.<a id=101></a>
+### Section 2 : Détention des marchandises.<a id=103></a>
 
 ###### Article 206
 
@@ -6634,7 +7269,7 @@ _Cité par_:
   - Code des douanes - art. 418 (V)
 
 
-### Section 3 : Compte ouvert des marchandises.<a id=102></a>
+### Section 3 : Compte ouvert des marchandises.<a id=104></a>
 
 ###### Article 207
 
@@ -6664,7 +7299,7 @@ _Abrogé par_:
   - Loi n°2012-387 du 22 mars 2012 - art. 61
 
 
-### Section 4 : Compte ouvert du bétail.<a id=103></a>
+### Section 4 : Compte ouvert du bétail.<a id=105></a>
 
 ###### Article 208
 
@@ -6755,7 +7390,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes.<a id=104></a>
+### Section 5 : Installation de moulins et d'établissements industriels dans la zone terrestre du rayon des douanes.<a id=106></a>
 
 ###### Article 213
 
@@ -6788,7 +7423,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-## Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=105></a>
+## Chapitre II : Règles spéciales applicables sur l'ensemble du territoire douanier à certaines catégories de marchandises.<a id=107></a>
 
 ###### Article 215
 
@@ -6915,11 +7550,11 @@ _Modifié par_:
   - Loi n°2000-643 du 10 juillet 2000 - art. 5 () JORF 11 juillet 2000
 
 
-# Titre IX : Navigation<a id=106></a>
+# Titre IX : Navigation<a id=108></a>
 
-## Chapitre Ier : Régime administratif des navires<a id=107></a>
+## Chapitre Ier : Régime administratif des navires<a id=109></a>
 
-### Section 1 : Champ d'application.<a id=108></a>
+### Section 1 : Champ d'application.<a id=110></a>
 
 ###### Article 216
 
@@ -6941,9 +7576,9 @@ _Cité par_:
   - Décret n°2015-1415 du 5 novembre 2015 - art. (V)
 
 
-### Section 2 : Francisation des navires<a id=109></a>
+### Section 2 : Francisation des navires<a id=111></a>
 
-#### Paragraphe 1 : Généralités.<a id=110></a>
+#### Paragraphe 1 : Généralités.<a id=112></a>
 
 ###### Article 217
 
@@ -6991,7 +7626,7 @@ _Modifié par_:
   - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 
-#### Paragraphe 2 : Conditions requises pour obtenir la francisation.<a id=111></a>
+#### Paragraphe 2 : Conditions requises pour obtenir la francisation.<a id=113></a>
 
 ###### Article 219
 
@@ -7182,7 +7817,7 @@ _Cité par_:
   - Décret n°68-845 du 24 septembre 1968 - art. 2 (Ab)
 
 
-#### Paragraphe 3 : Jaugeage des navires.<a id=112></a>
+#### Paragraphe 3 : Jaugeage des navires.<a id=114></a>
 
 ###### Article 222
 
@@ -7210,7 +7845,7 @@ _Abrogé par_:
   - Loi n°2011-1978 du 28 décembre 2011 - art. 61 (V)
 
 
-#### Paragraphe 4 : Droit de francisation et de navigation.<a id=113></a>
+#### Paragraphe 4 : Droit de francisation et de navigation.<a id=115></a>
 
 ###### Article 223
 
@@ -7640,7 +8275,7 @@ _Modifié par_:
   - Loi - art. 30 () JORF 31 décembre 1999
 
 
-#### Paragraphe 5 : Acte de francisation.<a id=114></a>
+#### Paragraphe 5 : Acte de francisation.<a id=116></a>
 
 ###### Article 227
 
@@ -7700,7 +8335,7 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-#### Paragraphe 6 : Réparations de navires français hors du territoire douanier.<a id=115></a>
+#### Paragraphe 6 : Réparations de navires français hors du territoire douanier.<a id=117></a>
 
 ###### Article 230
 
@@ -7743,7 +8378,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-#### Paragraphe 7 : Ventes de navires francisés.<a id=116></a>
+#### Paragraphe 7 : Ventes de navires francisés.<a id=118></a>
 
 ###### Article 231
 
@@ -7770,7 +8405,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 4 : Dispositions diverses relatives à la francisation et aux congés.<a id=117></a>
+### Section 4 : Dispositions diverses relatives à la francisation et aux congés.<a id=119></a>
 
 ###### Article 235
 
@@ -7812,7 +8447,7 @@ _Modifié par_:
   - Loi n°2008-1443 du 30 décembre 2008 - art. 68 (V)
 
 
-### Section 5 : Passeports.<a id=118></a>
+### Section 5 : Passeports.<a id=120></a>
 
 ###### Article 237
 
@@ -7914,9 +8549,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-1 (VT)
 
 
-### Section 7 : Hypothèques maritimes<a id=119></a>
+### Section 7 : Hypothèques maritimes<a id=121></a>
 
-#### Paragraphe 1 : Constitution de l'hypothèque.<a id=120></a>
+#### Paragraphe 1 : Constitution de l'hypothèque.<a id=122></a>
 
 ###### Article 241
 
@@ -8010,7 +8645,7 @@ _Modifié par_:
   - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
 
 
-#### Paragraphe 2 : Publicité de l'hypothèque.<a id=121></a>
+#### Paragraphe 2 : Publicité de l'hypothèque.<a id=123></a>
 
 ###### Article 246
 
@@ -8027,7 +8662,7 @@ _Modifié par_:
   - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
 
 
-#### Paragraphe 3 : Effets de l'hypothèque.<a id=122></a>
+#### Paragraphe 3 : Effets de l'hypothèque.<a id=124></a>
 
 ###### Article 247
 
@@ -8080,7 +8715,7 @@ _Modifié par_:
   - Loi n°67-1175 du 28 décembre 1967 - art. 18 (Ab) JORF 29 décembre 1967
 
 
-#### Paragraphe 4 : Radiations.<a id=123></a>
+#### Paragraphe 4 : Radiations.<a id=125></a>
 
 ###### Article 250
 
@@ -8102,7 +8737,7 @@ _Cité par_:
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
 
 
-#### Paragraphe 5 : Ventes.<a id=124></a>
+#### Paragraphe 5 : Ventes.<a id=126></a>
 
 ###### Article 251
 
@@ -8134,7 +8769,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.<a id=125></a>
+#### Paragraphe 6 : Remises et salaires, responsabilité de l'administration.<a id=127></a>
 
 ###### Article 252
 
@@ -8168,7 +8803,7 @@ _Anciens textes_:
   - Loi n°46-2294 1946-09-19 art. 2
 
 
-## Chapitre II : Dispositions particulières.<a id=126></a>
+## Chapitre II : Dispositions particulières.<a id=128></a>
 
 ###### Article 257
 
@@ -8318,7 +8953,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Relâches forcées.<a id=127></a>
+## Chapitre III : Relâches forcées.<a id=129></a>
 
 ###### Article 261
 
@@ -8361,7 +8996,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Marchandises sauvées des naufrages, épaves.<a id=128></a>
+## Chapitre IV : Marchandises sauvées des naufrages, épaves.<a id=130></a>
 
 ###### Article 263
 
@@ -8386,9 +9021,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre X : Taxes diverses perçues par la douane<a id=129></a>
+# Titre X : Taxes diverses perçues par la douane<a id=131></a>
 
-## Chapitre Ier : Taxes intérieures.<a id=130></a>
+## Chapitre Ier : Taxes intérieures.<a id=132></a>
 
 ###### Article 265
 
@@ -14175,12 +14810,8 @@ matière.
 
 Les taxes intérieures de consommation et la taxe spéciale de consommation mentionnées au précédent alinéa, sous réserve des
 dispositions du 2 des articles 266 quinquies et 266 quinquies B, sont exigibles lors de la mise à la consommation des
-produits sur le marché intérieur, lors de la constatation des manquants et dans les cas prévus au II de l'article 57 de la
-loi n° 92-677 du 17 juillet 1992 portant mise en oeuvre par la République française de la directive du Conseil des
-Communautés européennes (CEE) n° 91-680 complétant le système commun de la taxe sur la valeur ajoutée et modifiant, en vue de
-la suppression des contrôles aux frontières, la directive (CEE) n° 77-388 et de la directive (CEE) n° 92-12 relative au
-régime général, à la détention, à la circulation et au contrôle des produits soumis à accise et à l'article 267 bis du
-présent code. 
+produits sur le marché intérieur, lors de la constatation des manquants et dans les cas prévus aux articles 158 unvicies, 158
+duovicies et 267 bis. 
 
 2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes
 mentionnées au 1. 
@@ -14210,25 +14841,16 @@ _Cité par_:
   - Loi n°2012-958 du 16 août 2012 - art. 10 (V)
   - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
 
-_Cite_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 57
-  - Code des douanes - art. 265
-  - Code des douanes - art. 266 quater
-  - Code des douanes - art. 266 quinquies
-  - Code des douanes - art. 266 ter
-  - Code des douanes - art. 267 bis
-
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 
 ###### Article 267 bis
 
-Par dérogation aux dispositions du a du I de l'article 57 de la loi n° 92-677 du 17 juillet 1992, les combustibles visés au
-tableau B de l'article 265 du présent code sont soumis à la taxe intérieure de consommation, s'ils ne l'ont pas déjà
-supportée, lorsqu'ils sont transportés par un particulier ou pour son compte. 
+Par dérogation aux dispositions du a du I de l'article 158 quinquies, les combustibles visés au tableau B de l'article 265 du
+présent code sont soumis à la taxe intérieure de consommation, s'ils ne l'ont pas déjà supportée, lorsqu'ils sont transportés
+par un particulier ou pour son compte. 
 
 Il en est de même des carburants visés au tableau B de l'article 265 du présent code lorsqu'ils sont transportés par un
 particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve. 
@@ -14242,11 +14864,6 @@ consommation prévue à l'article 265.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 57
-  - Code des douanes - art. 265
-
 _Cité par_:
 
   - Décret n°94-27 du 11 janvier 1994 - art. 5 (V)
@@ -14257,7 +14874,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 158 quinquies (V)
+  - Code des douanes - art. 265 (V)
 
 
 ###### Article 268
@@ -14360,7 +14982,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=131></a>
+## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=133></a>
 
 ###### Article 284
 
@@ -14382,7 +15004,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.<a id=132></a>
+## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.<a id=134></a>
 
 ###### Article 284 bis
 
@@ -14948,7 +15570,7 @@ _Modifié par_:
   - RECTIFICATION: Loi n°2008-1425 du 27 décembre 2008, (rectificatif)
 
 
-## Chapitre VI : Droits et taxes divers.<a id=133></a>
+## Chapitre VI : Droits et taxes divers.<a id=135></a>
 
 ###### Article 285
 
@@ -15380,7 +16002,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XI : Zones franches.<a id=134></a>
+# Titre XI : Zones franches.<a id=136></a>
 
 ###### Article 286
 
@@ -15556,11 +16178,11 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-# Titre XII : Contentieux et recouvrement<a id=135></a>
+# Titre XII : Contentieux et recouvrement<a id=137></a>
 
-## Chapitre Ier : Constatation des infractions douanières<a id=136></a>
+## Chapitre Ier : Constatation des infractions douanières<a id=138></a>
 
-### Section 01 : Droit de consignation.<a id=137></a>
+### Section 01 : Droit de consignation.<a id=139></a>
 
 ###### Article 322 bis
 
@@ -15607,9 +16229,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 1 : Constatation par procès-verbal de saisie<a id=138></a>
+### Section 1 : Constatation par procès-verbal de saisie<a id=140></a>
 
-#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=139></a>
+#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants.<a id=141></a>
 
 ###### Article 323
 
@@ -15657,7 +16279,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=140></a>
+#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=142></a>
 
 ###### Article 324
 
@@ -15761,9 +16383,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=141></a>
+#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=143></a>
 
-##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=142></a>
+##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=144></a>
 
 ###### Article 329
 
@@ -15784,7 +16406,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### B. - Saisies à domicile.<a id=143></a>
+##### B. - Saisies à domicile.<a id=145></a>
 
 ###### Article 330
 
@@ -15813,7 +16435,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### C. - Saisies sur les navires et bateaux pontés.<a id=144></a>
+##### C. - Saisies sur les navires et bateaux pontés.<a id=146></a>
 
 ###### Article 331
 
@@ -15834,7 +16456,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### D. - Saisies en dehors du rayon.<a id=145></a>
+##### D. - Saisies en dehors du rayon.<a id=147></a>
 
 ###### Article 332
 
@@ -15874,7 +16496,7 @@ _Cité par_:
   - Code des douanes - art. 64 (V)
 
 
-#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=146></a>
+#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=148></a>
 
 ###### Article 333
 
@@ -15899,7 +16521,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Constatation par procès-verbal de constat.<a id=147></a>
+### Section 2 : Constatation par procès-verbal de constat.<a id=149></a>
 
 ###### Article 334
 
@@ -15946,9 +16568,9 @@ _Cite_:
   - Code des douanes - art. 65 (V)
 
 
-### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=148></a>
+### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=150></a>
 
-#### Paragraphe 1 : Timbre et enregistrement.<a id=149></a>
+#### Paragraphe 1 : Timbre et enregistrement.<a id=151></a>
 
 ###### Article 335
 
@@ -15966,7 +16588,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=150></a>
+#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=152></a>
 
 ###### Article 336
 
@@ -16130,9 +16752,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-## Chapitre II : Poursuites et recouvrement<a id=151></a>
+## Chapitre II : Poursuites et recouvrement<a id=153></a>
 
-### Section 1 : Dispositions générales.<a id=152></a>
+### Section 1 : Dispositions générales.<a id=154></a>
 
 ###### Article 342
 
@@ -16245,7 +16867,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-### Section 2 : Recouvrement.<a id=153></a>
+### Section 2 : Recouvrement.<a id=155></a>
 
 ###### Article 345
 
@@ -16490,9 +17112,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 3 : Extinction des droits de poursuite et de répression<a id=154></a>
+### Section 3 : Extinction des droits de poursuite et de répression<a id=156></a>
 
-#### Paragraphe 1 : Droit de transaction.<a id=155></a>
+#### Paragraphe 1 : Droit de transaction.<a id=157></a>
 
 ###### Article 350
 
@@ -16549,7 +17171,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Prescription de l'action.<a id=156></a>
+#### Paragraphe 2 : Prescription de l'action.<a id=158></a>
 
 ###### Article 351
 
@@ -16580,9 +17202,9 @@ _Cité par_:
   - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 2 (V)
 
 
-#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=157></a>
+#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=159></a>
 
-##### A. - Prescription contre les redevables.<a id=158></a>
+##### A. - Prescription contre les redevables.<a id=160></a>
 
 ###### Article 352
 
@@ -16727,7 +17349,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### B. - Prescription contre l'administration.<a id=159></a>
+##### B. - Prescription contre l'administration.<a id=161></a>
 
 ###### Article 354
 
@@ -16758,7 +17380,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=160></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=162></a>
 
 ###### Article 355
 
@@ -16786,11 +17408,11 @@ _Cite_:
   - Code des douanes - art. 354
 
 
-## Chapitre III : Procédure devant les tribunaux<a id=161></a>
+## Chapitre III : Procédure devant les tribunaux<a id=163></a>
 
-### Section 1 : Tribunaux compétents en matière de douane<a id=162></a>
+### Section 1 : Tribunaux compétents en matière de douane<a id=164></a>
 
-#### Paragraphe 1 : Compétence "ratione materiae".<a id=163></a>
+#### Paragraphe 1 : Compétence "ratione materiae".<a id=165></a>
 
 ###### Article 356
 
@@ -16851,7 +17473,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-#### Paragraphe 2 : Compétence "ratione loci".<a id=164></a>
+#### Paragraphe 2 : Compétence "ratione loci".<a id=166></a>
 
 ###### Article 358
 
@@ -16876,9 +17498,9 @@ _Modifié par_:
   - Loi n°2008-1443 du 30 décembre 2008 - art. 57
 
 
-### Section 2 : Procédure devant les juridictions civiles<a id=165></a>
+### Section 2 : Procédure devant les juridictions civiles<a id=167></a>
 
-#### Paragraphe 3 : Appel des jugements rendus par les juges d'instance.<a id=166></a>
+#### Paragraphe 3 : Appel des jugements rendus par les juges d'instance.<a id=168></a>
 
 ###### Article 361
 
@@ -16901,7 +17523,7 @@ _Abrogé par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
-#### Paragraphe 4 : Notification des jugements et autres actes de procédure.<a id=167></a>
+#### Paragraphe 4 : Notification des jugements et autres actes de procédure.<a id=169></a>
 
 ###### Article 362
 
@@ -16926,7 +17548,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-### Section 3 : Procédure devant les juridictions répressives.<a id=168></a>
+### Section 3 : Procédure devant les juridictions répressives.<a id=170></a>
 
 ###### Article 363
 
@@ -16964,7 +17586,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 4 : Pourvois en cassation.<a id=169></a>
+### Section 4 : Pourvois en cassation.<a id=171></a>
 
 ###### Article 366
 
@@ -16982,11 +17604,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 5 : Dispositions diverses<a id=170></a>
+### Section 5 : Dispositions diverses<a id=172></a>
 
-#### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=171></a>
+#### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=173></a>
 
-##### A. - Instruction et frais.<a id=172></a>
+##### A. - Instruction et frais.<a id=174></a>
 
 ###### Article 367
 
@@ -17008,7 +17630,7 @@ _Abrogé par_:
   - Loi n°2019-222 du 23 mars 2019 - art. 5
 
 
-##### B. - Exploits.<a id=173></a>
+##### B. - Exploits.<a id=175></a>
 
 ###### Article 368
 
@@ -17027,7 +17649,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=174></a>
+#### Paragraphe 2 : Circonstances atténuantes, dispositions particulières, récidive.<a id=176></a>
 
 ###### Article 369
 
@@ -17111,9 +17733,9 @@ _Cite_:
   - Code des douanes - art. 410 (V)
 
 
-#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=175></a>
+#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=177></a>
 
-##### A. - Preuves de non-contravention.<a id=176></a>
+##### A. - Preuves de non-contravention.<a id=178></a>
 
 ###### Article 373
 
@@ -17130,7 +17752,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-##### B. - Action en garantie.<a id=177></a>
+##### B. - Action en garantie.<a id=179></a>
 
 ###### Article 374
 
@@ -17160,7 +17782,7 @@ _Cité par_:
   - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 
-##### C. - Confiscation des objets saisis sur inconnus et des minutes.<a id=178></a>
+##### C. - Confiscation des objets saisis sur inconnus et des minutes.<a id=180></a>
 
 ###### Article 375
 
@@ -17182,7 +17804,7 @@ _Modifié par_:
   - Loi n°2002-1576 du 30 décembre 2002 - art. 44 (V)
 
 
-##### D. - Revendication des objets saisis.<a id=179></a>
+##### D. - Revendication des objets saisis.<a id=181></a>
 
 ###### Article 376
 
@@ -17211,7 +17833,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-##### E. - Fausses déclarations.<a id=180></a>
+##### E. - Fausses déclarations.<a id=182></a>
 
 ###### Article 377
 
@@ -17234,7 +17856,7 @@ _Cite_:
   - Code des douanes - art. 100 (V)
 
 
-##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=181></a>
+##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=183></a>
 
 ###### Article 377 bis
 
@@ -17262,11 +17884,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=182></a>
+## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=184></a>
 
-### Section 1 : Sûretés garantissant l'exécution<a id=183></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=185></a>
 
-#### Paragraphe 1 : Droit de rétention.<a id=184></a>
+#### Paragraphe 1 : Droit de rétention.<a id=186></a>
 
 ###### Article 378
 
@@ -17285,7 +17907,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=185></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=187></a>
 
 ###### Article 379
 
@@ -17431,7 +18053,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=186></a>
+#### Paragraphe 3 : Recouvrement de créances dans le cadre de la Communauté européenne.<a id=188></a>
 
 ###### Article 381 bis
 
@@ -17512,9 +18134,9 @@ _Cite_:
   - Code des douanes - art. 379
 
 
-### Section 2 : Voies d'exécution<a id=187></a>
+### Section 2 : Voies d'exécution<a id=189></a>
 
-#### Paragraphe 1 : Règles générales.<a id=188></a>
+#### Paragraphe 1 : Règles générales.<a id=190></a>
 
 ###### Article 382
 
@@ -17547,7 +18169,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=189></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=191></a>
 
 ###### Article 383
 
@@ -17727,7 +18349,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.<a id=190></a>
+#### Paragraphe 3 : Exercice anticipé de la contrainte judiciaire.<a id=192></a>
 
 ###### Article 388
 
@@ -17753,9 +18375,9 @@ _Abrogé par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
-#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane<a id=191></a>
+#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane<a id=193></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=192></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=194></a>
 
 ###### Article 389
 
@@ -17799,7 +18421,7 @@ _Cite_:
   - Code des douanes 362-2
 
 
-##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=193></a>
+##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=195></a>
 
 ###### Article 389 bis
 
@@ -17854,7 +18476,7 @@ _Cite_:
   - Code des douanes - art. 389 (M)
 
 
-##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=194></a>
+##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=196></a>
 
 ###### Article 390
 
@@ -17883,7 +18505,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Droit de remise.<a id=195></a>
+### Section 3 : Droit de remise.<a id=197></a>
 
 ###### Article 390 bis
 
@@ -17907,7 +18529,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=196></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=198></a>
 
 ###### Article 391
 
@@ -17929,11 +18551,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre V : Responsabilité et solidarité<a id=197></a>
+## Chapitre V : Responsabilité et solidarité<a id=199></a>
 
-### Section 1 : Responsabilité pénale<a id=198></a>
+### Section 1 : Responsabilité pénale<a id=200></a>
 
-#### Paragraphe 1 : Détenteurs.<a id=199></a>
+#### Paragraphe 1 : Détenteurs.<a id=201></a>
 
 ###### Article 392
 
@@ -17958,7 +18580,7 @@ _Cité par_:
   - Arrêté du 1 juillet 2003 - art. 2 (V)
 
 
-#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=200></a>
+#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=202></a>
 
 ###### Article 393
 
@@ -18005,7 +18627,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Déclarants.<a id=201></a>
+#### Paragraphe 3 : Déclarants.<a id=203></a>
 
 ###### Article 395
 
@@ -18027,7 +18649,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 4 : Commissionnaires en douane agréés.<a id=202></a>
+#### Paragraphe 4 : Commissionnaires en douane agréés.<a id=204></a>
 
 ###### Article 396
 
@@ -18046,7 +18668,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 5 : Soumissionnaires.<a id=203></a>
+#### Paragraphe 5 : Soumissionnaires.<a id=205></a>
 
 ###### Article 397
 
@@ -18068,7 +18690,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 6 : Complices.<a id=204></a>
+#### Paragraphe 6 : Complices.<a id=206></a>
 
 ###### Article 398
 
@@ -18094,7 +18716,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 7 : Intéressés à la fraude.<a id=205></a>
+#### Paragraphe 7 : Intéressés à la fraude.<a id=207></a>
 
 ###### Article 399
 
@@ -18155,9 +18777,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 2 : Responsabilité civile<a id=206></a>
+### Section 2 : Responsabilité civile<a id=208></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=207></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=209></a>
 
 ###### Article 401
 
@@ -18227,7 +18849,7 @@ _Cite_:
   - Code des douanes - art. 64 (V)
 
 
-#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=208></a>
+#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=210></a>
 
 ###### Article 404
 
@@ -18249,7 +18871,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=209></a>
+#### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=211></a>
 
 ###### Article 405
 
@@ -18267,7 +18889,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Solidarité.<a id=210></a>
+### Section 3 : Solidarité.<a id=212></a>
 
 ###### Article 406
 
@@ -18310,11 +18932,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre VI : Dispositions répressives<a id=211></a>
+## Chapitre VI : Dispositions répressives<a id=213></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=212></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=214></a>
 
-#### Paragraphe 1 : Généralités.<a id=213></a>
+#### Paragraphe 1 : Généralités.<a id=215></a>
 
 ###### Article 408
 
@@ -18346,9 +18968,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Contraventions douanières<a id=214></a>
+#### Paragraphe 2 : Contraventions douanières<a id=216></a>
 
-##### A. - Première classe.<a id=215></a>
+##### A. - Première classe.<a id=217></a>
 
 ###### Article 410
 
@@ -18398,7 +19020,7 @@ _Cite_:
   - Code des douanes - art. 92 (V)
 
 
-##### B. - Deuxième classe.<a id=216></a>
+##### B. - Deuxième classe.<a id=218></a>
 
 ###### Article 411
 
@@ -18461,7 +19083,7 @@ _Cite_:
   - Code des douanes - art. 266 quinquies B (V)
 
 
-##### C. - Troisième classe.<a id=217></a>
+##### C. - Troisième classe.<a id=219></a>
 
 ###### Article 412
 
@@ -18513,7 +19135,7 @@ _Cite_:
   - Code des douanes - art. 259 (V)
 
 
-##### E. - Cinquième classe.<a id=218></a>
+##### E. - Cinquième classe.<a id=220></a>
 
 ###### Article 413 bis
 
@@ -18553,9 +19175,9 @@ _Cite_:
   - Code des douanes - art. 93
 
 
-#### Paragraphe 3 : Délits douaniers<a id=219></a>
+#### Paragraphe 3 : Délits douaniers<a id=221></a>
 
-##### A. - Première classe.<a id=220></a>
+##### A. - Première classe.<a id=222></a>
 
 ###### Article 414
 
@@ -18650,7 +19272,7 @@ _Cite_:
   - Code des douanes - art. 414
 
 
-##### B. - Deuxième classe.<a id=221></a>
+##### B. - Deuxième classe.<a id=223></a>
 
 ###### Article 415
 
@@ -18719,7 +19341,7 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-#### Paragraphe 4 : Contrebande.<a id=222></a>
+#### Paragraphe 4 : Contrebande.<a id=224></a>
 
 ###### Article 417
 
@@ -18952,7 +19574,7 @@ _Cite_:
   - Code des douanes - art. 180 (V)
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=223></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=225></a>
 
 ###### Article 423
 
@@ -19210,9 +19832,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Peines complémentaires<a id=224></a>
+### Section 2 : Peines complémentaires<a id=226></a>
 
-#### Paragraphe 1 : Confiscation.<a id=225></a>
+#### Paragraphe 1 : Confiscation.<a id=227></a>
 
 ###### Article 430
 
@@ -19248,7 +19870,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Astreinte.<a id=226></a>
+#### Paragraphe 2 : Astreinte.<a id=228></a>
 
 ###### Article 431
 
@@ -19283,7 +19905,7 @@ _Cite_:
   - Code des douanes - art. 92 (V)
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=227></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=229></a>
 
 ###### Article 432
 
@@ -19383,9 +20005,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=228></a>
+### Section 3 : Cas particuliers d'application des peines<a id=230></a>
 
-#### Paragraphe 1 : Confiscation.<a id=229></a>
+#### Paragraphe 1 : Confiscation.<a id=231></a>
 
 ###### Article 434
 
@@ -19432,7 +20054,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=230></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=232></a>
 
 ###### Article 436
 
@@ -19532,7 +20154,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Concours d'infractions.<a id=231></a>
+#### Paragraphe 3 : Concours d'infractions.<a id=233></a>
 
 ###### Article 439
 
@@ -19570,7 +20192,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=232></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=234></a>
 
 ###### Article 441
 
@@ -19923,9 +20545,9 @@ _Abrogé par_:
   - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=233></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=235></a>
 
-## Chapitre Ier : Dispositions communes.<a id=234></a>
+## Chapitre Ier : Dispositions communes.<a id=236></a>
 
 ###### Article 451
 
@@ -19988,7 +20610,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=235></a>
+## Chapitre II : Constatation des infractions.<a id=237></a>
 
 ###### Article 453
 
@@ -20112,7 +20734,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=236></a>
+## Chapitre III : Poursuite des infractions.<a id=238></a>
 
 ###### Article 458
 
@@ -20130,7 +20752,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=237></a>
+## Chapitre IV : Dispositions répressives.<a id=239></a>
 
 ###### Article 459
 
@@ -20217,7 +20839,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=238></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=240></a>
 
 ###### Article 460
 
@@ -20310,7 +20932,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=239></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=241></a>
 
 ###### Article 464
 
@@ -20393,9 +21015,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=240></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=242></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=241></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=243></a>
 
 ###### Article 467
 
@@ -20479,7 +21101,7 @@ _Cite_:
   - Règlement CEE 3330-91 1991-11-07 art. 13
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=242></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=244></a>
 
 ###### Article 468
 
@@ -20542,7 +21164,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=243></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=245></a>
 
 ###### Article 470
 
