@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2010-05-01
+Version Consolidée au 2010-05-13
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -38,9 +38,9 @@ Version Consolidée au 2010-05-01
     - [Chapitre IV : Pouvoirs des agents des douanes (art. 60 à 67 ter)](#35)
       - [Section 1 : Droit de visite des marchandises, des moyens de transport et des personnes. (art. 60 à 63 bis)](#36)
       - [Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires. (art. 63 ter à 64)](#37)
-      - [Section 3 : Droit de communication (art. 64 A à 65 bis)](#38)
+      - [Section 3 : Droit de communication (art. 64 A à 65 ter)](#38)
         - [Paragraphe 1 : Droit de communication de l'administration des finances. (art. 64 A à 64 B)](#39)
-        - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 65 à 65 bis)](#40)
+        - [Paragraphe 2 : Droit de communication particulier à l'administration des douanes. (art. 65 à 65 ter)](#40)
       - [Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne. (art. 65 A à 65 C)](#41)
       - [Section 5 : Contrôles douaniers des envois par la poste. (art. 66 à 66 bis)](#42)
       - [Section 6 : Présentation des passeports. (art. 67)](#43)
@@ -2568,6 +2568,18 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 65 ter
+
+L'Autorité de régulation des jeux en ligne et la direction générale des douanes et droits indirects peuvent se communiquer
+spontanément tous les renseignements et documents recueillis dans le cadre de leurs missions respectives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2010-476 du 12 mai 2010 - art. 60
 
 
 ### Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne.<a id=41></a>
