@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2011-06-01
+Version Consolidée au 2011-06-01 00:00:01 +0200
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -16864,18 +16864,11 @@ administration.
 expéditions et tous autres documents relatifs aux objets saisis et de procéder à la retenue préventive des objets affectés à
 la sûreté des pénalités.
 
-**Nota:**
-
-Dans sa décision n° 2010-32 QPC du 22 septembre 2010 (NOR : CSCX1024329S), le Conseil constitutionnel a déclaré contraire à
-la Constitution le 3 de l'article 323 du code des douanes. Cette déclaration d'inconstitutionnalité prend effet le 1er
-juillet 2011 dans les conditions fixées au considérant 9. Les 1 et 2 de l'article 323 du code des douanes sont conformes à la
-Constitution.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Décision n°2010-32 QPC du 22 septembre 2010, v. init.
+  - Loi n°2011-392 du 14 avril 2011 - art. 19
 
 _Cité par_:
 
