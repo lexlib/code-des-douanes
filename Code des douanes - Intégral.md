@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2013-06-07
+Version Consolidée au 2013-09-21
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -8645,7 +8645,9 @@ Etat, les transports effectués :
 
 a) Entre les ports d'un même département français d'outre-mer ;
 
-b) Entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique.
+b) Entre les ports des départements de la Guadeloupe, de la Guyane et de la Martinique ;
+
+c) Entre les ports des départements de Mayotte et de La Réunion. 
 
 2° L'autorité administrative peut réserver, dans des conditions fixées par décret, aux navires mentionnés au 1°, les
 transports de certaines marchandises effectués :
@@ -8674,7 +8676,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2001-43 du 16 janvier 2001 - art. 10 () JORF 17 janvier 2001
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 30
 
 
 ###### Article 259
@@ -8712,22 +8714,24 @@ _Modifié par_:
 ###### Article 260
 
 1. Sont également réservées au pavillon français, dans les conditions prévues aux articles 257 à 259 qui précèdent, les
-opérations de remorquage effectuées :
+opérations de remorquage effectuées : 
 
-a) à l'intérieur des ports ou des eaux territoriales de la métropole et des départements français d'outre-mer ;
+a) à l'intérieur des ports ou des eaux territoriales de la métropole et des départements français d'outre-mer ; 
 
-b) entre les ports d'un de ces mêmes territoires ;
+b) entre les ports d'un de ces mêmes territoires ; 
 
-c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique.
+c) entre les ports de la Guadeloupe, de la Guyane et de la Martinique ; 
+
+d) Entre les ports de Mayotte et de La Réunion. 
 
 2. Les escales ou relâches volontaires à l'étranger n'ont pas pour effet de modifier le caractère de ces opérations, à moins
 qu'il ne soit justifié qu'au cours desdites escales ou relâches, le navire remorqué a embarqué ou débarqué des marchandises
 représentant ensemble, en tonneaux d'affrètement, le tiers au moins de la jauge nette ou subi des réparations dont le coût
-excède 0,46 euro par tonneau de jauge brute totale.
+excède 0,46 euro par tonneau de jauge brute totale. 
 
 3. Toutefois, le pavillon étranger peut être admis à pratiquer les opérations de remorquage susvisées dans le cas où il
 n'existerait pas de remorqueur français disponible ou suffisant sur place ni dans les ports français plus proches que les
-ports d'attache des remorqueurs étrangers qui pourraient être requis.
+ports d'attache des remorqueurs étrangers qui pourraient être requis. 
 
 4. Les remorqueurs étrangers sont admis à pénétrer dans les ports français, soit lorsqu'ils remorquent des navires ou
 chalands, à partir d'un port étranger ou du large au-delà de la limite des eaux territoriales, soit lorsqu'ils viennent
@@ -8737,18 +8741,17 @@ d'amarrage.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
-
-  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-
-_Cite_:
-
-  - Code des douanes 257 à 259
-
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 30
+
+_Cite_:
+
+  - Code des douanes - art. 257
 
 
 ## Chapitre III : Relâches forcées.<a id=126></a>
@@ -13612,7 +13615,7 @@ _Cite_:
 1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, une
 taxe spéciale de consommation sur les produits désignés ci-après :
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table cellpadding="0" align="center" border="1" cellspacing="0">
   <tbody>
     <tr>
       <td>
@@ -13673,7 +13676,7 @@ Hectolitre
 </td>
       <td>
 
-Gazole présentant un point d'éclair inférieur à 120 °C
+Gazole présentant un point d'éclair inférieur à 120° C
 
 </td>
       <td>
@@ -13705,7 +13708,7 @@ Hectolitre
   </tbody>
 </table>
 
-2. Le taux de cette taxe est fixé par le conseil régional. Ce taux ne peut excéder :
+2. Le taux de cette taxe est fixé par le conseil régional et, à Mayotte, par le conseil général. Ce taux ne peut excéder :
 
 a) pour les essences et supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis.
@@ -13718,7 +13721,7 @@ c) pour le gazole utilisé comme carburant pour l'alimentation des moteurs fixes
 consommation visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 20.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
-régional aux conditions qu'il fixe.
+régional et, à Mayotte, par le conseil général aux conditions qu'il fixe.
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement
 s'applique aux produits déclarés pour la consommation avant la date du changement de tarif et existant en stock à cette date
@@ -13762,11 +13765,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi - art. 60 (V) JORF 29 décembre 2001
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 31
 
 _Cite_:
 
-  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265
 
 _Codifié par_:
 
@@ -14874,7 +14877,7 @@ _Cite_:
 
 1. Les cigarettes, les cigares, cigarillos, les tabacs à mâcher, les tabacs à priser, les tabacs fine coupe destinés à rouler
 les cigarettes et les autres tabacs à fumer, destinés à être consommés dans les départements de la Guadeloupe, de la Guyane,
-de la Martinique et de la Réunion, sont passibles d'un droit de consommation.
+de la Martinique, de Mayotte et de la Réunion, sont passibles d'un droit de consommation.
 
 Les taux et l'assiette du droit de consommation sont fixés par délibération des conseils généraux des départements. Ces
 délibérations prennent effet au plus tôt au 1er janvier 2001.
@@ -14909,7 +14912,7 @@ les instances instruites et jugées conformément aux dispositions du code des d
 
 4. Le produit du droit de consommation perçu à la Guyane et à la Réunion sur les cigarettes, cigares et cigarillos, tabac à
 fumer, tabac à mâcher et tabac à priser, est affecté au budget de ces départements. Il en est de même à la Guadeloupe et à la
-Martinique à compter du 1er janvier 2001.
+Martinique à compter du 1er janvier 2001 et à Mayotte à compter du 1er janvier 2014.
 
 Les conseils généraux des départements d'outre-mer peuvent fixer, par délibération, un prix de détail des cigarettes exprimé
 aux 1 000 unités et un prix de détail des tabacs fine coupe destinés à rouler des cigarettes exprimé aux 1 000 grammes, en
@@ -14930,7 +14933,7 @@ département de destination.
 
 _Modifié par_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 135
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 31
 
 _Cité par_:
 
@@ -15878,15 +15881,15 @@ _Codifié par_:
 
 ###### Article 285 ter
 
-Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique et de la Réunion une taxe due par les
-entreprises de transport public aérien et maritime. Elle est ajoutée au prix demandé aux passagers. Elle est assise sur le
-nombre de passagers embarquant dans ces régions. 
+Il est institué au profit des régions de Guadeloupe, de Guyane, de Martinique, de Mayotte et de la Réunion une taxe due par
+les entreprises de transport public aérien et maritime. Elle est ajoutée au prix demandé aux passagers. Elle est assise sur
+le nombre de passagers embarquant dans ces régions. 
 
 Les tarifs de cette taxe peuvent être modulés selon le mode de transport utilisé et la distance parcourue. Ils sont fixés par
-chaque conseil régional dans la limite de 4,57 euros par passager. 
+chaque conseil régional ou par le conseil général de Mayotte dans la limite de 4,57 euros par passager. 
 
-La taxe est due au titre des billets émis à compter du premier jour du quatrième mois qui suit la date de publication de la
-délibération du conseil régional. 
+La taxe est due au titre des billets émis à compter du premier jour du quatrième mois qui suit la date de publication de
+la délibération du conseil régional ou du conseil général de Mayotte. 
 
 La taxe est constatée, recouvrée et contrôlée par le service des douanes sous les mêmes garanties, privilèges et sanctions
 qu'en matière de droits de douane. 
@@ -15906,7 +15909,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 71
+  - Ordonnance n°2013-837 du 19 septembre 2013 - art. 32
 
 _Cité par_:
 
