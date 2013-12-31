@@ -1,9 +1,9 @@
 # Article 266 quater
 
-1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, une
-taxe spéciale de consommation sur les produits désignés ci-après : 
+1. Il est institué dans les départements d'outre-mer de la Guadeloupe, de la Guyane, de la Martinique, de Mayotte et de la
+Réunion, une taxe spéciale de consommation sur les produits désignés ci-après : 
 
-<table width="680" cellspacing="0" border="1" cellpadding="0" align="center">
+<table border="1" width="680" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
       <td width="154">
@@ -23,29 +23,29 @@ Unité de perception
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 2707-50 
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Essences et supercarburants à forte teneur en hydrocarbures aromatiques 
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 2710-00 
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Essences et supercarburants 
 
@@ -57,7 +57,7 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 2710-00 
 
@@ -67,7 +67,7 @@ Hectolitre
 Gazole présentant un point d'éclair inférieur à 120° C 
 
 </td>
-      <td width="154" valign="top">
+      <td valign="top" width="154">
 
 Hectolitre 
 
@@ -79,7 +79,7 @@ Hectolitre
 Ex 3824-90 : 
 
 </td>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
       </td><td valign="top" width="154">
 
 Hectolitre
@@ -87,14 +87,14 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td valign="top" width="154">
+      <td width="154" valign="top">
 
 - émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 %
 en volume sans dépasser 20 % en volume 
 
 </td>
-      <td width="154" valign="top">
-      </td><td width="154" valign="top">
+      <td valign="top" width="154">
+      </td><td valign="top" width="154">
 
 Hectolitre
 
@@ -116,7 +116,7 @@ Hectolitre
   </tbody>
 </table>
 
-2. Le taux de cette taxe est fixé par le conseil régional et, à Mayotte, par le conseil général. Ce taux ne peut excéder : 
+2. Le taux de cette taxe est fixé par le conseil régional, et, à Mayotte, par le conseil général. Ce taux ne peut excéder : 
 
 a) pour les essences et supercarburants, le taux de la taxe intérieure de consommation visée au tableau B annexé au 1 de
 l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 bis. 
@@ -129,7 +129,7 @@ c) pour le gazole utilisé comme carburant pour l'alimentation des moteurs fixes
 consommation visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 20.
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
-régional et, à Mayotte, par le conseil général aux conditions qu'il fixe. 
+régional, et, à Mayotte, par le conseil général aux conditions qu'il fixe. 
 
 3. En cas de relèvement des taux de la taxe spéciale dans les conditions prévues au paragraphe ci-dessus, ce relèvement
 s'applique aux produits déclarés pour la consommation avant la date du changement de tarif et existant en stock à cette date
@@ -145,6 +145,10 @@ Saint-Barthélemy et de Saint-Martin ne bénéficient plus du reversement aux co
 de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -173,12 +177,9 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2010-1487 du 7 décembre 2010 - art. 13 (V)
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 31
 
 _Cite_:
 
-  - Code des douanes - art. 265
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
+  - Code des douanes - art. 265 (V)
