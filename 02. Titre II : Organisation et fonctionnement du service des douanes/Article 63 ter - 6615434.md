@@ -23,16 +23,28 @@ de la Communauté européenne en matière de réglementation douanière ou agric
 mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
 les autres Etats membres de la Communauté européenne.
 
-Le présent article ne s'applique pas à la partie des locaux et lieux cités au premier alinéa qui est également affectée au
-domicile privé.
+Le présent article s'applique à la partie affectée à usage privatif des locaux et lieux mentionnés au premier alinéa lorsque
+leur occupant ou son représentant en donne l'assentiment exprès. Cet assentiment fait l'objet d'une déclaration signée par
+l'intéressé et recueillie sur place, annexée au procès-verbal mentionné au troisième alinéa.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 1 (Ab)
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 2 (Ab)
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 3 (Ab)
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 4 (Ab)
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 5 (Ab)
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 6 (Ab)
+  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 7 (Ab)
+
 _Cité par_:
 
+  - Arrêté du 9 avril 2001 - art. 4 (V)
   - Arrêté du 18 juillet 2002 - art. 8 (V)
   - Arrêté du 21 avril 2005 - art. 8 (V)
-  - Arrêté du 9 avril 2001 - art. 4 (V)
   - Décret n°2010-428 du 28 avril 2010 (V)
   - Décret n°2010-428 du 28 avril 2010 - art. 9 (V)
   - Ordonnance n°2011-1920 du 22 décembre 2011 - art. 6 (M)
@@ -50,17 +62,6 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-**Liens**:
-
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 1 (Ab)
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 2 (Ab)
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 3 (Ab)
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 4 (Ab)
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 5 (Ab)
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 6 (Ab)
-  - TXT_SOURCE: Décret n°96-866 du 27 septembre 1996 - art. 7 (Ab)
-
 _Modifié par_:
 
-  - Loi n°2004-1485 du 30 décembre 2004 - art. 91 () JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+  - Loi n°2014-315 du 11 mars 2014 - art. 15
