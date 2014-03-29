@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-03-13
+Version Consolidée au 2014-03-30
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -44,7 +44,7 @@ Version Consolidée au 2014-03-13
       - [Section 4 : Contrôles de certaines opérations effectuées dans le cadre de la Communauté européenne. (art. 65 A à 65 C)](#41)
       - [Section 5 : Contrôles douaniers des envois par la poste. (art. 66 à 66 bis)](#42)
       - [Section 6 :  Présentation des titres et documents d'identité (art. 67 à 67-1)](#43)
-      - [Section 7 : Livraisons surveillées. (art. 67 bis à 67 bis-1)](#44)
+      - [Section 7 : Livraisons surveillées. (art. 67 bis à 67 bis-2)](#44)
       - [Section 7 bis : Equipes communes d'enquête (art. 67 ter A)](#45)
       - [Section 8 : Retenue provisoire des personnes (art. 67 ter)](#46)
       - [Section 9 : Contrôle des titres (art. 67 quater)](#47)
@@ -3052,6 +3052,31 @@ _Cite_:
 
   - Code des douanes - art. 399
   - Code des douanes - art. 67 bis
+
+
+###### Article 67 bis-2
+
+Si les nécessités de l'enquête douanière relative à la recherche et à la constatation d'un délit douanier puni d'une peine
+d'emprisonnement d'une durée égale ou supérieure à cinq ans l'exigent, tout moyen technique destiné à la localisation en
+temps réel, sur l'ensemble du territoire national, d'une personne, à l'insu de celle-ci, d'un véhicule ou de tout autre
+objet, sans le consentement de son propriétaire ou de son possesseur, peut être mis en place ou prescrit par les agents des
+douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret, sur autorisation, dans les
+conditions et selon les modalités prévues au chapitre V du titre IV du livre Ier du code de procédure pénale, du procureur de
+la République près le tribunal de grande instance dans le ressort duquel la mise en place du moyen technique est envisagée ou
+du juge des libertés et de la détention de ce tribunal.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Décret n°2004-976 du 15 septembre 2004 - art. 1 (V)
+  - Arrêté du 22 mai 2018 - art. 2 (V)
+  - Arrêté du 22 mai 2018 - art. 4 (V)
+  - Code de procédure pénale - art. 230-45 (V)
+
+_Créé par_:
+
+  - Loi n°2014-372 du 28 mars 2014 - art. 2
 
 
 ### Section 7 bis : Equipes communes d'enquête<a id=45></a>
