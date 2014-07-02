@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-06-02
+Version Consolidée au 2014-07-03
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -225,10 +225,10 @@ Version Consolidée au 2014-06-02
           - [C. - Troisième classe. (art. 412)](#222)
           - [D. - Quatrième classe. (art. 413)](#223)
           - [E. - Cinquième classe. (art. 413 bis à 413 ter)](#224)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 416)](#225)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis)](#225)
           - [A. - Première classe. (art. 414 à 414-1)](#226)
           - [B. - Deuxième classe. (art. 415)](#227)
-          - [C. ― Troisième classe (art. 416)](#228)
+          - [C. ― Troisième classe (art. 416 à 416 bis)](#228)
         - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#229)
         - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#230)
       - [Section 2 : Peines complémentaires (art. 430 à 433)](#231)
@@ -2000,16 +2000,39 @@ _Cité par_:
 
 ###### Article 62
 
-Les agents des douanes peuvent visiter tout navire se trouvant dans la zone maritime du rayon des douanes et dans la zone
-définie à l'article 44 bis dans les conditions prévues à cet article.
+I.-Pour l'application du présent code et en vue de la recherche de la fraude, les agents des douanes peuvent, à toute heure,
+accéder à bord et visiter tout navire se trouvant dans la zone maritime du rayon des douanes, ou dans la zone définie à
+l'article 44 bis dans les conditions prévues à ce même article, ou circulant sur les voies navigables. 
 
-**Nota:**
+II.-Lorsque l'accès à bord s'est trouvé matériellement impossible ou que des investigations approfondies qui ne peuvent être
+effectuées doivent être diligentées à bord, les agents des douanes exerçant les fonctions de capitaine à la mer peuvent
+ordonner le déroutement du navire vers une position ou un port appropriés. 
 
-Dans sa décision n° 2013-357 QPC du 29 novembre 2013 (NOR : CSCX1329486S), le Conseil constitutionnel a déclaré l'article 62
-du code des douanes contraire à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet à compter
-de la publication de la présente décision dans les conditions prévues au considérant 10. Dans sa décision n° 2013-357 R QPC
-du 29 décembre 2013, les mots " de la publication de la présente décision " sont remplacés par les mots " du 1er janvier 2015
-".
+III.-Chaque visite se déroule en présence du capitaine du navire ou de son représentant. 
+
+Lorsque la visite concerne des locaux affectés à un usage privé ou d'habitation, la visite est effectuée en présence de
+l'occupant des lieux. En l'absence de l'occupant des lieux, les agents des douanes ne peuvent procéder à celle-ci qu'en
+présence du capitaine du navire ou de son représentant. 
+
+IV.-Chaque visite fait l'objet d'un procès-verbal relatant le déroulement des opérations de contrôle, dont une copie est
+immédiatement remise au capitaine du navire ou à son représentant et à l'occupant des locaux affectés à un usage privé ou
+d'habitation visités. 
+
+V.-L'occupant des locaux à usage privé ou d'habitation visités dispose d'un recours contre le déroulement des opérations de
+visite devant le premier président de la cour d'appel du lieu de la direction des douanes dont dépend le service chargé de la
+procédure. 
+
+Le procès-verbal rédigé à l'issue des opérations de visite mentionne le délai et la voie de recours. Les parties ne sont pas
+tenues de constituer avocat. 
+
+VI.-Ce recours doit être exclusivement formé par déclaration remise ou adressée, par pli recommandé, au greffe de la cour
+dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception du procès-verbal. Ce recours n'est
+pas suspensif. 
+
+VII.-L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles de la
+procédure sans représentation. Le délai du pourvoi en cassation est de quinze jours. 
+
+VIII.-Le code de procédure civile s'applique sous réserve des dispositions prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -2021,41 +2044,73 @@ _Cité par_:
 
   - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
   - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
+  - Code des douanes - art. 63 (V)
   - Code des douanes - art. 67 bis (V)
 
 _Modifié par_:
 
-  - Loi n°2001-380 du 3 mai 2001 - art. 9 () JORF 4 mai 2001
+  - Loi n°2014-742 du 1er juillet 2014 - art. 28
 
 _Cite_:
 
-  - Code des douanes - art. 44 bis (V)
+  - Code des douanes - art. 44 bis
 
 
 ###### Article 63
 
-1. Les agents des douanes peuvent aller à bord de tous les bâtiments, y compris les navires de guerre, qui se trouvent dans
-les ports ou rades ou qui montent ou descendent les rivières et canaux. Ils peuvent y demeurer jusqu'à leur déchargement ou
-sortie.
+I.-Pour l'application du présent code et en vue de la recherche de la fraude, les agents des douanes peuvent accéder à bord
+et visiter tout navire qui se trouve dans un port, dans une rade ou à quai. 
 
-2. Les capitaines et commandants doivent recevoir les agents des douanes, les accompagner et, s'ils le demandent, faire
-ouvrir les écoutilles, les chambres et armoires de leur bâtiment, ainsi que les colis désignés pour la visite. En cas de
-refus, les agents peuvent demander l'assistance d'un juge (ou, s'il n'y en a pas sur le lieu, d'un officier municipal dudit
-lieu ou d'un officier de police judiciaire), qui est tenu de faire ouvrir les écoutilles, chambres, armoires et colis ; il
-est dressé procès-verbal de cette ouverture et des constatations, faites aux frais des capitaines ou commandants.
+II.-Lorsque la visite concerne des navires qui se trouvent dans un port, dans une rade ou à quai depuis moins de soixante-
+douze heures, elle se déroule selon les conditions prévues à l'article 62.
 
-3. Les agents chargés de la vérification des bâtiments et cargaisons peuvent, au coucher du soleil, fermer les écoutilles,
-qui ne pourront être ouvertes qu'en leur présence.
+III.-A.-Lorsque la visite concerne des navires qui se trouvent dans un port, dans une rade ou à quai depuis soixante-douze
+heures au moins, elle se déroule en présence du capitaine du navire ou de son représentant. 
 
-4. Sur les navires de guerre, les visites ne peuvent être faites après le coucher du soleil.
+B.-Lorsque la visite concerne des locaux affectés à un usage privé ou d'habitation, elle ne peut être effectuée, en cas de
+refus de l'occupant des lieux, qu'après autorisation du juge des libertés et de la détention du tribunal de grande instance
+du lieu de la direction des douanes dont dépend le service chargé de la procédure. 
 
-**Nota:**
+La visite s'effectue sous le contrôle du juge qui l'a autorisée. Lorsqu'elle a lieu en dehors du ressort de son tribunal de
+grande instance, il délivre une commission rogatoire, pour exercer ce contrôle, au juge des libertés et de la détention du
+tribunal de grande instance dans le ressort duquel s'effectue la visite. 
 
-Dans sa décision n° 2013-357 QPC du 29 novembre 2013 (NOR : CSCX1329486S), le Conseil constitutionnel a déclaré l'article 63
-du code des douanes contraire à la Constitution. La déclaration d'inconstitutionnalité de l'article 1er prend effet à compter
-de la publication de la présente décision dans les conditions prévues au considérant 10. Dans sa décision n° 2013-357 R QPC
-du 29 décembre 2013, les mots " de la publication de la présente décision " sont remplacés par les mots " du 1er janvier 2015
-".
+Le juge peut se rendre dans les locaux pendant l'intervention. 
+
+A tout moment, il peut décider la suspension ou l'arrêt de la visite. 
+
+L'ordonnance est exécutoire au seul vu de la minute. 
+
+L'ordonnance est notifiée verbalement et sur place au moment de la visite à l'occupant des lieux ou, en son absence, au
+capitaine du navire ou à son représentant, qui en reçoit copie intégrale contre récépissé ou émargement au procès-verbal
+prévu au V. 
+
+Le délai et la voie de recours sont mentionnés dans l'ordonnance. 
+
+L'ordonnance peut faire l'objet d'un appel devant le premier président de la cour d'appel. Les parties ne sont pas tenues de
+constituer avocat. 
+
+IV.-Chaque visite fait l'objet d'un procès-verbal relatant le déroulement des opérations de contrôle, dont une copie est
+immédiatement remise au capitaine du navire, à son représentant et à l'occupant des locaux affectés à un usage privé ou
+d'habitation visités. Une copie du procès-verbal est transmise au juge des libertés et de la détention dans les trois jours
+suivant son établissement. 
+
+V.-L'occupant des locaux à usage privé ou d'habitation visités dispose d'un recours contre le déroulement des opérations de
+visite devant le premier président de la cour d'appel du lieu de la direction des douanes dont dépend le service chargé de la
+procédure. 
+
+Le procès-verbal rédigé à l'issue des opérations de visite mentionne le délai et la voie de recours prévus au VI. Les parties
+ne sont pas tenues de constituer avocat. 
+
+VI.-Les recours contre l'ordonnance du juge des libertés et de la détention prévue au III et contre le déroulement des
+opérations de visite prévu au V doivent être exclusivement formés par déclaration remise ou adressée, par pli recommandé, au
+greffe de la cour dans un délai de quinze jours. Ce délai court à compter de la remise ou de la réception du procès-verbal.
+Ces recours ne sont pas suspensifs. 
+
+VII.-L'ordonnance du premier président de la cour d'appel est susceptible d'un pourvoi en cassation selon les règles de la
+procédure sans représentation. Le délai du pourvoi en cassation est de quinze jours. 
+
+VIII.-Le code de procédure civile s'applique sous réserve des dispositions prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -2071,9 +2126,13 @@ _Cité par_:
   - Code des douanes - art. 67 bis (V)
   - Code du patrimoine. - art. L112-22 (V)
 
-_Abrogé par_:
+_Modifié par_:
 
-  - Décision n°2013-357 QPC du 29 novembre 2013 - art. 1, v. init.
+  - Loi n°2014-742 du 1er juillet 2014 - art. 28
+
+_Cite_:
+
+  - Code des douanes - art. 62 (V)
 
 
 ###### Article 63 bis
@@ -20555,16 +20614,16 @@ _Cité par_:
 
 ###### Article 413 bis
 
-1. Est passible d'un emprisonnement d'un mois et d'une amende de 90 euros à 450 euros, toute infraction aux dispositions des
-articles 53-1, 61-1, 69 b, 71 et 117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute dissimulation de
-pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus.
+1. Est passible d'un emprisonnement d'un mois et d'une amende de 90 euros à 450 euros, toute infraction aux dispositions du a
+du 1 de l'article 53 et des articles 69 b, 71 et 117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute
+dissimulation de pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus. 
 
-2. Tombent également sous le coup des dispositions de l'alinéa précédent :
+2. Tombent également sous le coup des dispositions de l'alinéa précédent : 
 
 a) toute personne qui, ayant fait l'objet d'un retrait de l'agrément ou d'un retrait de l'autorisation de dédouaner prévus
 respectivement aux articles 87-3 et 88 ci-dessus, continue, soit à accomplir pour autrui, directement ou indirectement, les
 formalités de douane concernant la déclaration en détail des marchandises, soit à bénéficier, directement ou indirectement,
-de tout ou partie de rémunérations de la nature de celles définies à l'article 93 ci-dessus ;
+de tout ou partie de rémunérations de la nature de celles définies à l'article 93 ci-dessus ; 
 
 b) toute personne qui prête sciemment son concours en vue de soustraire aux effets du retrait d'agrément ou du retrait de
 l'autorisation de dédouaner ceux qui en auraient été atteints.
@@ -20577,17 +20636,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-526 du 12 mai 2009 - art. 122
+  - Loi n°2014-742 du 1er juillet 2014 - art. 28
 
 _Cite_:
 
-  - Code des douanes
+  - Code des douanes - art. 53
   - Code des douanes - art. 65
   - Code des douanes - art. 69
   - Code des douanes - art. 71
-  - Code des douanes - art. 88
   - Code des douanes - art. 92
-  - Code des douanes - art. 93
 
 
 ###### Article 413 ter
@@ -20806,6 +20863,24 @@ _Cite_:
 
   - Code des douanes - art. 414
   - Code des douanes - art. 459
+
+
+###### Article 416 bis
+
+Est passible d'un emprisonnement d'un an et d'une amende de 15 000 € le fait de s'opposer à l'exercice des fonctions dont
+sont chargés les agents des douanes ou de refuser de se soumettre à leurs injonctions conformément au b du 1 de l'article 53
+et au 1 de l'article 61 du présent code.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-742 du 1er juillet 2014 - art. 28
+
+_Cite_:
+
+  - Code des douanes - art. 53
+  - Code des douanes - art. 61
 
 
 #### Paragraphe 4 : Contrebande.<a id=229></a>
