@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2014-07-12
+Version Consolidée au 2014-09-17
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1811,16 +1811,16 @@ _Cite_:
 
 ###### Article 59 septies
 
-Les agents de la direction générale des douanes et droits indirects et les agents de la direction générale de la
-compétitivité, de l'industrie et des services peuvent se communiquer sur demande ou spontanément tous les renseignements et
-documents détenus ou recueillis à l'occasion de leurs missions respectives, notamment à l'occasion du contrôle des
-exportations, des transferts, du courtage et du transit des biens à double usage.
+Les agents de la direction générale des douanes et droits indirects et les agents de la direction générale des entreprises
+peuvent se communiquer sur demande ou spontanément tous les renseignements et documents détenus ou recueillis à l'occasion de
+leurs missions respectives, notamment à l'occasion du contrôle des exportations, des transferts, du courtage et du transit
+des biens à double usage.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2011-266 du 14 mars 2011 - art. 15
+  - Décret n°2014-1048 du 15 septembre 2014 - art. 4
 
 
 ###### Article 59 sexies
