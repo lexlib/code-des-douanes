@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2015-01-01
+Version Consolidée au 2015-08-19
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1748,6 +1748,20 @@ _Créé par_:
 _Modifié par_:
 
   - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+
+###### Article 59 octies
+
+Les agents des douanes et les agents de la direction générale de la prévention des risques et de ses services déconcentrés
+sont autorisés, pour les besoins de leurs missions de contrôle des transferts transfrontaliers de déchets et de contrôle des
+substances et produits chimiques, à se communiquer, sur demande ou spontanément, tous les renseignements et documents détenus
+ou recueillis dans l'exercice de leurs missions respectives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
 
 
 ###### Article 59 quater
@@ -8192,11 +8206,18 @@ _Modifié par_:
 1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
 de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans
 la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au
-Conservatoire de l'espace littoral et des rivages lacustres.
+Conservatoire de l'espace littoral et des rivages lacustres. 
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
 Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
 affecté au budget général. 
+
+En complément de l'éco-contribution versée par les metteurs sur le marché de navires de plaisance ou de sport à un éco-
+organisme dans le cadre de la filière définie à l'article L. 541-10-10 du code de l'environnement, une quote-part du produit
+brut du droit annuel de francisation et de navigation est affectée à la gestion de la fin de vie des navires de plaisance ou
+de sport qui ne sont plus utilisés régulièrement et dont les propriétaires n'assument plus les charges afférentes. Cette
+quote-part est plafonnée à 5 % du produit brut de la taxe. Son montant et l'organisme affectataire sont fixés annuellement
+par la loi de finances. 
 
 Il est recouvré par année civile. 
 
@@ -8204,7 +8225,7 @@ En cas de retard dans le versement du droit de francisation et de navigation par
 une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
 lorsque son montant excède 8 euros. 
 
-2. (Abrogé).
+2. (Abrogé). 
 
 3. Sont exonérés du droit de francisation et de navigation :
 
@@ -8215,7 +8236,7 @@ des sports ;
 
 - les bateaux classés au titre des monuments historiques conformément à l'article L. 622-1 du code du patrimoine ;
 
-- les bateaux ayant reçu le label "bateau d'intérêt patrimonial", dans des conditions fixées par décret. 
+- les bateaux ayant reçu le label " bateau d'intérêt patrimonial ", dans des conditions fixées par décret. 
 
 4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
 navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
@@ -8248,15 +8269,21 @@ _Cité par_:
   - Décret n°2018-498 du 19 juin 2018 (V)
   - Décret n°2018-498 du 19 juin 2018 - art. 1 (V)
 
-_Modifié par_:
-
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VD)
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 41
-
 _Cite_:
 
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
   - Code des douanes - art. 223
+  - Code de l'environnement - art. L541-10-10 (V)
   - Code du patrimoine - art. L122-1
+
+_Modifié par_:
+
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (V)
+  - Loi n°2015-992 du 17 août 2015 - art. 89
+
+**Liens**:
+
+  - RECTIFICATION: Loi n°2015-992 du 17 août 2015 - art., v. init.
 
 
 ###### Article 225
