@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2015-08-19
+Version Consolidée au 2015-12-31
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -132,125 +132,130 @@ Version Consolidée au 2015-08-19
     - [Chapitre IV : Marchandises sauvées des naufrages, épaves. (art. 263 à 264)](#129)
   - [Titre X : Taxes diverses perçues par la douane (art. 265 à 285 ter)](#130)
     - [Chapitre Ier : Taxes intérieures. (art. 265 à 268 ter)](#131)
-    - [Chapitre II : Taxe nationale sur les véhicules de transport de marchandises. (art. 270 à 283 ter)](#132)
-      - [Section 1 : Champ d'application. (art. 270 à 271)](#133)
-      - [Section 4 : Assiette, taux et barème. (art. 275)](#134)
-      - [Section 5 : Liquidation de la taxe. (art. 276)](#135)
-      - [Section 7 : Recherche, constatation, sanction et poursuite. (art. 283 ter)](#136)
-    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#137)
-    - [Chapitre IV bis : Taxe spéciale sur certains véhicules routiers. (art. 284 bis à 284 ter)](#138)
-    - [Chapitre VI : Droits et taxes divers. (art. 285 à 285 ter)](#139)
-  - [Titre XI : Zones franches. (art. 286 à 291)](#140)
-  - [Titre XII : Contentieux et recouvrement (art. 322 à 440)](#141)
-    - [Chapitre préliminaire : La dématérialisation des actes (art. 322)](#142)
-    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis à 341 bis)](#143)
-      - [Section 01 : Droit de consignation. (art. 322 bis)](#144)
-      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#145)
-        - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants et retenue douanière (art. 323 à 323-10)](#146)
-        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#147)
-        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#148)
-          - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#149)
-          - [B. - Saisies à domicile. (art. 330)](#150)
-          - [C. - Saisies sur les navires et bateaux pontés. (art. 331)](#151)
-          - [D. - Saisies en dehors du rayon. (art. 332)](#152)
-        - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 333)](#153)
-      - [Section 2 : Constatation par procès-verbal de constat. (art. 334)](#154)
-      - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 335 à 341 bis)](#155)
-        - [Paragraphe 1 : Timbre et enregistrement. (art. 335)](#156)
-        - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 336 à 341 bis)](#157)
-    - [Chapitre II : Poursuites et recouvrement (art. 342 à 355)](#158)
-      - [Section 1 : Dispositions générales. (art. 342 à 344)](#159)
-      - [Section 2 : Recouvrement. (art. 345 à 349 bis)](#160)
-      - [Section 2 bis : Assistance internationale au recouvrement (art. 349 octies à 349 ter)](#161)
-      - [Section 3 : Extinction des droits de poursuite et de répression (art. 350 à 355)](#162)
-        - [Paragraphe 1 : Droit de transaction. (art. 350)](#163)
-        - [Paragraphe 2 : Prescription de l'action. (art. 351)](#164)
-        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 352 à 355)](#165)
-          - [A. - Prescription contre les redevables. (art. 352 à 353)](#166)
-          - [B. - Prescription contre l'administration. (art. 354)](#167)
-          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#168)
-    - [Chapitre III : Procédure devant les tribunaux (art. 356 à 377 bis)](#169)
-      - [Section 1 : Tribunaux compétents en matière de douane (art. 356 à 358)](#170)
-        - [Paragraphe 1 : Compétence "ratione materiae". (art. 356 à 357 bis)](#171)
-        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#172)
-      - [Section 2 : Procédure devant les juridictions civiles (art. 362)](#173)
-        - [Paragraphe 4 : Notification des jugements et autres actes de procédure. (art. 362)](#174)
-      - [Section 3 : Procédure devant les juridictions répressives. (art. 363 à 365)](#175)
-      - [Section 4 : Pourvois en cassation. (art. 366)](#176)
-      - [Section 5 : Dispositions diverses (art. 367 à 377 bis)](#177)
-        - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 367 à 368)](#178)
-          - [A. - Instruction et frais. (art. 367)](#179)
-          - [B. - Exploits. (art. 368)](#180)
-        - [Paragraphe 2 :  Modulation des peines prononcées en fonction de l'ampleur et de la gravité de l'infraction, ainsi que de la personnalité de son auteur, dispositions particulières, récidive (art. 369 à 370)](#181)
-        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 373 à 377 bis)](#182)
-          - [A. - Preuves de non-contravention. (art. 373)](#183)
-          - [B. - Action en garantie. (art. 374)](#184)
-          - [C. - Confiscation des objets saisis sur inconnus et des minutes. (art. 375)](#185)
-          - [D. - Revendication des objets saisis. (art. 376)](#186)
-          - [E. - Fausses déclarations. (art. 377)](#187)
-          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#188)
-    - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 378 à 391)](#189)
-      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381)](#190)
-        - [Paragraphe 1 : Droit de rétention. (art. 378)](#191)
-        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#192)
-      - [Section 2 : Voies d'exécution (art. 382 à 390)](#193)
-        - [Paragraphe 1 : Règles générales. (art. 382)](#194)
-        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#195)
-        - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#196)
-          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#197)
-          - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 389 bis)](#198)
-          - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#199)
-      - [Section 3 : Droit de remise. (art. 390 bis)](#200)
-      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#201)
-    - [Chapitre V : Responsabilité et solidarité (art. 392 à 407)](#202)
-      - [Section 1 : Responsabilité pénale (art. 392 à 400)](#203)
-        - [Paragraphe 1 : Détenteurs. (art. 392)](#204)
-        - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 393 à 394)](#205)
-        - [Paragraphe 3 : Déclarants. (art. 395)](#206)
-        - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 396)](#207)
-        - [Paragraphe 5 : Soumissionnaires. (art. 397)](#208)
-        - [Paragraphe 6 : Complices. (art. 398)](#209)
-        - [Paragraphe 7 : Intéressés à la fraude. (art. 399 à 400)](#210)
-      - [Section 2 : Responsabilité civile (art. 401 à 405)](#211)
-        - [Paragraphe 1 : Responsabilité de l'administration. (art. 401 à 403)](#212)
-        - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 404)](#213)
-        - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 405)](#214)
-      - [Section 3 : Solidarité. (art. 406 à 407)](#215)
-    - [Chapitre VI : Dispositions répressives (art. 408 à 440)](#216)
-      - [Section 1 : Classification des infractions douanières et peines principales (art. 408 à 429)](#217)
-        - [Paragraphe 1 : Généralités. (art. 408 à 409)](#218)
-        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 ter)](#219)
-          - [A. - Première classe. (art. 410)](#220)
-          - [B. - Deuxième classe. (art. 411)](#221)
-          - [C. - Troisième classe. (art. 412)](#222)
-          - [D. - Quatrième classe. (art. 413)](#223)
-          - [E. - Cinquième classe. (art. 413 bis à 413 ter)](#224)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis)](#225)
-          - [A. - Première classe. (art. 414 à 414-1)](#226)
-          - [B. - Deuxième classe. (art. 415)](#227)
-          - [C. ― Troisième classe (art. 416 à 416 bis)](#228)
-        - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#229)
-        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#230)
-      - [Section 2 : Peines complémentaires (art. 430 à 433)](#231)
-        - [Paragraphe 1 : Confiscation. (art. 430)](#232)
-        - [Paragraphe 2 : Astreinte. (art. 431)](#233)
-        - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#234)
-      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#235)
-        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#236)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#237)
-        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#238)
-  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450-1)](#239)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#240)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#241)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#242)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#243)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#244)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#245)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#246)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#247)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#248)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#249)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#250)
+    - [Chapitre II : Taxe nationale sur les véhicules de transport de marchandises. (art. 269 à 283 quinquies)](#132)
+      - [Section 1 : Champ d'application. (art. 269 à 271)](#133)
+      - [Section 2 : Redevables. (art. 272)](#134)
+      - [Section 3 : Fait générateur et exigibilité de la taxe. (art. 273)](#135)
+      - [Section 4 : Assiette, taux et barème. (art. 274 à 275)](#136)
+      - [Section 5 : Liquidation de la taxe. (art. 276 à 277)](#137)
+      - [Section 6 : Paiement de la taxe. (art. 278 à 280)](#138)
+      - [Section 7 : Recherche, constatation, sanction et poursuite. (art. 281 à 283 ter)](#139)
+      - [Section 8 : Affectation du produit de la taxe. (art. 283 quater)](#140)
+      - [Section 9 : Dispositions diverses. (art. 283 quinquies)](#141)
+    - [Chapitre IV : Taxes sur les voyageurs de commerce. (art. 284)](#142)
+    - [Chapitre IV bis : Taxe spéciale sur certains véhicules routiers. (art. 284 bis à 284 ter)](#143)
+    - [Chapitre VI : Droits et taxes divers. (art. 285 à 285 ter)](#144)
+  - [Titre XI : Zones franches. (art. 286 à 291)](#145)
+  - [Titre XII : Contentieux et recouvrement (art. 322 à 440)](#146)
+    - [Chapitre préliminaire : La dématérialisation des actes (art. 322)](#147)
+    - [Chapitre Ier : Constatation des infractions douanières (art. 322 bis à 341 bis)](#148)
+      - [Section 01 : Droit de consignation. (art. 322 bis)](#149)
+      - [Section 1 : Constatation par procès-verbal de saisie (art. 323 à 333)](#150)
+        - [Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants et retenue douanière (art. 323 à 323-10)](#151)
+        - [Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie. (art. 324 à 327)](#152)
+        - [Paragraphe 3 : Formalités relatives à quelques saisies particulières (art. 329 à 332)](#153)
+          - [A. - Saisies portant sur le faux et sur l'altération des expéditions. (art. 329)](#154)
+          - [B. - Saisies à domicile. (art. 330)](#155)
+          - [C. - Saisies sur les navires et bateaux pontés. (art. 331)](#156)
+          - [D. - Saisies en dehors du rayon. (art. 332)](#157)
+        - [Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie. (art. 333)](#158)
+      - [Section 2 : Constatation par procès-verbal de constat. (art. 334)](#159)
+      - [Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat (art. 335 à 341 bis)](#160)
+        - [Paragraphe 1 : Timbre et enregistrement. (art. 335)](#161)
+        - [Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale. (art. 336 à 341 bis)](#162)
+    - [Chapitre II : Poursuites et recouvrement (art. 342 à 355)](#163)
+      - [Section 1 : Dispositions générales. (art. 342 à 344)](#164)
+      - [Section 2 : Recouvrement. (art. 345 à 349 bis)](#165)
+      - [Section 2 bis : Assistance internationale au recouvrement (art. 349 octies à 349 ter)](#166)
+      - [Section 3 : Extinction des droits de poursuite et de répression (art. 350 à 355)](#167)
+        - [Paragraphe 1 : Droit de transaction. (art. 350)](#168)
+        - [Paragraphe 2 : Prescription de l'action. (art. 351)](#169)
+        - [Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables (art. 352 à 355)](#170)
+          - [A. - Prescription contre les redevables. (art. 352 à 353)](#171)
+          - [B. - Prescription contre l'administration. (art. 354)](#172)
+          - [C. - Cas où les prescriptions de courte durée n'ont pas lieu. (art. 355)](#173)
+    - [Chapitre III : Procédure devant les tribunaux (art. 356 à 377 bis)](#174)
+      - [Section 1 : Tribunaux compétents en matière de douane (art. 356 à 358)](#175)
+        - [Paragraphe 1 : Compétence "ratione materiae". (art. 356 à 357 bis)](#176)
+        - [Paragraphe 2 : Compétence "ratione loci". (art. 358)](#177)
+      - [Section 2 : Procédure devant les juridictions civiles (art. 362)](#178)
+        - [Paragraphe 4 : Notification des jugements et autres actes de procédure. (art. 362)](#179)
+      - [Section 3 : Procédure devant les juridictions répressives. (art. 363 à 365)](#180)
+      - [Section 4 : Pourvois en cassation. (art. 366)](#181)
+      - [Section 5 : Dispositions diverses (art. 367 à 377 bis)](#182)
+        - [Paragraphe 1 : Règles de procédure communes à toutes les instances (art. 367 à 368)](#183)
+          - [A. - Instruction et frais. (art. 367)](#184)
+          - [B. - Exploits. (art. 368)](#185)
+        - [Paragraphe 2 :  Modulation des peines prononcées en fonction de l'ampleur et de la gravité de l'infraction, ainsi que de la personnalité de son auteur, dispositions particulières, récidive (art. 369 à 370)](#186)
+        - [Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières (art. 373 à 377 bis)](#187)
+          - [A. - Preuves de non-contravention. (art. 373)](#188)
+          - [B. - Action en garantie. (art. 374)](#189)
+          - [C. - Confiscation des objets saisis sur inconnus et des minutes. (art. 375)](#190)
+          - [D. - Revendication des objets saisis. (art. 376)](#191)
+          - [E. - Fausses déclarations. (art. 377)](#192)
+          - [F. - Paiement des sommes fraudées ou indûment obtenues. (art. 377 bis)](#193)
+    - [Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière (art. 378 à 391)](#194)
+      - [Section 1 : Sûretés garantissant l'exécution (art. 378 à 381)](#195)
+        - [Paragraphe 1 : Droit de rétention. (art. 378)](#196)
+        - [Paragraphe 2 : Privilèges et hypothèques, subrogation. (art. 379 à 381)](#197)
+      - [Section 2 : Voies d'exécution (art. 382 à 390)](#198)
+        - [Paragraphe 1 : Règles générales. (art. 382)](#199)
+        - [Paragraphe 2 : Droits particuliers réservés à la douane. (art. 383 à 387 bis)](#200)
+        - [Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane (art. 389 à 390)](#201)
+          - [A. - Vente avant jugement des marchandises périssables et des moyens de transport. (art. 389)](#202)
+          - [B. - Destruction avant jugement de certaines catégories de marchandises. (art. 389 bis)](#203)
+          - [C. - Aliénation des marchandises confisquées ou abandonnées par transaction. (art. 390)](#204)
+      - [Section 3 : Droit de remise. (art. 390 bis)](#205)
+      - [Section 4 : Répartition du produit des amendes et confiscations. (art. 391)](#206)
+    - [Chapitre V : Responsabilité et solidarité (art. 392 à 407)](#207)
+      - [Section 1 : Responsabilité pénale (art. 392 à 400)](#208)
+        - [Paragraphe 1 : Détenteurs. (art. 392)](#209)
+        - [Paragraphe 2 : Capitaines de navires, commandants d'aéronefs. (art. 393 à 394)](#210)
+        - [Paragraphe 3 : Déclarants. (art. 395)](#211)
+        - [Paragraphe 4 : Commissionnaires en douane agréés. (art. 396)](#212)
+        - [Paragraphe 5 : Soumissionnaires. (art. 397)](#213)
+        - [Paragraphe 6 : Complices. (art. 398)](#214)
+        - [Paragraphe 7 : Intéressés à la fraude. (art. 399 à 400)](#215)
+      - [Section 2 : Responsabilité civile (art. 401 à 405)](#216)
+        - [Paragraphe 1 : Responsabilité de l'administration. (art. 401 à 403)](#217)
+        - [Paragraphe 2 : Responsabilité des propriétaires des marchandises. (art. 404)](#218)
+        - [Paragraphe 3 : Responsabilité solidaire des cautions. (art. 405)](#219)
+      - [Section 3 : Solidarité. (art. 406 à 407)](#220)
+    - [Chapitre VI : Dispositions répressives (art. 408 à 440)](#221)
+      - [Section 1 : Classification des infractions douanières et peines principales (art. 408 à 429)](#222)
+        - [Paragraphe 1 : Généralités. (art. 408 à 409)](#223)
+        - [Paragraphe 2 : Contraventions douanières (art. 410 à 413 ter)](#224)
+          - [A. - Première classe. (art. 410)](#225)
+          - [B. - Deuxième classe. (art. 411)](#226)
+          - [C. - Troisième classe. (art. 412)](#227)
+          - [D. - Quatrième classe. (art. 413)](#228)
+          - [E. - Cinquième classe. (art. 413 bis à 413 ter)](#229)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis)](#230)
+          - [A. - Première classe. (art. 414 à 414-1)](#231)
+          - [B. - Deuxième classe. (art. 415)](#232)
+          - [C. ― Troisième classe (art. 416 à 416 bis)](#233)
+        - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#234)
+        - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#235)
+      - [Section 2 : Peines complémentaires (art. 430 à 433)](#236)
+        - [Paragraphe 1 : Confiscation. (art. 430)](#237)
+        - [Paragraphe 2 : Astreinte. (art. 431)](#238)
+        - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#239)
+      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#240)
+        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#241)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#242)
+        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#243)
+  - [Titre XIII : La commission de conciliation et d'expertise douanière. (art. 441 à 450-1)](#244)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#245)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#246)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#247)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#248)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#249)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#250)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#251)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#252)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#253)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#254)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#255)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -16003,23 +16008,81 @@ _Codifié par_:
 
 ### Section 1 : Champ d'application.<a id=133></a>
 
+###### Article 269
+
+Les véhicules de transport de marchandises qui empruntent le réseau routier sont  soumis à une taxe.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Ordonnance n°83-392 du 18 mai 1983 - art. 4 (V)
+  - Loi n°95-96 du 1 février 1995 - art. 24 (VT)
+  - Décret n°2011-991 du 23 août 2011 - art. 1 (V)
+  - Décret n°2011-991 du 23 août 2011 - art. 31 (V)
+  - Décret n°2012-670 du 4 mai 2012 - art. 1 (V)
+  - Décret n°2012-670 du 4 mai 2012 - art. 3 (V)
+  - Décret n°2012-670 du 4 mai 2012 - art. 4 (V)
+  - Décret n°2012-670 du 4 mai 2012 - art. 5 (V)
+  - Décret n°2012-670 du 4 mai 2012 - art. 6 (V)
+  - Décret n°2012-670 du 4 mai 2012 - art. 7 (V)
+  - Décret n°2013-559 du 26 juin 2013 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 1 (V)
+  - Décret n°2013-560 du 26 juin 2013 - art. 1 (V)
+  - Arrêté du 3 juillet 2013 (V)
+  - Arrêté du 3 juillet 2013 - art. (V)
+  - Arrêté du 4 juillet 2013 (V)
+  - Décret n°2013-618 du 11 juillet 2013 - art. 1 (V)
+  - Décret n°2013-618 du 11 juillet 2013 - art. 3 (V)
+  - Arrêté du 12 juillet 2013 (V)
+  - Arrêté du 30 juillet 2013 (V)
+  - Arrêté du 30 septembre 2014 (V)
+  - Arrêté du 30 septembre 2014 - art. 1 (V)
+  - Arrêté du 30 septembre 2014 - art. 2 (V)
+  - Arrêté du 30 septembre 2014 - art. 3 (V)
+  - Arrêté du 30 septembre 2014 - art. 4 (V)
+  - Arrêté du 30 septembre 2014 - art. 6 (V)
+  - Code de la route. - art. L325-1 (M)
+  - Code de la route. - art. L330-2 (V)
+  - Code des douanes - art. 270 (VD)
+  - Code des douanes - art. 271 (VD)
+  - Code des douanes - art. 272 (VD)
+  - Code des douanes - art. 276 (VD)
+  - Code des douanes - art. 413 (V)
+  - Code des transports - art. L3221-2 (V)
+  - Code des transports - art. L3222-3 (Ab)
+  - Code des transports - art. L3223-3 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 265
+
+
 ###### Article 270
 
-I. ― Le réseau routier mentionné à l'article 269 est constitué par : 
+I.-Le réseau routier mentionné à l'article 269 est constitué par : 
 
-1° Les autoroutes et routes situées sur le territoire métropolitain et appartenant au domaine public routier national défini
-à l'article L. 121-1 du code de la voirie routière, à l'exception : 
-
-a) D'une part, des sections d'autoroutes et routes soumises à péages ; 
-
-b) D'autre part, des itinéraires n'appartenant pas au réseau transeuropéen au sens de la décision n° 1692/96/ CE du Parlement
-européen et du Conseil, du 23 juillet 1996, sur les orientations communautaires pour le développement du réseau transeuropéen
-de transport et sur lesquels le niveau de trafic des véhicules assujettis, antérieur à l'entrée en vigueur de la taxe, est
-particulièrement bas ; 
+1° Les autoroutes et routes situées sur le territoire métropolitain intégrées à des itinéraires supportant un trafic moyen
+journalier excédant 2 500 véhicules assujettis, et appartenant au domaine public routier national défini à l'article L. 121-1
+du code de la voirie routière, à l'exception des sections d'autoroutes et routes soumises à péages ; 
 
 2° Les routes appartenant à des collectivités territoriales, lorsque ces routes supportent ou sont susceptibles de supporter
-un report significatif de trafic en provenance des autoroutes à péages, des routes mentionnées au 1° ou des autoroutes ou
-routes situées hors du territoire métropolitain et soumises à péages, redevances ou taxation. 
+un report significatif de trafic en provenance des routes mentionnées au 1° du présent I. 
 
 II. ― Les routes et autoroutes mentionnées au I sont découpées en sections de tarification correspondant aux portions de voie
 situées entre deux intersections successives avec des voies publiques. Lorsque ces intersections sont très proches l'une de
@@ -16029,24 +16092,31 @@ tarification est associé à chaque section de tarification.
 Les sections de tarification et les points de tarification qui y sont associés sont définis par arrêté conjoint du ministre
 chargé des transports et du ministre chargé du budget. 
 
-III. ― Un décret en Conseil d'Etat fixe la liste des itinéraires qui relèvent de l'exception mentionnée au b du 1° du I. 
+III.-Un décret fixe la liste des routes et autoroutes mentionnées au 1° du I. 
 
-IV. ― Un décret en Conseil d'Etat, pris après avis des assemblées délibérantes des collectivités territoriales, fixe la liste
-des routes mentionnées au 2° du I. 
+IV.-Un décret fixe la liste des routes mentionnées au 2° du I, après avis des assemblées délibérantes des collectivités
+territoriales qui en sont propriétaires. 
 
 Cette liste est révisée selon la même procédure, sur demande des collectivités territoriales, en cas d'évolution du trafic en
 provenance du réseau taxable.
 
 **Nota:**
 
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°67-1175 1967-12-28 art. 1
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 _Cité par_:
 
@@ -16058,9 +16128,9 @@ _Cité par_:
   - Code des douanes - art. 274 (Ab)
   - Code des douanes - art. 276 (VD)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 18
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 _Cite_:
 
@@ -16081,18 +16151,27 @@ poids total autorisé en charge supérieur à trois tonnes et demie.
 Ne sont toutefois pas considérés comme des véhicules de transport de marchandises les véhicules d'intérêt général
 prioritaires, les véhicules, propriété de l'Etat ou d'une collectivité locale, affectés à l'entretien et à l'exploitation des
 routes et les véhicules et matériels agricoles définis par voie réglementaire, les véhicules à citerne à produits
-alimentaires exclusivement utilisés pour la collecte du lait dans les fermes ainsi que les véhicules militaires.
+alimentaires exclusivement utilisés pour la collecte du lait dans les fermes, les véhicules exclusivement affectés au
+transport de matériel de cirque ou de fêtes foraines, les véhicules dédiés au transport de déchets d'animaux ou des carcasses
+non destinés à la consommation humaine ainsi que les véhicules militaires.
 
 **Nota:**
 
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°67-1175 du 28 décembre 1967 - art. 6 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 _Cité par_:
 
@@ -16104,10 +16183,9 @@ _Cité par_:
   - Code des douanes - art. 273 (VD)
   - Code des douanes - art. 279 (Ab)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 13
-  - Loi n°2013-431 du 28 mai 2013 - art. 14
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 _Cite_:
 
@@ -16118,7 +16196,133 @@ _Nouveaux textes_:
   - Code des ports maritimes R212-2
 
 
-### Section 4 : Assiette, taux et barème.<a id=134></a>
+### Section 2 : Redevables.<a id=134></a>
+
+###### Article 272
+
+La taxe mentionnée à l'article 269 est due solidairement par le propriétaire, le conducteur ou tout utilisateur du véhicule
+de transport de marchandises. 
+
+Toutefois, lorsque le véhicule de transport de marchandises fait l'objet soit d'un contrat de crédit-bail, soit d'un contrat
+de location, la taxe est due solidairement par le locataire ou le sous-locataire, le conducteur ou tout utilisateur. Le
+propriétaire est solidairement responsable du paiement de la taxe ainsi que, le cas échéant, de la majoration de retard
+applicable. Un décret précise les conditions particulières qui en découlent pour le loueur.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 du 28 décembre 1967 - art. 7 (V)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2009-1674 du 30 décembre 2009 - art. 32 (V)
+
+_Cité par_:
+
+  - Décret n°2013-559 du 26 juin 2013 - art. 1 (V)
+  - Décret n°2016-935 du 7 juillet 2016 - art. 2
+  - Code des douanes - art. 275 (MMN)
+  - Code des douanes - art. 279 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 269
+
+
+### Section 3 : Fait générateur et exigibilité de la taxe.<a id=135></a>
+
+###### Article 273
+
+Le fait générateur intervient et la taxe est exigible lors du franchissement, par un véhicule de transport de marchandises
+mentionné à l'article 271, d'un point de tarification mentionné au II de l'article 270.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 du 28 décembre 1967 - art. 10 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Cité par_:
+
+  - Arrêté du 30 septembre 2014 - art. 1 (V)
+  - Arrêté du 30 septembre 2014 - art. 2 (V)
+  - Arrêté du 30 septembre 2014 - art. 3 (V)
+  - Arrêté du 30 septembre 2014 - art. 4 (V)
+  - Arrêté du 30 septembre 2014 - art. 6 (V)
+  - CODE GENERAL DES IMPOTS, CGI. - art. 298 (M)
+  - Code des douanes - art. 279 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 270 (VD)
+  - Code des douanes - art. 271 (VD)
+
+_Nouveaux textes_:
+
+  - Code des ports maritimes R211-1
+
+
+### Section 4 : Assiette, taux et barème.<a id=136></a>
+
+###### Article 274
+
+L'assiette de la taxe due est constituée par la longueur des sections de  tarification empruntées par le véhicule, exprimée
+en kilomètres, après  arrondissement à la centaine de mètres la plus proche.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 du 28 décembre 1967 - art. 11 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Cité par_:
+
+  - Décret n°2011-233 du 2 mars 2011 (V)
+  - Décret n°2011-234 du 2 mars 2011 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
 
 ###### Article 275
 
@@ -16129,14 +16333,14 @@ Les catégories de véhicules sont déterminées, par décret en Conseil d'Etat,
 suivants : le nombre d'essieux, le poids total autorisé en charge, le poids total roulant autorisé du véhicule soumis à la
 taxe. 
 
-Le taux est modulé en fonction de la classe d'émission EURO du véhicule au sens de l'annexe 0 à la directive 1999/62/ CE du
+Le taux est modulé en fonction de la classe d'émission euro du véhicule au sens de l'annexe 0 à la directive 1999/62/ CE du
 Parlement européen et du Conseil, du 17 juin 1999, relative à la taxation des poids lourds pour l'utilisation de certaines
 infrastructures et, le cas échéant, en fonction du niveau de congestion de la section de tarification. 
 
 Un décret précise les conditions dans lesquelles le niveau de congestion de la section de tarification est pris en compte. 
 
-En cas de défaut de justification par le redevable de la classe d'émission EURO du véhicule, le taux kilométrique est
-déterminé en retenant la classe à laquelle correspond le taux kilométrique le plus élevé. 
+En cas de défaut de justification par le redevable de la classe d'émission euro du véhicule ou du poids total autorisé en
+charge, les valeurs les plus défavorables sont retenues. 
 
 2. Par exception, les taux kilométriques sont minorés de 30 % pour les régions comportant au moins un département
 métropolitain classé dans le décile le plus défavorisé selon leur périphéricité au sein de l'espace européen, appréciée au
@@ -16158,14 +16362,21 @@ tarification empruntée par le taux kilométrique déterminé conformément aux 
 
 **Nota:**
 
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
   - Loi n°67-1175 du 28 décembre 1967 - art. 12 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 _Cité par_:
 
@@ -16178,58 +16389,55 @@ _Cité par_:
   - Code des douanes - art. 279 (Ab)
   - Code des douanes - art. 282 (VD)
 
-_Modifié par_:
+_Abrogé par_:
 
-  - Loi n°2013-431 du 28 mai 2013 - art. 15
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 _Cite_:
 
   - Code de la voirie routière - art. L122-4
 
 
-### Section 5 : Liquidation de la taxe.<a id=135></a>
+### Section 5 : Liquidation de la taxe.<a id=137></a>
 
 ###### Article 276
 
-1. A compter de l'entrée en vigueur de la taxe, les véhicules de transport de marchandises mentionnés à l'article 269 et
-immatriculés en France métropolitaine doivent disposer d'un équipement électronique embarqué permettant l'enregistrement
-automatique, à chaque franchissement d'un point de tarification, des éléments nécessaires à la liquidation de ladite taxe.
-
-A compter de la même date, les véhicules de transport de marchandises mentionnés à l'article 269 et immatriculés hors de
-France métropolitaine sont tenus de disposer d'un tel équipement lorsqu'ils circulent sur le réseau mentionné à l'article
-270. 
+1. A compter de l'entrée en vigueur de la taxe, les véhicules de transport de marchandises mentionnés à l'article 269 doivent
+disposer d'un équipement électronique embarqué permettant l'enregistrement automatique, à chaque franchissement d'un point de
+tarification, des éléments nécessaires à la liquidation de ladite taxe lorsqu'ils circulent sur le réseau mentionné à
+l'article 270.
 
 2. La taxe due au titre des trajets effectués est liquidée à partir des informations collectées automatiquement au moyen de
 l'équipement électronique embarqué mentionné au 1, des informations déclarées lors de l'enregistrement du véhicule et des
 données paramétrées dans l'équipement électronique embarqué. 
 
 Les informations collectées au moyen des équipements électroniques embarqués, mis en œuvre dans une chaîne de collecte
-homologuée, font foi jusqu'à preuve du contraire.
+homologuée, font foi jusqu'à preuve du contraire. 
+
+En cas de mise en œuvre de la procédure de secours définie par décret en Conseil d'Etat, la liquidation est effectuée sur la
+base des points de tarification situés sur l'itinéraire convenu, à partir des informations déclarées lors de l'enregistrement
+du véhicule et des informations déclarées lors de la mise en œuvre de la procédure. 
 
 3. Lorsque le redevable passe un contrat avec une société habilitée lui fournissant un service de télépéage, il lui donne
 mandat pour déclarer son véhicule et acquitter la taxe due pour son compte. La taxe est liquidée et son montant est
 communiqué à cette société au plus tard le dixième jour de chaque mois, sur le fondement de l'ensemble des trajets taxables
 réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé l'équipement électronique embarqué fourni
-par la société habilitée.
+par la société habilitée. 
 
 A titre dérogatoire, la taxe est liquidée et communiquée par anticipation dans les cas et selon les modalités définis par
 décret en Conseil d'Etat. 
 
-4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le redevable est tenu de constituer une avance sur taxe.
+4. Dans les autres cas, préalablement à l'emprunt du réseau taxable, le redevable est tenu de constituer une avance sur
+taxe. 
 
 La taxe est liquidée et son montant est communiqué au redevable au plus tard le dixième jour de chaque mois, sur le fondement
 de l'ensemble des trajets taxables réalisés par le redevable au cours du mois précédent et pour lesquels il a utilisé
-l'équipement électronique embarqué.
+l'équipement électronique embarqué. 
 
 La liquidation de la taxe et la communication du montant dû par le redevable sont effectuées lors de la restitution de
-l'équipement électronique embarqué, ou dès que l'avance est insuffisante pour couvrir les trajets taxables réalisés.
+l'équipement électronique embarqué, ou dès que l'avance est insuffisante pour couvrir les trajets taxables réalisés. 
 
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
-
-**Nota:**
-
-Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
-par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
 
 **Liens relatifs à cet article**
 
@@ -16240,7 +16448,7 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
-  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
+  - Loi n°2014-891 du 8 août 2014 - art. 16
 
 _Cité par_:
 
@@ -16261,6 +16469,10 @@ _Cité par_:
   - Code des douanes - art. 277 (VD)
   - Code des douanes - art. 279 (VD)
 
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
 _Cite_:
 
   - Code des douanes - art. 269
@@ -16271,7 +16483,354 @@ _Nouveaux textes_:
   - Code des ports maritimes R211-10
 
 
-### Section 7 : Recherche, constatation, sanction et poursuite.<a id=136></a>
+###### Article 277
+
+1. Un décret en Conseil d'Etat définit les modalités de communication du montant aux sociétés habilitées fournissant un
+service de télépéage mentionnées au 3 de l'article 276 ainsi que les conditions dans lesquelles le redevable peut avoir accès
+à l'état récapitulatif des trajets et au détail de la tarification retenue dans les cas visés au 4 du même article. 
+
+2. Un décret en Conseil d'Etat fixe les modalités, y compris financières, selon lesquelles les équipements électroniques
+embarqués mentionnés au 1 de l'article 276 sont mis à disposition des redevables soumis aux dispositions du 4 du même
+article. 
+
+3. Un arrêté conjoint des ministres chargés des transports et du budget fixe les caractéristiques techniques des équipements
+électroniques embarqués mentionnés au 1 de l'article 276. 
+
+4. Un arrêté conjoint des ministres mentionnés au 3 définit les conditions dans lesquelles une société fournissant un service
+de télépéage peut être habilitée en vue de mettre à disposition des redevables visés au 3 de l'article 276 les équipements
+électroniques embarqués et d'acquitter la taxe pour leur compte.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 du 28 décembre 1967 - art. 15 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Cité par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Arrêté du 28 septembre 2011 (V)
+  - Arrêté du 21 janvier 2013 (V)
+  - Code des douanes - art. 275 (Ab)
+  - Code des douanes - art. 279 (Ab)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 276 (VD)
+
+
+### Section 6 : Paiement de la taxe.<a id=138></a>
+
+###### Article 278
+
+Lorsque le redevable a passé un contrat avec une société habilitée fournissant  un service de télépéage, la taxe est
+acquittée par cette société pour le compte  du redevable au plus tard le dixième jour du mois suivant la liquidation.  
+
+A  titre dérogatoire, la taxe est acquittée par anticipation par la  société habilitée fournissant un service de télépéage
+dans les cas et  selon les modalités définis par décret en Conseil d'Etat.
+
+Le redevable ayant passé un contrat avec une société  habilitée lui fournissant un service de télépéage bénéficie, dans la
+limite  fixée par la directive n° 1999 / 62 / CE du Parlement européen et du Conseil, du  17 juin 1999, précitée, d'une
+réduction sur le montant de la taxe due pour tenir compte de  l'économie de gestion engendrée du fait de ce contrat. Les
+réductions  applicables sont déterminées par un arrêté conjoint des ministres  chargés des transports et du budget.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 du 28 décembre 1967 - art. 16 (Ab)
+
+_Cité par_:
+
+  - Loi n°94-102 du 5 février 1994 - art. 18 (V)
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Décret n°2011-991 du 23 août 2011 - art. 36 (V)
+  - Arrêté du 14 mai 2013 (V)
+  - Arrêté du 14 mai 2013 - art. 1 (V)
+  - Code des douanes - art. 275 (Ab)
+  - Code des douanes - art. 279 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+
+###### Article 279
+
+Dans les cas prévus au 4 de l'article 276, la taxe est acquittée par le redevable lors de la liquidation. 
+
+Le paiement s'effectue par imputation de l'avance.
+
+Un décret en Conseil d'Etat précise les conditions dans lesquelles la taxe est acquittée. Il peut prévoir des mécanismes
+particuliers pour les redevables occasionnels.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 du 28 décembre 1967 - art. 17 (Ab)
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2010-1658 du 29 décembre 2010 - art. 49
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 276
+
+
+###### Article 280
+
+La taxe est recouvrée par l'administration des douanes et droits indirects selon  les règles, garanties, privilèges et
+sanctions prévus par le présent code.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 1967-12-28 art. 18
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cité par_:
+
+  - Code des ports maritimes - art. L211-4 (M)
+
+
+### Section 7 : Recherche, constatation, sanction et poursuite.<a id=139></a>
+
+###### Article 281
+
+Les infractions aux dispositions relatives à  la taxe sont  réprimées, les poursuites sont effectuées et les instances sont
+instruites et jugées comme en matière de douane. 
+
+Les propriétaires, utilisateurs ou conducteurs de véhicules doivent présenter, à première réquisition, aux agents des
+douanes, de la police nationale, de la gendarmerie nationale ou du contrôle des transports terrestres tous les éléments et
+documents susceptibles de justifier la régularité de la circulation desdits véhicules sur le réseau taxable.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°67-1175 1967-12-28 art. 21
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+
+_Cité par_:
+
+  - Décret n°2011-991 du 23 août 2011 - art. 14 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 41 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 42 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 48 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 49 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 50 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 51 (V)
+  - Décret n°2013-956 du 24 octobre 2013 - art. 2 (V)
+  - Code des douanes - art. 283 (V)
+  - Code des douanes - art. 283 bis (VD)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+
+###### Article 282
+
+Est  constitutive d'un manquement toute irrégularité ayant pour but ou pour  résultat d'éluder ou de compromettre le
+recouvrement de la taxe. 
+
+La circulation du redevable sur le réseau taxable, alors que l'avance  sur taxe est insuffisante, est constitutive d'un
+manquement. 
+
+Lorsqu'il est constaté un manquement, le redevable fait l'objet  d'une taxation forfaitaire égale au produit du taux défini
+aux 1 à 4 de l'article 275 par une distance forfaitaire de 500 kilomètres ou d'une taxation au réel, lorsque les éléments de
+liquidation sont connus. Le montant de la taxe forfaitaire ou au réel est doublé en cas d'existence d'un autre manquement au
+cours des trente derniers jours.  
+
+Le montant de la taxation forfaitaire ou au réel prévue au troisième alinéa est communiqué au redevable selon les modalités
+fixées par décret en Conseil d'Etat. Elle est exigible dès sa communication au redevable. 
+
+Lorsque l'irrégularité est constatée par des agents de la police nationale, de la gendarmerie nationale ou du contrôle des
+transports terrestres, ces derniers en informent les services des douanes qui mettent en œuvre la procédure de taxation
+forfaitaire ou au réel. 
+
+Le redevable dispose de la possibilité d'apporter la preuve de la distance réellement parcourue sur le réseau taxable par le
+véhicule en manquement. Lorsque cette preuve est apportée, la taxation forfaitaire est abandonnée pour une taxation au réel.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+_Cité par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Décret n°2011-991 du 23 août 2011 - art. 36 (V)
+  - Décret n°2011-991 du 23 août 2011 - art. 37 (V)
+  - Décret n°2013-559 du 26 juin 2013 - art. 39 (V)
+  - Code des douanes - art. 283 quater (V)
+  - Code des douanes - art. 413 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 275
+
+
+###### Article 283
+
+Le fait de détenir ou de transporter un appareil, dispositif ou produit de nature ou présenté comme étant de nature à déceler
+la présence, à perturber le fonctionnement ou à avertir ou informer de la localisation d'appareils, instruments ou systèmes
+servant à la constatation des manquements mentionnés à l'article 281, ou de permettre de se soustraire à la constatation de
+ces manquements est constitutif d'une infraction. 
+
+Le fait de faire usage d'un appareil, dispositif ou produit de même nature est constitutif d'une infraction. 
+
+Indépendamment des sanctions prévues à l'article 413, cet appareil, ce dispositif ou ce produit est saisi. Lorsque
+l'appareil, le dispositif ou le produit est placé, adapté ou appliqué sur un véhicule, ce véhicule peut également être saisi.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008, modifié par l'article 16 de la loi n° 2014-891 du 8
+août 2014, ces dispositions entrent en vigueur à une date fixée par arrêté conjoint des ministres chargés des transports et
+du budget et au plus tard le 31 décembre 2015. La date de mise en œuvre du dispositif technique nécessaire à la collecte de
+la taxe prévue au A du même article 153, est fixée par arrêté conjoint des ministres chargés des transports et du budget.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 281 (V)
+  - Code des douanes - art. 413 (V)
+
+
+###### Article 283 bis
+
+Les agents mentionnés au deuxième alinéa de l'article 281 et habilités par les textes particuliers qui leur sont applicables
+disposent des pouvoirs d'investigation et de constatation nécessaires à la mise en œuvre des contrôles prévus au même
+alinéa. 
+
+La constatation des infractions mentionnées au même article 281 est faite par procès-verbal établi selon des modalités fixées
+par décret en Conseil d'Etat. 
+
+Les agents mentionnés au deuxième alinéa dudit article 281 sont habilités à transiger avec les personnes poursuivies dans les
+conditions prévues à l'article 350. 
+
+Ces agents peuvent immobiliser le véhicule en infraction dans les conditions fixées au chapitre V du titre II du livre III du
+code de la route afin d'assurer la perception de l'amende mentionnée à l'article 413 du présent code.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Modifié par_:
+
+  - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
+
+_Cité par_:
+
+  - Décret n°2013-559 du 26 juin 2013 - art. 52 (V)
+  - Décret n°2013-956 du 24 octobre 2013 - art. 1 (V)
+  - Code de la route. - art. R325-3 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 281
+  - Code des douanes - art. 350 (V)
+  - Code des douanes - art. 413 (V)
+
 
 ###### Article 283 ter
 
@@ -16302,7 +16861,79 @@ _Abrogé par_:
   - Loi n°2016-1917 du 29 décembre 2016 - art. 84
 
 
-## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=137></a>
+### Section 8 : Affectation du produit de la taxe.<a id=140></a>
+
+###### Article 283 quater
+
+Le produit de la taxe correspondant aux sommes perçues pour l'usage du réseau routier national est affecté à l'Agence de
+financement des infrastructures de transport de France. La taxe forfaitaire due au titre de l'article 282 lui est également
+affectée. 
+
+L'Etat rétrocède aux collectivités territoriales le produit de la taxe correspondant aux sommes perçues pour l'usage du
+réseau routier dont elles sont propriétaires, déduction faite des coûts exposés y afférents. Un arrêté conjoint des ministres
+chargés des transports et du budget fixe le montant de cette retenue qui est affectée à l'Agence de financement des
+infrastructures de transport de France.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Modifié par_:
+
+  - Loi n°2011-1978 du 28 décembre 2011 - art. 53
+
+_Cité par_:
+
+  - Arrêté du 9 août 2013 (V)
+  - Arrêté du 9 août 2013 - art. 1 (V)
+  - Code des transports - art. L3222-3 (Ab)
+  - Code des transports - art. L3223-3 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+_Cite_:
+
+  - Code des douanes - art. 282 (V)
+
+
+### Section 9 : Dispositions diverses.<a id=141></a>
+
+###### Article 283 quinquies
+
+Aux fins d'établissement de l'assiette de la taxe, de son recouvrement et des  contrôles nécessaires, un dispositif de
+traitement automatisé des données à  caractère personnel sera mis en œuvre, conformément aux modalités prévues par la  loi n°
+78-17  du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Nota:**
+
+Conformément à l'article 153 de la loi n° 2008-1425 du 27 décembre 2008  ces dispositions entrent en vigueur à une date fixée
+par arrêté conjoint  des ministres chargés des transports et du budget (arrêté du 2 octobre  2013 : 1er janvier 2014).
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°78-17 du 6 janvier 1978
+
+_Créé par_:
+
+  - Loi n°2008-1425 du 27 décembre 2008 - art. 153 (V)
+
+_Abrogé par_:
+
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 84
+
+
+## Chapitre IV : Taxes sur les voyageurs de commerce.<a id=142></a>
 
 ###### Article 284
 
@@ -16324,7 +16955,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.<a id=138></a>
+## Chapitre IV bis : Taxe spéciale sur certains véhicules routiers.<a id=143></a>
 
 ###### Article 284 bis
 
@@ -16884,7 +17515,7 @@ _Modifié par_:
   - RECTIFICATION: Loi n°2008-1425 du 27 décembre 2008, (rectificatif)
 
 
-## Chapitre VI : Droits et taxes divers.<a id=139></a>
+## Chapitre VI : Droits et taxes divers.<a id=144></a>
 
 ###### Article 285
 
@@ -17273,7 +17904,7 @@ _Cite_:
   - Code du tourisme. - art. L133-13
 
 
-# Titre XI : Zones franches.<a id=140></a>
+# Titre XI : Zones franches.<a id=145></a>
 
 ###### Article 286
 
@@ -17449,9 +18080,9 @@ _Cité par_:
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
 
 
-# Titre XII : Contentieux et recouvrement<a id=141></a>
+# Titre XII : Contentieux et recouvrement<a id=146></a>
 
-## Chapitre préliminaire : La dématérialisation des actes<a id=142></a>
+## Chapitre préliminaire : La dématérialisation des actes<a id=147></a>
 
 ###### Article 322
 
@@ -17478,9 +18109,9 @@ _Cité par_:
   - Décret n°2013-956 du 24 octobre 2013 (V)
 
 
-## Chapitre Ier : Constatation des infractions douanières<a id=143></a>
+## Chapitre Ier : Constatation des infractions douanières<a id=148></a>
 
-### Section 01 : Droit de consignation.<a id=144></a>
+### Section 01 : Droit de consignation.<a id=149></a>
 
 ###### Article 322 bis
 
@@ -17527,9 +18158,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 1 : Constatation par procès-verbal de saisie<a id=145></a>
+### Section 1 : Constatation par procès-verbal de saisie<a id=150></a>
 
-#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants et retenue douanière<a id=146></a>
+#### Paragraphe 1 : Personnes appelées à opérer des saisies, droits et obligations des saisissants et retenue douanière<a id=151></a>
 
 ###### Article 323
 
@@ -17799,7 +18430,7 @@ _Créé par_:
   - Loi n°2011-392 du 14 avril 2011 - art. 19
 
 
-#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=147></a>
+#### Paragraphe 2 : Formalités générales et obligatoires à peine de nullité des procès-verbaux de saisie.<a id=152></a>
 
 ###### Article 324
 
@@ -17903,9 +18534,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=148></a>
+#### Paragraphe 3 : Formalités relatives à quelques saisies particulières<a id=153></a>
 
-##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=149></a>
+##### A. - Saisies portant sur le faux et sur l'altération des expéditions.<a id=154></a>
 
 ###### Article 329
 
@@ -17926,7 +18557,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### B. - Saisies à domicile.<a id=150></a>
+##### B. - Saisies à domicile.<a id=155></a>
 
 ###### Article 330
 
@@ -17955,7 +18586,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### C. - Saisies sur les navires et bateaux pontés.<a id=151></a>
+##### C. - Saisies sur les navires et bateaux pontés.<a id=156></a>
 
 ###### Article 331
 
@@ -17976,7 +18607,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-##### D. - Saisies en dehors du rayon.<a id=152></a>
+##### D. - Saisies en dehors du rayon.<a id=157></a>
 
 ###### Article 332
 
@@ -18006,7 +18637,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=153></a>
+#### Paragraphe 4 : Règles à observer après la rédaction du procès-verbal de saisie.<a id=158></a>
 
 ###### Article 333
 
@@ -18031,7 +18662,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Constatation par procès-verbal de constat.<a id=154></a>
+### Section 2 : Constatation par procès-verbal de constat.<a id=159></a>
 
 ###### Article 334
 
@@ -18078,9 +18709,9 @@ _Cite_:
   - Code des douanes - art. 65 (V)
 
 
-### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=155></a>
+### Section 3 : Dispositions communes aux procès-verbaux de saisie et aux procès-verbaux de constat<a id=160></a>
 
-#### Paragraphe 1 : Timbre et enregistrement.<a id=156></a>
+#### Paragraphe 1 : Timbre et enregistrement.<a id=161></a>
 
 ###### Article 335
 
@@ -18098,7 +18729,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF décembre 2002
 
 
-#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=157></a>
+#### Paragraphe 2 : Force probante des procès-verbaux réguliers et voies ouvertes aux prévenus contre cette foi légale.<a id=162></a>
 
 ###### Article 336
 
@@ -18258,9 +18889,9 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
-## Chapitre II : Poursuites et recouvrement<a id=158></a>
+## Chapitre II : Poursuites et recouvrement<a id=163></a>
 
-### Section 1 : Dispositions générales.<a id=159></a>
+### Section 1 : Dispositions générales.<a id=164></a>
 
 ###### Article 342
 
@@ -18366,7 +18997,7 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
-### Section 2 : Recouvrement.<a id=160></a>
+### Section 2 : Recouvrement.<a id=165></a>
 
 ###### Article 345
 
@@ -18609,7 +19240,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 bis : Assistance internationale au recouvrement<a id=161></a>
+### Section 2 bis : Assistance internationale au recouvrement<a id=166></a>
 
 ###### Article 349 octies
 
@@ -18807,9 +19438,9 @@ _Cité par_:
   - Code des douanes - art. 349 sexies (V)
 
 
-### Section 3 : Extinction des droits de poursuite et de répression<a id=162></a>
+### Section 3 : Extinction des droits de poursuite et de répression<a id=167></a>
 
-#### Paragraphe 1 : Droit de transaction.<a id=163></a>
+#### Paragraphe 1 : Droit de transaction.<a id=168></a>
 
 ###### Article 350
 
@@ -18866,7 +19497,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Prescription de l'action.<a id=164></a>
+#### Paragraphe 2 : Prescription de l'action.<a id=169></a>
 
 ###### Article 351
 
@@ -18897,9 +19528,9 @@ _Cité par_:
   - TXT_SOURCE: Décret n°78-1297 du 28 décembre 1978 - art. 2 (V)
 
 
-#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=165></a>
+#### Paragraphe 3 : Prescription des droits particuliers de l'administration et des redevables<a id=170></a>
 
-##### A. - Prescription contre les redevables.<a id=166></a>
+##### A. - Prescription contre les redevables.<a id=171></a>
 
 ###### Article 352
 
@@ -19060,7 +19691,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### B. - Prescription contre l'administration.<a id=167></a>
+##### B. - Prescription contre l'administration.<a id=172></a>
 
 ###### Article 354
 
@@ -19091,7 +19722,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=168></a>
+##### C. - Cas où les prescriptions de courte durée n'ont pas lieu.<a id=173></a>
 
 ###### Article 355
 
@@ -19119,11 +19750,11 @@ _Cite_:
   - Code des douanes - art. 354
 
 
-## Chapitre III : Procédure devant les tribunaux<a id=169></a>
+## Chapitre III : Procédure devant les tribunaux<a id=174></a>
 
-### Section 1 : Tribunaux compétents en matière de douane<a id=170></a>
+### Section 1 : Tribunaux compétents en matière de douane<a id=175></a>
 
-#### Paragraphe 1 : Compétence "ratione materiae".<a id=171></a>
+#### Paragraphe 1 : Compétence "ratione materiae".<a id=176></a>
 
 ###### Article 356
 
@@ -19184,7 +19815,7 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
-#### Paragraphe 2 : Compétence "ratione loci".<a id=172></a>
+#### Paragraphe 2 : Compétence "ratione loci".<a id=177></a>
 
 ###### Article 358
 
@@ -19209,9 +19840,9 @@ _Modifié par_:
   - Loi n°2012-1510 du 29 décembre 2012 - art. 58 (V)
 
 
-### Section 2 : Procédure devant les juridictions civiles<a id=173></a>
+### Section 2 : Procédure devant les juridictions civiles<a id=178></a>
 
-#### Paragraphe 4 : Notification des jugements et autres actes de procédure.<a id=174></a>
+#### Paragraphe 4 : Notification des jugements et autres actes de procédure.<a id=179></a>
 
 ###### Article 362
 
@@ -19236,7 +19867,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (VD)
 
 
-### Section 3 : Procédure devant les juridictions répressives.<a id=175></a>
+### Section 3 : Procédure devant les juridictions répressives.<a id=180></a>
 
 ###### Article 363
 
@@ -19274,7 +19905,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 4 : Pourvois en cassation.<a id=176></a>
+### Section 4 : Pourvois en cassation.<a id=181></a>
 
 ###### Article 366
 
@@ -19292,11 +19923,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 5 : Dispositions diverses<a id=177></a>
+### Section 5 : Dispositions diverses<a id=182></a>
 
-#### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=178></a>
+#### Paragraphe 1 : Règles de procédure communes à toutes les instances<a id=183></a>
 
-##### A. - Instruction et frais.<a id=179></a>
+##### A. - Instruction et frais.<a id=184></a>
 
 ###### Article 367
 
@@ -19318,7 +19949,7 @@ _Abrogé par_:
   - Loi n°2019-222 du 23 mars 2019 - art. 5
 
 
-##### B. - Exploits.<a id=180></a>
+##### B. - Exploits.<a id=185></a>
 
 ###### Article 368
 
@@ -19337,7 +19968,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 :  Modulation des peines prononcées en fonction de l'ampleur et de la gravité de l'infraction, ainsi que de la personnalité de son auteur, dispositions particulières, récidive<a id=181></a>
+#### Paragraphe 2 :  Modulation des peines prononcées en fonction de l'ampleur et de la gravité de l'infraction, ainsi que de la personnalité de son auteur, dispositions particulières, récidive<a id=186></a>
 
 ###### Article 369
 
@@ -19414,9 +20045,9 @@ _Cite_:
   - Code des douanes - art. 410 (V)
 
 
-#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=182></a>
+#### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=187></a>
 
-##### A. - Preuves de non-contravention.<a id=183></a>
+##### A. - Preuves de non-contravention.<a id=188></a>
 
 ###### Article 373
 
@@ -19433,7 +20064,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-##### B. - Action en garantie.<a id=184></a>
+##### B. - Action en garantie.<a id=189></a>
 
 ###### Article 374
 
@@ -19465,7 +20096,7 @@ _Modifié par_:
   - Loi n°2012-1510 du 29 décembre 2012 - art. 57 (VD)
 
 
-##### C. - Confiscation des objets saisis sur inconnus et des minutes.<a id=185></a>
+##### C. - Confiscation des objets saisis sur inconnus et des minutes.<a id=190></a>
 
 ###### Article 375
 
@@ -19487,7 +20118,7 @@ _Modifié par_:
   - Loi n°2011-1862 du 13 décembre 2011 - art. 8
 
 
-##### D. - Revendication des objets saisis.<a id=186></a>
+##### D. - Revendication des objets saisis.<a id=191></a>
 
 ###### Article 376
 
@@ -19527,7 +20158,7 @@ _Cité par_:
   - Code des douanes - art. 441 (Ab)
 
 
-##### E. - Fausses déclarations.<a id=187></a>
+##### E. - Fausses déclarations.<a id=192></a>
 
 ###### Article 377
 
@@ -19550,7 +20181,7 @@ _Cite_:
   - Code des douanes - art. 100 (V)
 
 
-##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=188></a>
+##### F. - Paiement des sommes fraudées ou indûment obtenues.<a id=193></a>
 
 ###### Article 377 bis
 
@@ -19578,11 +20209,11 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=189></a>
+## Chapitre IV : Exécution des jugements, des avis de mise en recouvrement et des obligations en matière douanière<a id=194></a>
 
-### Section 1 : Sûretés garantissant l'exécution<a id=190></a>
+### Section 1 : Sûretés garantissant l'exécution<a id=195></a>
 
-#### Paragraphe 1 : Droit de rétention.<a id=191></a>
+#### Paragraphe 1 : Droit de rétention.<a id=196></a>
 
 ###### Article 378
 
@@ -19601,7 +20232,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=192></a>
+#### Paragraphe 2 : Privilèges et hypothèques, subrogation.<a id=197></a>
 
 ###### Article 379
 
@@ -19740,9 +20371,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 2 : Voies d'exécution<a id=193></a>
+### Section 2 : Voies d'exécution<a id=198></a>
 
-#### Paragraphe 1 : Règles générales.<a id=194></a>
+#### Paragraphe 1 : Règles générales.<a id=199></a>
 
 ###### Article 382
 
@@ -19780,7 +20411,7 @@ _Modifié par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
-#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=195></a>
+#### Paragraphe 2 : Droits particuliers réservés à la douane.<a id=200></a>
 
 ###### Article 383
 
@@ -19956,9 +20587,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane<a id=196></a>
+#### Paragraphe 4 : Aliénation et destruction des marchandises saisies pour infraction aux lois de douane<a id=201></a>
 
-##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=197></a>
+##### A. - Vente avant jugement des marchandises périssables et des moyens de transport.<a id=202></a>
 
 ###### Article 389
 
@@ -20000,7 +20631,7 @@ _Cité par_:
   - Code des douanes - art. 389 bis (V)
 
 
-##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=198></a>
+##### B. - Destruction avant jugement de certaines catégories de marchandises.<a id=203></a>
 
 ###### Article 389 bis
 
@@ -20060,7 +20691,7 @@ _Cite_:
   - Code des douanes - art. 389
 
 
-##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=199></a>
+##### C. - Aliénation des marchandises confisquées ou abandonnées par transaction.<a id=204></a>
 
 ###### Article 390
 
@@ -20088,7 +20719,7 @@ _Cité par_:
   - Arrêté du 4 mars 2013 (V)
 
 
-### Section 3 : Droit de remise.<a id=200></a>
+### Section 3 : Droit de remise.<a id=205></a>
 
 ###### Article 390 bis
 
@@ -20112,7 +20743,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 4 : Répartition du produit des amendes et confiscations.<a id=201></a>
+### Section 4 : Répartition du produit des amendes et confiscations.<a id=206></a>
 
 ###### Article 391
 
@@ -20134,11 +20765,11 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre V : Responsabilité et solidarité<a id=202></a>
+## Chapitre V : Responsabilité et solidarité<a id=207></a>
 
-### Section 1 : Responsabilité pénale<a id=203></a>
+### Section 1 : Responsabilité pénale<a id=208></a>
 
-#### Paragraphe 1 : Détenteurs.<a id=204></a>
+#### Paragraphe 1 : Détenteurs.<a id=209></a>
 
 ###### Article 392
 
@@ -20163,7 +20794,7 @@ _Cité par_:
   - Arrêté du 1 juillet 2003 - art. 2 (V)
 
 
-#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=205></a>
+#### Paragraphe 2 : Capitaines de navires, commandants d'aéronefs.<a id=210></a>
 
 ###### Article 393
 
@@ -20210,7 +20841,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Déclarants.<a id=206></a>
+#### Paragraphe 3 : Déclarants.<a id=211></a>
 
 ###### Article 395
 
@@ -20232,7 +20863,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 4 : Commissionnaires en douane agréés.<a id=207></a>
+#### Paragraphe 4 : Commissionnaires en douane agréés.<a id=212></a>
 
 ###### Article 396
 
@@ -20251,7 +20882,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 5 : Soumissionnaires.<a id=208></a>
+#### Paragraphe 5 : Soumissionnaires.<a id=213></a>
 
 ###### Article 397
 
@@ -20273,7 +20904,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 6 : Complices.<a id=209></a>
+#### Paragraphe 6 : Complices.<a id=214></a>
 
 ###### Article 398
 
@@ -20299,7 +20930,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 7 : Intéressés à la fraude.<a id=210></a>
+#### Paragraphe 7 : Intéressés à la fraude.<a id=215></a>
 
 ###### Article 399
 
@@ -20360,9 +20991,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 2 : Responsabilité civile<a id=211></a>
+### Section 2 : Responsabilité civile<a id=216></a>
 
-#### Paragraphe 1 : Responsabilité de l'administration.<a id=212></a>
+#### Paragraphe 1 : Responsabilité de l'administration.<a id=217></a>
 
 ###### Article 401
 
@@ -20428,7 +21059,7 @@ _Cite_:
   - Code des douanes - art. 64 (V)
 
 
-#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=213></a>
+#### Paragraphe 2 : Responsabilité des propriétaires des marchandises.<a id=218></a>
 
 ###### Article 404
 
@@ -20450,7 +21081,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=214></a>
+#### Paragraphe 3 : Responsabilité solidaire des cautions.<a id=219></a>
 
 ###### Article 405
 
@@ -20468,7 +21099,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Solidarité.<a id=215></a>
+### Section 3 : Solidarité.<a id=220></a>
 
 ###### Article 406
 
@@ -20511,11 +21142,11 @@ _Modifié par_:
   - Loi n°2011-525 du 17 mai 2011 - art. 161
 
 
-## Chapitre VI : Dispositions répressives<a id=216></a>
+## Chapitre VI : Dispositions répressives<a id=221></a>
 
-### Section 1 : Classification des infractions douanières et peines principales<a id=217></a>
+### Section 1 : Classification des infractions douanières et peines principales<a id=222></a>
 
-#### Paragraphe 1 : Généralités.<a id=218></a>
+#### Paragraphe 1 : Généralités.<a id=223></a>
 
 ###### Article 408
 
@@ -20547,9 +21178,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Contraventions douanières<a id=219></a>
+#### Paragraphe 2 : Contraventions douanières<a id=224></a>
 
-##### A. - Première classe.<a id=220></a>
+##### A. - Première classe.<a id=225></a>
 
 ###### Article 410
 
@@ -20598,7 +21229,7 @@ _Cite_:
   - Code des douanes - art. 92 (V)
 
 
-##### B. - Deuxième classe.<a id=221></a>
+##### B. - Deuxième classe.<a id=226></a>
 
 ###### Article 411
 
@@ -20661,7 +21292,7 @@ _Cite_:
   - Code des douanes - art. 266 quinquies B (V)
 
 
-##### C. - Troisième classe.<a id=222></a>
+##### C. - Troisième classe.<a id=227></a>
 
 ###### Article 412
 
@@ -20712,7 +21343,7 @@ _Cite_:
   - Code des douanes - art. 259 (V)
 
 
-##### D. - Quatrième classe.<a id=223></a>
+##### D. - Quatrième classe.<a id=228></a>
 
 ###### Article 413
 
@@ -20738,7 +21369,7 @@ _Cité par_:
   - Code des douanes - art. 283 bis (V)
 
 
-##### E. - Cinquième classe.<a id=224></a>
+##### E. - Cinquième classe.<a id=229></a>
 
 ###### Article 413 bis
 
@@ -20793,9 +21424,9 @@ _Cite_:
   - Code des douanes - art. 64 (V)
 
 
-#### Paragraphe 3 : Délits douaniers<a id=225></a>
+#### Paragraphe 3 : Délits douaniers<a id=230></a>
 
-##### A. - Première classe.<a id=226></a>
+##### A. - Première classe.<a id=231></a>
 
 ###### Article 414
 
@@ -20895,7 +21526,7 @@ _Cite_:
   - Code des douanes - art. 414
 
 
-##### B. - Deuxième classe.<a id=227></a>
+##### B. - Deuxième classe.<a id=232></a>
 
 ###### Article 415
 
@@ -20964,7 +21595,7 @@ _Nouveaux textes_:
   - Code des douanes - art. 414 (M)
 
 
-##### C. ― Troisième classe<a id=228></a>
+##### C. ― Troisième classe<a id=233></a>
 
 ###### Article 416
 
@@ -21011,7 +21642,7 @@ _Cite_:
   - Code des douanes - art. 61
 
 
-#### Paragraphe 4 : Contrebande.<a id=229></a>
+#### Paragraphe 4 : Contrebande.<a id=234></a>
 
 ###### Article 417
 
@@ -21183,7 +21814,7 @@ _Cite_:
   - Code des douanes - art. 180 (V)
 
 
-#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=230></a>
+#### Paragraphe 5 : Importations et exportations sans déclaration.<a id=235></a>
 
 ###### Article 423
 
@@ -21438,9 +22069,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-### Section 2 : Peines complémentaires<a id=231></a>
+### Section 2 : Peines complémentaires<a id=236></a>
 
-#### Paragraphe 1 : Confiscation.<a id=232></a>
+#### Paragraphe 1 : Confiscation.<a id=237></a>
 
 ###### Article 430
 
@@ -21472,7 +22103,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 2 : Astreinte.<a id=233></a>
+#### Paragraphe 2 : Astreinte.<a id=238></a>
 
 ###### Article 431
 
@@ -21503,7 +22134,7 @@ _Cite_:
   - Code des douanes - art. 92 (V)
 
 
-#### Paragraphe 3 : Peines privatives de droits.<a id=234></a>
+#### Paragraphe 3 : Peines privatives de droits.<a id=239></a>
 
 ###### Article 432
 
@@ -21588,9 +22219,9 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=235></a>
+### Section 3 : Cas particuliers d'application des peines<a id=240></a>
 
-#### Paragraphe 1 : Confiscation.<a id=236></a>
+#### Paragraphe 1 : Confiscation.<a id=241></a>
 
 ###### Article 434
 
@@ -21637,7 +22268,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=237></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=242></a>
 
 ###### Article 436
 
@@ -21705,7 +22336,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Concours d'infractions.<a id=238></a>
+#### Paragraphe 3 : Concours d'infractions.<a id=243></a>
 
 ###### Article 439
 
@@ -21743,7 +22374,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=239></a>
+# Titre XIII : La commission de conciliation et d'expertise douanière.<a id=244></a>
 
 ###### Article 441
 
@@ -22104,9 +22735,9 @@ _Abrogé par_:
   - Loi n°2016-1918 du 29 décembre 2016 - art. 88 (V)
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=240></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=245></a>
 
-## Chapitre Ier : Dispositions communes.<a id=241></a>
+## Chapitre Ier : Dispositions communes.<a id=246></a>
 
 ###### Article 451
 
@@ -22165,7 +22796,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=242></a>
+## Chapitre II : Constatation des infractions.<a id=247></a>
 
 ###### Article 453
 
@@ -22294,7 +22925,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=243></a>
+## Chapitre III : Poursuite des infractions.<a id=248></a>
 
 ###### Article 458
 
@@ -22312,7 +22943,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=244></a>
+## Chapitre IV : Dispositions répressives.<a id=249></a>
 
 ###### Article 459
 
@@ -22392,7 +23023,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=245></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=250></a>
 
 ###### Article 460
 
@@ -22483,7 +23114,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=246></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=251></a>
 
 ###### Article 464
 
@@ -22541,9 +23172,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=247></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=252></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=248></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=253></a>
 
 ###### Article 467
 
@@ -22635,7 +23266,7 @@ _Cite_:
   - article 5 du règlement (CE) n°638/2004 du 31 mars 2004
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=249></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=254></a>
 
 ###### Article 468
 
@@ -22698,7 +23329,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=250></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=255></a>
 
 ###### Article 470
 
