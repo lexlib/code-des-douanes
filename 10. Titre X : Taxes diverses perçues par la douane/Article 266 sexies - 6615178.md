@@ -54,9 +54,7 @@ volume, des risques particuliers à l'environnement ;
 
 9. Alinéa abrogé ;
 
-10. A compter du 1er janvier 2014, toute personne qui, pour les besoins de son activité économique, livre pour la première
-fois sur le marché intérieur ou utilise pour la première fois des sacs de caisse à usage unique en matière plastique, dont
-les caractéristiques sont définies par décret.
+10. (Abrogé)
 
 II.-La taxe ne s'applique pas :
 
@@ -97,8 +95,7 @@ destination d'un Etat membre de la Communauté européenne ou en une exportation
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
 du label écologique communautaire aux lubrifiants ;
 
-7. Aux sacs de caisse à usage unique en matière plastique biodégradables constitués, dans des conditions définies par décret,
-d'un minimum de 40 % de matières végétales en masse.
+7. (Abrogé)
 
 III.-Sont exonérées de la taxe mentionnée au I, dans la limite de 20 % de la quantité annuelle totale de déchets reçus par
 installation, les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se
@@ -187,9 +184,9 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2003-699 du 30 juillet 2003 - art. 84 (V)
+  - Loi n°2003-699 du 30 juillet 2003 - art. 84
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
   - Loi n°2018-1317 du 28 décembre 2018 - art. 194 (V)
