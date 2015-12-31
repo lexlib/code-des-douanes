@@ -2,10 +2,11 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit : 
 
-A.-Pour les déchets non dangereux mentionnés au 1 du I de l'article 266 sexies : 
+A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux
+mentionnée au 1 du I de l'article 266 sexies : 
 
-a) Déchets non dangereux réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle
-installation située dans un autre Etat : 
+a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation
+située dans un autre Etat : 
 
 <table border="1">
   <tbody>
@@ -312,15 +313,19 @@ Tonne
   </tbody>
 </table>
 
+Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tarifs mentionnés au tableau du présent a
+applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
+
 Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
-accessible par voies terrestres, le tarif de la taxe est fixé à 10 € par tonne de 2013 à 2018 et, pour les déchets
-réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voies terrestres, le tarif de la
-taxe est fixé à 3 € par tonne de 2013 à 2018. 
+accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets
+réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la
+taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2018.
 
 Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le
-tarif de la taxe est fixé à 0 € par tonne de 2014 à 2017, puis à 10 € par tonne pour 2018. 
+tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2017, puis à 10 € par tonne en 2018.
 
-A compter de 2019, les tarifs fixés au tableau du présent a sont applicables en Guyane et à Mayotte. 
+A compter de 2019, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont
+multipliés par un coefficient égal à 0,4. 
 
 Les déchets réceptionnés dans une installation de stockage de déchets non dangereux visée aux A, B ou C du tableau du présent
 a ou transférés vers une telle installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet
@@ -330,9 +335,10 @@ est nécessaire, n'excède pas 20 % du kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009, 0,60 € par tonne en 2010 et 2011, 0,70 € par tonne en 2012, 0,80 € par
 tonne en 2013, 0,90 € par tonne en 2014 et 1 € par tonne à compter de 2015. Elle est, à compter du 1er janvier 2016,
-revalorisée dans la même proportion que la limite supérieure de la première tranche de l'impôt sur le revenu ;
+revalorisée chaque année, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac
+de l'avant-dernière année ;
 
-b) Déchets non dangereux réceptionnés dans une installation de traitement thermique de déchets ou transférés vers une telle
+b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle
 installation située dans un autre Etat :
 
 <table border="1">
@@ -597,8 +603,8 @@ ferroviaire ou fluviale, sous réserve que la desserte routière terminale, lors
 kilométrage de l'itinéraire global.
 
 Cette réduction est égale à 0,50 € par tonne en 2009 et 2010, 0,80 € par tonne en 2011 et 2012 et 1 € par tonne à compter de
-2013. Elle est, à compter du 1er janvier 2014, revalorisée dans la même proportion que la limite supérieure de la première
-tranche de l'impôt sur le revenu. 
+2013. Elle est, à compter du 1er janvier 2016, revalorisée chaque année, dans une proportion égale au taux de croissance de
+l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
 c) Les tarifs visés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés entre la date
 d'obtention de l'enregistrement EMAS ou de la certification ISO 14001 et le 31 décembre de l'année au titre de laquelle la
@@ -624,7 +630,7 @@ D du tableau du a.
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -650,8 +656,8 @@ QUOTITÉ
     <tr>
       <td>
 
-Déchets dangereux réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux
-ou transférés vers une telle installation située dans un autre Etat. 
+Déchets réceptionnés dans une installation de traitement thermique ou de tout autre traitement de déchets dangereux ou
+transférés vers une telle installation située dans un autre Etat. 
 
 </td>
       <td colspan="3">
@@ -659,7 +665,7 @@ ou transférés vers une telle installation située dans un autre Etat.
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 10,03 (10,32 en 2009)
 
@@ -677,7 +683,7 @@ dans un autre Etat.
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 20,01 (20,59 en 2009)
 
@@ -730,41 +736,41 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 64,86 (66,74 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
 
 </td>
-      <td align="left" valign="top" colspan="3">
+      <td colspan="3" align="left" valign="top">
 
 Tonne 
 
 </td>
-      <td colspan="5" valign="top" align="left">
+      <td colspan="5" align="left" valign="top">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <td valign="top" align="center">
 
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
 
 </td>
-      <td align="center" colspan="3" valign="top">
+      <td colspan="3" valign="top" align="center">
 
 Tonne 
 
 </td>
-      <td valign="top" align="center" colspan="5">
+      <td colspan="5" align="center" valign="top">
 
 136,02 
 
@@ -776,12 +782,12 @@ Tonne
 - poussières totales en suspension 
 
 </td>
-      <td align="left" valign="top" colspan="3">
+      <td valign="top" colspan="3" align="left">
 
 Tonne 
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td align="left" colspan="5" valign="top">
 
 259,86 
 
@@ -974,7 +980,7 @@ Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère de
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 44,02 (45,30 en 2009)
 
@@ -994,7 +1000,7 @@ le linge :
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 39,51(40,66 en 2009)
 
@@ -1011,14 +1017,14 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" width="79">
+      <td width="79" colspan="5">
 
 170,19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 - dont la teneur en phosphate est supérieure à 30 % du poids 
 
@@ -1028,7 +1034,7 @@ Tonne
 Tonne 
 
 </td>
-      <td colspan="5" align="left" valign="top">
+      <td valign="top" align="left" colspan="5">
 
 283,65 (291,88 en 2009)
 
@@ -1045,7 +1051,7 @@ Matériaux d'extraction.
 Tonne 
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 0,20 
 
@@ -1061,10 +1067,10 @@ Délivrance d'autorisation :
 - artisan n'employant pas plus de deux salariés 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td colspan="3" valign="top" align="left">
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td colspan="5" align="left" valign="top">
 
 501,61 (516,16 en 2009)
 
@@ -1094,14 +1100,14 @@ Délivrance d'autorisation :
       <td colspan="3">
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5" width="79">
 
 2 525,35 (2 598,59 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Exploitation au cours d'une année civile (tarifs de base) : 
 
@@ -1110,17 +1116,17 @@ d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement europ�
 système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
 
 </td>
-      <td valign="top" align="left" colspan="3">
+      <td colspan="3" valign="top" align="left">
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td valign="top" colspan="5" align="left">
 
 339,37 (349,21 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 - autres installations 
 
@@ -1128,26 +1134,9 @@ système de management environnemental a été certifié conforme à la norme IS
       <td align="left" valign="top" colspan="3">
 
 </td>
-      <td colspan="5" valign="top" align="left">
+      <td colspan="5" align="left" valign="top">
 
 380,44 (391,47 en 2009)
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Sacs de caisse à usage unique en matière plastique
-
-</td>
-      <td colspan="3">
-
-Kilogramme
-
-</td>
-      <td colspan="5">
-
-10
 
 </td>
     </tr>
@@ -1163,10 +1152,7 @@ a) Du 1er janvier 2014 aux tarifs mentionnés au b du A du 1 ;
 
 b) Du 1er janvier 2016 aux tarifs mentionnés au a du même A ; 
 
-c) Du 1er janvier 2015 au tarif applicable aux sacs de caisse à usage unique en matière plastique mentionnés au 10 du I de
-l'article 266 sexies. 
-
-. 
+c) (Abrogé) 
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
 266 sexies est de 450 € par installation. 
@@ -1254,9 +1240,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 23
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 24
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 33 (V)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 74 (V)
 
 _Cite_:
 
