@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-01-01
+Version Consolidée au 2016-01-28
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1020,7 +1020,7 @@ Conseil, du 11 février 2004, relatif aux précurseurs de drogues ;
 
 8° bis Aux produits phytopharmaceutiques mentionnés au paragraphe 1 de l'article 2 du règlement (CE) n° 1107/2009 du
 Parlement européen et du Conseil, du 21 octobre 2009, concernant la mise sur le marché des produits phytopharmaceutiques et
-abrogeant les directives 79/117/ CEE et 91/414/ CEE du Conseil ;
+abrogeant les directives 79/117/ CEE et 91/414/ CEE du Conseil ; 
 
 9° Aux marchandises contrefaisantes ; 
 
@@ -1043,10 +1043,14 @@ du Parlement européen et du Conseil, du 14 juin 2006, concernant les transferts
 l'Union européenne prises en application de ce règlement ; 
 
 15° Aux objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique
-mentionnées à l'article 227-23 du code pénal ;
+mentionnées à l'article 227-23 du code pénal ; 
 
 16° Aux produits du tabac manufacturé ayant fait l'objet d'une opération mentionnée au I de l'article 568 ter du code général
-des impôts. 
+des impôts ; 
+
+17° Aux produits cosmétiques mentionnés à l'article L. 5131-1 du code de la santé publique contenant des substances
+interdites ou soumises à restrictions au titre du règlement (CE) n° 1223/2009 du Parlement européen et du Conseil du 30
+novembre 2009 relatif aux produits cosmétiques. 
 
 5. Au titre des dispositions dérogatoires prévues à l'article 2 bis, les dispositions du présent article sont également
 applicables aux marchandises soumises à des restrictions de circulation prévues soit par la réglementation communautaire,
@@ -1144,11 +1148,13 @@ chargé des douanes et du ou des ministres concernés.
 _Cite_:
 
   - Loi n°92-1477 du 31 décembre 1992 - art. 2
+  - Code général des impôts, CGI. - art. 568 ter (V)
   - Code pénal - art. 227-13
   - Code de la défense. - art. L2335-10
   - Code de la défense. - art. L2335-18
   - Code de la défense. - art. L2342-8
   - Code de la défense. - art. L2352-1
+  - Code de la santé publique - art. L1221-12 (V)
   - Code de la santé publique - art. L1221-8
   - Code de la santé publique - art. L1235-1
   - Code de la santé publique - art. L1243-1
@@ -1158,7 +1164,8 @@ _Cite_:
   - Code de la santé publique - art. L1333-4
   - Code de la santé publique - art. L2141-11-1
   - Code de la santé publique - art. L2151-6
-  - Code de la santé publique - art. L5124-13
+  - Code de la santé publique - art. L5124-13 (VT)
+  - Code de la santé publique - art. L5131-1 (V)
   - Code de la santé publique - art. L5132-9
   - Code de la santé publique - art. L5139-1
   - Code de la santé publique - art. L5142-7
@@ -1195,7 +1202,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1655 du 29 décembre 2014 - art. 93
+  - Loi n°2016-41 du 26 janvier 2016 - art. 167
 
 
 ### Section 2 : Prohibitions relatives à la protection des marques et des indications d'origine.<a id=26></a>
@@ -20730,16 +20737,32 @@ _Cite_:
 
 ###### Article 390
 
-1. Les objets confisqués ou abandonnés sont aliénés par le service des douanes dans les conditions fixées par arrêté du
-ministre de l'économie et des finances lorsque le jugement de confiscation est passé en force de chose jugée, ou, en cas de
-jugement par défaut, lorsque l'exécution provisoire a été ordonnée par le jugement de confiscation, ou après ratification de
-l'abandon consenti par transaction.
+1. Les objets confisqués ou abandonnés sont aliénés ou détruits par le service des douanes dans les conditions fixées par
+arrêté du ministre de l'économie et des finances lorsque le jugement de confiscation est passé en force de chose jugée, ou,
+en cas de jugement par défaut, lorsque l'exécution provisoire a été ordonnée par le jugement de confiscation, ou après
+ratification de l'abandon consenti par transaction. 
 
 2. Toutefois, les jugements et ordonnances portant confiscation de marchandises saisies sur des particuliers inconnus, et par
 eux abandonnées et non réclamées, ne sont exécutés qu'un mois après leur affichage tant à la porte du bureau qu'à celle du
-tribunal de grande instance ; passé ce délai, aucune demande en répétition n'est recevable.
+tribunal de grande instance ; passé ce délai, aucune demande en répétition n'est recevable. 
+
+3. Lorsque les marchandises ne satisfaisant pas aux obligations prévues par le règlement (CE) n° 206/2009 de la commission du
+5 mars 2009 concernant l'introduction dans la Communauté de colis personnels de produits d'origine animale et modifiant le
+règlement (CE) n° 136/2004 sont détruites soit en application de l'article 389 bis du présent code, soit après leur abandon
+ou leur confiscation, les frais de destruction peuvent être mis à la charge de leur propriétaire, de l'importateur, de
+l'exportateur, du déclarant ou de toute personne ayant participé au transport de ces marchandises. 
+
+Ces frais sont déterminés selon un barème établi par arrêté du ministre chargé des douanes.
 
 **Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 4 mars 2013 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 389 bis (V)
 
 _Codifié par_:
 
@@ -20747,11 +20770,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1862 du 13 décembre 2011 - art. 8
-
-_Cité par_:
-
-  - Arrêté du 4 mars 2013 (V)
+  - Loi n°2016-41 du 26 janvier 2016 - art. 200
 
 
 ### Section 3 : Droit de remise.<a id=205></a>
@@ -21475,7 +21494,7 @@ La peine d'emprisonnement est portée à une durée maximale de cinq ans et l'am
 l'objet de fraude lorsque les faits de contrebande, d'importation ou d'exportation portent sur des biens à double usage,
 civil et militaire, dont la circulation est soumise à restriction par la réglementation européenne. 
 
-La peine d'emprisonnement est portée à une durée de dix ans et l'amende peut aller jusqu'à cinq fois la valeur de l'objet de
+La peine d'emprisonnement est portée à une durée de dix ans et l'amende peut aller jusqu'à dix fois la valeur de l'objet de
 la fraude soit lorsque les faits de contrebande, d'importation ou d'exportation portent sur des marchandises dangereuses pour
 la santé, la moralité ou la sécurité publiques, dont la liste est fixée par arrêté du ministre chargé des douanes, soit
 lorsqu'ils sont commis en bande organisée.
@@ -21521,8 +21540,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2003-239 du 18 mars 2003 - art. 14
-  - Loi n°2011-525 du 17 mai 2011 - art. 161
+  - Loi n°2016-41 du 26 janvier 2016 - art. 32
 
 _Anciens textes_:
 
