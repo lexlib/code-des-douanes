@@ -23,7 +23,8 @@ contrôle, à une opération d'infiltration dans les conditions prévues par le 
 - les infractions douanières d'importation, d'exportation ou de détention de substances ou plantes classées comme
 stupéfiants, de contrebande de tabac manufacturé, d'alcool et spiritueux ;
 
-- les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes ;
+- les infractions mentionnées à l'article 414 lorsqu'elles portent sur des marchandises contrefaisantes, des armes ou leurs
+éléments, des munitions ou des explosifs ;
 
 - les infractions prévues à l'article 415 ; 
 
@@ -123,6 +124,10 @@ identité.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
+
 _Cité par_:
 
   - Loi n°96-542 du 19 juin 1996 - art. 10-1 (V)
@@ -133,7 +138,7 @@ _Cité par_:
   - Code de procédure pénale - art. D15-1-1 (V)
   - Code de procédure pénale - art. D15-1-2 (V)
   - Code de procédure pénale - art. D15-1-4 (V)
-  - Code des douanes - art. 67 bis-1 (M)
+  - Code des douanes - art. 67 bis-1 (V)
   - Code des douanes - art. 67 bis-1 A (V)
 
 **Liens**:
@@ -147,7 +152,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-315 du 11 mars 2014 - art. 9
+  - Loi n°2016-731 du 3 juin 2016 - art. 27
 
 _Cite_:
 
@@ -157,7 +162,3 @@ _Cite_:
   - Code des douanes - art. 414
   - Code des douanes - art. 415
   - Code des douanes - art. 60
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
