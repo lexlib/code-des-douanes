@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2016-11-15
+Version Consolidée au 2016-12-10
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -1354,10 +1354,7 @@ _Modifié par_:
 1. Le rayon des douanes comprend une zone maritime et une zone terrestre.
 
 2. La zone maritime est comprise entre le littoral et une limite extérieure située en mer à 12 milles marins mesurés à partir
-des lignes de base de la mer territoriale.
-
-Les lignes de base sont la laisse de basse mer ainsi que les lignes de base droites et les lignes de fermeture des baies qui
-sont déterminées par décret.
+des lignes de base de la mer territoriale définies à l'article 2 de l'ordonnance n° 2016-1687 du 8 décembre 2016.
 
 3. La zone terrestre s'étend :
 
@@ -1378,25 +1375,27 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Modifié par_:
-
-  - Loi n°71-1060 du 24 décembre 1971 - art. 1 (Ab) JORF 30 décembre 1971
-  - Décret n°75-862 1975-09-02 art. 1 JORF 20 septembre 1975
-
 _Cité par_:
 
   - Loi n°93-1 du 4 janvier 1993 - art. 38 (V)
   - Loi n°93-1 du 4 janvier 1993 - art. 52 (V)
 
+_Cite_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 2
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 58
+
 
 ###### Article 44 bis
 
-Dans une zone contiguë comprise entre douze et vingt-quatre milles marins mesurés à partir des lignes de base de la mer
-territoriale et sous réserve d'accords de délimitation avec les Etats voisins, le service des douanes peut exercer les
-contrôles nécessaires en vue de :
+Dans la zone contiguë telle que définie par l'article 10 de l'ordonnance n° 2016-1687 du 8 décembre 2016 le service des
+douanes peut exercer les contrôles nécessaire en vue de : 
 
 a) prévenir les infractions aux lois et règlements que l'administration des douanes est chargée d'appliquer sur le territoire
-douanier ;
+douanier ; 
 
 b) poursuivre les infractions à ces mêmes lois et règlements commises sur le territoire douanier.
 
@@ -1406,9 +1405,13 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
+_Cite_:
 
-  - Loi n°87-1157 du 31 décembre 1987 - art. 9 () JORF 5 janvier 1988
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 10
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 58
 
 _Cité par_:
 
@@ -2227,23 +2230,24 @@ _Cite_:
 
 ###### Article 63 bis
 
-Les agents des douanes peuvent à tout moment visiter les installations et dispositifs du plateau continental et de la zone
-économique. Ils peuvent également visiter les moyens de transport concourant à leur exploration ou à l'exploitation de leurs
-ressources naturelles, à l'intérieur des zones de sécurité prévues par la loi et dans la zone maritime du rayon des douanes.
+Les agents des douanes peuvent à tout moment visiter les îles artificielles, installations et ouvrages du plateau continental
+et de la zone économique exclusive. Ils peuvent également visiter les moyens de transport concourant à leur exploration ou à
+l'exploitation de leurs ressources naturelles, à l'intérieur des zones de sécurité prévues par la loi et dans la zone
+maritime du rayon des douanes.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
-
-_Cité par_:
-
-  - Code des douanes - art. 67 bis (V)
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Modifié par_:
+
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 58
+
+_Cité par_:
+
+  - Code des douanes - art. 67 bis (V)
 
 
 ### Section 2 : Droit d'accès aux locaux et lieux à usage professionnel et visites domiciliaires.<a id=37></a>
@@ -7446,8 +7450,8 @@ _Créé par_:
 
 ###### Article 196 quater
 
-Les produits extraits du plateau continental ou de la zone économique sont considérés comme extraits d'une nouvelle partie du
-territoire douanier.
+Les produits extraits du plateau continental ou de la zone économique exclusive sont considérés comme extraits d'une nouvelle
+partie du territoire douanier.
 
 Les mêmes produits doivent, pour l'application de la législation fiscale, être considérés comme extraits du territoire
 français métropolitain.
@@ -7460,15 +7464,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°76-655 1976-07-16 art. 2 JORF 18 juillet 1976
-  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 58
 
 
 ###### Article 196 quinquies
 
 Les matériels industriels, ainsi que les produits nécessaires à leur fonctionnement et à leur entretien, affectés sur le
-plateau continental ou dans la zone économique à la recherche ou à l'exploitation des hydrocarbures et d'autres substances
-minérales et organiques dont la liste est fixée par décret, sont exemptés des droits de douane d'importation.
+plateau continental ou dans la zone économique exclusive à la recherche ou à l'exploitation des hydrocarbures et d'autres
+substances minérales et organiques dont la liste est fixée par décret, sont exonérés des droits de douane d'importation.
 
 **Liens relatifs à cet article**
 
@@ -7478,8 +7481,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°76-655 1976-07-16 art. 2 JORF 18 juillet 1976
-  - Décret n°93-995 1993-08-04 art. 1 JORF 11 août 1993
+  - Ordonnance n°2016-1687 du 8 décembre 2016 - art. 58
 
 
 # Titre VIII : Circulation et détention de marchandises à l'intérieur du territoire douanier<a id=103></a>
