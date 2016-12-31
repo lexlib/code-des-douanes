@@ -56,7 +56,7 @@ opérations qu'ils accomplissent en tant qu'autorités publiques jusqu'au 1er ja
 affectation aux usages qui y sont mentionnés sont fixées par décret. 
 
 7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le
-biogaz repris au code NC 2711-29, lorsqu'il n'est pas mélangé au gaz naturel. 
+biogaz repris au code NC 2711-29. 
 
 8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
 mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous : 
@@ -223,9 +223,9 @@ _Cite_:
   - Code général des collectivités territoriales - art. L3333-2
   - Code des douanes - art. 265 C
   - Code des douanes - art. 352
-  - Code de l'énergie - art. L121-27 (V)
-  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L121-27
+  - Code de l'énergie - art. L314-1
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 14
+  - Loi n°2016-1917 du 29 décembre 2016 - art. 26
