@@ -6,17 +6,16 @@ sur la délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512
 l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les
 modalités suivantes : 
 
-I.-Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées dressent
-la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci et
-prescrivent l'exécution de la recette correspondante. 
+I. - Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées
+dressent la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci
+et prescrivent l'exécution de la recette correspondante. 
 
 Ils notifient à l'assujetti le montant de la taxe et, le cas échéant, des pénalités à acquitter par un avis qui indique les
 dates de mise en recouvrement, d'exigibilité et d'application de l'intérêt de retard en cas de non-paiement. 
 
 La date d'exigibilité est fixée au dernier jour du deuxième mois suivant celui de la mise en recouvrement. 
 
-Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré d'un intérêt
-de retard dont le taux mensuel est fixé à 0,75 % du montant des sommes restant dues. 
+Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré. 
 
 L'encaissement de la taxe ainsi que, le cas échéant, des pénalités, est effectué par l'intermédiaire d'une régie de recettes
 fonctionnant dans les conditions prévues par la réglementation applicable aux régies de recettes et aux régies d'avance des
@@ -51,23 +50,27 @@ peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
 
 **Liens relatifs à cet article**
 
-_Modifié par_:
+_Codifié par_:
 
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 24 () JORF 8 décembre 2005 en vigueur le 1er janvier 2006
+  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
   - Décret n°2014-219 du 24 février 2014 (V)
 
+_Modifié par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+
+_Abrogé par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
+
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 1728 (V)
-  - Code général des impôts, CGI. - art. 1729 (V)
-  - Code des douanes - art. 266 sexies (V)
-  - Code des douanes - art. 266 undecies (VT)
-  - Code de l'environnement - art. L512-1 (V)
-  - Code de l'environnement - art. L512-8 (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
+  - Code général des impôts, CGI. - art. 1728
+  - Code général des impôts, CGI. - art. 1729
+  - Code des douanes - art. 266 sexies
+  - Code des douanes - art. 266 undecies
+  - Code de l'environnement - art. L512-1
+  - Code de l'environnement - art. L512-8
