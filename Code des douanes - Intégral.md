@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-04-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -12701,8 +12701,8 @@ leurs moteurs.
 3. Les produits mentionnés au 1 sont également exonérés lorsqu'ils sont utilisés : 
 
 a) Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
-quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du V de
-l'article L. 3333-2 du code général des collectivités territoriales ; 
+quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du 5 de
+l'article 266 quinquies C ; 
 
 b) Pour les besoins de l'extraction et de la production de gaz naturel. 
 
@@ -12710,9 +12710,9 @@ Les modalités d'application des exonérations visées ci-dessus sont fixées pa
 
 **Nota:**
 
-Loi no 2016-1888 du 28 décembre 2016, article 61-II : Le f) s'applique pour une durée de trois ans dès lors que la Commission
-européenne a confirmé que cette mesure est compatible avec le 1 de l'article 107 du traité sur le fonctionnement de l'Union
-européenne.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+265 bis tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre civil
+suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -12771,7 +12771,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1888 du 28 décembre 2016 - art. 61 (V)
+  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
 
 _Cite_:
 
@@ -15211,7 +15211,7 @@ dans les conditions prévues au III de l'article 265 C.
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation prévue au 1 lorsqu'ils sont utilisés : 
 
 a) Pour la production d'électricité, à l'exclusion des produits mentionnés au 1 utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales. 
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C. 
 
 Cette exonération ne s'applique pas aux produits mentionnés au 1 destinés à être utilisés dans les installations visées à
 l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1
@@ -15336,7 +15336,9 @@ remboursement peut s'effectuer par imputation sur le montant de la taxe due.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+266 quinquies  tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
+civil suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -15398,7 +15400,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 26
+  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
 
 
 ###### Article 266 quinquies A
@@ -15484,7 +15486,7 @@ affectation aux usages qui y sont mentionnés sont fixées par décret.
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de
 l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du V de l'article L. 3333-2 du code général des collectivités territoriales ; 
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ; 
 
 2° Pour les besoins de leur extraction et de leur production ; 
 
@@ -15600,7 +15602,9 @@ le remboursement de la taxe ou de la fraction de taxe, dans les conditions prév
 
 **Nota:**
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+266 quinquies B tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
+civil suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -15621,18 +15625,18 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 14
+  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L3333-2
+  - Code général des collectivités territoriales - art. L3333-2 (VD)
   - Code des douanes - art. 265 C
-  - Code des douanes - art. 265 nonies (V)
+  - Code des douanes - art. 265 nonies
   - Code des douanes - art. 266 quinquies A
   - Code des douanes - art. 352
   - Code de l'environnement - art. L229-5
-  - Code de l'énergie - art. L121-27 (V)
-  - Code de l'énergie - art. L314-1 (V)
+  - Code de l'énergie - art. L121-27
+  - Code de l'énergie - art. L314-1
 
 
 ###### Article 266 quinquies C
@@ -15690,7 +15694,11 @@ leur fabrication.
 
 4° Produite par de petits producteurs d'électricité qui la consomment pour les besoins de leur activité. Sont considérées
 comme petits producteurs d'électricité les personnes qui exploitent des installations de production d'électricité dont la
-production annuelle n'excède pas 240 millions de kilowattheures par site de production ; 
+production annuelle n'excède pas 240 millions de kilowattheures par site de production. Cette disposition s'applique
+également à la part, consommée sur le site,  de l'électricité produite par les producteurs d'électricité pour  lesquels la
+puissance de production installée sur le site est inférieure  à 1 000 kilowatts. Pour les installations de production
+d'électricité  utilisant l'énergie solaire photovoltaïque, la puissance installée  s'entend de la puissance crête
+installée ; 
 
 5° (Abrogé). 
 
@@ -15899,7 +15907,9 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016.
+Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
+266 quinquies C tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
+civil suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -15938,8 +15948,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 54 (V)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 27
+  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
 
 _Cite_:
 
