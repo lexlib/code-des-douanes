@@ -2,9 +2,9 @@
 
 Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
 réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
-territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
+territoire de la Corse ou livrés dans les ports de Corse à l'avitaillement des bâtiments de plaisance et de sport :
 
-<table cellspacing="0" align="center" width="605" cellpadding="0" border="1">
+<table cellspacing="0" cellpadding="0" width="605" align="center" border="1">
   <tbody>
     <tr>
       <td width="166">
@@ -33,12 +33,12 @@ d'identification
 27.10.00
 
 </td>
-      <td valign="top" width="237">
+      <td width="237" valign="top">
 
 Supercarburants
 
 </td>
-      <td width="202" valign="top">
+      <td valign="top" width="202">
 
 11 et 11 bis
 
@@ -55,9 +55,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 
 _Cite_:
 
-  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265
