@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-01-01 00:00:01 +0100
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -8567,9 +8567,14 @@ _Cité par_:
 ###### Article 224
 
 1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
-de la collectivité de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans la limite du
-plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Conservatoire de
-l'espace littoral et des rivages lacustres.
+de la collectivité de Corse, le montant du produit du droit de francisation et de navigation afférent aux navires de
+plaisance ou de sport mentionnés aux articles 223 et 223 bis est affecté, dans la limite des plafonds fixés au I de l'article
+46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, dans l'ordre de priorité suivant :
+
+- au Conservatoire de l'espace littoral et des rivages lacustres ;
+
+- aux organismes mentionnés à l'article L. 742-9 du code de la sécurité intérieure selon des modalités de répartition
+définies par décret.
 
 L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité de Corse un
 prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au
@@ -8577,10 +8582,11 @@ budget général.
 
 En complément de l'éco-contribution versée par les metteurs sur le marché de navires de plaisance ou de sport à un éco-
 organisme dans le cadre de la filière définie à l'article L. 541-10-10 du code de l'environnement, une quote-part du produit
-brut du droit annuel de francisation et de navigation est affectée à la gestion de la fin de vie des navires de plaisance ou
-de sport qui ne sont plus utilisés régulièrement et dont les propriétaires n'assument plus les charges afférentes. Cette
-quote-part est plafonnée à 5 % du produit brut de la taxe. Son montant et l'organisme affectataire sont fixés annuellement
-par la loi de finances.
+brut du droit annuel de francisation et de navigation afférent aux navires de plaisance ou de sport mentionnés à l'article
+223 est affectée à la gestion de la fin de vie des navires de plaisance ou de sport qui ne sont plus utilisés régulièrement
+et dont les propriétaires n'assument plus les charges afférentes. Cette quote-part est plafonnée à 5 % du produit brut de la
+taxe afférente aux navires de plaisance ou de sport mentionnés à l'article 223. Son montant et l'organisme affectataire sont
+fixés annuellement par la loi de finances.
 
 Il est recouvré par année civile.
 
@@ -8614,7 +8620,7 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 euros.
 
 6. Le montant de la quote-part du produit brut du droit annuel de francisation et de navigation mentionnée au troisième
-alinéa du 1 est fixé à 2 % pour les années 2018 et 2019.
+alinéa du 1 est fixé à 2 % pour les années 2019 et 2020.
 
 Ce montant est affecté aux éco-organismes agréés qui opèrent dans le cadre de la filière définie à l'article L. 541-10-10 du
 code de l'environnement, au prorata des mises sur le marché de leurs adhérents.
@@ -8644,10 +8650,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
   - Code des douanes - art. 223
-  - Code de l'environnement - art. L541-10-10
+  - Code de l'environnement - art. L541-10-10 (V)
   - Code du patrimoine - art. L122-1
+
+_Modifié par_:
+
+  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 33
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 45
 
 
 ###### Article 225
@@ -8903,13 +8916,13 @@ _Modifié par_:
 Le passeport délivré aux navires mentionnés à l'article 237 donne lieu à la perception d'un droit de passeport. 
 
 Ce droit est à la charge du propriétaire ou de l'utilisateur du navire. Il est calculé dans les mêmes conditions, selon la
-même assiette, le même taux et les mêmes modalités d'application que le droit de francisation et de navigation prévu à
-l'article 223 ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de plaisance ou de
-sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention fiscale comportant une clause
-d'échange de renseignements ou d'accord d'échange de renseignements ou qui figure sur la liste mentionnée au second alinéa du
-1 de l'article 238-0 A du code général des impôts, le droit de passeport est perçu à un taux triple du droit de francisation
-et de navigation pour les navires d'une longueur de coque inférieure à 15 mètres et à un taux quintuple de ce droit pour les
-navires d'une longueur de coque supérieure ou égale à 15 mètres. 
+même assiette, le même taux et les mêmes modalités d'application que le droit de francisation et de navigation prévu aux
+articles 223 et 223 bis ci-dessus sur les navires français de la même catégorie. Toutefois, dans le cas des navires de
+plaisance ou de sport battant pavillon d'un pays ou territoire qui n'a pas conclu avec la France de convention fiscale
+comportant une clause d'échange de renseignements ou d'accord d'échange de renseignements ou qui figure sur la liste
+mentionnée au second alinéa du 1 de l'article 238-0 A du code général des impôts, le droit de passeport est perçu à un taux
+triple du droit de francisation et de navigation pour les navires d'une longueur de coque inférieure à 15 mètres et à un taux
+quintuple de ce droit pour les navires d'une longueur de coque supérieure ou égale à 15 mètres. 
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
 passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
@@ -8920,7 +8933,12 @@ d'établissement en France, à l'exclusion de celles qui seraient contrôlées d
 physique ayant sa résidence principale en France. 
 
 L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité de Corse un prélèvement pour frais
-d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
+d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général. 
+
+La part du produit du droit de passeport calculée selon le barème défini à l'article 223 bis est affectée, dans la limite du
+plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, aux organismes mentionnés
+à l'article L. 742-9 du code de la sécurité intérieure. Les modalités de répartition de l'affectation entre les organismes
+concernés sont définies par décret.
 
 **Liens relatifs à cet article**
 
@@ -8932,11 +8950,17 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-1 (MMN)
   - Code général des collectivités territoriales - art. L4425-22 (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 33
+
 _Cite_:
 
   - Code général des impôts, CGI. - art. 238-0 A
-  - Code des douanes - art. 223 (VD)
+  - Code des douanes - art. 223
   - Code des douanes - art. 237
+  - Code de la sécurité intérieure - art. L742-9
 
 
 ###### Article 239
