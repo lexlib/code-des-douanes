@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2017-12-30
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -5598,27 +5598,32 @@ produits en suspension de droits.
 
 II. - L'entrepositaire agréé est tenu :
 
-a) De fournir une caution solidaire afin de couvrir les risques inhérents à la production, à la transformation et à la
-détention des produits soumis à accise et garantissant le paiement des droits ;
+a) Lorsqu'il est titulaire d'une autorisation d'exploiter un entrepôt mentionné aux articles 158 A, 158 D ou 163, de fournir
+une caution solidaire afin de couvrir les risques inhérents à la production, à la transformation, à la détention et à
+l'expédition des produits soumis à accise et garantissant le paiement des droits ; 
+
+a bis) Lorsqu'il n'est pas titulaire d'une autorisation d'exploiter un entrepôt mentionné aux mêmes articles 158 A, 158 D ou
+163, de fournir une caution solidaire afin de couvrir les risques inhérents à l'expédition des produits soumis à accise ;
 
 b) De tenir, pour chaque entrepôt fiscal, une comptabilité des stocks et des mouvements de produits soumis à accise ;
 
 c) D'introduire dans son entrepôt fiscal et d'inscrire dans sa comptabilité, dès leur réception, tous les produits soumis à
 accise circulant sous un régime de suspension de droits ;
 
-d) De se prêter à tout contrôle et à toute vérification de ses stocks.
+d) De se prêter à tout contrôle et à toute vérification des stocks de l'entrepôt faisant l'objet du contrôle.
 
 III. - Le directeur général des douanes et droits indirects accorde la qualité d'entrepositaire agréé à la personne qui
 justifie être en mesure de remplir les obligations prévues au II. En cas de violation par l'entrepositaire de ses
 obligations, de défaillance de la caution ou de dénonciation par cette caution de son engagement, le directeur général des
 douanes et droits indirects peut retirer l'agrément.
 
-IV. - Les entrepositaires agréés redevables d'un montant annuel de taxe intérieure de consommation inférieur à un seuil fixé
-par arrêté du ministre chargé du budget sont dispensés de caution solidaire. 
+IV. - Lorsque le montant total des garanties prévues au II, demandées à l'ensemble des entrepôts pour lesquels une société
+dispose du statut d'entrepositaire agréé, est inférieur, pour l'ensemble de la société, à un seuil fixé par arrêté du
+ministre chargé du budget, cette société est dispensée de fournir la caution solidaire prévue au même II. La société adresse
+à l'autorité compétente une demande de dispense de caution solidaire conforme à un modèle établi par l'administration. 
 
-Le montant annuel de la taxe intérieure de consommation est constaté par année civile. Toutefois, la caution solidaire est
-fournie sans délai par les entrepositaires agréés dès que, au cours d'une année civile, ils deviennent redevables d'un
-montant égal ou supérieur au seuil mentionné au premier alinéa.
+Toutefois, l'entrepositaire agréé conserve l'obligation de fournir la caution solidaire au titre des mouvements de produits
+qui n'ont pas entièrement lieu sur le territoire métropolitain.
 
 **Liens relatifs à cet article**
 
@@ -5630,7 +5635,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1785 du 29 décembre 2015 - art. 85
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ###### Article 158 octodecies
@@ -5705,114 +5710,139 @@ _Cité par_:
 
 ###### Article 158 quaterdecies
 
-I. ― Pour l'application de l'article 158 terdecies, les produits en suspension de droits en provenance ou à destination d'un
-autre Etat membre de la Communauté européenne circulent, lorsqu'ils ne sont pas placés sous une procédure douanière
-suspensive ou sous un régime suspensif douanier, sous couvert d'un document d'accompagnement établi par l'expéditeur et
-permettant de vérifier leur situation au regard de l'impôt. 
-
-Le modèle et les conditions d'utilisation de ce document d'accompagnement sont fixés par le règlement (CEE) n° 2719/92 de la
-Commission du 11 septembre 1992 relatif au document administratif d'accompagnement lors de la circulation en régime de
-suspension des produits soumis à accise, modifié par le règlement (CEE) n° 2225/93 de la Commission du 27 juillet 1993. 
+I.-Pour l'application de l'article 158 terdecies, les mouvements de produits en suspension de droits en France, en provenance
+ou à destination d'un autre Etat membre de l'Union européenne, lorsque ces produits ne sont pas placés sous une procédure
+douanière suspensive ou sous un régime suspensif douanier, sont effectués sous le couvert d'un document administratif
+électronique établi par l'expéditeur conformément à l'article 158 septdecies.
 
 Ce document d'accompagnement est également requis pour les produits qui circulent en suspension de droits entre deux
 entrepôts suspensifs des droits d'accise situés en France via le territoire d'un autre Etat membre. 
 
 II. ― Les produits soumis à accise mis à la consommation conformément au a du I de l'article 158 quinquies ou qui sont
 exonérés ou exemptés des droits et les produits qui ont déjà été mis à la consommation en provenance ou à destination d'un
-autre Etat membre de la Communauté européenne dont le destinataire est une personne mentionnée au I de l'article 158
-unvicies, circulent sous couvert d'un document simplifié d'accompagnement établi par l'expéditeur dont le modèle et les
-conditions d'utilisation sont fixés par le règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992 relatif au
-document d'accompagnement simplifié pour la circulation intracommunautaire de produits soumis à accises, qui ont été mis à la
+autre Etat membre de l'Union européenne dont le destinataire est une personne mentionnée au I de l'article 158 unvicies,
+circulent sous couvert d'un document simplifié d'accompagnement établi par l'expéditeur dont le modèle et les conditions
+d'utilisation sont fixés par le règlement (CEE) n° 3649/92 de la Commission du 17 décembre 1992 relatif au document
+d'accompagnement simplifié pour la circulation intracommunautaire de produits soumis à accises, qui ont été mis à la
 consommation dans l'Etat membre de départ ; il en est de même pour les produits qui ont été mis à la consommation en France
-et qui sont expédiés en France via le territoire d'un autre Etat membre. 
+et qui sont expédiés en France via le territoire d'un autre Etat membre.
 
-III. ― Les documents d'accompagnement prévus aux I et II peuvent être établis au moyen du service de suivi informatique des
-mouvements de marchandises soumises à accises, sur autorisation du directeur général des douanes et droits indirects. 
+Ce document peut être établi au moyen du service de suivi informatique des mouvements de marchandises soumises à accises, sur
+autorisation du directeur général des douanes et droits indirects.
 
-Les dispositions mentionnées à l'article 158 septdecies sont applicables aux entrepositaires agréés ou aux expéditeurs
-enregistrés qui souhaitent utiliser ce service en France.
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 _Cité par_:
 
   - Décret n°2010-632 du 9 juin 2010 - art. 2 (V)
   - Décret n°2010-632 du 9 juin 2010 - art. 1 (V)
   - Arrêté du 14 janvier 2011 (V)
-  - Code des douanes - art. 158 quindecies (V)
+  - Code des douanes - art. 158 quindecies (VD)
   - Code des douanes - art. 158 sexdecies (VT)
+
+_Modifié par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 _Cite_:
 
-  - Code des douanes - art. 158 septdecies (V)
-  - Code des douanes - art. 158 terdecies (V)
+  - Code des douanes - art. 158 septdecies
+  - Code des douanes - art. 158 terdecies (VD)
 
 
 ###### Article 158 quindecies
 
 I. ― L'entrepositaire agréé ou l'expéditeur enregistré qui expédie des produits en suspension de droits peut modifier le
-document d'accompagnement mentionné au I de l'article 158 quaterdecies pour indiquer au verso soit un nouveau destinataire
-qui doit être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
+document d'accompagnement mentionné au I de l'article 158 quaterdecies pour indiquer soit un nouveau destinataire qui doit
+être un entrepositaire agréé ou un destinataire enregistré, soit un nouveau lieu de livraison. 
 
-II. ― L'entrepositaire agréé expéditeur ou l'expéditeur enregistré doit aviser immédiatement l'administration des douanes et
-droits indirects de ces changements.
+II. - (abrogé)
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 _Cite_:
 
-  - Code des douanes - art. 158 quaterdecies (V)
+  - Code des douanes - art. 158 quaterdecies (VD)
 
 
 ###### Article 158 quinquies
 
-I. ― L'impôt est exigible :
+I. ― Les produits soumis aux taxes intérieures de consommation prévues aux articles 265 et 266 quater sont soumis à l'impôt,
+selon le cas, au moment de leur production, y compris de leur extraction en France, ou de leur importation en France.
 
-a) Lors de la mise à la consommation en France. Le produit est mis à la consommation soit lorsqu'il cesse de bénéficier du
-régime suspensif, soit lorsqu'il est importé. L'importation s'entend de l'entrée en France en provenance de pays ou
-territoires non compris dans le territoire communautaire, ou de la sortie d'un régime douanier suspensif ; l'impôt est dû par
-la personne qui met à la consommation ;
+L'impôt est exigible lors de la mise à la consommation en France.
 
-b) Lors de la constatation de manquants ;
+Aux fins de l'application du présent article et sans préjudice de l'article 158 nonies, on entend par “ mise à la
+consommation ” :
 
-c) Lorsque les produits sont détenus en France à des fins commerciales alors qu'ils n'ont pas supporté l'impôt en France ;
-l'impôt est dû par le détenteur des produits.
+a) La sortie, y compris la sortie irrégulière, de produits soumis à accise d'un régime de suspension de droits. La personne
+redevable des droits d'accise devenus exigibles est :
+
+- l'entrepositaire agréé, le destinataire enregistré ou toute autre personne procédant à la sortie des produits soumis à
+accise du régime de suspension de droits ou pour le compte de laquelle il est procédé à cette sortie ou, en cas de sortie
+irrégulière de l'entrepôt fiscal, toute autre personne ayant participé à cette sortie ;
+
+- en cas d'irrégularité lors d'un mouvement de produits soumis à accise sous un régime de suspension de droits :
+l'entrepositaire agréé, l'expéditeur enregistré, toute autre personne ayant garanti le paiement des droits ou toute personne
+ayant participé à la sortie irrégulière et qui était consciente ou dont on peut raisonnablement penser qu'elle aurait dû être
+consciente du caractère irrégulier de la sortie ;
+
+b) La détention en dehors d'un régime de suspension de droits de produits soumis à accise pour lesquels le droit d'accise n'a
+pas été prélevé. La personne redevable des droits d'accise devenus exigibles est la personne détenant les produits soumis à
+accise ou toute autre personne ayant participé à leur détention ;
+
+c) La production, y compris la production irrégulière, de produits soumis à accise en dehors d'un régime de suspension de
+droits. La personne redevable des droits d'accise devenus exigibles est la personne produisant les produits soumis à accise
+ou, en cas de production irrégulière, toute autre personne ayant participé à leur production ;
+
+d) L'importation, y compris l'importation irrégulière, de produits soumis à accise, sauf si les produits soumis à accise sont
+placés, immédiatement après leur importation, sous un régime de suspension de droits. La personne redevable des droits
+d'accise devenus exigibles est la personne qui déclare les produits soumis à accise ou pour le compte de laquelle ils sont
+déclarés au moment de l'importation, ou, en cas d'importation irrégulière, toute autre personne ayant participé à
+l'importation.
 
 II. ― Lorsque plusieurs débiteurs sont redevables d'une même dette liée à un droit d'accise, ils sont tenus au paiement de
 cette dette à titre solidaire.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 _Cité par_:
 
-  - Code des douanes - art. 267 bis (M)
+  - Code des douanes - art. 267 bis (V)
 
 
 ###### Article 158 septdecies
 
-Dans les échanges intracommunautaires, les mouvements de produits soumis à accise sont effectués en suspension de droits
-s'ils sont réalisés sous le couvert d'un document administratif électronique établi par l'expéditeur dans les conditions
-prévues par le règlement (CE) n° 684/2009 de la Commission du 24 juillet 2009 mettant en œuvre la directive 2008/118/CE du
-Conseil en ce qui concerne les procédures informatisées applicables aux mouvements en suspension de droits de produits soumis
-à accise et selon des modalités fixées par voie réglementaire.
+En France et dans les échanges entre les Etats membres de l'Union européenne, les mouvements de produits soumis à accise
+effectués en suspension de droits sont réalisés sous le couvert d'un document administratif électronique établi par
+l'expéditeur dans les conditions prévues par le règlement (CE) n° 684/2009 de la Commission du 24 juillet 2009 mettant en
+œuvre la directive 2008/118/CE du Conseil en ce qui concerne les procédures informatisées applicables aux mouvements en
+suspension de droits de produits soumis à accise et selon des modalités fixées par voie réglementaire.
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
 
 _Cité par_:
 
@@ -5820,6 +5850,10 @@ _Cité par_:
   - Décret n°2010-632 du 9 juin 2010 - art. 2 (M)
   - Décret n°2010-632 du 9 juin 2010 - art. 3 (V)
   - Code des douanes - art. 158 quaterdecies (VD)
+
+_Modifié par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 _Cite_:
 
@@ -5864,30 +5898,6 @@ _Cité par_:
 _Cite_:
 
   - règlement CE n°31/96
-
-
-###### Article 158 sexdecies
-
-Dans les quinze premiers jours du mois suivant la réception, l'entrepositaire agréé ou le destinataire enregistré qui reçoit
-des produits en suspension de droits d'accise adresse à l'expéditeur l'exemplaire prévu à cet effet, dûment annoté et visé en
-tant que de besoin par l'administration des douanes et droits indirects, du document d'accompagnement mentionné au I de
-l'article 158 quaterdecies. 
-
-Il adresse un autre exemplaire de ce document à l'administration.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
-
-_Abrogé par_:
-
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
-
-_Cite_:
-
-  - Code des douanes - art. 158 quaterdecies
 
 
 ###### Article 158 sexies
@@ -5945,8 +5955,8 @@ _Créé par_:
 
 ###### Article 158 terdecies
 
-I. ― La circulation des produits en suspension de droits en provenance ou à destination d'un autre Etat membre de la
-Communauté européenne s'effectue soit :
+I. ― La circulation des produits en suspension de droits en France et dans les échanges entre les Etats membres de l'Union
+européenne s'effectue soit :
 
 1° Entre entrepositaires agréés ;
 
@@ -5954,25 +5964,31 @@ Communauté européenne s'effectue soit :
 
 3° Lorsque les produits sont exportés au sens de l'article 158 sexies.
 
-II. ― L'expédition de produits dans un autre Etat membre de la Communauté européenne par un entrepositaire agréé ou par un
+II. ― L'expédition de produits dans un autre Etat membre de l'Union européenne par un entrepositaire agréé ou par un
 expéditeur enregistré à la suite de leur mise en libre pratique s'effectue en suspension de droits lorsqu'elle est réalisée :
 
 1° Vers un destinataire enregistré ;
 
-2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 793 du règlement (CEE) n°
-2454/93 de la Commission du 2 juillet 1993 fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du
-Conseil établissant le code des douanes communautaire, qui n'est pas situé en France.
+2° Ou en vue d'une exportation par un bureau de douane de sortie, tel que défini à l'article 329 du règlement d'exécution
+(UE) 2015/2447 de la Commission du 24 novembre 2015 établissant les modalités d'application de certaines dispositions du
+règlement (UE) n° 952/2013 du Parlement européen et du Conseil établissant le code des douanes de l'Union, qui n'est pas
+situé en France.
+
+**Nota:**
+
+Conformément au II de l'article 57 de la loi n° 2016-1918 du 29 décembre 2016, les présentes dispositions entrent en vigueur
+le 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 57 (V)
 
 _Cité par_:
 
   - Décret n°2017-1887 du 29 décembre 2017 (V)
-  - Code des douanes - art. 158 quaterdecies (V)
+  - Code des douanes - art. 158 quaterdecies (VD)
 
 _Cite_:
 
@@ -6117,8 +6133,7 @@ des produits pétroliers peuvent faire l'objet.
 
 3. L'entrepositaire agréé, titulaire de l'autorisation d'exploiter, est responsable auprès de l'administration des douanes de
 toutes les opérations résultant du stockage des produits pétroliers et de l'application de la réglementation douanière et
-fiscale qui s'y rapporte. A ce titre, il est redevable de l'impôt lors de la constatation des manquants. Il est tenu de
-présenter une caution solvable.
+fiscale qui s'y rapporte. A ce titre, il est redevable de l'impôt lors de la constatation des manquants. 
 
 4. Il doit dans ce cadre :
 
@@ -6137,14 +6152,14 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
-
-  - Loi n°92-677 du 17 juillet 1992 - art. 98 () JORF 19 juillet 1992 en vigueur le 1er janvier 1993
-
 _Cité par_:
 
   - Décret n°97-1195 du 24 décembre 1997 - art. 5 (V)
   - Code des douanes - art. 158 D (V)
+
+_Modifié par_:
+
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
 
 
 ###### Article 158 C
@@ -8015,10 +8030,10 @@ la charge des propriétaires, au 1er janvier de l'année considérée.
 
 L'assiette, le taux et les modalités d'application de ce droit sont fixés comme suit : 
 
-<table width="650" align="center" border="1" cellspacing="0" cellpadding="0">
+<table width="650" border="1" cellspacing="0" cellpadding="0" align="center">
   <tbody>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 TONNAGE BRUT
 
@@ -8032,8 +8047,8 @@ QUOTITÉ DU DROIT
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
-      </td><td width="307" valign="top">
+      <td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 I.-Navires de commerce
 
@@ -8045,7 +8060,7 @@ I.-Navires de commerce
 De tout tonnage
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Exonération
 
@@ -8072,7 +8087,7 @@ Exonération
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
       </td><td width="307" valign="top">
 
 III.-Navires de plaisance ou de sport
@@ -8093,7 +8108,7 @@ a) Droit sur la coque
 De moins de 7 mètres
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 Exonération
 
@@ -8105,14 +8120,14 @@ Exonération
 De 7 mètres inclus à 8 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 77 euros
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 8 mètres inclus à 9 mètres exclus
 
@@ -8124,19 +8139,19 @@ De 8 mètres inclus à 9 mètres exclus
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 9 mètres inclus à 10 mètres exclus
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 178 euros
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 10 mètres inclus à 11 mètres exclus
 
@@ -8160,7 +8175,7 @@ De 11 mètres inclus à 12 mètres exclus
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 12 mètres inclus à 15 mètres exclus
 
@@ -8172,12 +8187,12 @@ De 12 mètres inclus à 15 mètres exclus
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 De 15 mètres et plus
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 886 euros
 
@@ -8185,26 +8200,26 @@ De 15 mètres et plus
     </tr>
     <tr>
       <td width="307" valign="top">
-      </td><td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 b) Droit sur le moteur des navires (puissance administrative)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Jusqu'à 5 CV inclusivement
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 Exonération
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 De 6 à 8 CV
 
@@ -8216,24 +8231,24 @@ De 6 à 8 CV
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 De 9 à 10 CV
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 16 euros par CV au-dessus du cinquième
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 De 11 à 20 CV
 
 </td>
-      <td valign="top" width="307">
+      <td width="307" valign="top">
 
 35 euros par CV au-dessus du cinquième
 
@@ -8257,7 +8272,7 @@ De 21 à 25 CV
 De 26 à 50 CV
 
 </td>
-      <td width="307" valign="top">
+      <td valign="top" width="307">
 
 44 euros par CV au-dessus du cinquième
 
@@ -8276,16 +8291,16 @@ De 51 à 99 CV
 </td>
     </tr>
     <tr>
-      <td valign="top" width="307">
-      </td><td width="307" valign="top">
+      <td width="307" valign="top">
+      </td><td valign="top" width="307">
 
 c) Taxe spéciale
 
 </td>
     </tr>
     <tr>
-      <td width="307" valign="top">
-      </td><td valign="top" width="307">
+      <td valign="top" width="307">
+      </td><td width="307" valign="top">
 
 Pour les moteurs ayant une puissance administrative égale ou supérieure à 100 CV, le droit prévu au b est remplacé par une
 taxe spéciale de 64 euros par CV. 
@@ -8312,8 +8327,8 @@ taxe spéciale de 64 euros par CV.
 </table>
 
 Toutefois, pour les navires de plaisance francisés dont le port d'attache est situé en Corse et qui ont stationné dans un
-port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité territoriale de Corse
-et doit être compris entre 50 % et 90 % du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
+port corse au moins une fois au cours de l'année écoulée, le taux du droit est fixé par la collectivité de Corse et doit être
+compris entre 50 % et 90 % du taux prévu dans le tableau ci-dessus pour la même catégorie de navire.
 
 **Nota:**
 
@@ -8337,34 +8352,162 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-1978 du 28 décembre 2011 - art. 70 (V)
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
+
+
+###### Article 223 bis
+
+Pour les navires de plaisance et de sport d'une longueur égale ou supérieure à 30 mètres et d'une puissance propulsive égale
+ou supérieure à 750 kW, le montant annuel de francisation et de navigation est, par dérogation à l'article 223, fixé comme
+suit :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th> </th>
+      <th colspan="4">
+
+Puissance</th>
+    </tr>
+    <tr>
+      <th>
+
+Longueur</th>
+      <th>
+
+750 kW inclus à 1 000 kW exclus</th>
+      <th>
+
+1 000 kW inclus à 1 200 kW exclus</th>
+      <th>
+
+1 200 kW inclus à 1 500 kW exclus</th>
+      <th>
+
+1 500 kW et plus</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+30 mètres inclus à 40 mètres exclus</td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+30 000 €</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+40 mètres inclus à 50 mètres exclus</td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+75 000 €</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+50 mètres inclus à 60 mètres exclus</td>
+      <td align="center">
+
+- </td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+75 000 €</td>
+      <td align="center">
+
+100 000 €</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+60 mètres inclus à 70 mètres exclus</td>
+      <td align="center">
+
+- </td>
+      <td align="center">
+
+30 000 €</td>
+      <td align="center">
+
+75 000 €</td>
+      <td align="center">
+
+150 000 €</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+70 mètres et plus</td>
+      <td align="center">
+
+- </td>
+      <td align="center">
+
+75 000 €</td>
+      <td align="center">
+
+150 000 €</td>
+      <td align="center">
+
+200 000 €</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour les navires pour lesquels aucune somme n'est renseignée, le montant est calculé conformément à l'article 223.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 33
 
 
 ###### Article 224
 
 1. A l'exception du produit afférent aux navires de plaisance mentionnés au dernier alinéa de l'article 223, perçu au profit
-de la collectivité territoriale de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans
-la limite du plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au
-Conservatoire de l'espace littoral et des rivages lacustres. 
+de la collectivité de Corse, le montant du produit du droit de francisation et de navigation est affecté, dans la limite du
+plafond fixé au I de l'article 46 de la loi n° 2011-1977 du 28 décembre 2011 de finances pour 2012, au Conservatoire de
+l'espace littoral et des rivages lacustres.
 
-L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité territoriale de
-Corse un prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est
-affecté au budget général. 
+L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité de Corse un
+prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au
+budget général.
 
 En complément de l'éco-contribution versée par les metteurs sur le marché de navires de plaisance ou de sport à un éco-
 organisme dans le cadre de la filière définie à l'article L. 541-10-10 du code de l'environnement, une quote-part du produit
 brut du droit annuel de francisation et de navigation est affectée à la gestion de la fin de vie des navires de plaisance ou
 de sport qui ne sont plus utilisés régulièrement et dont les propriétaires n'assument plus les charges afférentes. Cette
 quote-part est plafonnée à 5 % du produit brut de la taxe. Son montant et l'organisme affectataire sont fixés annuellement
-par la loi de finances. 
+par la loi de finances.
 
-Il est recouvré par année civile. 
+Il est recouvré par année civile.
 
 En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par décret,
 une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
-lorsque son montant excède 8 euros. 
+lorsque son montant excède 8 euros.
 
-2. (Abrogé). 
+2. (Abrogé).
 
 3. Sont exonérés du droit de francisation et de navigation :
 
@@ -8375,7 +8518,7 @@ l'Etat dans le département ;
 
 - les bateaux classés au titre des monuments historiques conformément à l'article L. 622-1 du code du patrimoine ;
 
-- les bateaux ayant reçu le label " bateau d'intérêt patrimonial ", dans des conditions fixées par décret. 
+- les bateaux ayant reçu le label " bateau d'intérêt patrimonial ", dans des conditions fixées par décret.
 
 4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
 navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
@@ -8384,7 +8527,7 @@ navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
 - 55 % pour les bateaux de 20 à 25 ans ;
 
-- 80 % pour le bateaux de plus de 25 ans. 
+- 80 % pour le bateaux de plus de 25 ans.
 
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 76
 euros.
@@ -8420,15 +8563,6 @@ _Cite_:
   - Code des douanes - art. 223
   - Code de l'environnement - art. L541-10-10
   - Code du patrimoine - art. L122-1
-
-_Modifié par_:
-
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (VT)
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 123
-
-_Abrogé par_:
-
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 123
 
 
 ###### Article 225
@@ -8693,14 +8827,14 @@ navires d'une longueur de coque supérieure ou égale à 15 mètres.
 
 Le droit de passeport est perçu au profit de l'Etat ou, lorsqu'il est perçu au titre des navires de plaisance titulaires d'un
 passeport délivré par le service des douanes en Corse et qui ont stationné dans un port corse au moins une fois au cours de
-l'année écoulée, au profit de la collectivité territoriale de Corse. Sont exonérées de droit de passeport les sociétés
-propriétaires d'un navire de plaisance ou de sport faisant l'objet d'un contrat de location avec option d'achat ou de crédit-
-bail conclu avec une personne physique n'ayant pas sa résidence principale en France ou avec une personne morale ne disposant
-pas d'établissement en France, à l'exclusion de celles qui seraient contrôlées directement ou indirectement par une personne
+l'année écoulée, au profit de la collectivité de Corse. Sont exonérées de droit de passeport les sociétés propriétaires d'un
+navire de plaisance ou de sport faisant l'objet d'un contrat de location avec option d'achat ou de crédit-bail conclu avec
+une personne physique n'ayant pas sa résidence principale en France ou avec une personne morale ne disposant pas
+d'établissement en France, à l'exclusion de celles qui seraient contrôlées directement ou indirectement par une personne
 physique ayant sa résidence principale en France. 
 
-L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité territoriale de Corse un prélèvement
-pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
+L'Etat perçoit sur le produit du droit de passeport perçu au profit de la collectivité de Corse un prélèvement pour frais
+d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général.
 
 **Liens relatifs à cet article**
 
@@ -8711,15 +8845,11 @@ _Cité par_:
   - Code général des collectivités territoriales - art. L4425-1 (MMN)
   - Code général des collectivités territoriales - art. L4425-22 (V)
 
-_Modifié par_:
-
-  - Loi n°2016-816 du 20 juin 2016 - art. 4
-
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 238-0 A (V)
-  - Code des douanes - art. 223
-  - Code des douanes - art. 237 (V)
+  - Code général des impôts, CGI. - art. 238-0 A
+  - Code des douanes - art. 223 (VD)
+  - Code des douanes - art. 237
 
 
 ###### Article 239
@@ -9292,13 +9422,13 @@ _Codifié par_:
 ###### Article 265
 
 1. Les produits énergétiques repris aux tableaux B et C ci-après, mis en vente, utilisés ou destinés à être utilisés comme
-carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit : 
+carburant ou combustible sont passibles d'une taxe intérieure de consommation dont les tarifs sont fixés comme suit :
 
-Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992). 
+Tableau A (abrogé par l'article 43 de la loi de finances rectificative n° 92-1476 du 31 décembre 1992).
 
-Tableau B : Produits pétroliers et assimilés. 
+Tableau B : Produits pétroliers et assimilés.
 
-1° Nomenclature et tarif. 
+1° Nomenclature et tarif.
 
 <table border="1" cellpadding="0">
   <tbody>
@@ -9312,27 +9442,21 @@ Tableau B : Produits pétroliers et assimilés.
 </td>
       <td>
 
-**
-
-INDICE **
+**INDICE **
 
 **d'identification **
 
 </td>
       <td>
 
-**
-
-UNITÉ **
+**UNITÉ **
 
 **de perception **
 
 </td>
       <td colspan="4">
 
-**
-
-TARIF **
+**TARIF **
 
 **(en euros) **
 
@@ -9344,35 +9468,29 @@ TARIF **
       </td><td>
       </td><td>
 
-**
-
-2014 **
+**2014 **
 
 </td>
       <td>
 
-**
-
-2015 **
+**2015 **
 
 </td>
       <td>
 
-**
-
-2016 **
+**2016 **
 
 </td>
-      <td valign="bottom">
+      <td>
 
-**2017**
+**2017 **
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ex 2706-00 
+Ex 2706-00
 
 </td>
       <td>
@@ -9380,7 +9498,7 @@ Ex 2706-00
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
@@ -9388,32 +9506,32 @@ Ex 2706-00
       <td>
 
 Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons
-reconstitués, utilisés comme combustibles. 
+reconstitués, utilisés comme combustibles.
 
 </td>
       <td>
 
-1 
+1
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-1,58 
+1,58
 
 </td>
       <td>
 
-3,28 
+3,28
 
 </td>
       <td>
 
-4,97 
+4,97
 
 </td>
       <td>
@@ -9425,7 +9543,7 @@ reconstitués, utilisés comme combustibles.
     <tr>
       <td>
 
-Ex 2707-50 
+Ex 2707-50
 
 </td>
       <td>
@@ -9433,7 +9551,7 @@ Ex 2707-50
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
@@ -9441,32 +9559,32 @@ Ex 2707-50
       <td>
 
 Mélanges à forte teneur en hydrocarbures aromatiques distillant 65 % ou plus de leur volume (y compris les pertes) à 250° C
-d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles. 
+d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou combustibles.
 
 </td>
       <td>
 
-2 
+2
 
 </td>
       <td>
 
-Hectolitre ou 100 kg nets suivant les caractéristiques du produit 
+Hectolitre ou 100 kg nets suivant les caractéristiques du produit
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
@@ -9478,7 +9596,7 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
     <tr>
       <td>
 
-2709-00 
+2709-00
 
 </td>
       <td>
@@ -9486,39 +9604,39 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-Huiles brutes de pétrole ou de minéraux bitumineux. 
+Huiles brutes de pétrole ou de minéraux bitumineux.
 
 </td>
       <td>
 
-3 
+3
 
 </td>
       <td>
 
-Hectolitre ou 100 kg nets suivant les caractéristiques du produit 
+Hectolitre ou 100 kg nets suivant les caractéristiques du produit
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit 
+Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit 
+Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit 
+Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit
 
 </td>
       <td>
@@ -9530,7 +9648,7 @@ Taxe intérieure de consommation applicable aux huiles légères du 2710, suivan
     <tr>
       <td>
 
-2710 
+2710
 
 </td>
       <td>
@@ -9538,7 +9656,7 @@ Taxe intérieure de consommation applicable aux huiles légères du 2710, suivan
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
@@ -9547,7 +9665,7 @@ Taxe intérieure de consommation applicable aux huiles légères du 2710, suivan
 
 Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises ailleurs,
 contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l'élément de
-base, autres que les déchets : 
+base, autres que les déchets :
 
 </td>
       <td>
@@ -9555,29 +9673,14 @@ base, autres que les déchets :
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
---huiles légères et préparations : 
-
-</td>
-      <td>
       </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td valign="top">
 
 </td>
     </tr>
     <tr>
       <td>
 
----essences spéciales : 
+--huiles légères et préparations :
 
 </td>
       <td>
@@ -9585,34 +9688,49 @@ base, autres que les déchets :
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-----white spirit destiné à être utilisé comme combustible ; 
+---essences spéciales :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+----white spirit destiné à être utilisé comme combustible ;
 
 </td>
       <td>
 
-4 bis 
+4 bis
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-5,66 
+5,66
 
 </td>
       <td>
 
-7,87 
+7,87
 
 </td>
       <td>
@@ -9629,7 +9747,7 @@ Hectolitre
     <tr>
       <td>
 
-----autres essences spéciales : 
+----autres essences spéciales :
 
 </td>
       <td>
@@ -9644,27 +9762,27 @@ Hectolitre
     <tr>
       <td>
 
------destinées à être utilisées comme carburants ou combustibles ; 
+-----destinées à être utilisées comme carburants ou combustibles ;
 
 </td>
       <td>
 
-6 
+6
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-58,92 
+58,92
 
 </td>
       <td>
 
-60,64 
+60,64
 
 </td>
       <td>
@@ -9681,23 +9799,23 @@ Hectolitre
     <tr>
       <td>
 
------autres ; 
+-----autres ;
 
 </td>
       <td>
 
-9 
+9
 
 </td>
       <td>
       </td><td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
@@ -9714,7 +9832,7 @@ Exemption
     <tr>
       <td>
 
----autres huiles légères et préparations : 
+---autres huiles légères et préparations :
 
 </td>
       <td>
@@ -9729,7 +9847,7 @@ Exemption
     <tr>
       <td>
 
-----essences pour moteur : 
+----essences pour moteur :
 
 </td>
       <td>
@@ -9744,27 +9862,27 @@ Exemption
     <tr>
       <td>
 
------essence d'aviation ; 
+-----essence d'aviation ;
 
 </td>
       <td>
 
-10 
+10
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-35,90 
+35,90
 
 </td>
       <td>
 
-37,81 
+37,81
 
 </td>
       <td>
@@ -9788,22 +9906,22 @@ carbone, ou plus, par molécule et d'une teneur en oxygène maximale de 2,7 % en
 </td>
       <td>
 
-11 
+11
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-60,69 
+60,69
 
 </td>
       <td>
 
-62,41 
+62,41
 
 </td>
       <td>
@@ -9827,22 +9945,22 @@ autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accor
 </td>
       <td>
 
-11 bis 
+11 bis
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-63,96 
+63,96
 
 </td>
       <td>
 
-65,68 
+65,68
 
 </td>
       <td>
@@ -9861,27 +9979,27 @@ Hectolitre
 
 -----supercarburant d'une teneur en plomb n'excédant pas 0,005 g/ litre, autre que les supercarburants correspondant aux
 indices d'identification 11 et 11 bis, et contenant jusqu'à 10 % volume/ volume d'éthanol, 22 % volume/ volume d'éthers
-contenant 5 atomes de carbone, ou plus, par molécule et d'une teneur en oxygène maximale de 3,7 % en masse/ masse d'oxygène. 
+contenant 5 atomes de carbone, ou plus, par molécule et d'une teneur en oxygène maximale de 3,7 % en masse/ masse d'oxygène.
 
 </td>
       <td>
 
-11 ter 
+11 ter
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-60,69 
+60,69
 
 </td>
       <td>
 
-62,41 
+62,41
 
 </td>
       <td>
@@ -9898,7 +10016,7 @@ Hectolitre
     <tr>
       <td>
 
-----carburéacteurs, type essence : 
+----carburéacteurs, type essence :
 
 </td>
       <td>
@@ -9906,34 +10024,34 @@ Hectolitre
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
------carburant utilisé pour les moteurs d'avions ; 
+-----carburant utilisé pour les moteurs d'avions ;
 
 </td>
       <td>
 
-13 bis 
+13 bis
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-30,20 
+30,20
 
 </td>
       <td>
 
-32,11 
+32,11
 
 </td>
       <td>
@@ -9950,27 +10068,27 @@ Hectolitre
     <tr>
       <td>
 
------autres ; 
+-----autres ;
 
 </td>
       <td>
 
-13 ter 
+13 ter
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-58,92 
+58,92
 
 </td>
       <td>
 
-60,83 
+60,83
 
 </td>
       <td>
@@ -9987,27 +10105,27 @@ Hectolitre
     <tr>
       <td>
 
-----autres huiles légères ; 
+----autres huiles légères ;
 
 </td>
       <td>
 
-15 
+15
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-58,92 
+58,92
 
 </td>
       <td>
 
-60,64 
+60,64
 
 </td>
       <td>
@@ -10015,7 +10133,7 @@ Hectolitre
 62,35
 
 </td>
-      <td valign="top">
+      <td>
 
 64,30
 
@@ -10024,7 +10142,7 @@ Hectolitre
     <tr>
       <td>
 
---huiles moyennes : 
+--huiles moyennes :
 
 </td>
       <td>
@@ -10032,49 +10150,49 @@ Hectolitre
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
----pétrole lampant : 
-
-</td>
-      <td>
       </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td valign="top">
 
 </td>
     </tr>
     <tr>
       <td>
 
-----destiné à être utilisé comme combustible : 
+---pétrole lampant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+----destiné à être utilisé comme combustible :
 
 </td>
       <td>
 
-15 bis 
+15 bis
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-5,66 
+5,66
 
 </td>
       <td>
 
-7,57 
+7,57
 
 </td>
       <td>
@@ -10091,27 +10209,27 @@ Hectolitre
     <tr>
       <td>
 
------autres ; 
+-----autres ;
 
 </td>
       <td>
 
-16 
+16
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-41,69 
+41,69
 
 </td>
       <td>
 
-43,60 
+43,60
 
 </td>
       <td>
@@ -10128,7 +10246,7 @@ Hectolitre
     <tr>
       <td>
 
----carburéacteurs, type pétrole lampant : 
+---carburéacteurs, type pétrole lampant :
 
 </td>
       <td>
@@ -10143,27 +10261,27 @@ Hectolitre
     <tr>
       <td>
 
-----carburant utilisé pour les moteurs d'avions ; 
+----carburant utilisé pour les moteurs d'avions ;
 
 </td>
       <td>
 
-17 bis 
+17 bis
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-30,20 
+30,20
 
 </td>
       <td>
 
-32,11 
+32,11
 
 </td>
       <td>
@@ -10180,64 +10298,27 @@ Hectolitre
     <tr>
       <td>
 
----autres ; 
+---autres ;
 
 </td>
       <td>
 
-17 ter 
+17 ter
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-41,69 
+41,69
 
 </td>
       <td>
 
-43,60 
-
-</td>
-      <td>
-
-45,51
-
-</td>
-      <td>
-
-47,68
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
----autres huiles moyennes ; 
-
-</td>
-      <td>
-
-18 
-
-</td>
-      <td>
-
-Hectolitre 
-
-</td>
-      <td>
-
-41,69 
-
-</td>
-      <td>
-
-43,60 
+43,60
 
 </td>
       <td>
@@ -10254,7 +10335,44 @@ Hectolitre
     <tr>
       <td>
 
---huiles lourdes : 
+---autres huiles moyennes ;
+
+</td>
+      <td>
+
+18
+
+</td>
+      <td>
+
+Hectolitre
+
+</td>
+      <td>
+
+41,69
+
+</td>
+      <td>
+
+43,60
+
+</td>
+      <td>
+
+45,51
+
+</td>
+      <td>
+
+47,68
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+--huiles lourdes :
 
 </td>
       <td>
@@ -10269,7 +10387,7 @@ Hectolitre
     <tr>
       <td>
 
----gazole : 
+---gazole :
 
 </td>
       <td>
@@ -10284,27 +10402,27 @@ Hectolitre
     <tr>
       <td>
 
-----destiné à être utilisé comme carburant sous condition d'emploi ; 
+----destiné à être utilisé comme carburant sous condition d'emploi ;
 
 </td>
       <td>
 
-20 
+20
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-8,86 
+8,86
 
 </td>
       <td>
 
-10,84 
+10,84
 
 </td>
       <td>
@@ -10321,27 +10439,27 @@ Hectolitre
     <tr>
       <td>
 
-----fioul domestique ; 
+----fioul domestique ;
 
 </td>
       <td>
 
-21 
+21
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-5,66 
+5,66
 
 </td>
       <td>
 
-7,64 
+7,64
 
 </td>
       <td>
@@ -10358,27 +10476,27 @@ Hectolitre
     <tr>
       <td>
 
-----autres ; 
+----autres ;
 
 </td>
       <td>
 
-22 
+22
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-42,84 
+42,84
 
 </td>
       <td>
 
-46,82 
+46,82
 
 </td>
       <td>
@@ -10393,44 +10511,29 @@ Hectolitre
 </td>
     </tr>
     <tr>
-      <td align="center">----gazole B10 (1) </td>
-      <td align="center">22 bis </td>
-      <td align="center">Hectolitre</td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">53,07 </td>
-    </tr>
-    <tr>
       <td>
 
-----fioul lourd ; 
+----fioul lourd ;
 
 </td>
       <td>
 
-24 
+24
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-2,19 
+2,19
 
 </td>
       <td>
 
-4,53 
+4,53
 
 </td>
       <td>
@@ -10447,32 +10550,32 @@ Hectolitre
     <tr>
       <td>
 
----huiles lubrifiantes et autres. 
+---huiles lubrifiantes et autres.
 
 </td>
       <td>
 
-29 
+29
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
@@ -10484,7 +10587,7 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
     <tr>
       <td>
 
-2711-12 
+2711-12
 
 </td>
       <td>
@@ -10492,14 +10595,14 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % : 
+Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :
 
 </td>
       <td>
@@ -10507,7 +10610,7 @@ Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
@@ -10515,7 +10618,7 @@ Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :
       <td>
 
 --destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane
-représente plus de 50 % en poids) : 
+représente plus de 50 % en poids) :
 
 </td>
       <td>
@@ -10523,34 +10626,34 @@ représente plus de 50 % en poids) :
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
----sous condition d'emploi ; 
+---sous condition d'emploi ;
 
 </td>
       <td>
 
-30 bis 
+30 bis
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-4,68 
+4,68
 
 </td>
       <td>
 
-6,92 
+6,92
 
 </td>
       <td>
@@ -10567,27 +10670,27 @@ représente plus de 50 % en poids) :
     <tr>
       <td>
 
---autres ; 
+--autres ;
 
 </td>
       <td>
 
-30 ter 
+30 ter
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-10,76 
+10,76
 
 </td>
       <td>
 
-13,00 
+13,00
 
 </td>
       <td>
@@ -10604,28 +10707,28 @@ représente plus de 50 % en poids) :
     <tr>
       <td>
 
---destiné à d'autres usages. 
+--destiné à d'autres usages.
 
 </td>
       <td>
 
-31 
+31
 
 </td>
       <td>
       </td><td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
@@ -10637,7 +10740,7 @@ Exemption
     <tr>
       <td>
 
-2711-13 
+2711-13
 
 </td>
       <td>
@@ -10652,7 +10755,7 @@ Exemption
     <tr>
       <td>
 
-Butanes liquéfiés : 
+Butanes liquéfiés :
 
 </td>
       <td>
@@ -10668,7 +10771,7 @@ Butanes liquéfiés :
       <td>
 
 --destinés à être utilisés comme carburant (y compris le mélange spécial de butane et de propane dans lequel le butane
-représente au moins 50 % en poids) : 
+représente au moins 50 % en poids) :
 
 </td>
       <td>
@@ -10683,27 +10786,27 @@ représente au moins 50 % en poids) :
     <tr>
       <td>
 
----sous condition d'emploi ; 
+---sous condition d'emploi ;
 
 </td>
       <td>
 
-31 bis 
+31 bis
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-4,68 
+4,68
 
 </td>
       <td>
 
-6,92 
+6,92
 
 </td>
       <td>
@@ -10720,27 +10823,27 @@ représente au moins 50 % en poids) :
     <tr>
       <td>
 
----autres ; 
+---autres ;
 
 </td>
       <td>
 
-31 ter 
+31 ter
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-10,76 
+10,76
 
 </td>
       <td>
 
-13,00 
+13,00
 
 </td>
       <td>
@@ -10757,28 +10860,28 @@ représente au moins 50 % en poids) :
     <tr>
       <td>
 
---destinés à d'autres usages. 
+--destinés à d'autres usages.
 
 </td>
       <td>
 
-32 
+32
 
 </td>
       <td>
       </td><td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
@@ -10790,7 +10893,7 @@ Exemption
     <tr>
       <td>
 
-2711-14 
+2711-14
 
 </td>
       <td>
@@ -10798,44 +10901,44 @@ Exemption
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-Ethylène, propylène, butylène et butadiène. 
+Ethylène, propylène, butylène et butadiène.
 
 </td>
       <td>
 
-33 
+33
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -10844,7 +10947,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-2711-19 
+2711-19
 
 </td>
       <td>
@@ -10852,29 +10955,14 @@ conformément au 3 du présent article
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Autres gaz de pétrole liquéfiés : 
-
-</td>
-      <td>
       </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td valign="top">
 
 </td>
     </tr>
     <tr>
       <td>
 
---destinés à être utilisés comme carburant : 
+Autres gaz de pétrole liquéfiés :
 
 </td>
       <td>
@@ -10882,34 +10970,49 @@ Autres gaz de pétrole liquéfiés :
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
----sous condition d'emploi ; 
+--destinés à être utilisés comme carburant :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+---sous condition d'emploi ;
 
 </td>
       <td>
 
-33 bis 
+33 bis
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-4,68 
+4,68
 
 </td>
       <td>
 
-6,92 
+6,92
 
 </td>
       <td>
@@ -10926,27 +11029,27 @@ Autres gaz de pétrole liquéfiés :
     <tr>
       <td>
 
----autres. 
+---autres.
 
 </td>
       <td>
 
-34 
+34
 
 </td>
       <td>
 
-100 kg nets 
+100 kg nets
 
 </td>
       <td>
 
-10,76 
+10,76
 
 </td>
       <td>
 
-13,00 
+13,00
 
 </td>
       <td>
@@ -10963,7 +11066,7 @@ Autres gaz de pétrole liquéfiés :
     <tr>
       <td>
 
-2711-21 
+2711-21
 
 </td>
       <td>
@@ -10978,7 +11081,7 @@ Autres gaz de pétrole liquéfiés :
     <tr>
       <td>
 
-Gaz naturel à l'état gazeux : 
+Gaz naturel à l'état gazeux :
 
 </td>
       <td>
@@ -10993,69 +11096,32 @@ Gaz naturel à l'état gazeux :
     <tr>
       <td>
 
---destiné à être utilisé comme carburant ; 
+--destiné à être utilisé comme carburant ;
 
 </td>
       <td>
 
-36 
+36
 
 </td>
       <td>
 
-100 m³ 
+100 m ³
 
 </td>
       <td>
 
-1,49 
+1,49
 
 </td>
       <td>
 
-3,09 
+3,09
 
 </td>
       <td>
 
 3,99
-
-</td>
-      <td>
-
-5,80
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
---destiné, sous condition d'emploi, à alimenter des moteurs stationnaires, y compris dans le cadre d'essais. 
-
-</td>
-      <td>
-
-36 bis 
-
-</td>
-      <td>
-
-100 m³ 
-
-</td>
-      <td>
-
-1,49 
-
-</td>
-      <td>
-
-3,09 
-
-</td>
-      <td>
-
-4,69 
 
 </td>
       <td>
@@ -11067,22 +11133,44 @@ Gaz naturel à l'état gazeux :
     <tr>
       <td>
 
-2711-29 
+--destiné, sous condition d'emploi, à alimenter des moteurs stationnaires, y compris dans le cadre d'essais.
 
 </td>
       <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td valign="top">
+
+36 bis
+
+</td>
+      <td>
+
+100 m ³
+
+</td>
+      <td>
+
+1,49
+
+</td>
+      <td>
+
+3,09
+
+</td>
+      <td>
+
+4,69
+
+</td>
+      <td>
+
+6,50
 
 </td>
     </tr>
     <tr>
       <td>
 
-Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux : 
+2711-29
 
 </td>
       <td>
@@ -11090,36 +11178,39 @@ Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
---destinés à être utilisés comme carburant ; 
+Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :
+
+</td>
+      <td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+      </td><td>
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+--destinés à être utilisés comme carburant ;
 
 </td>
       <td>
 
-38 bis 
+38 bis
 
 </td>
       <td>
 
-100 m ³ 
-
-</td>
-      <td>
-
-Taxe intérieure de consommation applicable aux produits mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non
-utilisés sous condition d'emploi 
-
-</td>
-      <td>
-
-Taxe intérieure de consommation applicable aux produits mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non
-utilisés sous condition d'emploi 
+100 m ³
 
 </td>
       <td>
@@ -11128,11 +11219,23 @@ Taxe intérieure de consommation applicable aux produits mentionnés aux indices
 utilisés sous condition d'emploi
 
 </td>
-      <td valign="top">
+      <td>
 
-Taxe intérieure de consommation applicable aux produits 
+Taxe intérieure de consommation applicable aux produits mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non
+utilisés sous condition d'emploi
 
-mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non utilisés 
+</td>
+      <td>
+
+Taxe intérieure de consommation applicable aux produits mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non
+utilisés sous condition d'emploi
+
+</td>
+      <td>
+
+Taxe intérieure de consommation applicable aux produits
+
+mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non utilisés
 
 sous condition d'emploi
 
@@ -11146,23 +11249,23 @@ sous condition d'emploi
 </td>
       <td>
 
-39 
+39
 
 </td>
       <td>
       </td><td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
 
-Exemption 
+Exemption
 
 </td>
       <td>
@@ -11174,7 +11277,7 @@ Exemption
     <tr>
       <td>
 
-2712-10 
+2712-10
 
 </td>
       <td>
@@ -11182,40 +11285,40 @@ Exemption
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
-Vaseline. 
+Vaseline.
 
 </td>
       <td>
 
-40 
+40
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11224,7 +11327,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-2712-20 
+2712-20
 
 </td>
       <td>
@@ -11239,33 +11342,33 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Paraffine contenant en poids moins de 0,75 % d'huile. 
+Paraffine contenant en poids moins de 0,75 % d'huile.
 
 </td>
       <td>
 
-41 
+41
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11274,7 +11377,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Ex 2712-90 
+Ex 2712-90
 
 </td>
       <td>
@@ -11289,33 +11392,33 @@ Ex 2712-90
     <tr>
       <td>
 
-Paraffine (autre que celle mentionnée au 2712-20), cires de pétrole et résidus paraffineux, même colorés. 
+Paraffine (autre que celle mentionnée au 2712-20), cires de pétrole et résidus paraffineux, même colorés.
 
 </td>
       <td>
 
-42 
+42
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11324,7 +11427,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-2713-20 
+2713-20
 
 </td>
       <td>
@@ -11339,33 +11442,33 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Bitumes de pétrole. 
+Bitumes de pétrole.
 
 </td>
       <td>
 
-46 
+46
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11374,7 +11477,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-2713-90 
+2713-90
 
 </td>
       <td>
@@ -11389,33 +11492,33 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Autres résidus des huiles de pétrole ou de minéraux bitumineux. 
+Autres résidus des huiles de pétrole ou de minéraux bitumineux.
 
 </td>
       <td>
 
-46 bis 
+46 bis
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11424,7 +11527,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Autres. 
+Autres.
 
 </td>
       <td>
@@ -11439,7 +11542,7 @@ Autres.
     <tr>
       <td>
 
-2715-00 
+2715-00
 
 </td>
       <td>
@@ -11455,33 +11558,33 @@ Autres.
       <td>
 
 Mélanges bitumeux à base d'asphalte ou de bitume naturel, de bitume de pétrole, de goudrons minéraux ou de brai de goudron
-minéral. 
+minéral.
 
 </td>
       <td>
 
-47 
+47
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11490,7 +11593,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-3403-11 
+3403-11
 
 </td>
       <td>
@@ -11506,33 +11609,33 @@ conformément au 3 du présent article
       <td>
 
 Préparations pour le traitement des matières textiles, du cuir, des pelleteries ou d'autres matières, contenant moins de 70 %
-en poids d'huiles de pétrole ou de minéraux bitumeux. 
+en poids d'huiles de pétrole ou de minéraux bitumeux.
 
 </td>
       <td>
 
-48 
+48
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11541,7 +11644,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Ex 3403-19 
+Ex 3403-19
 
 </td>
       <td>
@@ -11556,33 +11659,33 @@ Ex 3403-19
     <tr>
       <td>
 
-Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumeux. 
+Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole ou de minéraux bitumeux.
 
 </td>
       <td>
 
-49 
+49
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11591,7 +11694,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-3811-21 
+3811-21
 
 </td>
       <td>
@@ -11606,33 +11709,33 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Additifs pour huiles lubrifiantes contenant des huiles de pétrole ou de minéraux bitumeux. 
+Additifs pour huiles lubrifiantes contenant des huiles de pétrole ou de minéraux bitumeux.
 
 </td>
       <td>
 
-51 
+51
 
 </td>
       <td>
       </td><td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable conformément au 3 du présent article 
+Taxe intérieure de consommation applicable conformément au 3 du présent article
 
 </td>
       <td>
 
-Taxe intérieure de consommation applicable 
+Taxe intérieure de consommation applicable
 
 conformément au 3 du présent article
 
@@ -11641,7 +11744,7 @@ conformément au 3 du présent article
     <tr>
       <td>
 
-Ex 3824-90-97 
+Ex 3824-90-97
 
 </td>
       <td>
@@ -11657,7 +11760,7 @@ Ex 3824-90-97
       <td>
 
 Emulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en
-volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant : 
+volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :
 
 </td>
       <td>
@@ -11665,39 +11768,39 @@ volume sans dépasser 20 % en volume, destinée à être utilisée comme carbura
       </td><td>
       </td><td>
       </td><td>
-      </td><td valign="top">
+      </td><td>
 
 </td>
     </tr>
     <tr>
       <td>
 
---sous condition d'emploi ; 
+--sous condition d'emploi ;
 
 </td>
       <td>
 
-52 
+52
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-2,1 
+2,1
 
 </td>
       <td>
 
-3,74 
+3,74
 
 </td>
       <td>
 
-5,39 
+5,39
 
 </td>
       <td>
@@ -11709,32 +11812,32 @@ Hectolitre
     <tr>
       <td>
 
-Autres. 
+Autres.
 
 </td>
       <td>
 
-53 
+53
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-28,71 
+28,71
 
 </td>
       <td>
 
-30,35 
+30,35
 
 </td>
       <td>
 
-32 
+32
 
 </td>
       <td>
@@ -11746,7 +11849,7 @@ Hectolitre
     <tr>
       <td>
 
-Ex 3824-90-97 
+Ex 3824-90-97
 
 </td>
       <td>
@@ -11761,32 +11864,32 @@ Ex 3824-90-97
     <tr>
       <td>
 
-Superéthanol E 85 destiné à être utilisé comme carburant. 
+Superéthanol E 85 destiné à être utilisé comme carburant.
 
 </td>
       <td>
 
-55 
+55
 
 </td>
       <td>
 
-Hectolitre 
+Hectolitre
 
 </td>
       <td>
 
-12,40 
+12,40
 
 </td>
       <td>
 
-12,62 
+12,62
 
 </td>
       <td>
 
-7,96 
+7,96
 
 </td>
       <td>
@@ -11795,73 +11898,45 @@ Hectolitre
 
 </td>
     </tr>
-    <tr>
-      <td align="center">EX 2207-20</td>
-      <td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-      </td><td>
-    </td></tr>
-    <tr>
-      <td align="left">- carburant constitué d'un mélange d'au minimum 90 % d'alcool éthylique d'origine agricole, d'eau et
-d'additifs favorisant l'auto-inflammation et la lubrification, destiné à l'alimentation de moteurs thermiques à allumage par
-compression </td>
-      <td align="center">56
-
-</td>
-      <td align="center">Hectolitre </td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">-
-
-</td>
-      <td align="center">4,40</td>
-    </tr>
   </tbody>
 </table>
 
-2° Règles d'application. 
+2° Règles d'application.
 
-a) et b) (alinéas abrogés). 
+a) et b) (alinéas abrogés).
 
 c) Pour les produits taxables à la masse, la taxe est assise sur la masse commerciale (masse dans l'air) exprimée en
 kilogrammes. Pour les produits liquides taxables au volume, la taxe est assise sur le volume mesuré à l'état liquide, à la
-température de 15° C et exprimé en litres. 
+température de 15° C et exprimé en litres.
 
 Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'état gazeux destinés à être utilisés comme
 carburants, la taxe est assise sur le volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure, à la
-température de 0° C et exprimé en centaines de mètres cubes avec deux décimales. 
+température de 0° C et exprimé en centaines de mètres cubes avec deux décimales.
 
-d) (alinéa abrogé). 
+d) (alinéa abrogé).
 
-Tableau C : Autres produits énergétiques. 
+Tableau C : Autres produits énergétiques.
 
-1° Définition (division abrogée). 
+1° Définition (division abrogée).
 
-2° Tarif et règles d'application. 
+2° Tarif et règles d'application.
 
 Les produits visés au présent tableau sont exemptés de la taxe intérieure de consommation, sauf lorsqu'ils sont destinés à
-être utilisés comme carburant ou combustible. 
+être utilisés comme carburant ou combustible.
 
-3° Nomenclature. 
+3° Nomenclature.
 
 <table border="1">
   <tbody>
     <tr>
       <td>
 
-NUMÉROS DU TARIF DES DOUANES 
+NUMÉROS DU TARIF DES DOUANES
 
 </td>
       <td>
 
-DÉSIGNATION DES PRODUITS 
+DÉSIGNATION DES PRODUITS
 
 </td>
     </tr>
@@ -12078,15 +12153,15 @@ carburant dans lequel il est incorporé.
 A l'exclusion de la tourbe reprise au code NC 2703 de la nomenclature douanière, tout hydrocarbure autre que ceux pour
 lesquels un tarif de taxe intérieure de consommation est prévu par le présent code ou tout produit mentionné au tableau C du
 1, mis en vente, utilisé ou destiné à être utilisé comme combustible, est soumis à la taxe intérieure de consommation au taux
-applicable pour le combustible équivalent, prévue au présent article et aux articles 266 quinquies et 266 quinquies B. 
+applicable pour le combustible équivalent, prévue au présent article et aux articles 266 quinquies et 266 quinquies B.
 
 4. A compter du 1er janvier 2007, les personnes physiques ou morales qui vendent, en régime de droits acquittés, des
-carburants visés aux indices d'identification 11, 11 ter et 22 dans des régions ou collectivités territoriales où le taux de
-la taxe intérieure de consommation diffère du taux appliqué lors de la mise à la consommation : 
+carburants visés aux indices d'identification 11,11 ter et 22 dans des régions ou collectivités territoriales où le taux de
+la taxe intérieure de consommation diffère du taux appliqué lors de la mise à la consommation :
 
-a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ; 
+a) Acquittent le montant différentiel de taxe si le taux supporté lors de la mise à la consommation est inférieur ;
 
-b) Peuvent demander le remboursement du différentiel de taxe dans le cas contraire. 
+b) Peuvent demander le remboursement du différentiel de taxe dans le cas contraire.
 
 Pour le paiement du montant différentiel de taxe et des pénalités afférentes, l'administration des douanes et droits
 indirects peut demander une caution. Les obligations déclaratives des opérateurs concernés sont fixées par arrêté du ministre
@@ -12096,9 +12171,6 @@ chargé du budget.
 
 Ces dispositions s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier 2016 et s'appliquent
 aux volumes de carburants mis à la consommation à compter du 1er janvier 2016.
-
-(1) Ces dispositions entrent en vigueur le premier jour du mois suivant  l'achèvement des formalités de notification à la
-Commission européenne.
 
 **Liens relatifs à cet article**
 
@@ -12339,7 +12411,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1010 A (Ab)
   - Code général des impôts, CGI. - art. 1010 bis (V)
   - Code général des impôts, CGI. - art. 1011 bis (V)
-  - Code général des impôts, CGI. - art. 1599 novodecies A (V)
+  - Code général des impôts, CGI. - art. 1599 novodecies A (VD)
   - Code général des impôts, CGI. - art. 295 (VD)
   - Code général des impôts, CGI. - art. 297 (VD)
   - Code général des impôts, CGI. - art. 298 (V)
@@ -12425,13 +12497,12 @@ _Cité par_:
 
 _Cite_:
 
+  - Loi - art. 43 (V)
   - Loi n°2005-1719 du 30 décembre 2005 - art. 40
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 58 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 59
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
   - Loi n°2016-1918 du 29 décembre 2016 - art. 89
 
 
@@ -12607,20 +12678,20 @@ _Cite_:
 ###### Article 265 bis
 
 1. Les produits énergétiques mentionnés à l'article 265 sont admis en exonération des taxes intérieures de consommation
-lorsqu'ils sont destinés à être utilisés : 
+lorsqu'ils sont destinés à être utilisés :
 
-a) autrement que comme carburant ou combustible ; 
+a) autrement que comme carburant ou combustible ;
 
 b) Comme carburant ou combustible à bord des aéronefs utilisés par leur propriétaire ou la personne qui en a la disposition à
 la suite d'une location, d'un affrètement ou à tout autre titre à des fins commerciales, notamment pour les besoins
 d'opérations de transport de personnes, de transport de marchandises ainsi que pour la réalisation de prestations de services
-à titre onéreux. L'exonération s'applique également aux aéronefs utilisés pour les besoins des autorités publiques ; 
+à titre onéreux. L'exonération s'applique également aux aéronefs utilisés pour les besoins des autorités publiques ;
 
 c) Comme carburant ou combustible à bord des navires de pêche, des navires utilisés par leur propriétaire ou la personne qui
 en a la disposition à la suite d'une location, d'un affrètement ou à tout autre titre à des fins commerciales, notamment pour
 les besoins d'opérations de transport de personnes, de transport de marchandises ainsi que pour la réalisation de prestations
 de services à titre onéreux. L'exonération s'applique également aux navires utilisés pour les besoins des autorités
-publiques ; 
+publiques ;
 
 d) Comme carburant ou combustible par le ministère de la défense. Cette exonération est accordée par voie de remboursement
 pour les produits consommés du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne s'applique pas aux
@@ -12632,19 +12703,19 @@ e) Comme carburant ou combustible pour le transport de marchandises sur les voie
 
 f) Comme carburant à bord des véhicules porteurs de la catégorie N3 dont le poids total autorisé en charge ne dépasse pas 26
 tonnes et utilisés pour les besoins d'opérations de collecte du lait dans les exploitations agricoles situées en zone de
-montagne telle que définie par décret.  
+montagne telle que définie par décret.
 
-2. Les carburants destinés aux moteurs d'avions sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés
-dans le cadre de la construction, du développement, de la mise au point, des essais ou de l'entretien des aéronefs et de
-leurs moteurs. 
+2. Les carburants destinés aux moteurs d'avions et de navires sont exonérés de la taxe intérieure de consommation lorsqu'ils
+sont utilisés dans le cadre de la construction, du développement, de la mise au point, des essais ou de l'entretien des
+aéronefs et navires et de leurs moteurs.
 
-3. Les produits mentionnés au 1 sont également exonérés lorsqu'ils sont utilisés : 
+3. Les produits mentionnés au 1 sont également exonérés lorsqu'ils sont utilisés :
 
 a) Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
 quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du 5 de
-l'article 266 quinquies C ; 
+l'article 266 quinquies C ;
 
-b) Pour les besoins de l'extraction et de la production de gaz naturel. 
+b) Pour les besoins de l'extraction et de la production de gaz naturel.
 
 Les modalités d'application des exonérations visées ci-dessus sont fixées par arrêté du ministre chargé du budget.
 
@@ -12710,7 +12781,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 17
 
 _Cite_:
 
@@ -12854,7 +12926,7 @@ _Cite_:
 
 Les exploitants de transport public routier en commun de voyageurs peuvent obtenir, sur demande de leur part, dans les
 conditions prévues à l'article 352, le remboursement d'une fraction de la taxe intérieure de consommation sur le gazole,
-identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265. 
+identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265.
 
 Est considérée comme exploitant la personne qui consomme effectivement le gazole qui lui a été préalablement facturé, au
 titre de l'exploitation de transports publics routiers en commun de voyageurs. 
@@ -12862,21 +12934,21 @@ titre de l'exploitation de transports publics routiers en commun de voyageurs.
 Ce remboursement est calculé, au choix de l'entreprise :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules affectés à ce transport, acquis dans
-chaque région et dans la collectivité territoriale de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y
-est applicable en application des articles 265, 265 A bis et 265 A ter ;
+chaque région et dans la collectivité de Corse, la différence entre 39,19 euros par hectolitre et le tarif qui y est
+applicable en application des articles 265, 265 A bis et 265 A ter ;
 
 - soit en appliquant au total du volume de gazole utilisé comme carburant dans les véhicules affectés à ce transport, acquis
-dans au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement
-calculé en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter
-par les volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de
-Corse. Le montant de ce taux moyen pondéré est fixé par arrêté. 
+dans au moins trois des régions, dont le cas échéant la collectivité de Corse, un taux moyen de remboursement calculé en
+pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les
+volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le
+montant de ce taux moyen pondéré est fixé par arrêté.
 
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er,
-sauf dans les départements d'outre-mer. 
+sauf dans les départements d'outre-mer.
 
 Le remboursement est également accordé aux entreprises établies dans un autre Etat membre de l'Union européenne qui sont en
 mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte par le remboursement et que ce
-gazole a été utilisé comme carburant dans des véhicules affectés au transport public routier en commun de voyageurs. 
+gazole a été utilisé comme carburant dans des véhicules affectés au transport public routier en commun de voyageurs.
 
 Les modalités d'application du présent article sont fixées par décret.
 
@@ -12932,12 +13004,13 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
   - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
 
 _Cite_:
 
-  - Code des douanes - art. 265
+  - Code des douanes - art. 265 (VT)
+  - Code des douanes - art. 265 A bis (V)
   - Code des douanes - art. 352
 
 
@@ -12977,9 +13050,9 @@ _Codifié par_:
 
 Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 265 du code des douanes fait l'objet d'une
 réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
-territoire de la Corse ou livrés dans les ports de ce département à l'avitaillement des bâtiments de plaisance et de sport :
+territoire de la Corse ou livrés dans les ports de Corse à l'avitaillement des bâtiments de plaisance et de sport :
 
-<table width="605" align="center" cellspacing="0" cellpadding="0" border="1">
+<table width="605" align="center" cellpadding="0" cellspacing="0" border="1">
   <tbody>
     <tr>
       <td width="166">
@@ -13003,7 +13076,7 @@ d'identification
 </td>
     </tr>
     <tr>
-      <td width="166" valign="top">
+      <td valign="top" width="166">
 
 27.10.00
 
@@ -13013,7 +13086,7 @@ d'identification
 Supercarburants
 
 </td>
-      <td valign="top" width="202">
+      <td width="202" valign="top">
 
 11 et 11 bis
 
@@ -13030,12 +13103,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 art. 9, annexe V JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 9 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
 
 _Cite_:
 
-  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265
 
 
 ###### Article 265 septies
@@ -13057,14 +13129,14 @@ sauf dans les départements d'outre-mer.
 Ce remboursement est calculé, au choix du demandeur :
 
 - soit en appliquant au volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans chaque
-région et dans la collectivité territoriale de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est
-applicable en application des articles 265, 265 A bis et 265 A ter ;
+région et dans la collectivité de Corse, la différence entre 43,19 euros par hectolitre et le tarif qui y est applicable en
+application des articles 265,265 A bis et 265 A ter ;
 
 - soit en appliquant, au total du volume de gazole utilisé comme carburant dans des véhicules définis aux a et b, acquis dans
-au moins trois des régions, dont le cas échéant la collectivité territoriale de Corse, un taux moyen de remboursement calculé
-en pondérant les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les
-volumes de gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le
-montant de ce taux moyen pondéré est fixé par arrêté. 
+au moins trois des régions, dont le cas échéant la collectivité de Corse, un taux moyen de remboursement calculé en pondérant
+les différents taux régionaux votés dans les conditions précisées aux articles 265 A bis et 265 A ter par les volumes de
+gazole respectivement mis à la consommation dans chaque région et dans la collectivité territoriale de Corse. Le montant de
+ce taux moyen pondéré est fixé par arrêté. 
 
 Le remboursement est également accordé aux personnes établies dans un autre Etat membre de l'Union européenne qui sont en
 mesure de justifier qu'elles ont acquis du gazole en France au cours de la période couverte par le remboursement et que ce
@@ -13130,12 +13202,13 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
   - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
 
 _Cite_:
 
   - Code des douanes - art. 265
+  - Code des douanes - art. 265 A bis (V)
   - Code des douanes - art. 284 bis A
   - Code des douanes - art. 352
 
@@ -13150,9 +13223,9 @@ activité professionnelle.
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er,
 sauf dans les départements d'outre-mer. 
 
-Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité
-territoriale de Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants
-concernés et 30,20 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
+Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité de
+Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants concernés et 30,20
+euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
 
 **Liens relatifs à cet article**
 
@@ -13204,10 +13277,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-
-_Abrogé par_:
-
+  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
   - Loi n°2016-1918 du 29 décembre 2016 - art. 89
 
 _Cite_:
@@ -13477,418 +13547,283 @@ _Cité par_:
 
 ###### Article 266 nonies
 
-1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit : 
+1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
 A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux
-mentionnée au 1 du I de l'article 266 sexies : 
+mentionnée au 1 du I de l'article 266 sexies :
 
 a) Déchets réceptionnés dans une installation de stockage de déchets non dangereux ou transférés vers une telle installation
-située dans un autre Etat : 
+située dans un autre Etat :
 
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">DÉSIGNATION 
+      <th rowspan="2">DÉSIGNATION
 
-des opérations imposables 
+des opérations imposables
 
 </th>
       <th rowspan="2">
 
-Unité 
+Unité
 
-de perception 
+de perception
 
 </th>
       <th colspan="9">
 
-QUOTITÉ EN EUROS 
-
-</th>
+QUOTITÉ EN EUROS</th>
     </tr>
     <tr>
       <th>
 
-2017 
-
-</th>
+2017</th>
       <th>
 
-2018 
-
-</th>
+2018</th>
       <th>
 
-2019 
-
-</th>
+2019</th>
       <th>
 
-2020 
-
-</th>
+2020</th>
       <th>
 
-2021 
-
-</th>
+2021</th>
       <th>
 
-2022 
-
-</th>
+2022</th>
       <th>
 
-2023 
-
-</th>
+2023</th>
       <th>
 
-2024 
-
-</th>
+2024</th>
       <th>
 
-A compter 
+A compter
 
-de 2025 
+de 2025
 
 </th>
     </tr>
     <tr>
-      <td valign="middle">
+      <td>
 
 Réception de déchets dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du
-livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat. 
+livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre
+Etat.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+tonne</td>
+      <td align="center">
 
-tonne 
+150</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+151</td>
+      <td align="center">
 
-150 
+151</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+152</td>
+      <td align="center">
 
-151 
+152</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+155</td>
+      <td align="center">
 
-151 
+155</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+157</td>
+      <td align="center">
 
-152 
-
-</td>
-      <td align="center" valign="middle">
-
-152 
-
-</td>
-      <td valign="middle" align="center">
-
-155 
-
-</td>
-      <td align="center" valign="middle">
-
-155 
-
-</td>
-      <td align="center" valign="middle">
-
-157 
-
-</td>
-      <td align="center" valign="middle">
-
-158 
-
-</td>
+158</td>
     </tr>
     <tr>
-      <td valign="middle">
+      <td>
 
 Réception de déchets dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du
 livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat
-et autorisée en vertu d'une réglementation d'effet équivalent : 
-
-</td>
-      <td valign="middle" align="left">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="left">
+et autorisée en vertu d'une réglementation d'effet équivalent :</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
     </td></tr>
     <tr>
-      <td valign="middle">
+      <td>
 
 A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité ; 
+accrédité ;</td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
+tonne</td>
+      <td align="center">
 
-tonne 
+32</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
-
-32 
-
-</td>
-      <td valign="middle" align="center">
-
-33 
-
-</td>
-      <td valign="middle" align="left">
-      </td><td valign="middle" align="left">
-      </td><td valign="middle" align="left">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
-      </td><td align="left" valign="middle">
+33</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ; 
+B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ;</td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
+tonne</td>
+      <td align="center">
 
-tonne 
+23</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+24</td>
+      <td align="center">
 
-23 
+24</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+25</td>
+      <td align="center">
 
-24 
+25</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+28</td>
+      <td align="center">
 
-24 
+28</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+30</td>
+      <td align="center">
 
-25 
-
-</td>
-      <td valign="middle" align="center">
-
-25 
-
-</td>
-      <td valign="middle" align="center">
-
-28 
-
-</td>
-      <td valign="middle" align="center">
-
-28 
-
-</td>
-      <td valign="middle" align="center">
-
-30 
-
-</td>
-      <td align="center" valign="middle">
-
-31 
-
-</td>
+31</td>
     </tr>
     <tr>
-      <td valign="middle">
+      <td>
 
 C.-Dans un casier, ou une subdivision de casier, exploitée selon la méthode du bioréacteur équipé dès sa construction des
 équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier ou de la subdivision du
-casier étant inférieure à deux ans, l'installation réalisant une valorisation énergétique du biogaz capté ; 
+casier étant inférieure à deux ans, l'installation réalisant une valorisation énergétique du biogaz capté ;</td>
+      <td align="left">
 
-</td>
-      <td valign="middle" align="left">
+tonne</td>
+      <td align="center">
 
-tonne 
+32</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+33</td>
+      <td align="center">
 
-32 
+34</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+35</td>
+      <td align="center">
 
-33 
+35</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+38</td>
+      <td align="center">
 
-34 
+39</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+41</td>
+      <td align="center">
 
-35 
-
-</td>
-      <td valign="middle" align="center">
-
-35 
-
-</td>
-      <td align="center" valign="middle">
-
-38 
-
-</td>
-      <td valign="middle" align="center">
-
-39 
-
-</td>
-      <td align="center" valign="middle">
-
-41 
-
-</td>
-      <td valign="middle" align="center">
-
-42 
-
-</td>
+42</td>
     </tr>
     <tr>
-      <td valign="middle" align="left">
+      <td align="left">
 
-D.-Relevant à la fois des B et C ; 
+D.-Relevant à la fois des B et C ;</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+tonne</td>
+      <td align="center">
 
-tonne 
+15</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+16</td>
+      <td align="center">
 
-15 
+17</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+18</td>
+      <td align="center">
 
-16 
+18</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+21</td>
+      <td align="center">
 
-17 
+22</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+24</td>
+      <td align="center">
 
-18 
-
-</td>
-      <td align="center" valign="middle">
-
-18 
-
-</td>
-      <td valign="middle" align="center">
-
-21 
-
-</td>
-      <td align="center" valign="middle">
-
-22 
-
-</td>
-      <td valign="middle" align="center">
-
-24 
-
-</td>
-      <td valign="middle" align="center">
-
-25 
-
-</td>
+25</td>
     </tr>
     <tr>
-      <td align="left" valign="middle">
+      <td align="left">
 
-E.-Autre. 
+E.-Autre.</td>
+      <td align="left">
 
-</td>
-      <td align="left" valign="middle">
+tonne</td>
+      <td align="center">
 
-tonne 
+40</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+41</td>
+      <td align="center">
 
-40 
+41</td>
+      <td align="center">
 
-</td>
-      <td valign="middle" align="center">
+42</td>
+      <td align="center">
 
-41 
+42</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+45</td>
+      <td align="center">
 
-41 
+45</td>
+      <td align="center">
 
-</td>
-      <td align="center" valign="middle">
+47</td>
+      <td align="center">
 
-42 
-
-</td>
-      <td align="center" valign="middle">
-
-42 
-
-</td>
-      <td align="center" valign="middle">
-
-45 
-
-</td>
-      <td align="center" valign="middle">
-
-45 
-
-</td>
-      <td align="center" valign="middle">
-
-47 
-
-</td>
-      <td valign="middle" align="center">
-
-48 </td>
+48</td>
     </tr>
   </tbody>
 </table>
@@ -13899,202 +13834,146 @@ applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75
 Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
 accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets
 réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la
-taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2018.
+taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2020.
 
 Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le
-tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2017, puis à 10 € par tonne en 2018.
+tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2019, puis à 10 € par tonne en 2020.
 
-A compter de 2019, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont
-multipliés par un coefficient égal à 0,4. 
+A compter de 2020, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont
+multipliés par un coefficient égal à 0,4.
 
 Le tarif mentionné à la troisième ligne du tableau du second alinéa du B du présent 1 est applicable à la réception de
 matériaux de construction contenant de l'amiante dans une installation de stockage de déchets non dangereux autorisée à cet
-effet, en application du titre Ier du livre V du code de l'environnement. 
+effet, en application du titre Ier du livre V du code de l'environnement.
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle
 installation située dans un autre Etat :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th rowspan="2">
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-Désignation des opérations imposables 
+Désignation des opérations imposables</th>
+      <th rowspan="2">
 
-</th>
-        <th rowspan="2">
+Unité de perception</th>
+      <th>
 
-Unité de perception 
+Quotité en euros</th>
+    </tr>
+    <tr>
+      <th>
 
-</th>
-        <th>
-
-Quotité en euros 
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-À compter de 2017 
-
-</th>
-      </tr>
-      <tr>
-        <td valign="middle">
+À compter de 2017</th>
+    </tr>
+    <tr>
+      <td>
 
 Réception de déchets dans une installation de traitement thermique de déchets non dangereux ou transfert vers une
-installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent : 
-
-</td>
-        <td valign="middle" align="left">
-        </td><td valign="middle" align="left">
-      </td></tr>
-      <tr>
-        <td valign="middle">
+installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :</td>
+      <td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
 
 A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ; 
+accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ;
 
 - Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
-accrédité ; 
+accrédité ;
 
 </td>
-        <td valign="middle" align="center">
+      <td align="center">
 
-tonne 
+tonne</td>
+      <td align="center">
 
-</td>
-        <td align="center" valign="middle">
+12</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-12 
+B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ;</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+tonne</td>
+      <td align="center">
 
-B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ; 
+12</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="center">
+C. Réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 ;</td>
+      <td align="center">
 
-tonne 
+tonne</td>
+      <td align="center">
 
-</td>
-        <td align="center" valign="middle">
+9</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-12 
+D.-Relevant à la fois des A et B ;</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
+tonne</td>
+      <td align="center">
 
-C. Réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 ; 
+9</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td valign="middle" align="center">
+E.-Relevant à la fois des A et C ;</td>
+      <td align="center">
 
-tonne 
+tonne</td>
+      <td align="center">
 
-</td>
-        <td valign="middle" align="center">
+6</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-9 
+F.-Relevant à la fois des B et C ;</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+tonne</td>
+      <td align="center">
 
-D.-Relevant à la fois des A et B ; 
+5</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-        <td align="center" valign="middle">
+G.-Relevant à la fois des A, B et C ;</td>
+      <td align="center">
 
-tonne 
+tonne</td>
+      <td align="center">
 
-</td>
-        <td align="center" valign="middle">
+3</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-9 
+H.-Autre.</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
+tonne</td>
+      <td align="center">
 
-E.-Relevant à la fois des A et C ; 
-
-</td>
-        <td valign="middle" align="center">
-
-tonne 
-
-</td>
-        <td valign="middle" align="center">
-
-6 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-F.-Relevant à la fois des B et C ; 
-
-</td>
-        <td align="center" valign="middle">
-
-tonne 
-
-</td>
-        <td valign="middle" align="center">
-
-5 
-
-</td>
-      </tr>
-      <tr>
-        <td valign="middle" align="left">
-
-G.-Relevant à la fois des A, B et C ; 
-
-</td>
-        <td valign="middle" align="center">
-
-tonne 
-
-</td>
-        <td valign="middle" align="center">
-
-3 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" valign="middle">
-
-H.-Autre. 
-
-</td>
-        <td align="center" valign="middle">
-
-tonne 
-
-</td>
-        <td align="center" valign="middle">
-
-15 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+15</td>
+    </tr>
+  </tbody>
+</table>
 
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
-s'applique à l'assiette concernée ; 
+s'applique à l'assiette concernée ;
 
 d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
 date d'obtention de la certification ISO 14001 ou ISO 50001 ;
@@ -14122,7 +14001,7 @@ déchets, au sens de la directive 2008/98/CE du Parlement européen et du Consei
 g) Un arrêté conjoint des ministres chargés du budget et de l'environnement précise les modalités d'application des tarifs
 réduits mentionnés aux B et C du tableau du a et au B du tableau du b ainsi que la liste des déchets, parmi ceux de la liste
 mentionnée à l'article 7 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée,
-susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités. 
+susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités.
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
@@ -14133,7 +14012,7 @@ B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, l
 
 DÉSIGNATION DES MATIÈRES
 
-ou opérations imposables 
+ou opérations imposables
 
 </td>
       <td colspan="3">
@@ -14145,7 +14024,7 @@ UNITÉ DE PERCEPTION
 
 QUOTITÉ
 
-(en euros) 
+(en euros)
 
 </td>
     </tr>
@@ -14153,15 +14032,15 @@ QUOTITÉ
       <td>
 
 Déchets réceptionnés dans une installation de traitement thermique de déchets dangereux ou transférés vers une telle
-installation située dans un autre Etat. 
+installation située dans un autre Etat.
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td colspan="5" width="79">
+      <td colspan="5">
 
 12,78
 
@@ -14171,15 +14050,15 @@ Tonne
       <td>
 
 Déchets réceptionnés dans une installation de stockage de déchets dangereux ou transférés vers une telle installation située
-dans un autre Etat. 
+dans un autre Etat.
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td align="center" colspan="5" width="79">
+      <td colspan="5" align="center">
 
 25,57
 
@@ -14188,17 +14067,17 @@ Tonne
     <tr>
       <td>
 
-Substances émises dans l'atmosphère : 
+Substances émises dans l'atmosphère :
 
-- oxydes de soufre et autres composés soufrés 
+- oxydes de soufre et autres composés soufrés
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5">
 
 136,02
 
@@ -14207,15 +14086,15 @@ Tonne
     <tr>
       <td>
 
-- acide chlorhydrique 
+- acide chlorhydrique
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5">
 
 43,24 (44,49 en 2009)
 
@@ -14224,68 +14103,68 @@ Tonne
     <tr>
       <td>
 
-- protoxyde d'azote 
+- protoxyde d'azote
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5">
 
 64,86 (66,74 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left">
 
-- oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote 
-
-</td>
-      <td colspan="3" valign="top" align="left">
-
-Tonne 
+- oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote
 
 </td>
-      <td colspan="5" valign="top" align="left">
+      <td align="left" colspan="3">
+
+Tonne
+
+</td>
+      <td colspan="5" align="left">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
 </td>
     </tr>
     <tr>
-      <td align="center" valign="top">
+      <td align="center">
 
-hydrocarbures non méthaniques, solvants et autres composés organiques volatils 
-
-</td>
-      <td align="center" colspan="3" valign="top">
-
-Tonne 
+hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 
 </td>
-      <td colspan="5" valign="top" align="center">
+      <td align="center" colspan="3">
 
-136,02 
+Tonne
+
+</td>
+      <td colspan="5" align="center">
+
+136,02
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-- poussières totales en suspension 
-
-</td>
-      <td colspan="3" valign="top" align="left">
-
-Tonne 
+- poussières totales en suspension
 
 </td>
-      <td valign="top" align="left" colspan="5">
+      <td colspan="3" align="left">
 
-259,86 
+Tonne
+
+</td>
+      <td colspan="5" align="left">
+
+259,86
 
 </td>
     </tr>
@@ -14468,15 +14347,15 @@ Kilogramme
     <tr>
       <td>
 
-Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées. 
+Lubrifiants, huiles et préparations lubrifiantes dont l'utilisation génère des huiles usagées.
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5">
 
 44,02 (45,30 en 2009)
 
@@ -14486,17 +14365,17 @@ Tonne
       <td>
 
 Préparations pour lessives, y compris les préparations auxiliaires de lavage, et produits adoucissants ou assouplissants pour
-le linge : 
+le linge :
 
-- dont la teneur en phosphate est inférieure à 5 % du poids 
+- dont la teneur en phosphate est inférieure à 5 % du poids
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td width="79" colspan="5">
+      <td colspan="5">
 
 39,51(40,66 en 2009)
 
@@ -14505,32 +14384,32 @@ Tonne
     <tr>
       <td>
 
-- dont la teneur en phosphate est comprise entre 5 % et 30 % du poids 
+- dont la teneur en phosphate est comprise entre 5 % et 30 % du poids
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td colspan="5" width="79">
+      <td colspan="5">
 
 170,19 (175,13 en 2009)
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td align="left">
 
-- dont la teneur en phosphate est supérieure à 30 % du poids 
-
-</td>
-      <td align="left" colspan="3" valign="top">
-
-Tonne 
+- dont la teneur en phosphate est supérieure à 30 % du poids
 
 </td>
-      <td colspan="5" align="left" valign="top">
+      <td align="left" colspan="3">
+
+Tonne
+
+</td>
+      <td colspan="5" align="left">
 
 283,65 (291,88 en 2009)
 
@@ -14539,100 +14418,17 @@ Tonne
     <tr>
       <td>
 
-Matériaux d'extraction. 
+Matériaux d'extraction.
 
 </td>
       <td colspan="3">
 
-Tonne 
+Tonne
 
 </td>
-      <td colspan="5" width="79">
+      <td colspan="5">
 
-0,20 
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Installations classées : 
-
-Délivrance d'autorisation :
-
-- artisan n'employant pas plus de deux salariés 
-
-</td>
-      <td colspan="3" align="left" valign="top">
-
-</td>
-      <td valign="top" colspan="5" align="left">
-
-501,61 (516,16 en 2009)
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-- autres entreprises inscrites au répertoire des métiers 
-
-</td>
-      <td colspan="3">
-
-</td>
-      <td width="79" colspan="5">
-
-1 210,78 (1 245,89 en 2009)
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-- autres entreprises 
-
-</td>
-      <td colspan="3">
-
-</td>
-      <td colspan="5" width="79">
-
-2 525,35 (2 598,59 en 2009)
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Exploitation au cours d'une année civile (tarifs de base) : 
-
-- installation ayant fait l'objet d'un enregistrement dans le cadre du système communautaire de management environnemental et
-d'audit (EMAS) défini par le règlement (CE) n° 761 / 2001 du Parlement européen et du Conseil du 19 mars 2001 ou dont le
-système de management environnemental a été certifié conforme à la norme ISO 14001 par un organisme accrédité 
-
-</td>
-      <td colspan="3" align="left" valign="top">
-
-</td>
-      <td valign="top" align="left" colspan="5">
-
-339,37 (349,21 en 2009)
-
-</td>
-    </tr>
-    <tr>
-      <td align="left" valign="top">
-
-- autres installations 
-
-</td>
-      <td valign="top" align="left" colspan="3">
-
-</td>
-      <td colspan="5" valign="top" align="left">
-
-380,44 (391,47 en 2009)
+0,20
 
 </td>
     </tr>
@@ -14640,20 +14436,20 @@ système de management environnemental a été certifié conforme à la norme IS
 </table>
 
 1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au
-taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. 
+taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
-Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter : 
+Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter :
 
-a) Du 1er janvier 2026 aux tarifs mentionnés au tableau du a du A du 1 ; 
+a) Du 1er janvier 2026 aux tarifs mentionnés au tableau du a du A du 1 ;
 
 b) Du 1er janvier 2018 aux tarifs mentionnés au tableau du b du même A ;
 
-c) (Abrogé) 
+c) (Abrogé)
 
 2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
-266 sexies est de 450 € par installation. 
+266 sexies est de 450 € par installation.
 
-3. (Alinéa abrogé). 
+3. (Alinéa abrogé).
 
 4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets dangereux ne s'applique pas aux
 résidus de traitement des installations de traitement thermique de déchets assujetties à la taxe.
@@ -14662,29 +14458,24 @@ résidus de traitement des installations de traitement thermique de déchets ass
 pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités
 polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par décret ; à
 défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre 2010 de
-finances pour 2011, la taxe ne s'applique pas auxdits résidus. 
+finances pour 2011, la taxe ne s'applique pas auxdits résidus.
 
 5. Les déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée à ce titre en application du
 titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans l'arrêté
 préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non autorisées en
-application du même titre Ier. 
+application du même titre Ier.
 
 6. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
-le protoxyde d'azote. 
+le protoxyde d'azote.
 
-7. Le décret en Conseil d'Etat prévu au b du 8 du I de l'article 266 sexies fixe un coefficient multiplicateur compris entre
-un et dix pour chacune des activités exercées dans les installations classées, en fonction de sa nature et de son volume. Le
-montant de la taxe effectivement perçue chaque année par établissement au titre de chacune de ces activités est égal au
-produit du tarif de base fixé dans le tableau figurant au 1 du présent article et du coefficient multiplicateur. 
+7. (Abrogé).
 
 8. Le seuil d'assujettissement des émissions de poussières totales en suspension mentionnées au 2 de l'article 266 septies
 est fixé à 5 tonnes par an.
 
 **Nota:**
 
-Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la
-réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code
-des douanes conformes à la Constitution.
+
 
 **Liens relatifs à cet article**
 
@@ -14731,11 +14522,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 62
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
 
 _Cite_:
 
-  - Code des douanes - art. 266 sexies (M)
+  - Code des douanes - art. 266 sexies (V)
 
 
 ###### Article 266 octies
@@ -14966,83 +14758,82 @@ _Cite_:
 ###### Article 266 quindecies
 
 I.-Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du tableau
-B du 1 de l'article 265, du gazole repris à l'indice 20 et à l'indice 22, du superéthanol E85 repris à l'indice 55  et du
-carburant ED 95 repris à l'indice 56  de ce même tableau sont redevables d'un prélèvement supplémentaire de la taxe générale
-sur les activités polluantes. 
+B du 1 de l'article 265, du gazole repris à l'indice 20 et à l'indice 22, du superéthanol E85 repris à l'indice 55 et du
+carburant ED 95 repris à l'indice 56 de ce même tableau, ainsi que tous les carburants équivalents, au sens du 3 de l'article
+2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits
+énergétiques et de l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, sont
+redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
 
 II.-Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
-chaque carburant concerné. Pour le gazole non routier repris à l'indice 20, ce prélèvement  supplémentaire s'applique à 75 %
-des mises à la consommation en France  en 2017.
+chaque carburant concerné.
 
-III.-Son taux est fixé à 7,5 % dans la filière essence et à 7,7 % dans la filière gazole. 
+III.-Son taux est fixé à 7,5 % dans la filière essence et à 7,7 % dans la filière gazole.
 
-Il est diminué à proportion de la quantité d'énergie renouvelable des  biocarburants contenus dans les carburants soumis au
-prélèvement mis à  la consommation en France, sous réserve que ces biocarburants respectent  les critères de durabilité
-prévus aux articles L. 661-3 à L. 661-6 du  code de l'énergie. 
+Il est diminué à proportion de la quantité d'énergie renouvelable des biocarburants contenus dans les carburants soumis au
+prélèvement mis à la consommation en France, sous réserve que ces biocarburants respectent les critères de durabilité prévus
+aux articles L. 661-3 à L. 661-6 du code de l'énergie.
 
-Pour la filière essence, le  taux est diminué de la part d'énergie renouvelable résultant du rapport  entre l'énergie
-renouvelable des biocarburants contenus dans les  produits repris aux indices d'identification 11, 11 bis, 11 ter, 55 et 56
-du tableau B du 1 de l'article 265 du présent code mis à la  consommation en France à usage de carburants et l'énergie de ces
-mêmes  carburants soumis au prélèvement, exprimés en pouvoir calorifique  inférieur.  
+Pour la filière essence, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre l'énergie
+renouvelable des biocarburants contenus dans les produits repris aux indices d'identification 11, 11 bis, 11 ter, 55 et 56 du
+tableau B du 1 de l'article 265 du présent code mis à la consommation en France à usage de carburants et l'énergie de ces
+mêmes carburants soumis au prélèvement, exprimés en pouvoir calorifique inférieur.
 
 Pour la filière gazole, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre les quantités de
-biocarburants incorporées dans les produits repris aux indices d'identification 20 et 22 du même tableau B mis à la
-consommation en France à usage de carburants et les quantités de carburant routier et non routier, soumises au prélèvement,
-exprimées en pouvoir calorifique inférieur. 
+biocarburants incorporées dans les produits repris aux indices d'identification 20 et 22 du même tableau B, ainsi que tous
+les carburants équivalents, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003
+restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, au gazole de l'indice 22 et
+autorisés conformément au 1 de l'article 265 ter, mis à la consommation en France à usage de carburants et les quantités de
+carburant routier et non routier, soumises au prélèvement, exprimées en pouvoir calorifique inférieur.
 
-La part d'énergie renouvelable, prise en compte pour cette minoration, ne peut être supérieure aux valeurs suivantes : 
+La part d'énergie renouvelable, prise en compte pour cette minoration, ne peut être supérieure aux valeurs suivantes :
 
-1° Dans la filière essence, la part d'énergie renouvelable maximale des  biocarburants produits à partir de céréales et
-d'autres plantes riches  en amidon ou sucrières est de 7 %. Cette part est de 0,6 %, pour les  biocarburants mentionnés au e
-du 4 de l'article 3 de la directive  2009/28/ CE modifiée par la directive (UE) 2015/1513 du Parlement  européen et du
-Conseil du 9 septembre 2015 modifiant la directive 98/70/  CE concernant la qualité de l'essence et des carburants diesel et
-modifiant la directive 2009/28/ CE relative à la promotion de  l'utilisation de l'énergie produite à partir de sources
-renouvelables ; 
+1° Dans la filière essence, la part d'énergie renouvelable maximale des biocarburants produits à partir de céréales et
+d'autres plantes riches en amidon ou sucrières est de 7 %. Cette part est de 0,6 %, pour les biocarburants mentionnés au e du
+4 de l'article 3 de la directive 2009/28/ CE modifiée par la directive (UE) 2015/1513 du Parlement européen et du Conseil du
+9 septembre 2015 modifiant la directive 98/70/ CE concernant la qualité de l'essence et des carburants diesel et modifiant la
+directive 2009/28/ CE relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables ;
 
 2° Dans la filière gazole, la part d'énergie renouvelable maximale des biocarburants produits à partir de plantes
 oléagineuses est de 7 %. Cette part est de 0,7 % lorsque les biocarburants sont produits à partir de matières premières
 d'origine animale ou végétale énumérées à l'article 21 de la directive 2009/28/ CE du Parlement européen et du Conseil du 23
-avril 2009 précitée. 
+avril 2009 précitée.
 
 La liste des biocarburants éligibles à cette minoration de taux est définie par arrêté conjoint des ministres chargés des
-douanes, de l'écologie, de l'énergie et de l'agriculture. 
+douanes, de l'écologie, de l'énergie et de l'agriculture.
 
-Lors de la mise à la consommation des carburants repris aux indices  d'identification 11, 11 bis, 11 ter, 20, 22, 55 et 56 du
-tableau B du 1 de  l'article 265, les opérateurs émettent des certificats représentatifs  des biocarburants que ces
-carburants contiennent. Les modalités  d'émission et de cession éventuelle des certificats sont précisées par  décret.
+Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22, 55 et 56 du
+tableau B du 1 de l'article 265, ainsi que tous les carburants équivalents, au sens du 3 de l'article 2 de la directive
+2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de
+l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, les opérateurs émettent des
+certificats représentatifs des biocarburants que ces carburants contiennent. Les modalités d'émission et de cession
+éventuelle des certificats sont précisées par décret.
 
 Un arrêté conjoint des ministres chargés des douanes, de l'écologie, de l'énergie et de l'agriculture fixe la liste des
 matières premières permettant de produire des biocarburants, qui peuvent être pris en compte pour le double de leur valeur
 réelle exprimée en quantité d'énergie renouvelable, ainsi que les conditions et modalités de cette prise en compte, notamment
-en matière d'exigence de traçabilité. 
+en matière d'exigence de traçabilité.
 
 IV.-Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
-produits mentionnés au I à usage de carburant. 
+produits mentionnés au I à usage de carburant.
 
 V.-Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
 la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
-du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95. 
+du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95.
 
-VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2019. 
+VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2019.
 
-En cas de difficultés exceptionnelles d'approvisionnement entraînant, au  niveau national ou local, une pénurie d'un ou
-plusieurs carburants  mentionnés au I et nécessitant la mise à disposition de stocks  stratégiques pétroliers dans un bref
-délai et une gestion de crise par  les autorités de l'Etat, le ministre chargé du budget peut autoriser  temporairement une
-suspension de la prise en compte des volumes soumis  au prélèvement supplémentaire de la taxe générale sur les activités
-polluantes, sous réserve de produire les justificatifs relatifs à ces  volumes, dans l'hypothèse où le maintien de
-l'incitation à  l'incorporation de biocarburant serait de nature à aggraver la situation  d'approvisionnement. 
+En cas de difficultés exceptionnelles d'approvisionnement entraînant, au niveau national ou local, une pénurie d'un ou
+plusieurs carburants mentionnés au I et nécessitant la mise à disposition de stocks stratégiques pétroliers dans un bref
+délai et une gestion de crise par les autorités de l'Etat, le ministre chargé du budget peut autoriser temporairement une
+suspension de la prise en compte des volumes soumis au prélèvement supplémentaire de la taxe générale sur les activités
+polluantes, sous réserve de produire les justificatifs relatifs à ces volumes, dans l'hypothèse où le maintien de
+l'incitation à l'incorporation de biocarburant serait de nature à aggraver la situation d'approvisionnement.
 
 En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
-undecies. 
+undecies.
 
 Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
 privilèges que ceux prévus par le présent code.
-
-**Nota:**
-
-Conformément à l'article 60 II de la loi n° 2016-1918 du 29 décembre 2016, les dispositions de la seconde phrase du II de
-l'article 266 quindecies du code des douanes, dans sa rédaction résultant du présent article, est supprimée pour les
-carburants mis à la consommation à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -15083,6 +14874,7 @@ _Cité par_:
 _Modifié par_:
 
   - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 19
 
 _Cite_:
 
@@ -15097,161 +14889,167 @@ _Cite_:
 
 1. Le gaz naturel repris aux codes NC 2711-11 et 2711-21 de la nomenclature douanière, ainsi que le produit résultant du
 mélange du gaz naturel repris aux codes NC 2711-11 et 2711-21 et d'autres hydrocarbures gazeux repris au code NC 2711,
-destinés à être utilisés comme combustibles, sont soumis à une taxe intérieure de consommation. 
+destinés à être utilisés comme combustibles, sont soumis à une taxe intérieure de consommation.
 
 2. Le fait générateur de la taxe intervient lors de la livraison de ces produits par un fournisseur à un utilisateur final et
 la taxe est exigible au moment de la facturation, y compris des acomptes, ou au moment des encaissements si ceux-ci
 interviennent avant le fait générateur ou la facturation. Le fait générateur intervient et la taxe est également exigible au
-moment de l'importation, lorsque ces produits sont directement importés par l'utilisateur final pour ses besoins propres. 
+moment de l'importation, lorsque ces produits sont directement importés par l'utilisateur final pour ses besoins propres.
 
 Dans les autres cas, le fait générateur et l'exigibilité de la taxe interviennent lors de la consommation de ces produits
-effectuée sur le territoire douanier de la France par un utilisateur final. 
+effectuée sur le territoire douanier de la France par un utilisateur final.
 
-3. La taxe est due : 
+3. La taxe est due :
 
-a) Par le fournisseur de gaz naturel. 
+a) Par le fournisseur de gaz naturel.
 
 Est considérée comme fournisseur de gaz naturel toute personne titulaire de l'autorisation prévue au I de l'article 5 de la
-loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et de l'électricité et au service public de l'énergie ; 
+loi n° 2003-8 du 3 janvier 2003 relative aux marchés du gaz et de l'électricité et au service public de l'énergie ;
 
 b) A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane
-d'importation ; 
+d'importation ;
 
 c) Par l'utilisateur final mentionné au dernier alinéa du 2.
 
 4. a. Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation prévue au 1 lorsqu'ils sont
-utilisés : 
+utilisés :
 
-1° Autrement que comme combustible, sous réserve des dispositions de l'article 265 ; 
+1° Autrement que comme combustible, sous réserve des dispositions de l'article 265 ;
 
-2° A un double usage au sens du 2° du I de l'article 265 C ; 
+2° A un double usage au sens du 2° du I de l'article 265 C ;
 
-3° Dans un procédé de fabrication de produits minéraux non métalliques mentionné au 3° du I de l'article 265 C. 
+3° Dans un procédé de fabrication de produits minéraux non métalliques mentionné au 3° du I de l'article 265 C.
 
 b. Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation prévue au 1 lorsqu'ils sont consommés
-dans les conditions prévues au III de l'article 265 C. 
+dans les conditions prévues au III de l'article 265 C.
 
-5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation prévue au 1 lorsqu'ils sont utilisés : 
+5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation prévue au 1 lorsqu'ils sont utilisés :
 
 a) Pour la production d'électricité, à l'exclusion des produits mentionnés au 1 utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C. 
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C.
 
 Cette exonération ne s'applique pas aux produits mentionnés au 1 destinés à être utilisés dans les installations visées à
 l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1
-du code de l'énergie ou mentionné à l'article L. 121-27 du même code ; 
+du code de l'énergie ou mentionné à l'article L. 121-27 du même code ;
 
-b) Pour les besoins de l'extraction et de la production du gaz naturel ; 
+b) Pour les besoins de l'extraction et de la production du gaz naturel ;
 
-c) (Abrogé) ; 
+c) (Abrogé) ;
 
 d) Pour la consommation des autorités régionales et locales ou des autres organismes de droit public pour les activités ou
 opérations qu'ils accomplissent en tant qu'autorités publiques jusqu'au 1er janvier 2009.
 
 6. Les modalités d'application des 4 et 5, ainsi que les modalités du contrôle et de la destination des produits et de leur
-affectation aux usages qui y sont mentionnés sont fixées par décret. 
+affectation aux usages qui y sont mentionnés sont fixées par décret.
 
 7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le
-biogaz repris au code NC 2711-29. 
+biogaz repris au code NC 2711-29.
 
 8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
-mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous : 
+mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th rowspan="2">DÉSIGNATION DES PRODUITS 
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-</th>
-        <th rowspan="2">
+Désignation des produits</th>
+      <th rowspan="2">
 
-UNITÉ DE PERCEPTION 
+Unité de perception</th>
+      <th colspan="5">
 
-</th>
-        <th colspan="2">
+Tarif (en euros)</th>
+    </tr>
+    <tr>
+      <th>
 
-TARIF 
+2018</th>
+      <th>
 
-</th>
-      </tr>
-      <tr>
-        <th>
+2019</th>
+      <th>
 
-2016 
+2020</th>
+      <th>
 
-</th>
-        <th>
+2021</th>
+      <th>
 
-2017 
+A compter de 2022</th>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td>
+2711-11 et 2711-21
 
-2711-11 et 2711-21 : gaz naturel destiné à être utilisé comme combustible 
+gaz naturel destiné à être utilisé comme combustible</td>
+      <td align="center">
 
-</td>
-        <td>
+Mégawattheure en pouvoir calorifique supérieur</td>
+      <td align="center">
 
-Mégawattheure en pouvoir calorifique supérieur 
+8,45</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+10,34</td>
+      <td align="center">
 
-4,34 
+12,24</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+14,13</td>
+      <td align="center">
 
-5,88 </td>
-      </tr>
-    </tbody>
-  </table>
+16,02</td>
+    </tr>
+  </tbody>
+</table>
 
-Le montant de la taxe est arrondi à l'euro le plus proche. 
+Le montant de la taxe est arrondi à l'euro le plus proche.
 
 En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en
-fonction des tarifs proportionnellement au nombre de jours de chaque période. 
+fonction des tarifs proportionnellement au nombre de jours de chaque période.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
-au commencement de leur activité. 
+au commencement de leur activité.
 
 Ils tiennent une comptabilité des livraisons de gaz naturel qu'ils effectuent en France et communiquent à l'administration
 chargée du recouvrement la date et le lieu de livraison effectif, le nom ou la raison sociale et l'adresse du destinataire.
-La comptabilité des livraisons doit être présentée à toute réquisition de l'administration. 
+La comptabilité des livraisons doit être présentée à toute réquisition de l'administration.
 
 b. Les fournisseurs qui ne sont pas établis sur le territoire douanier de la France désignent une personne qui y est établie
 et qui a été enregistrée auprès de l'administration des douanes et droits indirects, pour effectuer en leurs lieu et place
-les obligations qui leur incombent et acquitter la taxe intérieure de consommation. 
+les obligations qui leur incombent et acquitter la taxe intérieure de consommation.
 
 c. Les utilisateurs finals mentionnés au second alinéa du 2 et ceux qui importent du gaz naturel pour leurs besoins propres
 se font enregistrer auprès de l'administration des douanes et droits indirects. Ils lui communiquent tous les éléments
-d'assiette nécessaires pour l'établissement de la taxe. 
+d'assiette nécessaires pour l'établissement de la taxe.
 
 d. Les fournisseurs doivent communiquer chaque année à l'administration des douanes la liste de leurs clients non
-domestiques, selon les modalités définies par arrêté du ministre chargé du budget. 
+domestiques, selon les modalités définies par arrêté du ministre chargé du budget.
 
 10. La taxe est acquittée, selon une périodicité trimestrielle, auprès du service des douanes désigné lors de
-l'enregistrement. 
+l'enregistrement.
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur
 final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration, conforme à un
 modèle fixé par l'administration, déposée avant le 25 du mois suivant le trimestre concerné. La taxe correspondante est
-acquittée dans le même délai. 
+acquittée dans le même délai.
 
-La déclaration d'acquittement peut être effectuée par voie électronique. 
+La déclaration d'acquittement peut être effectuée par voie électronique.
 
 11. Les personnes qui ont reçu des produits mentionnés au 1, sans que ces produits soient soumis à la taxe intérieure de
 consommation dans les conditions mentionnées au 4, ou en exonération conformément au 5, ou avec l'application d'un taux
 réduit conformément à l'article 265 nonies, sont tenues, sans préjudice des pénalités éventuellement applicables, d'acquitter
 les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à la destination ou à l'utilisation ayant
-justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit. 
+justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit.
 
 12. Lorsque les produits mentionnés au 1 ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont été
 employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 ou à un
 usage permettant l'application d'un taux réduit conformément à l'article 265 nonies, l'utilisateur final peut demander le
-remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352. 
+remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
 
 Lorsque les produits mentionnés au 1 soumis à la taxe ont fait l'objet d'un rachat par le fournisseur auprès de son client,
 la taxe est remboursée au fournisseur, pour autant que le fournisseur justifie qu'il a précédemment acquitté la taxe. Ce
@@ -15259,9 +15057,8 @@ remboursement peut s'effectuer par imputation sur le montant de la taxe due.
 
 **Nota:**
 
-Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
-266 quinquies  tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
-civil suivant la promulgation de ladite loi.
+Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent
+aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -15323,7 +15120,8 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
 
 
 ###### Article 266 quinquies A
@@ -15369,138 +15167,143 @@ _Codifié par_:
 ###### Article 266 quinquies B
 
 1. Les houilles, les lignites et les cokes repris aux codes NC 2701,2702 et 2704 et destinés à être utilisés comme
-combustible sont soumis à une taxe intérieure de consommation. 
+combustible sont soumis à une taxe intérieure de consommation.
 
 2. Le fait générateur de la taxe intervient et la taxe est exigible lors de la livraison de ces produits par un fournisseur à
 un utilisateur final. Le fait générateur intervient et la taxe est également exigible au moment de l'importation, lorsque les
-produits sont directement importés par l'utilisateur final pour ses besoins propres. 
+produits sont directement importés par l'utilisateur final pour ses besoins propres.
 
 Dans les autres cas, le fait générateur et l'exigibilité de la taxe interviennent lors de la consommation des houilles,
-lignites et cokes effectuée sur le territoire douanier de la France par un utilisateur final. 
+lignites et cokes effectuée sur le territoire douanier de la France par un utilisateur final.
 
-3. La taxe est due : 
+3. La taxe est due :
 
 1° Par le fournisseur des produits. Est considérée comme fournisseur de houilles, de lignites ou de cokes toute personne qui
-se livre au négoce de ces produits ; 
+se livre au négoce de ces produits ;
 
-2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane
-d'importation. 
+2° A l'importation, par la personne désignée comme destinataire réel des produits sur la déclaration en douane d'importation.
 
 3° Par l'utilisateur final mentionné au dernier alinéa du 2.
 
-4.1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés : 
+4.1° Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation lorsqu'ils sont utilisés :
 
-a) Autrement que comme combustible ; 
+a) Autrement que comme combustible ;
 
-b) A un double usage au sens du 2° du I de l'article 265 C ; 
+b) A un double usage au sens du 2° du I de l'article 265 C ;
 
 c) Dans un procédé de fabrication de produits minéraux non métalliques, classé dans la nomenclature statistique des activités
 économiques dans la Communauté européenne, telle qu'elle résulte du règlement (CE) n° 1893/2006 du Parlement européen et du
-Conseil du 20 décembre 2006 précité, sous la division 23 ; 
+Conseil du 20 décembre 2006 précité, sous la division 23 ;
 
 2° Les houilles, lignites et cokes ne sont pas soumis à la taxe intérieure de consommation mentionnée au 1 lorsqu'ils sont
-consommés dans les conditions prévues au III de l'article 265 C ; 
+consommés dans les conditions prévues au III de l'article 265 C ;
 
 3° Les modalités d'application des 1° et 2° ainsi que les modalités du contrôle de la destination des produits et de leur
-affectation aux usages qui y sont mentionnés sont fixées par décret. 
+affectation aux usages qui y sont mentionnés sont fixées par décret.
 
-5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés : 
+5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation lorsqu'ils sont utilisés :
 
 1° Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1 du code de
 l'énergie ou mentionné à l'article L. 121-27 du même code et des produits utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ; 
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ;
 
-2° Pour les besoins de leur extraction et de leur production ; 
+2° Pour les besoins de leur extraction et de leur production ;
 
-3° (Abrogé) ; 
+3° (Abrogé) ;
 
 4° Par les entreprises de valorisation de la biomasse dont les achats de combustibles et d'électricité utilisés pour cette
 valorisation représentent au moins 3 % de leur chiffre d'affaires, sous réserve qu'elles soient soumises au régime des quotas
 d'émission de gaz à effet de serre prévu aux articles L. 229-5 à L. 229-19 du code de l'environnement ou qu'elles appliquent
 des accords volontaires de réduction de gaz à effet de serre permettant d'atteindre des objectifs environnementaux
-équivalents ou d'accroître leur rendement énergétique. 
+équivalents ou d'accroître leur rendement énergétique.
 
 6. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
-mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous : 
+mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th rowspan="2">DÉSIGNATION DES PRODUITS 
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-</th>
-        <th rowspan="2">
+Désignation des produits</th>
+      <th rowspan="2">
 
-UNITÉ DE PERCEPTION 
+Unité de perception</th>
+      <th colspan="5">
 
-</th>
-        <th colspan="2">
+Tarif (en euros)</th>
+    </tr>
+    <tr>
+      <th>
 
-TARIF 
+2018</th>
+      <th>
 
-</th>
-      </tr>
-      <tr>
-        <th>
+2019</th>
+      <th>
 
-2016 
+2020</th>
+      <th>
 
-</th>
-        <th>
+2021</th>
+      <th>
 
-2017 
+A compter de 2022</th>
+    </tr>
+    <tr>
+      <td align="center">
 
-</th>
-      </tr>
-      <tr>
-        <td>
+2701,2702 et 2704
 
-2701,2702 et 2704 : houilles, lignites et cokes destinés à être utilisés comme combustibles 
+houilles, lignites et cokes destinés à être utilisés comme combustibles</td>
+      <td align="left">
 
-</td>
-        <td align="left">
+Mégawattheure</td>
+      <td align="center">
 
-Mégawattheure 
+14,62</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+18,02</td>
+      <td align="center">
 
-7,21 
+21,43</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+24,84</td>
+      <td align="center">
 
-9,99 </td>
-      </tr>
-    </tbody>
-  </table>
+28,25</td>
+    </tr>
+  </tbody>
+</table>
 
-Le montant de la taxe est arrondi à l'euro le plus proche. 
+Le montant de la taxe est arrondi à l'euro le plus proche.
 
 7.1° Les fournisseurs de houilles, de lignites ou de cokes établis en France sont tenus de se faire enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
-au commencement de leur activité. 
+au commencement de leur activité.
 
 Ils tiennent une comptabilité des livraisons qu'ils effectuent en France et communiquent à l'administration chargée du
 recouvrement le lieu de livraison effectif, le nom ou la raison sociale et l'adresse du destinataire. La comptabilité des
-livraisons doit être présentée à toute réquisition de l'administration ; 
+livraisons doit être présentée à toute réquisition de l'administration ;
 
 2° Les fournisseurs non établis en France désignent une personne qui y est établie et a été enregistrée auprès de
 l'administration des douanes et droits indirects pour effectuer en leurs lieu et place les obligations qui leur incombent et
-acquitter la taxe intérieure de consommation. 
+acquitter la taxe intérieure de consommation.
 
-3° La taxe est acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et droits indirects. 
+3° La taxe est acquittée, selon une périodicité trimestrielle, auprès de l'administration des douanes et droits indirects.
 
 Les quantités d'énergie livrées à un utilisateur final ou importées ou, dans les autres cas, consommées par un utilisateur
 final au titre d'un trimestre, pour lesquelles la taxe est devenue exigible, sont portées sur une déclaration, conforme à un
 modèle fixé par l'administration, déposée avant le 25 du mois suivant le trimestre concerné. La taxe correspondante est
-acquittée dans le même délai. 
+acquittée dans le même délai.
 
-La déclaration d'acquittement peut être effectuée par voie électronique ; 
+La déclaration d'acquittement peut être effectuée par voie électronique ;
 
 4° Les fournisseurs communiquent chaque année à l'administration des douanes la liste de leurs clients non domestiques, selon
-les modalités définies par arrêté du ministre chargé du budget. 
+les modalités définies par arrêté du ministre chargé du budget.
 
 5° Par dérogation au 3°, les fournisseurs des produits mentionnés au 1 qui, au cours de l'année civile précédente, ont
 effectué des livraisons uniquement à des clients domestiques, dans la limite de 1 000 mégawattheures, peuvent déclarer et
@@ -15508,15 +15311,15 @@ acquitter la taxe auprès de l'administration des douanes et droits indirects, s
 d'énergie livrées au cours de l'année civile sont portées sur une déclaration conforme à un modèle fixé par l'administration
 et déposée avant le 31 janvier suivant l'année concernée. La taxe correspondante est acquittée dans le même délai. Lorsque,
 au cours d'une année, le redevable ne remplit plus les conditions ouvrant droit au bénéfice de ce régime simplifié, il
-déclare et acquitte la taxe conformément au 3°. 
+déclare et acquitte la taxe conformément au 3°.
 
 8. Les personnes qui ont reçu des produits mentionnés au 1 sans que ces produits soient soumis à la taxe intérieure de
 consommation dans les cas prévus au 4 ou qui les ont reçus en exonération de cette taxe dans les cas prévus au 5 ou qui ont
 bénéficié d'un taux réduit prévu à l'article 265 nonies sont tenues, sans préjudice des pénalités applicables, au paiement de
 la taxe lorsque ces produits n'ont pas été affectés à la destination ou à l'utilisation ayant justifié l'absence de taxation
-ou l'exonération. 
+ou l'exonération.
 
-9. Abrogé (à compter du 1er janvier 2008). 
+9. Abrogé (à compter du 1er janvier 2008).
 
 10. Lorsque les houilles, lignites et cokes ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont
 été employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 ou
@@ -15525,9 +15328,8 @@ le remboursement de la taxe ou de la fraction de taxe, dans les conditions prév
 
 **Nota:**
 
-Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
-266 quinquies B tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre
-civil suivant la promulgation de ladite loi.
+Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent
+aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
 
 **Liens relatifs à cet article**
 
@@ -15548,11 +15350,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-227 du 24 février 2017 - art. 7 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L3333-2 (VD)
+  - Code général des collectivités territoriales - art. L3333-2
   - Code des douanes - art. 265 C
   - Code des douanes - art. 265 nonies
   - Code des douanes - art. 266 quinquies A
@@ -15644,37 +15447,24 @@ B.-Le tarif de la taxe est fixé comme suit :
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
-
-DÉSIGNATION DES PRODUITS</th>
-      <th rowspan="2">
-
-UNITÉ DE PERCEPTION</th>
-      <th colspan="2">
-
-TARIF</th>
-    </tr>
-    <tr>
+      <th>Désignation des produits</th>
       <th>
 
-2016</th>
+Unité de perception</th>
       <th>
 
-2017</th>
+Tarif (en euros)</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 Electricité</td>
-      <td align="center">
+      <td align="justify">
 
 Mégawattheure</td>
       <td align="center">
 
-22,50</td>
-      <td align="center">
-
-22,50</td>
+22,5</td>
     </tr>
   </tbody>
 </table>
@@ -15823,6 +15613,10 @@ mentionnés aux 4 à 6 et au C du 8.
 Conformément à l'article 88 II de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux consommations
 d'électricité dont le fait générateur intervient à compter d'une date fixée par décret, et au plus tard du 1er juillet 2018.
 
+(1) Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions du
+tableau du deuxième alinéa du B du 8 s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier
+2018.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -15856,8 +15650,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 60
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 88
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
 
 _Cite_:
 
@@ -15867,42 +15660,40 @@ _Cite_:
 
 ###### Article 266 septies
 
-Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par : 
+Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
 
 1. La réception des déchets dans une installation mentionnée au 1 du I de l'article 266 sexies ;
 
 1 bis. Le transfert des déchets à la date figurant sur le document de suivi adressé aux autorités compétentes du pays
 d'expédition en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil, du 14 juin 2006, concernant
-les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ; 
+les transferts de déchets ou, à défaut de document de suivi, à la date de sortie du territoire ;
 
 2. L'émission dans l'atmosphère par les installations mentionnées au 2 du I de l'article 266 sexies, d'oxydes de soufre et
 autres composés soufrés, d'oxydes d'azote et autres composés oxygénés de l'azote, d'acide chlorhydrique, d'hydrocarbures non
 méthaniques, solvants, de benzène et d'hydrocarbures aromatiques polycycliques et autres composés organiques volatils,
 d'arsenic, de mercure, de sélénium, de plomb, de zinc, de chrome, de cuivre, de nickel, de cadmium, de vanadium ainsi que de
-poussières totales en suspension ; 
+poussières totales en suspension ;
 
-3. (Alinéa abrogé) ; 
+3. (Alinéa abrogé) ;
 
-4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ; 
+4. a) La première livraison ou la première utilisation des lubrifiants mentionnés au a du 4 du I de l'article 266 sexies ;
 
-b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ; 
+b. L'utilisation des huiles et préparations lubrifiantes mentionnées au b du 4 du I de l'article 266 sexies ;
 
-c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies. 
+c) L'utilisation des huiles et préparations lubrifiantes mentionnées au c du 4 du I de l'article 266 sexies.
 
 5. La première livraison ou la première utilisation des préparations ou produits mentionnés au 5 du I de l'article 266
-sexies ; 
+sexies ;
 
-6. a) La première livraison des matériaux d'extraction mentionnés au a du 6 du I de l'article 266 sexies ; 
+6. a) La première livraison des matériaux d'extraction mentionnés au a du 6 du I de l'article 266 sexies ;
 
-b) La première utilisation de ces matériaux ; 
+b) La première utilisation de ces matériaux ;
 
-7. (Alinéa abrogé) ; 
+7. (Alinéa abrogé) ;
 
-8. a. La délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement ; 
+8. (Alinéas abrogés) ;
 
-b. L'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies ; 
-
-9. (Alinéa abrogé) ; 
+9. (Alinéa abrogé) ;
 
 10. (Abrogé)
 
@@ -15933,10 +15724,6 @@ _Cité par_:
   - Code des douanes - art. 266 sexies (V)
   - Code des douanes - art. 266 undecies (M)
 
-_Modifié par_:
-
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
-
 _Cite_:
 
   - Code de l'environnement - art. L512-1
@@ -15945,8 +15732,8 @@ _Cite_:
 
 ###### Article 266 sexies
 
-I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
-suivantes : 
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+suivantes :
 
 1. Tout exploitant d'une installation soumise à autorisation, en application du titre Ier du livre V du code de
 l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative :
@@ -15959,95 +15746,89 @@ et non exclusivement utilisée pour les déchets que l'exploitant produit, ou to
 des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin
 2006 concernant les transferts de déchets ;
 
-2. Tout exploitant d'une installation soumise à autorisation au titre du livre V (titre Ier) du code de l'environnement dont
-la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il s'agit d'installations
-de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article 266 septies émises en
-une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils fixés par décret en
-Conseil d'Etat ; 
+2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de
+l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il
+s'agit d'installations de traitement thermique d'ordures ménagères, ou le poids des substances mentionnées au 2 de l'article
+266 septies émises en une année lorsque l'installation n'entre pas dans les catégories précédentes, dépassent certains seuils
+fixés par décret en Conseil d'Etat ;
 
-3. (alinéa abrogé à compter du 1er janvier 2005) ; 
+3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
 4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
-utilise pour la première fois des lubrifiants susceptibles de produire des huiles usagées ; 
+utilise pour la première fois des lubrifiants susceptibles de produire des huiles usagées ;
 
 b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes,
-autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ; 
+autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
 
 c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
 usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
 moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
-B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ; 
+B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
 utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des
 produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à
-38099100 du tarif douanier ; 
+38099100 du tarif douanier ;
 
 6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur
 des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains ou obtenus à partir de
 roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
-caractéristiques et usages sont fixés par décret ; 
+caractéristiques et usages sont fixés par décret ;
 
 b) Toute personne qui, pour les besoins de son activité économique, utilise pour la première fois des matériaux mentionnés au
-a ; 
+a ;
 
-7. Alinéa abrogé ; 
+7. Alinéa abrogé ;
 
-8. a. Tout exploitant d'un établissement industriel ou commercial ou d'un établissement public à caractère industriel et
-commercial dont certaines installations sont soumises à autorisation au titre du livre V (titre Ier) du code de
-l'environnement ; 
+8. (Abrogé) ;
 
-b. Tout exploitant d'un établissement mentionné au a dont les activités, figurant sur une liste établie par décret en Conseil
-d'Etat après avis du Conseil supérieur de la prévention des risques technologiques, font courir, par leur nature ou leur
-volume, des risques particuliers à l'environnement ; 
-
-9. Alinéa abrogé ; 
+9. Alinéa abrogé ;
 
 10. (Abrogé)
 
-II.-La taxe ne s'applique pas : 
+II. - La taxe ne s'applique pas :
 
 1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par
-incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ; 
+incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
 1 bis. Aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme
-matière ; 
+matière ;
 
 1 ter. Aux installations de stockage des déchets autorisées, au titre du titre Ier du livre V du code de l'environnement, à
 recevoir des déchets d'amiante liés à des matériaux de construction inertes ayant conservé leur intégrité (amiante-ciment)
-relevant du code 17 06 05 de la liste des déchets, pour la quantité de déchets d'amiante-ciment reçus ; 
+relevant du code 17 06 05 de la liste des déchets, pour la quantité de déchets d'amiante-ciment reçus ;
 
-1 quater. (Abrogé) ; 
+1 quater. (Abrogé) ;
 
 1 quinquies. Aux réceptions de déchets non dangereux générés par une catastrophe naturelle, dont l'état est constaté par
-arrêté, entre la date de début de sinistre et cent vingt jours après la fin du sinistre. Les quantités non taxables font
-l'objet d'une comptabilité matière séparée ; 
+arrêté, entre la date de début de sinistre et jusqu'à deux cent quarante jours après la fin du sinistre. Les quantités non
+taxables font l'objet d'une comptabilité matière séparée ;
 
 1 sexies. Aux installations de co-incinération de déchets non dangereux pour les déchets non dangereux qu'elles
-réceptionnent ; 
+réceptionnent ;
 
 1 septies. Aux installations de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme
-de combustibles solides de récupération, mentionnées au 9° du I de l'article L. 541-1 du code de l'environnement ; 
+de combustibles solides de récupération, mentionnées au 9° du I de l'article L. 541-1 du code de l'environnement ;
 
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du
-30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ; 
+30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
 
 3. Aux produits mentionnés au 6 du I du présent article issus d'une opération de recyclage ou qui présentent une teneur sur
-produit sec d'au moins 97 % d'oxyde de silicium ; 
+produit sec d'au moins 97 % d'oxyde de silicium ;
 
 4. Aux lubrifiants, aux préparations pour lessives, y compris les préparations auxiliaires de lavage, aux produits
 adoucissants ou assouplissants pour le linge, aux matériaux d'extraction, mentionnés respectivement au a du 4 et aux 5, et 6
 du I du présent article lorsque la première livraison après fabrication nationale consiste en une expédition directe à
-destination d'un Etat membre de la Communauté européenne ou en une exportation ; 
+destination d'un Etat membre de la Communauté européenne ou en une exportation ;
 
-5. A l'exploitation d'installations classées par les entreprises inscrites au répertoire des métiers ; 
+5. (Abrogé) ;
 
 6. Aux lubrifiants biodégradables, non écotoxiques et d'origine renouvelable respectant les critères définis pour le label
 écologique communautaire des lubrifiants dans la décision n° 2005/360/ CE de la Commission européenne du 26 avril 2005
 établissant les critères écologiques et les exigences associées en matière d'évaluation et de vérification pour l'attribution
-du label écologique communautaire aux lubrifiants ; 
+du label écologique communautaire aux lubrifiants ;
 
-7. (Abrogé)
+7. (Abrogé).
 
 III. - Sont exonérées de la taxe mentionnée au I :
 
@@ -16109,7 +15890,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (V)
-  - Code des douanes - art. 266 nonies (VD)
+  - Code des douanes - art. 266 nonies (VT)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
   - Code des douanes - art. 266 septies (V)
@@ -16141,85 +15922,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
-
-
-###### Article 266 terdecies
-
-Par dérogation aux dispositions des articles 266 undecies et 266 duodecies, les services chargés de l'inspection des
-installations classées contrôlent, liquident et recouvrent la part de la taxe générale sur les activités polluantes assise
-sur la délivrance de l'autorisation prévue par les articles L. 512-1 et L. 512-8 du code de l'environnement et sur
-l'exploitation au cours d'une année civile d'un établissement mentionné au b du 8 du I de l'article 266 sexies selon les
-modalités suivantes : 
-
-I. - Au vu des renseignements transmis par le préfet, les services chargés de l'inspection des installations classées
-dressent la liste des redevables, fixent le montant de la taxe et, le cas échéant, des pénalités dues par chacun de ceux-ci
-et prescrivent l'exécution de la recette correspondante. 
-
-Ils notifient à l'assujetti le montant de la taxe et, le cas échéant, des pénalités à acquitter par un avis qui indique les
-dates de mise en recouvrement, d'exigibilité et d'application de l'intérêt de retard en cas de non-paiement. 
-
-La date d'exigibilité est fixée au dernier jour du deuxième mois suivant celui de la mise en recouvrement. 
-
-Le montant de la taxe non acquittée le 15 du mois qui suit celui au cours duquel la taxe est exigible est majoré. 
-
-L'encaissement de la taxe ainsi que, le cas échéant, des pénalités, est effectué par l'intermédiaire d'une régie de recettes
-fonctionnant dans les conditions prévues par la réglementation applicable aux régies de recettes et aux régies d'avance des
-organismes publics. 
-
-A défaut de paiement et au plus tard deux mois après le 15 du mois qui suit celui au cours duquel la taxe est exigible, le
-recouvrement des sommes impayées est assuré dans les conditions prévues par la réglementation générale sur la comptabilité
-publique au vu des ordres de recettes émis par l'ordonnateur dont relève la régie de recettes mentionnée à l'alinéa
-précédent. 
-
-II.-La taxe générale sur les activités polluantes assise sur l'exploitation d'un établissement mentionné au b du 8 du I de
-l'article 266 sexies est due au 1er janvier de chaque année, ou ultérieurement à la date de mise en fonctionnement de
-l'établissement ou éventuellement de l'exercice d'une nouvelle activité. La taxe est due dans tous les cas pour l'année
-entière. Son paiement incombe à la personne physique ou morale qui exploite l'établissement à cette date. 
-
-En cas de cessation d'activité ou de changement survenu dans un établissement de nature à modifier sa situation au regard de
-cette taxe, l'exploitant fait parvenir une déclaration au préfet dans un délai d'un mois à compter de cet événement. 
-
-Lorsque cette déclaration est inexacte ou n'est pas déposée dans ce délai, les services chargés de l'inspection des
-installations classées notifient aux assujettis, trente jours au moins avant l'émission du titre exécutoire, les éléments
-servant au calcul de la taxe. 
-
-En cas de défaut de déclaration dans le délai prescrit, les services mentionnés ci-dessus procèdent à la taxation d'office et
-l'assortissent de l'intérêt de retard et de la majoration prévus au 1 de l'article 1728 du code général des impôts. 
-
-En cas d'inexactitude de la déclaration, les rappels de taxe sont assortis de l'intérêt de retard et, le cas échéant, de la
-majoration prévus à l'article 1729 du code général des impôts. 
-
-Les majorations mentionnées aux quatrième et cinquième alinéas du présent II sont notifiées, avec leur motivation, aux
-assujettis, qui disposent d'un délai de trente jours pour présenter leurs observations. Les services mentionnés ci-dessus ne
-peuvent émettre le titre exécutoire qu'à l'expiration de ce délai.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Cité par_:
-
-  - Décret n°2014-219 du 24 février 2014 (V)
-
-_Modifié par_:
-
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
-
-_Abrogé par_:
-
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 61
   - Loi n°2017-1837 du 30 décembre 2017 - art. 18
-
-_Cite_:
-
-  - Code général des impôts, CGI. - art. 1728
-  - Code général des impôts, CGI. - art. 1729
-  - Code des douanes - art. 266 sexies
-  - Code des douanes - art. 266 undecies
-  - Code de l'environnement - art. L512-1
-  - Code de l'environnement - art. L512-8
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 20
 
 
 ###### Article 266 undecies
@@ -16306,16 +16011,15 @@ _Cite_:
 
 ###### Article 267
 
-1. Les taxes intérieures de consommation et la taxe spéciale de consommation respectivement mentionnées aux articles 265, 266
-quater, 266 quinquies, 266 quinquies B et 266 quinquies C sont déclarées, contrôlées et recouvrées selon les règles,
+1. Les taxes intérieures de consommation et la taxe spéciale de consommation respectivement mentionnées aux articles  265,
+266 quater, 266 quinquies, 266 quinquies B et 266 quinquies C  sont déclarées, contrôlées et recouvrées selon les règles,
 garanties, privilèges et sanctions prévus par le présent code. Les infractions sont recherchées, constatées et réprimées, les
 poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane par les tribunaux compétents
-en cette matière. 
+en cette matière.
 
-Les taxes intérieures de consommation et la taxe spéciale de consommation mentionnées au précédent alinéa, sous réserve des
-dispositions du 2 des articles 266 quinquies et 266 quinquies B, sont exigibles lors de la mise à la consommation des
-produits sur le marché intérieur, lors de la constatation des manquants et dans les cas prévus aux articles 158 unvicies,158
-duovicies et 267 bis. 
+Sous réserve des articles 266 quinquies, 266 quinquies B et 266 quinquies C, le fait générateur et l'exigibilité des taxes
+intérieures de consommation et de la taxe spéciale de consommation mentionnées au premier alinéa du présent 1 interviennent
+dans les cas et conditions prévus aux articles 158 quinquies, 158 unvicies et 267 bis.
 
 2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes
 mentionnées au 1.
@@ -16347,27 +16051,23 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2010-1488 du 7 décembre 2010 - art. 23 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 _Cite_:
 
-  - Code des douanes - art. 158 unvicies
-  - Code des douanes - art. 265
   - Code des douanes - art. 266 quater
-  - Code des douanes - art. 266 quinquies
-  - Code des douanes - art. 267 bis
 
 
 ###### Article 267 bis
 
-Par dérogation aux dispositions du a du I de l'article 158 quinquies, les combustibles visés au tableau B de l'article 265 du
+Par dérogation aux dispositions du I de l'article 158 quinquies, les combustibles visés au tableau B de l'article 265 du
 présent code sont soumis à la taxe intérieure de consommation, s'ils ne l'ont pas déjà supportée, lorsqu'ils sont transportés
-par un particulier ou pour son compte. 
+par un particulier ou pour son compte.
 
 Il en est de même des carburants visés au tableau B de l'article 265 du présent code lorsqu'ils sont transportés par un
-particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve. 
+particulier ou pour son compte autrement que dans le réservoir d'un véhicule ou dans un bidon de réserve.
 
-La taxe est exigible dès la réalisation du transport. 
+La taxe est exigible dès la réalisation du transport.
 
 Les carburants déjà soumis à taxation dans un autre État membre de la Communauté européenne et contenus dans les réservoirs
 normaux des véhicules ainsi que ceux contenus dans les réservoirs des conteneurs à usages spéciaux et qui assurent le
@@ -16386,12 +16086,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2009-1674 du 30 décembre 2009 - art. 36 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 _Cite_:
 
   - Code des douanes - art. 158 quinquies (V)
-  - Code des douanes - art. 265 (V)
+  - Code des douanes - art. 265
 
 
 ###### Article 268
@@ -16518,18 +16218,14 @@ _Codifié par_:
 
 Les véhicules immatriculés en France circulant sur la voie publique et désignés à l'article 284 ter, à l'exclusion de ceux
 qui sont spécialement conçus pour le transport des personnes et de ceux mentionnés à l'article 284 bis B, sont soumis à une
-taxe spéciale. 
+taxe spéciale.
 
-Les dispositions de l'alinéa précédent sont applicables aux véhicules immatriculés dans un autre Etat qu'un Etat membre de la
-Communauté européenne. 
+Les dispositions de l'alinéa précédent ne sont pas applicables aux véhicules immatriculés dans un Etat membre de l'Union
+européenne ou ayant conclu un accord d'exonération réciproque avec la France, ainsi qu'aux véhicules qui circulent sur la
+voie publique en Guadeloupe, en Guyane, à La Réunion, à la Martinique et à Mayotte.
 
 Cette taxe est assise sur le poids total autorisé en charge de ces véhicules ou sur leur poids total roulant autorisé
 lorsqu'il est supérieur. Elle est exigible dès leur mise en circulation.
-
-**Nota:**
-
-Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
-exigible à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -16555,11 +16251,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 63
 
 _Cite_:
 
-  - Code des douanes - art. 284 bis B (V)
+  - Code des douanes - art. 284 bis B
 
 
 ###### Article 284 bis A
@@ -16642,21 +16338,21 @@ _Cite_:
 ###### Article 284 quater
 
 1. L'assiette et le recouvrement de la taxe sont assurés par les services de la direction générale des douanes et droits
-indirects, selon les règles, garanties et sanctions applicables en matière douanière. 
+indirects, selon les règles, garanties et sanctions applicables en matière douanière.
 
 Toutefois, la circulation de véhicules dont le poids total en charge dépasse le poids total autorisé, tel qu'il figure sur le
 certificat d'immatriculation, est réprimée exclusivement par application de l'article 25 de la loi n° 52-401 du 14 avril 1952
-et de l'article R. 238 du code de la route. 
+et de l'article R. 238 du code de la route.
 
-2. Le montant de la taxe est exigible d'avance. 
+2. Le montant de la taxe est exigible d'avance.
 
 3. Toute somme non réglée dans le délai de deux mois suivant la date d'exigibilité donne lieu à application d'une majoration
-de 10 %. 
+de 10 %.
 
-Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros. 
+Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
 
-4. Le paiement de la taxe doit être effectué par télérèglement directement opéré sur le compte du Trésor ouvert dans les
-écritures de la Banque de France, lorsque son montant excède 5 000 euros. 
+4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 1 000 euros.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -16665,16 +16361,12 @@ sanctions prévues en matière de droits de douane.
 6. Toute liquidation résultant d'une réduction du tarif ou de l'application d'une quote-part du tarif semestriel est arrondie
 à l'euro le plus proche. La fraction d'euro égale à 0,50 est comptée pour 1.
 
-**Nota:**
-
-Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
-exigible à compter du 1er juillet 2016.
-
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 
 ###### Article 284 quinquies
@@ -21866,9 +21558,9 @@ motocyclettes ou d'aéronefs ;
 
 5° le détournement de marchandises prohibées de leur destination privilégiée ; 
 
-6° le détournement de produits énergétiques mentionnés aux articles 265,266 quinquies ou 266 quinquies B d'une destination
-privilégiée au point de vue fiscal et notamment l'utilisation de carburants agricoles à des usages autres que ceux qui sont
-fixés par la loi ; 
+6° le détournement de produits énergétiques mentionnés aux articles 265,266 quater, 266 quinquies ou 266 quinquies B d'une
+destination privilégiée au point de vue fiscal et notamment l'utilisation de carburants agricoles à des usages autres que
+ceux qui sont fixés par la loi ; 
 
 7° Tout transport sur le territoire douanier de biens à double usage civil et militaire non communautaires, à destination
 d'un pays non membre de l'Union européenne, en violation des interdictions ou des autorisations visées à l'article 6 du
@@ -21879,15 +21571,16 @@ transferts, du courtage et du transit des biens à double usage.
 
 _Modifié par_:
 
-  - Loi n°2011-266 du 14 mars 2011 - art. 15
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 63
 
 _Cite_:
 
-  - Code des douanes - art. 230 (V)
-  - Code des douanes - art. 265 (V)
-  - Code des douanes - art. 266 quinquies (V)
-  - Code des douanes - art. 266 quinquies B (V)
-  - Code des douanes - art. 424 (V)
+  - Code des douanes - art. 230
+  - Code des douanes - art. 265
+  - Code des douanes - art. 266 quater
+  - Code des douanes - art. 266 quinquies
+  - Code des douanes - art. 266 quinquies B
+  - Code des douanes - art. 424
 
 _Cité par_:
 
