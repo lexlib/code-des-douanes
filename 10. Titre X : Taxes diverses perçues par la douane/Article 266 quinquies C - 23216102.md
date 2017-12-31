@@ -80,37 +80,24 @@ B.-Le tarif de la taxe est fixé comme suit :
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
-
-DÉSIGNATION DES PRODUITS</th>
-      <th rowspan="2">
-
-UNITÉ DE PERCEPTION</th>
-      <th colspan="2">
-
-TARIF</th>
-    </tr>
-    <tr>
+      <th>Désignation des produits</th>
       <th>
 
-2016</th>
+Unité de perception</th>
       <th>
 
-2017</th>
+Tarif (en euros)</th>
     </tr>
     <tr>
-      <td align="center">
+      <td align="justify">
 
 Electricité</td>
-      <td align="center">
+      <td align="justify">
 
 Mégawattheure</td>
       <td align="center">
 
-22,50</td>
-      <td align="center">
-
-22,50</td>
+22,5</td>
     </tr>
   </tbody>
 </table>
@@ -259,6 +246,10 @@ mentionnés aux 4 à 6 et au C du 8.
 Conformément à l'article 88 II de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux consommations
 d'électricité dont le fait générateur intervient à compter d'une date fixée par décret, et au plus tard du 1er juillet 2018.
 
+(1) Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions du
+tableau du deuxième alinéa du B du 8 s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier
+2018.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -296,8 +287,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 60
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 88
+  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
 
 _Cite_:
 
