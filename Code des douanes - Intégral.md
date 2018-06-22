@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-01-01 00:00:01 +0100
+Version Consolidée au 2018-06-23
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -9467,37 +9467,20 @@ Tableau B : Produits pétroliers et assimilés.
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
-
-Désignation des produits
+      <th>Désignation des produits
 
 (numéros du tarif des douanes)</th>
-      <th rowspan="2">
-
-Indice d'identification</th>
-      <th rowspan="2">
-
-Unité de perception</th>
-      <th colspan="5">
-
-Tarif (en euros)</th>
+      <th>Indice d'identification</th>
+      <th>Unité de perception</th>
+      <th colspan="5">Tarif (en euros)</th>
     </tr>
     <tr>
-      <th>
-
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+      <td colspan="3" align="justify">
+      </td><td align="center">2018</td>
+      <td align="center">2019</td>
+      <td align="center">2020</td>
+      <td align="center">2021</td>
+      <td align="center">A compter de 2022</td>
     </tr>
     <tr>
       <td align="justify">
@@ -9551,7 +9534,7 @@ Huiles brutes de pétrole ou de minéraux bitumineux.</td>
       <td align="center">
 
 3</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit</td>
     </tr>
@@ -9575,7 +9558,7 @@ base, autres que les déchets :</td>
       <td align="justify">
 
 ---essences spéciales :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9607,7 +9590,7 @@ Hectolitre</td>
       <td align="justify">
 
 ----autres essences spéciales :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9642,7 +9625,7 @@ Hectolitre</td>
       <td align="center">
 
 9</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Exemption</td>
     </tr>
@@ -9656,7 +9639,7 @@ Exemption</td>
       <td align="justify">
 
 ----essences pour moteur :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9773,7 +9756,7 @@ Hectolitre</td>
       <td align="justify">
 
 ----carburéacteurs, type essence :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10011,7 +9994,7 @@ Hectolitre</td>
       <td align="justify">
 
 ---gazole :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10150,7 +10133,7 @@ Hectolitre</td>
       <td align="center">
 
 29</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10160,14 +10143,14 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-12
 
 Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
 
 --destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane
 représente plus de 50 % en poids) :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10261,7 +10244,7 @@ Butanes liquéfiés :</td>
 
 --destinés à être utilisés comme carburant (y compris le mélange spécial de butane et de propane dans lequel le butane
 représente au moins 50 % en poids) :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10361,7 +10344,7 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-19
 
 Autres gaz de pétrole liquéfiés :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10487,7 +10470,7 @@ Gaz naturel à l'état gazeux :</td>
 2711-29
 
 Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10496,7 +10479,7 @@ Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :</
       <td align="center">
 
 38 bis</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable aux produits mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non
 utilisés sous condition d'emploi</td>
@@ -10508,7 +10491,7 @@ utilisés sous condition d'emploi</td>
       <td align="center">
 
 39</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Exemption</td>
     </tr>
@@ -10521,7 +10504,7 @@ Vaseline.</td>
       <td align="center">
 
 40</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10560,7 +10543,7 @@ Bitumes de pétrole.</td>
       <td align="center">
 
 46</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -11274,7 +11257,7 @@ _Cité par_:
   - Code des douanes - art. 266 bis (V)
   - Code des douanes - art. 266 quater (VT)
   - Code des douanes - art. 266 quindecies (V)
-  - Code des douanes - art. 266 quinquies (V)
+  - Code des douanes - art. 266 quinquies (VD)
   - Code des douanes - art. 266 quinquies A (V)
   - Code des douanes - art. 266 quinquies B (V)
   - Code des douanes - art. 266 quinquies C (M)
@@ -11385,9 +11368,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 19
+  - Décret n°2018-500 du 20 juin 2018 - art. 2
 
 
 ###### Article 265 A
