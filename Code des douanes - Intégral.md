@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-01-01 00:00:01 +0100
+Version Consolidée au 2018-06-23
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -9541,37 +9541,20 @@ Tableau B : Produits pétroliers et assimilés.
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
-
-Désignation des produits
+      <th>Désignation des produits
 
 (numéros du tarif des douanes)</th>
-      <th rowspan="2">
-
-Indice d'identification</th>
-      <th rowspan="2">
-
-Unité de perception</th>
-      <th colspan="5">
-
-Tarif (en euros)</th>
+      <th>Indice d'identification</th>
+      <th>Unité de perception</th>
+      <th colspan="5">Tarif (en euros)</th>
     </tr>
     <tr>
-      <th>
-
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+      <td align="justify" colspan="3">
+      </td><td align="center">2018</td>
+      <td align="center">2019</td>
+      <td align="center">2020</td>
+      <td align="center">2021</td>
+      <td align="center">A compter de 2022</td>
     </tr>
     <tr>
       <td align="justify">
@@ -11473,11 +11456,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (M)
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 19
+  - Décret n°2018-500 du 20 juin 2018 - art. 2
 
 
 ###### Article 265 A
