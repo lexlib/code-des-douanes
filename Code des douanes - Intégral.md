@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-01-01 00:00:01 +0100
+Version Consolidée au 2018-06-23
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -9545,37 +9545,20 @@ Tableau B : Produits pétroliers et assimilés.
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
-
-Désignation des produits
+      <th>Désignation des produits
 
 (numéros du tarif des douanes)</th>
-      <th rowspan="2">
-
-Indice d'identification</th>
-      <th rowspan="2">
-
-Unité de perception</th>
-      <th colspan="5">
-
-Tarif (en euros)</th>
+      <th>Indice d'identification</th>
+      <th>Unité de perception</th>
+      <th colspan="5">Tarif (en euros)</th>
     </tr>
     <tr>
-      <th>
-
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+      <td align="justify" colspan="3">
+      </td><td align="center">2018</td>
+      <td align="center">2019</td>
+      <td align="center">2020</td>
+      <td align="center">2021</td>
+      <td align="center">A compter de 2022</td>
     </tr>
     <tr>
       <td align="justify">
@@ -9616,7 +9599,7 @@ d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou
       <td align="center">
 
 2</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -9629,7 +9612,7 @@ Huiles brutes de pétrole ou de minéraux bitumineux.</td>
       <td align="center">
 
 3</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit</td>
     </tr>
@@ -9641,13 +9624,13 @@ Taxe intérieure de consommation applicable aux huiles légères du 2710, suivan
 Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises ailleurs,
 contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l'élément de
 base, autres que les déchets :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
 
 --huiles légères et préparations :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9685,7 +9668,7 @@ Hectolitre</td>
       <td align="justify">
 
 ----autres essences spéciales :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9728,7 +9711,7 @@ Exemption</td>
       <td align="justify">
 
 ---autres huiles légères et préparations :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9851,7 +9834,7 @@ Hectolitre</td>
       <td align="justify">
 
 ----carburéacteurs, type essence :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9935,13 +9918,13 @@ Hectolitre</td>
       <td align="justify">
 
 --huiles moyennes :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
 
 ---pétrole lampant :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9999,7 +9982,7 @@ Hectolitre</td>
       <td align="justify">
 
 ---carburéacteurs, type pétrole lampant :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10083,7 +10066,7 @@ Hectolitre</td>
       <td align="justify">
 
 --huiles lourdes :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10228,7 +10211,7 @@ Hectolitre</td>
       <td align="center">
 
 29</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10238,14 +10221,14 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-12
 
 Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
 
 --destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane
 représente plus de 50 % en poids) :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10339,7 +10322,7 @@ Butanes liquéfiés :</td>
 
 --destinés à être utilisés comme carburant (y compris le mélange spécial de butane et de propane dans lequel le butane
 représente au moins 50 % en poids) :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10439,7 +10422,7 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-19
 
 Autres gaz de pétrole liquéfiés :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10612,7 +10595,7 @@ Paraffine contenant en poids moins de 0,75 % d'huile.</td>
       <td align="center">
 
 41</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10692,7 +10675,7 @@ Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole
       <td align="center">
 
 49</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10716,7 +10699,7 @@ Ex 3824-90-97
 
 Émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en
 volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -11472,11 +11455,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 19
+  - Décret n°2018-500 du 20 juin 2018 - art. 2
 
 
 ###### Article 265 A
