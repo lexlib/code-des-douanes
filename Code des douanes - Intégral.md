@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -230,18 +230,19 @@ Version Consolidée au 2018-08-01
         - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#227)
         - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#228)
         - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#229)
-    - [Chapitre VII : Intérêt de retard (art. 440 bis)](#230)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#231)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#232)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#233)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#234)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#235)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#236)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#237)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#238)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#239)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#240)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#241)
+    - [Chapitre VI bis : Régularisation des obligations déclaratives (art. 440-1)](#230)
+    - [Chapitre VII : Intérêt de retard (art. 440 bis)](#231)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#232)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#233)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#234)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#235)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#236)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#237)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#238)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#239)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#240)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#241)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#242)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -3648,14 +3649,18 @@ _Cité par_:
 
 ###### Article 67 B
 
-Le redevable est informé des motifs et du montant de la taxation  encourue par tout agent de l'administration des douanes et
-droits  indirects. Il est invité à faire connaître ses observations.
+Le redevable est informé des motifs et du montant de la taxation encourue par tout agent de l'administration des douanes et
+droits indirects. Il est invité à faire connaître ses observations.
+
+Il est également informé des points qui, ayant fait l'objet d'un examen par l'administration dans les conditions prévues à
+l'avant-dernier alinéa du II et au III de l'article 345 bis, ne comportent ni erreur, ni inexactitude, ni omission, ni
+insuffisance dans le calcul des droits et taxes exigibles.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 27
 
 _Cité par_:
 
@@ -17511,25 +17516,46 @@ _Cite_:
 
 ###### Article 345 bis
 
-I. - Lorsque le redevable a appliqué un texte fiscal selon l'interprétation que l'administration avait fait connaître par ses
+I.-Lorsque le redevable a appliqué un texte fiscal selon l'interprétation que l'administration avait fait connaître par ses
 instructions ou circulaires publiées et qu'elle n'avait pas rapportées à la date des opérations constituant le fait
 générateur, elle ne peut constater par voie d'avis de mise en recouvrement et recouvrer les droits et taxes perçus selon les
 modalités du présent code, en soutenant une interprétation différente.
 
-II. - Lorsque l'administration a formellement pris position sur l'appréciation d'une situation de fait au regard d'un texte
-fiscal, elle ne peut constater par voie d'avis de mise en recouvrement et recouvrer les droits et taxes perçus selon les
-modalités du présent code en prenant une position différente.
+II.-La garantie prévue au I est également applicable lorsque l'administration a formellement pris position sur l'appréciation
+d'une situation de fait au regard d'un texte fiscal ; l'administration se prononce dans un délai de trois mois lorsqu'elle
+est saisie d'une demande écrite, précise et complète par un redevable de bonne foi.
 
-III. - L'octroi de la mainlevée des marchandises mentionnée aux articles 73 et 74 du règlement n° 2913/92 du Conseil du 12
-octobre 1992 établissant le code des douanes communautaire ne constitue pas une prise de position au sens du II.
+Lorsque l'administration a pris formellement position à la suite de la demande de ce redevable en application du premier
+alinéa du présent II, ce dernier peut saisir l'administration dans un délai de deux mois pour solliciter un second examen de
+sa demande, à la condition qu'il n'invoque pas d'éléments nouveaux.
 
-IV. - Les garanties prévues au présent article ne sont pas applicables à la dette douanière définie aux 9, 10 et 11 de
-l'article 4 du règlement précité établissant le code des douanes communautaire.
+Lorsqu'elle est saisie d'une demande de second examen, auquel elle procède de manière collégiale, l'administration répond
+selon les mêmes règles et délais que ceux applicables à la demande initiale, décomptés à partir de la réception de la
+nouvelle saisine.
+
+A sa demande, le redevable ou son représentant est entendu par le collège.
+
+La garantie prévue au I est également applicable lorsque, dans le cadre d'un contrôle ou d'une enquête effectués par
+l'administration, et sur demande écrite du redevable présentée conformément au premier alinéa du présent II, avant la
+notification de l'information ou de la proposition de taxation mentionnées aux articles 67 B et 67 D, l'administration a
+formellement pris position sur un point qu'elle a examiné au cours du contrôle.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent II, notamment le contenu, le lieu et les modalités
+de dépôt de la demande du redevable.
+
+III.-La garantie prévue au I est applicable lorsque, dans le cadre d'un contrôle ou d'une enquête et dès lors qu'elle a pu se
+prononcer en toute connaissance de cause, l'administration a pris position sur les points examinés lors du contrôle ou de
+l'enquête, lesquels sont communiqués au contribuable, selon les modalités fixées aux articles 67 B à 67 D-4, y compris s'ils
+ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul de l'impôt.
+
+IV.-Les I à III du présent article ne sont pas applicables lorsque les instructions ou circulaires ou la demande d'un
+redevable portent sur l'application du règlement (UE) n° 952/2013 du Parlement européen et du Conseil du 9 octobre 2013
+établissant le code des douanes de l'Union et de ses règlements d'application.
 
 **Nota:**
 
-Conformément à l'article 2 de l'ordonnance n° 2008-860 du 28 août 2008, les dispositions de l'article 345 bis sont
-applicables à Saint-Pierre-et-Miquelon, à l'exception de ses III et IV.
+Aux termes de l'article 26 V de la loi n° 2018-727 du 10 août 2018, les présentes dispositions s'appliquent aux demandes de
+rescrit présentées à l'administration à compter de la publication de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -17537,13 +17563,9 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Créé par_:
-
-  - Ordonnance n°2005-1512 du 7 décembre 2005 - art. 29 () JORF 8 décembre 2005
-
 _Cité par_:
 
-  - Ordonnance n°2008-860 du 28 août 2008 - art. 2 (M)
+  - Ordonnance n°2008-860 du 28 août 2008 - art. 2 (V)
   - Décret n°2018-944 du 31 octobre 2018 (V)
   - Décret n°2018-944 du 31 octobre 2018 - art. 1 (V)
   - Décret n°2018-944 du 31 octobre 2018 - art. 2 (V)
@@ -17554,9 +17576,14 @@ _Cité par_:
   - Décret n°2018-944 du 31 octobre 2018 - art. 7 (V)
   - Arrêté du 6 novembre 2018 (V)
 
+_Modifié par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 26 (V)
+
 _Cite_:
 
-  - Règlement CEE 2913-92 1992-10-12 Conseil art. 4, art. 73, art. 74
+  - Code des douanes - art. 67 B (V)
+  - Code des douanes - art. 67 D (V)
 
 
 ###### Article 346
@@ -21094,12 +21121,43 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre VII : Intérêt de retard<a id=230></a>
+## Chapitre VI bis : Régularisation des obligations déclaratives<a id=230></a>
+
+###### Article 440-1
+
+I.-Le redevable d'un droit ou d'une taxe recouvrés en application du présent code, à l'exclusion des ressources propres de
+l'Union européenne, peut soit spontanément, avant l'expiration du délai prévu pour l'exercice par l'administration de son
+droit de reprise, soit à la demande de l'administration dans le délai que celle-ci lui indique régulariser les erreurs,
+inexactitudes, omissions ou insuffisances commises pour la première fois, au cours des trois années précédant cette
+commission, dans les déclarations souscrites dans les délais. Les sanctions prévues aux articles 410 à 412 ne sont pas
+applicables lorsque cette régularisation :
+
+1° Est accompagnée du paiement des droits et taxes concernés et de l'intérêt de retard prévu à l'article 440 bis et que ce
+paiement est soit immédiat, soit effectué dans le cadre d'un plan de règlement des droits accordé par le comptable des
+douanes ;
+
+2° Ne concerne pas une infraction exclusive de bonne foi.
+
+II.-Le présent article est applicable dans les îles Wallis et Futuna.
+
+**Nota:**
+
+Conformément à l'article 74 de la loi n°2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation comptable et
+financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-727 du 10 août 2018 - art. 16
+
+
+## Chapitre VII : Intérêt de retard<a id=231></a>
 
 ###### Article 440 bis
 
-Tout impôt, droit ou taxe prévu par le présent code qui n'a pas été acquitté dans le délai légal donne lieu au versement d'un
-intérêt de retard.
+I. - Tout impôt, droit ou taxe prévu par le présent code qui n'a pas été acquitté dans le délai légal donne lieu au versement
+d'un intérêt de retard.
 
 L'intérêt de retard s'applique à compter du premier jour du mois suivant celui au cours duquel l'impôt devait être acquitté
 jusqu'au dernier jour du mois du paiement. Son taux est de 0,20 % par mois.
@@ -21107,21 +21165,41 @@ jusqu'au dernier jour du mois du paiement. Son taux est de 0,20 % par mois.
 L'intérêt de retard n'est pas dû lorsque s'appliquent les majorations prévues au 1 de l'article 224, au 9 de l'article 266
 quinquies C, au dernier alinéa de l'article 266 undecies et au 3 de l'article 284 quater.
 
+II.-En cas de régularisation spontanée par le redevable des erreurs, inexactitudes, omissions ou insuffisances dans les
+déclarations souscrites dans les délais, avant l'expiration du délai prévu pour l'exercice par l'administration de son droit
+de reprise et avant tout contrôle de cette dernière, le montant dû au titre de l'intérêt de retard mentionné au I du présent
+article est réduit de 50 %.
+
+Si le redevable demande à effectuer une telle régularisation alors qu'un contrôle de l'administration est en cours soit avant
+la notification de l'information ou de la proposition de taxation mentionnées aux articles 67 B et 67 D, soit après cette
+notification, ce montant est réduit de 30 %. Dans ce dernier cas, le redevable dispose de trente jours à compter de la
+notification pour demander la régularisation.
+
+Les réductions mentionnées au présent II ne peuvent être appliquées que si la régularisation :
+
+1° Ne concerne pas une infraction exclusive de bonne foi ;
+
+2° Est accompagnée du paiement de l'intégralité des droits, taxes et intérêts exigibles, soit immédiatement, soit dans le
+cadre d'un plan de règlement accordé par le comptable des douanes. (1)
+
 **Nota:**
 
 Conformément à l'article 55 de a loi n° 2017-1775 du 28 décembre 2017, III, les I et II dudit article s'appliquent aux
 intérêts courant du 1er janvier 2018 au 31 décembre 2020.
 
+(1) Conformément à l'article 74 de la loi n°2018-727 du 10 août 2018, ces dispositions font l'objet d'une évaluation
+comptable et financière établie par la Cour des comptes et transmise au Parlement, deux ans après leur entrée en vigueur.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 55 (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 14
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=231></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=232></a>
 
-## Chapitre Ier : Dispositions communes.<a id=232></a>
+## Chapitre Ier : Dispositions communes.<a id=233></a>
 
 ###### Article 451
 
@@ -21180,7 +21258,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=233></a>
+## Chapitre II : Constatation des infractions.<a id=234></a>
 
 ###### Article 453
 
@@ -21309,7 +21387,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=234></a>
+## Chapitre III : Poursuite des infractions.<a id=235></a>
 
 ###### Article 458
 
@@ -21327,7 +21405,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=235></a>
+## Chapitre IV : Dispositions répressives.<a id=236></a>
 
 ###### Article 459
 
@@ -21407,7 +21485,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=236></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=237></a>
 
 ###### Article 460
 
@@ -21498,7 +21576,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=237></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=238></a>
 
 ###### Article 464
 
@@ -21556,9 +21634,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=238></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=239></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=239></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=240></a>
 
 ###### Article 467
 
@@ -21650,7 +21728,7 @@ _Cite_:
   - article 5 du règlement (CE) n°638/2004 du 31 mars 2004
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=240></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=241></a>
 
 ###### Article 468
 
@@ -21713,7 +21791,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=241></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=242></a>
 
 ###### Article 470
 
