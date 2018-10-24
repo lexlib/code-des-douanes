@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-10-25
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -216,33 +216,34 @@ Version Consolidée au 2018-08-12
           - [C. - Troisième classe. (art. 412)](#213)
           - [D. - Quatrième classe. (art. 413)](#214)
           - [E. - Cinquième classe. (art. 413 bis à 413 ter)](#215)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis)](#216)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis B)](#216)
           - [A. - Première classe. (art. 414 à 414-1)](#217)
           - [B. - Deuxième classe. (art. 415 à 415-1)](#218)
-          - [C. ― Troisième classe (art. 416 à 416 bis)](#219)
+          - [C. ― Troisième classe (art. 416 à 416 bis B)](#219)
         - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#220)
         - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#221)
-      - [Section 2 : Peines complémentaires (art. 430 à 433)](#222)
+      - [Section 2 : Peines complémentaires (art. 430 à 433 bis)](#222)
         - [Paragraphe 1 : Confiscation. (art. 430)](#223)
         - [Paragraphe 2 : Astreinte. (art. 431)](#224)
         - [Paragraphe 3 : Peines privatives de droits. (art. 432 à 433)](#225)
-      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#226)
-        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#227)
-        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#228)
-        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#229)
-    - [Chapitre VI bis : Régularisation des obligations déclaratives (art. 440-1)](#230)
-    - [Chapitre VII : Intérêt de retard (art. 440 bis)](#231)
-  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#232)
-    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#233)
-    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#234)
-    - [Chapitre III : Poursuite des infractions. (art. 458)](#235)
-    - [Chapitre IV : Dispositions répressives. (art. 459)](#236)
-  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#237)
-  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#238)
-  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#239)
-    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#240)
-    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#241)
-    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#242)
+        - [Paragraphe 4 : Affichage et diffusion des décisions (art. 433 bis)](#226)
+      - [Section 3 : Cas particuliers d'application des peines (art. 434 à 440)](#227)
+        - [Paragraphe 1 : Confiscation. (art. 434 à 435)](#228)
+        - [Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires. (art. 436 à 438 bis)](#229)
+        - [Paragraphe 3 : Concours d'infractions. (art. 439 à 440)](#230)
+    - [Chapitre VI bis : Régularisation des obligations déclaratives (art. 440-1)](#231)
+    - [Chapitre VII : Intérêt de retard (art. 440 bis)](#232)
+  - [Titre XIV : Contentieux des relations financières avec l'étranger (art. 451 à 459)](#233)
+    - [Chapitre Ier : Dispositions communes. (art. 451 à 452)](#234)
+    - [Chapitre II : Constatation des infractions. (art. 453 à 457)](#235)
+    - [Chapitre III : Poursuite des infractions. (art. 458)](#236)
+    - [Chapitre IV : Dispositions répressives. (art. 459)](#237)
+  - [Titre XV : Le comité du contentieux fiscal, douanier et des changes. (art. 460 à 463)](#238)
+  - [Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger. (art. 464 à 465)](#239)
+  - [Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne (art. 467 à 470)](#240)
+    - [Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne. (art. 467)](#241)
+    - [Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne. (art. 468 à 469)](#242)
+    - [Chapitre III : Renvoi des produits dans le pays d'origine. (art. 470)](#243)
 # Titre Ier : Principes généraux du régime des douanes<a id=1></a>
 
 ## Chapitre Ier : Généralités.<a id=2></a>
@@ -1769,15 +1770,16 @@ _Créé par_:
 ###### Article 59 octies
 
 Les agents des douanes et les agents de la direction générale de la prévention des risques et de ses services déconcentrés
-sont autorisés, pour les besoins de leurs missions de contrôle des transferts transfrontaliers de déchets et de contrôle des
-substances et produits chimiques, à se communiquer, sur demande ou spontanément, tous les renseignements et documents détenus
-ou recueillis dans l'exercice de leurs missions respectives.
+sont autorisés, pour les besoins de leurs missions de contrôle des conditions de traitement des déchets et de leurs
+transferts transfrontaliers, de contrôle des substances et produits chimiques et de lutte contre la fraude fiscale, à se
+communiquer, sur demande ou spontanément, tous les renseignements et documents détenus ou recueillis dans l'exercice de leurs
+missions respectives.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-992 du 17 août 2015 - art. 77 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
 
 
 ###### Article 59 quater
@@ -1800,6 +1802,21 @@ _Modifié par_:
 _Cité par_:
 
   - Code des douanes - art. 67 E (V)
+
+
+###### Article 59 quaterdecies
+
+Les agents des douanes, les agents placés sous l'autorité du ministre chargé de l'agriculture, les agents de l'établissement
+national des produits de l'agriculture et de la mer et les agents de l'Office de développement de l'économie agricole
+d'outre-mer sont autorisés, pour les besoins de leurs missions de contrôle des produits de l'agriculture, à se communiquer,
+spontanément ou sur demande, tous les renseignements et documents détenus ou recueillis dans l'exercice de leurs missions
+respectives.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
 
 
 ###### Article 59 quinquies
@@ -1902,6 +1919,25 @@ _Cité par_:
 _Cite_:
 
   - Code pénal - art. 226-13 (M)
+
+
+###### Article 59 terdecies
+
+Pour les besoins de l'accomplissement de leurs missions, les assistants spécialisés détachés ou mis à disposition par
+l'administration des douanes et droits indirects en application de l'article 706 du code de procédure pénale disposent d'un
+droit d'accès direct aux informations contenues dans les fichiers tenus en application des réglementations européenne et
+nationale relatives aux obligations de déclaration de transfert de capitaux ainsi qu'aux données relatives au droit annuel de
+francisation et de navigation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 6
+
+_Cite_:
+
+  - Code de procédure pénale - art. 706 (V)
 
 
 ###### Article 59 undecies
@@ -2713,6 +2749,30 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+
+###### Article 65 quater
+
+Les personnes qui conçoivent ou éditent des logiciels de gestion ou de comptabilité ou des systèmes de caisse ou
+interviennent techniquement sur les fonctionnalités de ces produits affectant directement ou indirectement la tenue des
+écritures, la conservation ou l'intégrité des documents originaux nécessaires aux contrôles de l'administration des douanes
+sont tenues de présenter aux agents de cette administration, sur leur demande, tous codes, données, traitements ou
+documentation qui s'y rattachent.
+
+Pour l'application du premier alinéa, les codes, données, traitements ainsi que la documentation doivent être conservés
+jusqu'à l'expiration de la troisième année suivant celle au cours de laquelle le logiciel ou le système de caisse a cessé
+d'être diffusé.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 3 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 416 bis A (V)
+  - Code des douanes - art. 416 bis B (V)
 
 
 ###### Article 65 ter
@@ -20033,19 +20093,18 @@ _Cité par_:
 
 ###### Article 413 bis
 
-1. Est passible d'un emprisonnement d'un mois et d'une amende de 90 euros à 450 euros, toute infraction aux dispositions du a
-du 1 de l'article 53 et des articles 69 b, 71 et 117-2 ci-dessus, ainsi que tout refus de communication de pièces, toute
-dissimulation de pièces ou d'opérations dans les cas prévus aux articles 65 et 92 ci-dessus. 
+Est passible d'une amende de 3 700 € : 
 
-2. Tombent également sous le coup des dispositions de l'alinéa précédent : 
+1° Toute infraction aux dispositions du a du 1 de l'article 53 ; 
 
-a) toute personne qui, ayant fait l'objet d'un retrait de l'agrément ou d'un retrait de l'autorisation de dédouaner prévus
-respectivement aux articles 87-3 et 88 ci-dessus, continue, soit à accomplir pour autrui, directement ou indirectement, les
-formalités de douane concernant la déclaration en détail des marchandises, soit à bénéficier, directement ou indirectement,
-de tout ou partie de rémunérations de la nature de celles définies à l'article 93 ci-dessus ; 
+2° Tout refus de communication des documents et renseignements demandés par les agents des douanes dans l'exercice du droit
+de communication prévu à l'article 65 ou tout comportement faisant obstacle à la communication. Cette amende s'applique par
+demande, dès lors que tout ou partie des documents ou renseignements sollicités ne sont pas communiqués. Une amende de même
+montant est applicable en cas d'absence de tenue de ces documents ou de leur destruction avant les délais prescrits. 
 
-b) toute personne qui prête sciemment son concours en vue de soustraire aux effets du retrait d'agrément ou du retrait de
-l'autorisation de dédouaner ceux qui en auraient été atteints.
+L'amende est applicable en cas de refus de communication au titre de l'article 65 quinquies ; 
+
+3° Toute infraction aux dispositions du b de l'article 69, de l'article 71, du 1 de l'article 87 et du 2 de l'article 117.
 
 **Liens relatifs à cet article**
 
@@ -20055,15 +20114,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-742 du 1er juillet 2014 - art. 28
+  - Loi n°2018-898 du 23 octobre 2018 - art. 26 (V)
 
 _Cite_:
 
-  - Code des douanes - art. 53
-  - Code des douanes - art. 65
-  - Code des douanes - art. 69
-  - Code des douanes - art. 71
-  - Code des douanes - art. 92
+  - Code des douanes - art. 117 (V)
+  - Code des douanes - art. 53 (V)
+  - Code des douanes - art. 65 quinquies (VD)
+  - Code des douanes - art. 69 (V)
+  - Code des douanes - art. 71 (V)
+  - Code des douanes - art. 87 (V)
 
 
 ###### Article 413 ter
@@ -20190,7 +20250,7 @@ _Cite_:
 
 ###### Article 415
 
-Seront punis d'un emprisonnement de deux à dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
+Seront punis d'un emprisonnement de dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
 lorsque la saisie n'a pas pu être prononcée, de la confiscation des biens et avoirs qui sont le produit direct ou indirect de
 l'infraction et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté l'infraction ou la tentative
 d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé ou tenté de procéder à une
@@ -20232,6 +20292,7 @@ _Cité par_:
   - Code des douanes - art. 323-5 (VD)
   - Code des douanes - art. 386 bis (V)
   - Code des douanes - art. 415-1 (V)
+  - Code des douanes - art. 416 bis A (V)
   - Code des douanes - art. 67 bis (V)
   - Code des douanes - art. 67 bis-1 A (V)
   - Code monétaire et financier - art. D313-27 (VD)
@@ -20248,7 +20309,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2011-267 du 14 mars 2011 - art. 109
+  - Loi n°2018-898 du 23 octobre 2018 - art. 5
 
 _Nouveaux textes_:
 
@@ -20318,6 +20379,63 @@ _Cite_:
 
   - Code des douanes - art. 53
   - Code des douanes - art. 61
+
+
+###### Article 416 bis A
+
+I. – Les personnes mentionnées à l'article 65 quater qui mettent à disposition les logiciels ou les systèmes de caisse
+mentionnés au même article 65 quater sont passibles d'une amende lorsque ces logiciels, systèmes ou interventions techniques
+sont conçus pour permettre la commission de l'un des délits mentionnés aux articles 414, 415 et 459, en modifiant, supprimant
+ou altérant de toute autre manière un enregistrement stocké ou conservé au moyen d'un dispositif électronique, sans préserver
+les données originales.
+
+L'amende prévue au premier alinéa du présent I s'applique également aux distributeurs de ces produits qui savaient ou ne
+pouvaient ignorer que ces produits présentaient les caractéristiques mentionnées au même premier alinéa.
+
+L'amende encourue est de 15 % du chiffre d'affaires provenant de la commercialisation de ces logiciels ou systèmes de caisse
+ou des prestations réalisées, correspondant à l'année au cours de laquelle l'amende est prononcée et aux cinq années
+précédentes.
+
+L'application de l'amende prévue au présent I exclut celles prévues aux articles 1770 undecies et 1795 du code général des
+impôts à raison des mêmes logiciels, systèmes ou interventions et du même chiffre d'affaires.
+
+II. – Les personnes mentionnées au I sont solidairement responsables du paiement des droits rappelés correspondant à
+l'utilisation de ces logiciels et systèmes de caisse mis à la charge des entreprises ayant commis les délits mentionnés aux
+articles 414, 415 et 459 du présent code et qui se sont servis de ces produits dans le cadre de leur exploitation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 3 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 1770 undecies
+  - Code des douanes - art. 414
+  - Code des douanes - art. 415 (V)
+  - Code des douanes - art. 459
+  - Code des douanes - art. 65 quater
+
+_Cité par_:
+
+  - Code général des impôts, CGI. - art. 1795 (V)
+
+
+###### Article 416 bis B
+
+Est passible d'une amende de 10 000 € par logiciel, application ou système de caisse vendu ou par client pour lequel une
+prestation a été réalisée dans l'année tout manquement aux obligations prévues à l'article 65 quater.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 3 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 65 quater
 
 
 #### Paragraphe 4 : Contrebande.<a id=220></a>
@@ -20785,9 +20903,9 @@ _Codifié par_:
 
 ###### Article 431
 
-Indépendamment de l'amende encourue pour refus de communication dans les conditions prévues aux articles 65 et 92 ci-dessus,
+Indépendamment de l'amende encourue pour refus de communication dans les conditions prévues aux articles 65 et 65 quinquies,
 les contrevenants doivent être condamnés à représenter les livres, pièces ou documents non communiqués, sous une astreinte de
-1,50 euro au minimum par chaque jour de retard. 
+150 € au minimum par chaque jour de retard. 
 
 Cette astreinte commence à courir du jour même de la signature par les parties ou de la notification du procès-verbal dressé
 pour constater le refus d'exécuter le jugement régulièrement signifié ; elle ne cesse que du jour où il est constaté, au
@@ -20802,14 +20920,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance 2000-916 2000-09-19 art. 1 I, annexe I JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
-  - Loi - art. 44 (V) JORF 31 décembre 2002
+  - Loi n°2018-898 du 23 octobre 2018 - art. 26 (V)
 
 _Cite_:
 
-  - Code des douanes - art. 65 (V)
-  - Code des douanes - art. 92 (V)
+  - Code des douanes - art. 65
 
 
 #### Paragraphe 3 : Peines privatives de droits.<a id=225></a>
@@ -20897,9 +21012,30 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-### Section 3 : Cas particuliers d'application des peines<a id=226></a>
+#### Paragraphe 4 : Affichage et diffusion des décisions<a id=226></a>
 
-#### Paragraphe 1 : Confiscation.<a id=227></a>
+###### Article 433 bis
+
+Pour le délit prévu au 1 bis de l'article 459, la juridiction ordonne l'affichage de la décision prononcée et la diffusion de
+celle-ci dans les conditions prévues aux articles 131-35 ou 131-39 du code pénal. Elle peut toutefois, par une décision
+spécialement motivée, décider de ne pas ordonner l'affichage de la décision prononcée et la diffusion de celle-ci, en
+considération des circonstances de l'infraction et de la personnalité de son auteur.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 17 (V)
+
+_Cite_:
+
+  - Code pénal - art. 131-35
+  - Code pénal - art. 131-39
+
+
+### Section 3 : Cas particuliers d'application des peines<a id=227></a>
+
+#### Paragraphe 1 : Confiscation.<a id=228></a>
 
 ###### Article 434
 
@@ -20946,7 +21082,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=228></a>
+#### Paragraphe 2 : Modalités spéciales de calcul des pénalités pécuniaires.<a id=229></a>
 
 ###### Article 436
 
@@ -21014,7 +21150,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-#### Paragraphe 3 : Concours d'infractions.<a id=229></a>
+#### Paragraphe 3 : Concours d'infractions.<a id=230></a>
 
 ###### Article 439
 
@@ -21052,7 +21188,7 @@ _Modifié par_:
   - Loi - art. 44 (V) JORF 31 décembre 2002
 
 
-## Chapitre VI bis : Régularisation des obligations déclaratives<a id=230></a>
+## Chapitre VI bis : Régularisation des obligations déclaratives<a id=231></a>
 
 ###### Article 440-1
 
@@ -21083,7 +21219,7 @@ _Créé par_:
   - Loi n°2018-727 du 10 août 2018 - art. 16
 
 
-## Chapitre VII : Intérêt de retard<a id=231></a>
+## Chapitre VII : Intérêt de retard<a id=232></a>
 
 ###### Article 440 bis
 
@@ -21128,9 +21264,9 @@ _Modifié par_:
   - Loi n°2018-727 du 10 août 2018 - art. 14
 
 
-# Titre XIV : Contentieux des relations financières avec l'étranger<a id=232></a>
+# Titre XIV : Contentieux des relations financières avec l'étranger<a id=233></a>
 
-## Chapitre Ier : Dispositions communes.<a id=233></a>
+## Chapitre Ier : Dispositions communes.<a id=234></a>
 
 ###### Article 451
 
@@ -21189,7 +21325,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre II : Constatation des infractions.<a id=234></a>
+## Chapitre II : Constatation des infractions.<a id=235></a>
 
 ###### Article 453
 
@@ -21318,7 +21454,7 @@ _Modifié par_:
   - Décret n°97-390 du 17 avril 1997 - art. 1 () JORF 24 avril 1997
 
 
-## Chapitre III : Poursuite des infractions.<a id=235></a>
+## Chapitre III : Poursuite des infractions.<a id=236></a>
 
 ###### Article 458
 
@@ -21336,7 +21472,7 @@ _Créé par_:
   - Décret n°72-357 1972-04-28 art. 1 JORF 6 mai 1972
 
 
-## Chapitre IV : Dispositions répressives.<a id=236></a>
+## Chapitre IV : Dispositions répressives.<a id=237></a>
 
 ###### Article 459
 
@@ -21416,7 +21552,7 @@ _Cite_:
   - TXT_ASSOCIE: Code du travail - art. L513-1 (M)
 
 
-# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=237></a>
+# Titre XV : Le comité du contentieux fiscal, douanier et des changes.<a id=238></a>
 
 ###### Article 460
 
@@ -21507,7 +21643,7 @@ _Créé par_:
   - Décret n°78-712 1978-06-21 art. 1 JORF 8 juillet 1978
 
 
-# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=238></a>
+# Titre XVI : Déclaration des capitaux transférés à destination ou en provenance de l'étranger.<a id=239></a>
 
 ###### Article 464
 
@@ -21565,9 +21701,9 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=239></a>
+# Titre XVII : Echanges de biens entre Etats membres de la Communauté européenne<a id=240></a>
 
-## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=240></a>
+## Chapitre Ier : Dispositions relatives à la déclaration d'échange de biens entre les Etats membres de la Communauté européenne.<a id=241></a>
 
 ###### Article 467
 
@@ -21659,7 +21795,7 @@ _Cite_:
   - article 5 du règlement (CE) n°638/2004 du 31 mars 2004
 
 
-## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=241></a>
+## Chapitre II : Présentation en douane des produits soumis a certaines restrictions de circulation dans les échanges avec les autres Etats membres de la Communauté européenne.<a id=242></a>
 
 ###### Article 468
 
@@ -21722,7 +21858,7 @@ _Codifié par_:
   - Décret n°48-1985 1948-12-08
 
 
-## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=242></a>
+## Chapitre III : Renvoi des produits dans le pays d'origine.<a id=243></a>
 
 ###### Article 470
 
