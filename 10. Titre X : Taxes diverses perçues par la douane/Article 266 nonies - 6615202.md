@@ -117,18 +117,11 @@ et autorisée en vertu d'une réglementation d'effet équivalent :</td>
     <tr>
       <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité ;</td>
+A.- (Supprimé)</td>
       <td align="left">
-
-tonne</td>
-      <td align="center">
-
-32</td>
-      <td align="center">
-
-33</td>
-      <td align="left">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
@@ -285,7 +278,7 @@ Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tari
 applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
 
 Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
-accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets
+accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2020 et, pour les déchets
 réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la
 taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2020.
 
@@ -331,13 +324,8 @@ installation située dans un autre Etat et autorisée en vertu d'une réglementa
     <tr>
       <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ;
-
-- Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
-accrédité ;
-
-</td>
+A.-Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
+accrédité ;</td>
       <td align="center">
 
 tonne</td>
@@ -428,8 +416,8 @@ tonne</td>
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
 s'applique à l'assiette concernée ;
 
-d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
-date d'obtention de la certification ISO 14001 ou ISO 50001 ;
+d) Le tarif réduit mentionné au A du tableau du deuxième alinéa du b s'applique aux tonnages de déchets réceptionnés à
+compter de la date d'obtention de la certification ISO 50001 ;
 
 e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés
 en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19
@@ -458,7 +446,7 @@ susceptibles de produire du biogaz pour les besoins de l'application des tarifs 
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
-<table cellpadding="0" border="1">
+<table border="1" cellpadding="0">
   <tbody>
     <tr>
       <td>
@@ -511,7 +499,7 @@ dans un autre Etat.
 Tonne
 
 </td>
-      <td colspan="5" align="center">
+      <td align="center" colspan="5">
 
 25,57
 
@@ -576,7 +564,7 @@ Tonne
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote
 
 </td>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Tonne
 
@@ -610,12 +598,12 @@ Tonne
 - poussières totales en suspension
 
 </td>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Tonne
 
 </td>
-      <td colspan="5" align="left">
+      <td align="left" colspan="5">
 
 259,86
 
@@ -857,7 +845,7 @@ Tonne
 - dont la teneur en phosphate est supérieure à 30 % du poids
 
 </td>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Tonne
 
@@ -928,7 +916,9 @@ est fixé à 5 tonnes par an.
 
 **Nota:**
 
-
+Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code
+des douanes conformes à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -975,9 +965,9 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
   - Loi n°2017-1775 du 28 décembre 2017 - art. 62
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
 
 _Cite_:
 
-  - Code des douanes - art. 266 sexies (V)
+  - Code des douanes - art. 266 sexies (M)
