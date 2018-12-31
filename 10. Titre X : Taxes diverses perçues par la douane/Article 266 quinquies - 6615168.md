@@ -1,8 +1,9 @@
 # Article 266 quinquies
 
-1. Le gaz naturel repris aux codes NC 2711-11 et 2711-21 de la nomenclature douanière, ainsi que le produit résultant du
-mélange du gaz naturel repris aux codes NC 2711-11 et 2711-21 et d'autres hydrocarbures gazeux repris au code NC 2711,
-destinés à être utilisés comme combustibles, sont soumis à une taxe intérieure de consommation.
+1. Sont soumis à une taxe intérieure de consommation, lorsqu'ils sont destinés à être utilisés comme combustible ou dans les
+conditions prévues au d du 2° du tableau B du 1 de l'article 265, le gaz naturel repris aux codes NC 2711-11 et 2711-21 et
+les produits auxquels il est équivalent, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre
+2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité.
 
 2. Le fait générateur de la taxe intervient lors de la livraison de ces produits par un fournisseur à un utilisateur final et
 la taxe est exigible au moment de la facturation, y compris des acomptes, ou au moment des encaissements si ceux-ci
@@ -58,38 +59,28 @@ affectation aux usages qui y sont mentionnés sont fixées par décret.
 7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le
 biogaz repris au code NC 2711-29.
 
-8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
-mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous :
+8. a. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, déterminée à partir du
+pouvoir calorifique supérieur du produit et arrondie au mégawattheure le plus proche.
+
+Le montant de la taxe est arrondi à l'euro le plus proche.
+
+En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en
+fonction des tarifs proportionnellement au nombre de jours de chaque période.
+
+b. Le tarif de la taxe est le suivant :
 
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
+      <th>
 
 Désignation des produits</th>
-      <th rowspan="2">
+      <th>
 
 Unité de perception</th>
       <th colspan="5">
 
-Tarif (en euros)</th>
-    </tr>
-    <tr>
-      <th>
-
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+Tarifs (en euros)</th>
     </tr>
     <tr>
       <td align="center">
@@ -99,30 +90,17 @@ A compter de 2022</th>
 gaz naturel destiné à être utilisé comme combustible</td>
       <td align="center">
 
-Mégawattheure en pouvoir calorifique supérieur</td>
-      <td align="center">
+Mégawattheure</td>
+      <td align="center" colspan="5">
 
 8,45</td>
-      <td align="center">
-
-10,34</td>
-      <td align="center">
-
-12,24</td>
-      <td align="center">
-
-14,13</td>
-      <td align="center">
-
-16,02</td>
     </tr>
   </tbody>
 </table>
 
-Le montant de la taxe est arrondi à l'euro le plus proche.
-
-En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en
-fonction des tarifs proportionnellement au nombre de jours de chaque période.
+c. Le tarif de la taxe applicable au produit consommé pour déshydrater les légumes et plantes aromatiques, autres que les
+pommes de terres, les champignons et les truffes, par les entreprises pour lesquelles cette consommation est supérieure à 800
+wattheures par euro de valeur ajoutée, est fixé à 1,6 € par mégawattheure.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
@@ -155,14 +133,16 @@ La déclaration d'acquittement peut être effectuée par voie électronique.
 
 11. Les personnes qui ont reçu des produits mentionnés au 1, sans que ces produits soient soumis à la taxe intérieure de
 consommation dans les conditions mentionnées au 4, ou en exonération conformément au 5, ou avec l'application d'un taux
-réduit conformément à l'article 265 nonies, sont tenues, sans préjudice des pénalités éventuellement applicables, d'acquitter
-les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à la destination ou à l'utilisation ayant
-justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit.
+réduit conformément au c du 8 du présent article ou à l'article 265 nonies, sont tenues, sans préjudice des pénalités
+éventuellement applicables, d'acquitter les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à
+la destination ou à l'utilisation ayant justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié
+ou d'un taux réduit.
 
 12. Lorsque les produits mentionnés au 1 ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont été
 employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 ou à un
-usage permettant l'application d'un taux réduit conformément à l'article 265 nonies, l'utilisateur final peut demander le
-remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
+usage permettant l'application d'un taux réduit conformément au c du 8 du présent article ou à l'article 265 nonies,
+l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à
+l'article 352.
 
 Lorsque les produits mentionnés au 1 soumis à la taxe ont fait l'objet d'un rachat par le fournisseur auprès de son client,
 la taxe est remboursée au fournisseur, pour autant que le fournisseur justifie qu'il a précédemment acquitté la taxe. Ce
@@ -170,8 +150,12 @@ remboursement peut s'effectuer par imputation sur le montant de la taxe due.
 
 **Nota:**
 
-Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent
-aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
+Conformément aux dispositions du II de l'article 64 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent
+aux produits pour lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
+
+Conformément à l’article 67 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux livraisons
+intervenant à compter du 1er janvier 2019 pour lesquelles la date d'exigibilité de la taxe intérieure sur la consommation de
+gaz naturel intervient à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -211,7 +195,7 @@ _Cité par_:
   - Décret n°2018-210 du 27 mars 2018 - art. 2 (V)
   - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
   - Code de l'énergie - art. D461-2 (V)
-  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265 (VD)
   - Code des douanes - art. 265 nonies (V)
   - Code des douanes - art. 266 quinquies (V)
   - Code des douanes - art. 266 quinquies A (Ab)
@@ -233,5 +217,6 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 65
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 67 (V)
