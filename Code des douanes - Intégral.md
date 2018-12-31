@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-10-25
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -2638,9 +2638,7 @@ etc.) ;
 
 h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
 
-i) chez les opérateurs de télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
-2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
-derniers, dans le cadre de l'article L. 34-1 du code des postes et télécommunications ;
+i) (Abrogé) ;
 
 j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
@@ -2679,14 +2677,6 @@ mettre en œuvre les dispositions du présent article pour le contrôle des opé
 les autres Etats membres.
 
 8° (Abrogé).
-
-**Nota:**
-
-Par sa décision n° 2018-764 QPC du 15 février 2019, le Conseil constitutionnel a déclaré le i du 1° de l’article 65 du code
-des douanes, dans sa rédaction résultant de la loi n° 2016-1918 du 29 décembre 2016 de finances rectificative pour 2016,
-contraire à la Constitution. Après avoir constaté que ces dispositions avaient été abrogées par la loi n° 2018-898 du 23
-octobre 2018 relative à la lutte contre la fraude, il a précisé que les mesures prises sur le fondement des dispositions
-déclarées contraires à la Constitution ne pouvaient être contestées sur le fondement de cette inconstitutionnalité.
 
 **Liens relatifs à cet article**
 
@@ -2732,7 +2722,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
 
 _Anciens textes_:
 
@@ -2782,6 +2772,48 @@ _Cité par_:
 
   - Code des douanes - art. 416 bis A (V)
   - Code des douanes - art. 416 bis B (V)
+
+
+###### Article 65 quinquies
+
+Dans le but de constater les délits mentionnés aux articles 414, 415 et 459, d'en rassembler les preuves et d'en rechercher
+les auteurs, les complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399, les agents des
+douanes ayant au moins le grade de contrôleur et spécialement habilités par le directeur du service auquel ils sont affectés
+peuvent se faire communiquer les données conservées et traitées par les opérateurs de communications électroniques dans le
+cadre de l'article L. 34-1 du code des postes et des communications électroniques ainsi que par les prestataires mentionnés
+aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
+
+La mise en œuvre du droit de communication prévu au premier alinéa du présent article est préalablement autorisée par le
+procureur de la République près le tribunal de grande instance du lieu de la direction des douanes dont dépend le service
+chargé de la procédure.
+
+L'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la
+procédure.
+
+La communication des données mentionnées au premier alinéa fait l'objet d'un procès-verbal de constat, qui est versé au
+dossier de la procédure. Une copie de ce procès-verbal est transmise au procureur de la République qui a autorisé la mise en
+œuvre du droit de communication ainsi qu'aux opérateurs et prestataires mentionnés au même premier alinéa, au plus tard dans
+les cinq jours suivant son établissement.
+
+Les données communiquées sont détruites à l'extinction de l'action pour l'application des sanctions fiscales.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 6
+  - Code des postes et des communications électroniques - art. L34-1
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
+
+_Cité par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
+  - Code des douanes - art. 413 bis (V)
 
 
 ###### Article 65 ter
@@ -8649,11 +8681,10 @@ plaisance ou de sport mentionnés aux articles 223 et 223 bis est affecté, dans
 - au Conservatoire de l'espace littoral et des rivages lacustres ;
 
 - aux organismes mentionnés à l'article L. 742-9 du code de la sécurité intérieure selon des modalités de répartition
-définies par décret.
+définies par décret. 
 
-L'Etat perçoit sur le produit du droit de francisation et de navigation perçu au profit de la collectivité de Corse un
-prélèvement pour frais d'assiette et de recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au
-budget général.
+L'Etat perçoit sur le produit du droit de francisation et de navigation un prélèvement pour frais d'assiette et de
+recouvrement égal à 2,5 % du montant dudit produit. Ce prélèvement est affecté au budget général. 
 
 En complément de l'éco-contribution versée par les metteurs sur le marché de navires de plaisance ou de sport à un éco-
 organisme dans le cadre de la filière définie à l'article L. 541-10-10 du code de l'environnement, une quote-part du produit
@@ -8661,15 +8692,15 @@ brut du droit annuel de francisation et de navigation afférent aux navires de p
 223 est affectée à la gestion de la fin de vie des navires de plaisance ou de sport qui ne sont plus utilisés régulièrement
 et dont les propriétaires n'assument plus les charges afférentes. Cette quote-part est plafonnée à 5 % du produit brut de la
 taxe afférente aux navires de plaisance ou de sport mentionnés à l'article 223. Son montant et l'organisme affectataire sont
-fixés annuellement par la loi de finances.
+fixés annuellement par la loi de finances. 
 
-Il est recouvré par année civile.
+Il est recouvré par année civile. 
 
 En cas de retard dans le versement du droit de francisation et de navigation par rapport aux dates limites fixées par décret,
 une majoration de 10 % du montant de ce droit est automatiquement appliquée. Cette majoration n'est mise en recouvrement que
-lorsque son montant excède 8 euros.
+lorsque son montant excède 8 euros. 
 
-2. (Abrogé).
+2. (Abrogé). 
 
 3. Sont exonérés du droit de francisation et de navigation :
 
@@ -8680,25 +8711,25 @@ l'Etat dans le département ;
 
 - les bateaux classés au titre des monuments historiques conformément à l'article L. 622-1 du code du patrimoine ;
 
-- les bateaux ayant reçu le label " bateau d'intérêt patrimonial ", dans des conditions fixées par décret.
+- les bateaux ayant reçu le label " bateau d'intérêt patrimonial ", dans des conditions fixées par décret. 
 
 4. Les taux du droit sur la coque et du droit sur le moteur prévus au III de l'article 223 ci-dessus font l'objet, pour les
 navires de plaisance ou de sport, d'un abattement pour vétusté égal à :
 
-- 33 % pour les bateaux de 10 à 20 ans ;
+- 33 % pour les bateaux dont l'âge au 1er janvier 2019 est supérieur à onze ans et égal ou inférieur à vingt et un ans ;
 
-- 55 % pour les bateaux de 20 à 25 ans ;
+- 55 % pour les bateaux dont l'âge au 1er janvier 2019 est supérieur à vingt et un ans et égal ou inférieur à vingt-six ans ;
 
-- 80 % pour le bateaux de plus de 25 ans.
+- 80 % pour le bateaux dont l'âge au 1er janvier 2019 est supérieur à vingt-six ans. 
 
 5. Le droit de francisation et de navigation n'est pas perçu lorsque son montant, calculé par navire, est inférieur à 76
-euros.
+euros. 
 
 6. Le montant de la quote-part du produit brut du droit annuel de francisation et de navigation mentionnée au troisième
-alinéa du 1 est fixé à 2 % pour les années 2019 et 2020.
+alinéa du 1 est fixé à 2 % pour les années 2019 et 2020. 
 
 Ce montant est affecté aux éco-organismes agréés qui opèrent dans le cadre de la filière définie à l'article L. 541-10-10 du
-code de l'environnement, au prorata des mises sur le marché de leurs adhérents.
+code de l'environnement, au prorata des mises sur le marché de leurs adhérents. 
 
 Les modalités de versement de ce montant sont fixées par décret.
 
@@ -8725,17 +8756,18 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
+  - Loi n°2011-1977 du 28 décembre 2011
   - Code des douanes - art. 223
-  - Code de l'environnement - art. L541-10-10 (V)
+  - Code des douanes - art. 223 bis
+  - Code de l'environnement - art. L541-10-10
   - Code du patrimoine - art. L122-1
+  - Code de la sécurité intérieure - art. L742-9
 
 _Modifié par_:
 
   - Loi n°2011-1977 du 28 décembre 2011 - art. 46 (M)
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 33
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 45
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 84
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 85
 
 
 ###### Article 225
@@ -9354,14 +9386,6 @@ _Modifié par_:
 
 ###### Article 254
 
-La conservation des hypothèques maritimes territorialement compétente perçoit la contribution de sécurité de la propriété
-maritime lors de l'inscription hypothécaire ou de son renouvellement. 
-
-Cette contribution est fixée à 0,05 % du capital des créances donnant lieu à l'hypothèque, quel que soit le nombre de navires
-sur lesquels il est pris inscription. Toutefois, dans le cas où les navires affectés à la garantie d'une même créance sont
-immatriculés dans des ports dépendant de conservations des hypothèques maritimes différentes, la contribution de sécurité de
-la propriété maritime est due au conservateur de chacun des ports. 
-
 Un bordereau d'inscription hypothécaire ne peut être délivré que pour un seul navire. En cas de changement de domicile du
 requérant, de subrogation du créancier ou de radiation de l'hypothèque, le requérant fait une déclaration distincte par
 inscription hypothécaire.
@@ -9372,13 +9396,13 @@ _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
 
-_Modifié par_:
-
-  - Loi n°2016-816 du 20 juin 2016 - art. 8
-
 _Cité par_:
 
   - Décret n°2016-935 du 7 juillet 2016 - art. 2
+
+_Modifié par_:
+
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
 
 
 ## Chapitre II : Dispositions particulières.<a id=122></a>
@@ -9628,42 +9652,20 @@ Tableau B : Produits pétroliers et assimilés.
       <th colspan="5">Tarif (en euros)</th>
     </tr>
     <tr>
-      <td align="justify" colspan="3">
-      </td><td align="center">2018</td>
-      <td align="center">2019</td>
-      <td align="center">2020</td>
-      <td align="center">2021</td>
-      <td align="center">A compter de 2022</td>
-    </tr>
-    <tr>
       <td align="justify">
 
 Ex 2706-00
 
 Goudrons de houille, de lignite ou de tourbe et autres goudrons minéraux, même déshydratés ou étêtés, y compris les goudrons
 reconstitués, utilisés comme combustibles.</td>
-      <td align="center">
-
-1</td>
+      <td align="center">1</td>
+      <td align="justify">100 kg nets</td>
+      <td align="justify">10,08</td>
       <td align="justify">
-
-100 kg nets</td>
-      <td align="justify">
-
-10,08</td>
-      <td align="justify">
-
-12,43</td>
-      <td align="left">
-
-14,78</td>
-      <td align="justify">
-
-17,13</td>
-      <td align="justify">
-
-19,48</td>
-    </tr>
+      </td><td align="left">
+      </td><td align="justify">
+      </td><td align="justify">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9687,7 +9689,7 @@ Huiles brutes de pétrole ou de minéraux bitumineux.</td>
       <td align="center">
 
 3</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit</td>
     </tr>
@@ -9699,19 +9701,19 @@ Taxe intérieure de consommation applicable aux huiles légères du 2710, suivan
 Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises ailleurs,
 contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l'élément de
 base, autres que les déchets :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
 
 --huiles légères et préparations :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
 
 ---essences spéciales :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9727,18 +9729,10 @@ Hectolitre</td>
 
 15,25</td>
       <td align="justify">
-
-17,64</td>
-      <td align="left">
-
-20,02</td>
-      <td align="justify">
-
-22,40</td>
-      <td align="justify">
-
-24,78</td>
-    </tr>
+      </td><td align="left">
+      </td><td align="justify">
+      </td><td align="justify">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9759,18 +9753,10 @@ Hectolitre</td>
 
 67,52</td>
       <td align="justify">
-
-69,90</td>
-      <td align="left">
-
-72,28</td>
-      <td align="justify">
-
-74,66</td>
-      <td align="justify">
-
-77,03</td>
-    </tr>
+      </td><td align="left">
+      </td><td align="justify">
+      </td><td align="justify">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9786,7 +9772,7 @@ Exemption</td>
       <td align="justify">
 
 ---autres huiles légères et préparations :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9808,18 +9794,10 @@ Hectolitre</td>
 
 45,49</td>
       <td align="center">
-
-48,14</td>
-      <td align="center">
-
-50,79</td>
-      <td align="center">
-
-53,45</td>
-      <td align="center">
-
-56,10</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9836,18 +9814,10 @@ Hectolitre</td>
 
 68,29</td>
       <td align="center">
-
-70,67</td>
-      <td align="center">
-
-73,05</td>
-      <td align="center">
-
-75,43</td>
-      <td align="center">
-
-77,80</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9864,18 +9834,10 @@ Hectolitre</td>
 
 71,56</td>
       <td align="center">
-
-73,94</td>
-      <td align="center">
-
-76,32</td>
-      <td align="center">
-
-78,70</td>
-      <td align="center">
-
-81,07</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9893,23 +9855,15 @@ Hectolitre</td>
 
 66,29</td>
       <td align="center">
-
-68,67</td>
-      <td align="center">
-
-71,05</td>
-      <td align="center">
-
-73,43</td>
-      <td align="center">
-
-75,80</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
 ----carburéacteurs, type essence :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9925,18 +9879,10 @@ Hectolitre</td>
 
 39,79</td>
       <td align="center">
-
-42,44</td>
-      <td align="center">
-
-45,09</td>
-      <td align="center">
-
-47,75</td>
-      <td align="center">
-
-50,40</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9951,18 +9897,10 @@ Hectolitre</td>
 
 68,51</td>
       <td align="center">
-
-71,16</td>
-      <td align="center">
-
-73,81</td>
-      <td align="center">
-
-76,47</td>
-      <td align="center">
-
-79,12</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9977,18 +9915,10 @@ Hectolitre</td>
 
 67,52</td>
       <td align="center">
-
-69,90</td>
-      <td align="center">
-
-72,28</td>
-      <td align="center">
-
-74,66</td>
-      <td align="center">
-
-77,03</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -9999,7 +9929,7 @@ Hectolitre</td>
       <td align="justify">
 
 ---pétrole lampant :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10015,18 +9945,10 @@ Hectolitre</td>
 
 15,25</td>
       <td align="center">
-
-17,90</td>
-      <td align="center">
-
-20,55</td>
-      <td align="center">
-
-23,21</td>
-      <td align="center">
-
-25,86</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10041,18 +9963,10 @@ Hectolitre</td>
 
 51,28</td>
       <td align="center">
-
-53,93</td>
-      <td align="center">
-
-56,58</td>
-      <td align="center">
-
-59,24</td>
-      <td align="center">
-
-61,89</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10073,18 +9987,10 @@ Hectolitre</td>
 
 39,79</td>
       <td align="center">
-
-42,44</td>
-      <td align="center">
-
-45,09</td>
-      <td align="center">
-
-47,75</td>
-      <td align="center">
-
-50,40</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10099,18 +10005,10 @@ Hectolitre</td>
 
 51,28</td>
       <td align="center">
-
-53,93</td>
-      <td align="center">
-
-56,58</td>
-      <td align="center">
-
-59,24</td>
-      <td align="center">
-
-61,89</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10125,29 +10023,21 @@ Hectolitre</td>
 
 51,28</td>
       <td align="center">
-
-53,93</td>
-      <td align="center">
-
-56,58</td>
-      <td align="center">
-
-59,24</td>
-      <td align="center">
-
-61,89</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
 --huiles lourdes :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
 
 ---gazole :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10163,18 +10053,10 @@ Hectolitre</td>
 
 18,82</td>
       <td align="center">
-
-21,58</td>
-      <td align="center">
-
-24,34</td>
-      <td align="center">
-
-27,09</td>
-      <td align="center">
-
-29,85</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10189,18 +10071,10 @@ Hectolitre</td>
 
 15,62</td>
       <td align="center">
-
-18,38</td>
-      <td align="center">
-
-21,14</td>
-      <td align="center">
-
-23,89</td>
-      <td align="center">
-
-26,65</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10215,18 +10089,10 @@ Hectolitre</td>
 
 59,40</td>
       <td align="center">
-
-64,76</td>
-      <td align="center">
-
-70,12</td>
-      <td align="center">
-
-75,47</td>
-      <td align="center">
-
-78,23</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10241,18 +10107,10 @@ Hectolitre</td>
 
 59,40</td>
       <td align="center">
-
-64,76</td>
-      <td align="center">
-
-70,12</td>
-      <td align="center">
-
-75,47</td>
-      <td align="center">
-
-78,23</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10267,18 +10125,10 @@ Hectolitre</td>
 
 13,95</td>
       <td align="center">
-
-17,20</td>
-      <td align="center">
-
-20,45</td>
-      <td align="center">
-
-23,70</td>
-      <td align="center">
-
-26,95</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10286,7 +10136,7 @@ Hectolitre</td>
       <td align="center">
 
 29</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10296,7 +10146,7 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-12
 
 Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10319,18 +10169,10 @@ représente plus de 50 % en poids) :</td>
 
 15,90</td>
       <td align="center">
-
-19,01</td>
-      <td align="center">
-
-22,11</td>
-      <td align="center">
-
-25,22</td>
-      <td align="center">
-
-28,32</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10345,18 +10187,10 @@ représente plus de 50 % en poids) :</td>
 
 20,71</td>
       <td align="center">
-
-23,82</td>
-      <td align="center">
-
-26,92</td>
-      <td align="center">
-
-30,03</td>
-      <td align="center">
-
-33,13</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10372,25 +10206,17 @@ lequel le propane représente plus de 50 % en poids).</td>
 
 6,63</td>
       <td align="center">
-
-13,25</td>
-      <td align="center">
-
-19,9</td>
-      <td align="center">
-
-26,5</td>
-      <td align="center">
-
-33,13</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
 2711-13
 
 Butanes liquéfiés :</td>
-      <td align="left" colspan="7">
+      <td colspan="7" align="left">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10413,18 +10239,10 @@ représente au moins 50 % en poids) :</td>
 
 15,90</td>
       <td align="center">
-
-19,01</td>
-      <td align="center">
-
-22,11</td>
-      <td align="center">
-
-25,22</td>
-      <td align="center">
-
-28,32</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10439,18 +10257,10 @@ représente au moins 50 % en poids) :</td>
 
 20,71</td>
       <td align="center">
-
-23,82</td>
-      <td align="center">
-
-26,92</td>
-      <td align="center">
-
-30,03</td>
-      <td align="center">
-
-33,13</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10466,18 +10276,10 @@ dans lequel le butane représente au moins 50 % en poids).</td>
 
 6,63</td>
       <td align="center">
-
-13,25</td>
-      <td align="center">
-
-19,9</td>
-      <td align="center">
-
-26,5</td>
-      <td align="center">
-
-33,13</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10497,13 +10299,13 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-19
 
 Autres gaz de pétrole liquéfiés :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
 
 --destinés à être utilisés comme carburant :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10519,18 +10321,10 @@ Autres gaz de pétrole liquéfiés :</td>
 
 15,90</td>
       <td align="center">
-
-19,01</td>
-      <td align="center">
-
-22,11</td>
-      <td align="center">
-
-25,22</td>
-      <td align="center">
-
-28,32</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10545,25 +10339,17 @@ Autres gaz de pétrole liquéfiés :</td>
 
 20,71</td>
       <td align="center">
-
-23,82</td>
-      <td align="center">
-
-26,92</td>
-      <td align="center">
-
-30,03</td>
-      <td align="center">
-
-33,13</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
 2711-21
 
 Gaz naturel à l'état gazeux :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10579,18 +10365,10 @@ Gaz naturel à l'état gazeux :</td>
 
 5,80</td>
       <td align="center">
-
-5,80</td>
-      <td align="center">
-
-5,80</td>
-      <td align="center">
-
-5,80</td>
-      <td align="center">
-
-5,80</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10605,24 +10383,16 @@ Gaz naturel à l'état gazeux :</td>
 
 9,50</td>
       <td align="center">
-
-11,72</td>
-      <td align="center">
-
-13,93</td>
-      <td align="center">
-
-16,15</td>
-      <td align="center">
-
-18,36</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
 2711-29
 
-Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux :</td>
+Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux : 57</td>
       <td align="left" colspan="7">
     </td></tr>
     <tr>
@@ -10644,7 +10414,7 @@ utilisés sous condition d'emploi</td>
       <td align="center">
 
 39</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Exemption</td>
     </tr>
@@ -10683,7 +10453,7 @@ Paraffine (autre que celle mentionnée au 2712-20), cires de pétrole et résidu
       <td align="center">
 
 42</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10723,7 +10493,7 @@ minéral.</td>
       <td align="center">
 
 47</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10737,7 +10507,7 @@ en poids d'huiles de pétrole ou de minéraux bitumeux.</td>
       <td align="center">
 
 48</td>
-      <td align="center" colspan="6">
+      <td colspan="6" align="center">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10763,7 +10533,7 @@ Additifs pour huiles lubrifiantes contenant des huiles de pétrole ou de minéra
       <td align="center">
 
 51</td>
-      <td colspan="6" align="center">
+      <td align="center" colspan="6">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10774,7 +10544,7 @@ Ex 3824-90-97
 
 Émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en
 volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :</td>
-      <td colspan="7" align="left">
+      <td align="left" colspan="7">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10790,18 +10560,10 @@ Hectolitre</td>
 
 10,33</td>
       <td align="center">
-
-12,61</td>
-      <td align="center">
-
-14,89</td>
-      <td align="center">
-
-17,16</td>
-      <td align="center">
-
-19,44</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10816,18 +10578,10 @@ Hectolitre</td>
 
 36,94</td>
       <td align="center">
-
-39,22</td>
-      <td align="center">
-
-41,50</td>
-      <td align="center">
-
-43,77</td>
-      <td align="center">
-
-46,05</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10844,18 +10598,10 @@ Hectolitre</td>
 
 11,83</td>
       <td align="center">
-
-13,61</td>
-      <td align="center">
-
-15,39</td>
-      <td align="center">
-
-17,17</td>
-      <td align="center">
-
-18,95</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10873,18 +10619,10 @@ Hectolitre</td>
 
 6,43</td>
       <td align="center">
-
-7,93</td>
-      <td align="center">
-
-9,43</td>
-      <td align="center">
-
-10,93</td>
-      <td align="center">
-
-12,43</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
     <tr>
       <td align="justify">
 
@@ -10901,18 +10639,10 @@ Hectolitre</td>
 
 11,83</td>
       <td align="center">
-
-13,31</td>
-      <td align="center">
-
-15,39</td>
-      <td align="center">
-
-17,17</td>
-      <td align="center">
-
-18,95</td>
-    </tr>
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
+    </td></tr>
   </tbody>
 </table>
 
@@ -10928,7 +10658,9 @@ Pour le méthane, le gaz naturel et les autres hydrocarbures présentés à l'é
 carburants, la taxe est assise sur le volume mesuré à l'état gazeux sous la pression de 760 millimètres de mercure, à la
 température de 0° C et exprimé en centaines de mètres cubes avec deux décimales.
 
-d) (alinéa abrogé).
+d) Pour l'application du présent tableau, les produits destinés à être utilisés dans les installations de cogénération pour
+la production combinée de chaleur et d'électricité, ou de chaleur et d'énergie mécanique, sont taxés au tarif prévu pour les
+produits destinés à être utilisés comme combustible.
 
 Tableau C : Autres produits énergétiques.
 
@@ -11164,7 +10896,9 @@ d'identification 11 et 11 ter, et de 1,15 € par hectolitre, pour le gazole rep
 à être utilisé, mis en vente ou utilisé comme carburant pour moteur ou comme additif en vue d'accroître le volume final des
 carburants pour moteur est assujetti à la taxe intérieure de consommation au taux applicable au carburant équivalent, au sens
 du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de
-taxation des produits énergétiques et de l'électricité, ou au carburant dans lequel il est incorporé.
+taxation des produits énergétiques et de l'électricité, ou au carburant dans lequel il est incorporé. Le présent alinéa n'est
+pas applicable au gaz naturel ou aux carburants auxquels il est équivalent, au sens des mêmes dispositions, lorsqu'il est
+utilisé dans les conditions prévues au d du 2° du tableau B du 1 du présent article.
 
 A l'exclusion de la tourbe reprise au code NC 2703 de la nomenclature douanière, tout hydrocarbure autre que ceux pour
 lesquels un tarif de taxe intérieure de consommation est prévu par le présent code ou tout produit mentionné au tableau C du
@@ -11190,6 +10924,9 @@ Conformément aux dispositions du III de l'article 16 de la loi n° 2017-1837 du
 article 16 le tarif des gaz de pétrole liquéfié repris aux indices d'identification 31 et 32 du tableau du second alinéa du
 1° du tableau B du 1 de l'article 265, dans sa rédaction résultant du I, est applicable aux opérations dont le fait
 générateur intervient à compter du 1er avril 2018.
+
+Conformément à l’article 64 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux produits pour
+lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -11439,7 +11176,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1010 bis (V)
   - Code général des impôts, CGI. - art. 1011 bis (V)
   - Code général des impôts, CGI. - art. 1599 novodecies A (V)
-  - Code général des impôts, CGI. - art. 295 (VD)
+  - Code général des impôts, CGI. - art. 295 (V)
   - Code général des impôts, CGI. - art. 297 (VD)
   - Code général des impôts, CGI. - art. 298 (VD)
   - Code général des impôts, CGI. - art. 39 AC (V)
@@ -11525,11 +11262,12 @@ _Cité par_:
 _Cite_:
 
   - Loi n°92-1476 du 31 décembre 1992 - art. 43
-  - Loi n°2005-1719 du 30 décembre 2005 - art. 40
+  - Loi n°2005-1719 du 30 décembre 2005 - art. 40 (V)
 
 _Modifié par_:
 
-  - Décret n°2018-500 du 20 juin 2018 - art. 2
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 65
 
 
 ###### Article 265 A
@@ -12617,29 +12355,23 @@ située dans un autre Etat :
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">DÉSIGNATION
+      <th rowspan="2">
 
-des opérations imposables
+Désignation
 
-</th>
+des installations de stockage
+
+de déchets non dangereux concernées</th>
       <th rowspan="2">
 
 Unité
 
-de perception
+de perception</th>
+      <th colspan="7">
 
-</th>
-      <th colspan="9">
-
-QUOTITÉ EN EUROS</th>
+Quotité (en euros)</th>
     </tr>
     <tr>
-      <th>
-
-2017</th>
-      <th>
-
-2018</th>
       <th>
 
 2019</th>
@@ -12660,27 +12392,17 @@ QUOTITÉ EN EUROS</th>
 2024</th>
       <th>
 
-A compter
+A partir
 
-de 2025
-
-</th>
+de 2025</th>
     </tr>
     <tr>
-      <td>
-
-Réception de déchets dans une installation de stockage de déchets non dangereux non autorisée en application du titre Ier du
-livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre
-Etat.</td>
       <td align="left">
 
+A.-Installations non autorisées</td>
+      <td align="justify">
+
 tonne</td>
-      <td align="center">
-
-150</td>
-      <td align="center">
-
-151</td>
       <td align="center">
 
 151</td>
@@ -12689,72 +12411,27 @@ tonne</td>
 152</td>
       <td align="center">
 
-152</td>
+164</td>
       <td align="center">
 
-155</td>
+168</td>
       <td align="center">
 
-155</td>
+171</td>
       <td align="center">
 
-157</td>
+173</td>
       <td align="center">
 
-158</td>
+175</td>
     </tr>
     <tr>
-      <td>
-
-Réception de déchets dans une installation de stockage de déchets non dangereux autorisée en application du titre Ier du
-livre V du code de l'environnement pour ladite réception ou transfert vers une telle installation située dans un autre Etat
-et autorisée en vertu d'une réglementation d'effet équivalent :</td>
       <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité ;</td>
-      <td align="left">
+B.-Installations autorisées réalisant une valorisation énergétique de plus de 75 % du biogaz capté</td>
+      <td align="justify">
 
 tonne</td>
-      <td align="center">
-
-32</td>
-      <td align="center">
-
-33</td>
-      <td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-      </td><td align="left">
-    </td></tr>
-    <tr>
-      <td align="left">
-
-B.-Réalisant une valorisation énergétique de plus de 75 % du biogaz capté ;</td>
-      <td align="left">
-
-tonne</td>
-      <td align="center">
-
-23</td>
-      <td align="center">
-
-24</td>
       <td align="center">
 
 24</td>
@@ -12763,35 +12440,28 @@ tonne</td>
 25</td>
       <td align="center">
 
-25</td>
+37</td>
       <td align="center">
 
-28</td>
+45</td>
       <td align="center">
 
-28</td>
+52</td>
       <td align="center">
 
-30</td>
+59</td>
       <td align="center">
 
-31</td>
+65</td>
     </tr>
     <tr>
-      <td>
-
-C.-Dans un casier, ou une subdivision de casier, exploitée selon la méthode du bioréacteur équipé dès sa construction des
-équipements de captage du biogaz et de réinjection des lixiviats, la durée d'utilisation du casier ou de la subdivision du
-casier étant inférieure à deux ans, l'installation réalisant une valorisation énergétique du biogaz capté ;</td>
       <td align="left">
 
+C.-Installations autorisées qui sont exploitées selon la méthode du bioréacteur et réalisent une valorisation énergétique du
+biogaz capté</td>
+      <td align="justify">
+
 tonne</td>
-      <td align="center">
-
-32</td>
-      <td align="center">
-
-33</td>
       <td align="center">
 
 34</td>
@@ -12800,33 +12470,27 @@ tonne</td>
 35</td>
       <td align="center">
 
-35</td>
+47</td>
       <td align="center">
 
-38</td>
+53</td>
       <td align="center">
 
-39</td>
+58</td>
       <td align="center">
 
-41</td>
+61</td>
       <td align="center">
 
-42</td>
+65</td>
     </tr>
     <tr>
       <td align="left">
 
-D.-Relevant à la fois des B et C ;</td>
-      <td align="left">
+D.-Installations autorisées relevant à la fois des B et C</td>
+      <td align="justify">
 
 tonne</td>
-      <td align="center">
-
-15</td>
-      <td align="center">
-
-16</td>
       <td align="center">
 
 17</td>
@@ -12835,33 +12499,27 @@ tonne</td>
 18</td>
       <td align="center">
 
-18</td>
-      <td align="center">
-
-21</td>
-      <td align="center">
-
-22</td>
-      <td align="center">
-
-24</td>
-      <td align="center">
-
-25</td>
-    </tr>
-    <tr>
-      <td align="left">
-
-E.-Autre.</td>
-      <td align="left">
-
-tonne</td>
+30</td>
       <td align="center">
 
 40</td>
       <td align="center">
 
-41</td>
+51</td>
+      <td align="center">
+
+58</td>
+      <td align="center">
+
+65</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+E.-Autres installations autorisées</td>
+      <td align="justify">
+
+tonne</td>
       <td align="center">
 
 41</td>
@@ -12870,40 +12528,22 @@ tonne</td>
 42</td>
       <td align="center">
 
-42</td>
+54</td>
       <td align="center">
 
-45</td>
+58</td>
       <td align="center">
 
-45</td>
+61</td>
       <td align="center">
 
-47</td>
+63</td>
       <td align="center">
 
-48</td>
+65</td>
     </tr>
   </tbody>
 </table>
-
-Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tarifs mentionnés au tableau du présent a
-applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
-
-Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
-accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets
-réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la
-taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2020.
-
-Sur le territoire de Mayotte, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux, le
-tarif de la taxe est fixé à 0 € par tonne jusqu'au 31 décembre 2019, puis à 10 € par tonne en 2020.
-
-A compter de 2020, sur le territoire de la Guyane et de Mayotte, les tarifs mentionnés au tableau du présent a sont
-multipliés par un coefficient égal à 0,4.
-
-Le tarif mentionné à la troisième ligne du tableau du second alinéa du B du présent 1 est applicable à la réception de
-matériaux de construction contenant de l'amiante dans une installation de stockage de déchets non dangereux autorisée à cet
-effet, en application du titre Ier du livre V du code de l'environnement.
 
 b) Déchets réceptionnés dans une installation de traitement thermique de déchets non dangereux ou transférés vers une telle
 installation située dans un autre Etat :
@@ -12913,145 +12553,372 @@ installation située dans un autre Etat :
     <tr>
       <th rowspan="2">
 
-Désignation des opérations imposables</th>
+Désignation
+
+des installations de traitement thermique
+
+de déchets non dangereux concernées</th>
       <th rowspan="2">
 
 Unité de perception</th>
-      <th>
+      <th colspan="7">
 
-Quotité en euros</th>
+Quotité (en euros)</th>
     </tr>
     <tr>
       <th>
 
-À compter de 2017</th>
+2019</th>
+      <th>
+
+2020</th>
+      <th>
+
+2021</th>
+      <th>
+
+2022</th>
+      <th>
+
+2023</th>
+      <th>
+
+2024</th>
+      <th>
+
+A partir
+
+de 2025</th>
     </tr>
     <tr>
-      <td>
-
-Réception de déchets dans une installation de traitement thermique de déchets non dangereux ou transfert vers une
-installation située dans un autre Etat et autorisée en vertu d'une réglementation d'effet équivalent :</td>
       <td align="left">
-      </td><td align="left">
-    </td></tr>
+
+Installations non autorisées</td>
+      <td align="center">
+
+tonne</td>
+      <td align="center">
+
+125</td>
+      <td align="center">
+
+125</td>
+      <td align="center">
+
+130</td>
+      <td align="center">
+
+132</td>
+      <td align="center">
+
+133</td>
+      <td align="center">
+
+134</td>
+      <td align="center">
+
+135</td>
+    </tr>
     <tr>
-      <td>
+      <td align="left">
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ;
-
-- Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
-accrédité ;
-
-</td>
+A.-Installations autorisées dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO
+50001 par un organisme accrédité</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 12</td>
+      <td align="center">
+
+12</td>
+      <td align="center">
+
+17</td>
+      <td align="center">
+
+18</td>
+      <td align="center">
+
+20</td>
+      <td align="center">
+
+22</td>
+      <td align="center">
+
+25</td>
     </tr>
     <tr>
       <td align="left">
 
-B.-Dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3 ;</td>
+B.-Installations autorisées dont les valeurs d'émission de NOx sont inférieures à 80 mg/ Nm3</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 12</td>
+      <td align="center">
+
+12</td>
+      <td align="center">
+
+17</td>
+      <td align="center">
+
+18</td>
+      <td align="center">
+
+20</td>
+      <td align="center">
+
+22</td>
+      <td align="center">
+
+25</td>
     </tr>
     <tr>
       <td align="left">
 
-C. Réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal à 0,65 ;</td>
+C.-Installations autorisées réalisant une valorisation énergétique élevée dont le rendement énergétique est supérieur ou égal
+à 0,65</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 9</td>
+      <td align="center">
+
+9</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+15</td>
     </tr>
     <tr>
       <td align="left">
 
-D.-Relevant à la fois des A et B ;</td>
+D.-Installations relevant à la fois des A et B</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 9</td>
+      <td align="center">
+
+9</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+17</td>
+      <td align="center">
+
+20</td>
+      <td align="center">
+
+25</td>
     </tr>
     <tr>
       <td align="left">
 
-E.-Relevant à la fois des A et C ;</td>
+E.-Installations relevant à la fois des A et C</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 6</td>
+      <td align="center">
+
+6</td>
+      <td align="center">
+
+11</td>
+      <td align="center">
+
+12</td>
+      <td align="center">
+
+13</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+15</td>
     </tr>
     <tr>
       <td align="left">
 
-F.-Relevant à la fois des B et C ;</td>
+F.-Installations relevant à la fois des B et C</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 5</td>
+      <td align="center">
+
+5</td>
+      <td align="center">
+
+10</td>
+      <td align="center">
+
+11</td>
+      <td align="center">
+
+12</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+15</td>
     </tr>
     <tr>
       <td align="left">
 
-G.-Relevant à la fois des A, B et C ;</td>
+G.-Installations relevant à la fois des A, B et C</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 3</td>
+      <td align="center">
+
+3</td>
+      <td align="center">
+
+8</td>
+      <td align="center">
+
+11</td>
+      <td align="center">
+
+12</td>
+      <td align="center">
+
+14</td>
+      <td align="center">
+
+15</td>
     </tr>
     <tr>
       <td align="left">
 
-H.-Autre.</td>
+H.-Installations autorisées dont le rendement énergétique est supérieur ou égal à 0,70 et réalisant une valorisation
+énergétique des résidus à haut pouvoir calorifique qui sont issus des opérations de tri performantes</td>
+      <td align="center">
+
+tonne</td>
+      <td align="center">
+
+_</td>
+      <td align="center">
+
+_</td>
+      <td align="center">
+
+4</td>
+      <td align="center">
+
+5,5</td>
+      <td align="center">
+
+6</td>
+      <td align="center">
+
+7</td>
+      <td align="center">
+
+7,5</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+I.-Autres installations autorisées</td>
       <td align="center">
 
 tonne</td>
       <td align="center">
 
 15</td>
+      <td align="center">
+
+15</td>
+      <td align="center">
+
+20</td>
+      <td align="center">
+
+22</td>
+      <td align="center">
+
+23</td>
+      <td align="center">
+
+24</td>
+      <td align="center">
+
+25</td>
     </tr>
   </tbody>
 </table>
 
+b bis) Les autorisations mentionnées dans chacune des lignes des tableaux des a et b s'entendent de celles prévues au titre
+Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas
+de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
+
+Relèvent du tarif applicable aux réceptions dans une installation non autorisée les réceptions effectuées dans une
+installation autorisée en méconnaissance des prescriptions de l'autorisation mentionnées au premier alinéa du IV de l'article
+266 sexies.
+
+Les transferts réalisés vers une installation hors de France en méconnaissance des règles équivalentes relèvent de ce même
+tarif ;
+
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
 s'applique à l'assiette concernée ;
 
-d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
-date d'obtention de la certification ISO 14001 ou ISO 50001 ;
+d) Le tarif réduit mentionné au A du tableau du second alinéa du b s'applique aux tonnages de déchets réceptionnés à compter
+de la date d'obtention de la certification ISO 50001 ;
 
 e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés
 en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19
 novembre 2008 relative aux déchets et abrogeant certaines directives, réceptionnés à compter de la date de notification au
-préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz capté à plus de 75 %.
+préfet de la date de mise en service effective des équipements assurant la valorisation du biogaz capté à plus de 75 % ;
 
-Le tarif mentionné au C du tableau du même a s'applique aux tonnages de déchets susceptibles de produire du biogaz,
-mentionnés en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du
-Conseil du 19 novembre 2008 précitée, réceptionnés à compter de la date de début d'exploitation du casier ou, le cas échéant,
-de la subdivision de casier, dans les conditions de l'arrêté préfectoral autorisant l'exploitation du bioréacteur et la
-valorisation du biogaz. En cas de non-respect de la condition de durée de comblement du casier ou de la subdivision de casier
-inférieure à deux ans, l'exploitant déclare la totalité des tonnages traités dans le casier concerné en appliquant le tarif
-pertinent mentionné au tableau dudit a ;
+Les installations mentionnées au C du tableau du second alinéa du b sont celles qui sont équipées, dès leur construction, des
+équipements de captage du biogaz et de réinjection des lixiviats. Le tarif prévu au même C s'applique aux tonnages de déchets
+susceptibles de produire du biogaz, mentionnés en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/
+CE du Parlement européen et du Conseil du 19 novembre 2008 précitée, et réceptionnés, dans les conditions de l'autorisation
+d'exploitation du bioréacteur et de valorisation du biogaz, dans un casier ou une subdivision de casier, dont la durée
+d'utilisation est inférieure à deux ans à compter de la date de début d'exploitation de ce casier ou de cette subdivision de
+casier ;
 
 f) Le tarif mentionné au B du tableau du b s'applique aux tonnages de déchets réceptionnés à compter de la date de
-notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm3.
+notification de l'arrêté préfectoral mentionnant la valeur limite d'émission d'oxyde d'azote inférieure à 80 mg/Nm
+  <sup>3</sup>.
 
 Le tarif réduit mentionné au C du tableau du même b s'applique aux tonnages de déchets réceptionnés à compter de la date de
 notification au préfet de la date de mise en service effective des équipements assurant la valorisation énergétique des
@@ -13060,11 +12927,129 @@ déchets, au sens de la directive 2008/98/CE du Parlement européen et du Consei
 g) Un arrêté conjoint des ministres chargés du budget et de l'environnement précise les modalités d'application des tarifs
 réduits mentionnés aux B et C du tableau du a et au B du tableau du b ainsi que la liste des déchets, parmi ceux de la liste
 mentionnée à l'article 7 de la directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 précitée,
-susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités.
+susceptibles de produire du biogaz pour les besoins de l'application des tarifs réduits précités ;
+
+h) Le tarif mentionné au H du tableau du second alinéa du b s'applique aux tonnages des déchets à haut pouvoir calorifique
+identifiés comme des résidus des opérations de tri performantes ;
+
+Aux fins de l'application du tarif réduit, l'apporteur établit, au plus tard à la date de facturation, une attestation en
+double exemplaire certifiant que les déchets répondent aux conditions prévues au premier alinéa du présent h. Un exemplaire
+est remis à la personne qui réceptionne les déchets. Lorsqu'il est constaté que ces conditions ne sont pas remplies,
+l'apporteur est redevable du complément d'impôt.
+
+Une opération de tri s'entend d'une opération de séparation, au sein de déchets ayant fait l'objet d'une collecte séparée,
+entre les déchets pouvant faire l'objet d'une valorisation matière et les résidus. L'opération de tri performante s'entend de
+celle dont l'opérateur démontre qu'elle répond aux conditions suivantes :
+
+- les proportions de déchets identifiés comme des résidus sont inférieures ou égales à des seuils fixés, selon la nature et
+les caractéristiques des déchets, par arrêté conjoint des ministres chargés du budget et de l'environnement ;
+
+- le pouvoir calorifique inférieur des résidus est supérieur ou égal à un seuil fixé par le même arrêté ;
+
+- les proportions de résidus restant contenus dans les quantités de déchets sélectionnés en vue d'une valorisation matière
+sont inférieures ou égales à des seuils fixés, selon la nature et les caractéristiques de ces résidus et de ces déchets
+sélectionnés, par ledit arrêté ;
+
+i) Sur les territoires des collectivités d'outre-mer relevant de l'article 73 de la Constitution, sont appliqués les
+réfactions, déterminées à partir du tarif applicable en métropole, ou tarifs suivants :
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+Collectivités
+
+concernées</th>
+      <th>
+
+Installations de traitement
+
+de déchets non dangereux concernées</th>
+      <th>
+
+2019</th>
+      <th>
+
+2020</th>
+      <th>
+
+A partir
+
+de 2021</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Guadeloupe, La Réunion et Martinique</td>
+      <td align="left">
+
+Toutes</td>
+      <td colspan="3" align="center">
+
+- 25 %</td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center">
+
+Guyane</td>
+      <td align="left">
+
+Installations de stockage accessibles par voie terrestre</td>
+      <td align="center" colspan="2">
+
+10 € par tonne</td>
+      <td align="center" rowspan="5">
+
+- 60 %</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Installations de stockage non accessibles par voie terrestre</td>
+      <td colspan="2" align="center">
+
+3 € par tonne</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Installations de traitement thermique</td>
+      <td colspan="2" align="center">
+
+- 60 %</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center">
+
+Mayotte</td>
+      <td align="left">
+
+Installations de stockage</td>
+      <td align="center">
+
+0 € par tonne</td>
+      <td align="center">
+
+10 € par tonne</td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Installations de traitement thermique</td>
+      <td align="center" colspan="2">
+
+- 60 %</td>
+    </tr>
+  </tbody>
+</table>
+
+Sont exonérées les réceptions des déchets utilisés pour produire de l'électricité distribuée par le réseau dans ces
+territoires lorsqu'elles sont réalisées dans les conditions prévues au IV de l'article 266 sexies.
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -13182,12 +13167,12 @@ Tonne
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote
 
 </td>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Tonne
 
 </td>
-      <td align="left" colspan="5">
+      <td colspan="5" align="left">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
@@ -13221,7 +13206,7 @@ Tonne
 Tonne
 
 </td>
-      <td colspan="5" align="left">
+      <td align="left" colspan="5">
 
 259,86
 
@@ -13463,12 +13448,12 @@ Tonne
 - dont la teneur en phosphate est supérieure à 30 % du poids
 
 </td>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Tonne
 
 </td>
-      <td align="left" colspan="5">
+      <td colspan="5" align="left">
 
 283,65 (291,88 en 2009)
 
@@ -13497,32 +13482,19 @@ Tonne
 1 bis. A compter du 1er janvier 2013, les tarifs mentionnés au 1 sont relevés, chaque année, dans une proportion égale au
 taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année.
 
-Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter :
+Toutefois, le premier alinéa du présent 1 bis ne s'applique qu'à compter du 1er janvier 2026 aux tarifs prévus aux tableaux
+des a et b du A du 1.
 
-a) Du 1er janvier 2026 aux tarifs mentionnés au tableau du a du A du 1 ;
-
-b) Du 1er janvier 2018 aux tarifs mentionnés au tableau du b du même A ;
-
-c) (Abrogé)
-
-2. Le montant minimal annuel de la taxe due par les deux premières catégories de personnes mentionnées au 1 du I de l'article
-266 sexies est de 450 € par installation.
+2. Le montant minimal annuel de la taxe due par les personnes mentionnées au a du 1 du I de l'article 266 sexies est de 450 €
+par installation.
 
 3. (Alinéa abrogé).
 
-4. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets dangereux ne s'applique pas aux
-résidus de traitement des installations de traitement thermique de déchets assujetties à la taxe.
+4. (Abrogé).
 
-4 bis. Le tarif applicable aux déchets réceptionnés dans une installation de stockage de déchets non dangereux ne s'applique
-pas aux résidus de traitement des installations de traitement de déchets assujetties à la taxe générale sur les activités
-polluantes lorsque ceux-ci ne peuvent faire l'objet d'aucune valorisation pour des raisons techniques définies par décret ; à
-défaut de publication de ce décret dans les six mois suivant la promulgation de la loi n° 2010-1657 du 29 décembre 2010 de
-finances pour 2011, la taxe ne s'applique pas auxdits résidus.
+4 bis. (Abrogé).
 
-5. Les déchets réceptionnés dans une installation de stockage de déchets non dangereux autorisée à ce titre en application du
-titre Ier du livre V du code de l'environnement sont taxés, après la date limite d'exploitation figurant dans l'arrêté
-préfectoral d'autorisation, selon le tarif correspondant aux déchets réceptionnés dans les installations non autorisées en
-application du même titre Ier.
+5. (Abrogé).
 
 6. Le poids des oxydes d'azote et autres composés oxygénés de l'azote est exprimé en équivalent dioxyde d'azote hormis pour
 le protoxyde d'azote.
@@ -13534,7 +13506,9 @@ est fixé à 5 tonnes par an.
 
 **Nota:**
 
-
+Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code
+des douanes conformes à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -13586,8 +13560,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 62
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 24 (V)
 
 _Cite_:
 
@@ -13806,83 +13779,368 @@ _Cite_:
 
 ###### Article 266 quindecies
 
-I.-Les personnes qui mettent à la consommation en France des essences reprises aux indices 11 et 11 bis et 11 ter du tableau
-B du 1 de l'article 265, du gazole repris à l'indice 20 et à l'indice 22, du superéthanol E85 repris à l'indice 55 et du
-carburant ED 95 repris à l'indice 56 de ce même tableau, ainsi que tous les carburants équivalents, au sens du 3 de l'article
-2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits
-énergétiques et de l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, sont
-redevables d'un prélèvement supplémentaire de la taxe générale sur les activités polluantes.
+I.-Les redevables de la taxe intérieure de consommation prévue à l'article 265 sont redevables d'une taxe incitative relative
+à l'incorporation de biocarburants. 
 
-II.-Son assiette est déterminée conformément aux dispositions du 1° du 2 de l'article 298 du code général des impôts, pour
-chaque carburant concerné.
+Pour l'application du présent article : 
 
-III.-Son taux est fixé à 7,5 % dans la filière essence et à 7,7 % dans la filière gazole.
+1° Les essences s'entendent du carburant identifié à l'indice 11 du tableau du 1° du 1 de l'article 265 et des carburants
+autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, au sens du premier alinéa du 3 de l'article 2 de
+la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits
+énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019 ; 
 
-Il est diminué à proportion de la quantité d'énergie renouvelable des biocarburants contenus dans les carburants soumis au
-prélèvement mis à la consommation en France, sous réserve que ces biocarburants respectent les critères de durabilité prévus
-aux articles L. 661-3 à L. 661-6 du code de l'énergie.
+2° Les gazoles s'entendent du gazole non routier et du gazole routier identifiés respectivement aux indices 20 et 22 du même
+tableau et des carburants autorisés auxquels ils sont équivalents, au sens du 1°. 
 
-Pour la filière essence, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre l'énergie
-renouvelable des biocarburants contenus dans les produits repris aux indices d'identification 11, 11 bis, 11 ter, 55 et 56 du
-tableau B du 1 de l'article 265 du présent code mis à la consommation en France à usage de carburants et l'énergie de ces
-mêmes carburants soumis au prélèvement, exprimés en pouvoir calorifique inférieur.
+Toutefois, l'éthanol diesel identifié à l'indice 56 dudit tableau est pris en compte comme une essence. 
 
-Pour la filière gazole, le taux est diminué de la part d'énergie renouvelable résultant du rapport entre les quantités de
-biocarburants incorporées dans les produits repris aux indices d'identification 20 et 22 du même tableau B, ainsi que tous
-les carburants équivalents, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003
-restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité, au gazole de l'indice 22 et
-autorisés conformément au 1 de l'article 265 ter, mis à la consommation en France à usage de carburants et les quantités de
-carburant routier et non routier, soumises au prélèvement, exprimées en pouvoir calorifique inférieur.
+II.-Le fait générateur intervient et la taxe incitative relative à l'incorporation de biocarburants est exigible au moment où
+la taxe intérieure de consommation prévue à l'article 265 devient exigible pour les produits mentionnés au I. 
 
-La part d'énergie renouvelable, prise en compte pour cette minoration, ne peut être supérieure aux valeurs suivantes :
+III.-La taxe incitative relative à l'incorporation de biocarburants est assise sur le volume total, respectivement, des
+essences et des gazoles pour lesquels elle est devenue exigible au cours de l'année civile. 
 
-1° Dans la filière essence, la part d'énergie renouvelable maximale des biocarburants produits à partir de céréales et
-d'autres plantes riches en amidon ou sucrières est de 7 %. Cette part est de 0,6 %, pour les biocarburants mentionnés au e du
-4 de l'article 3 de la directive 2009/28/ CE modifiée par la directive (UE) 2015/1513 du Parlement européen et du Conseil du
-9 septembre 2015 modifiant la directive 98/70/ CE concernant la qualité de l'essence et des carburants diesel et modifiant la
-directive 2009/28/ CE relative à la promotion de l'utilisation de l'énergie produite à partir de sources renouvelables ;
+Le montant de la taxe est calculé séparément, d'une part, pour les essences et, d'autre part, pour les gazoles. 
 
-2° Dans la filière gazole, la part d'énergie renouvelable maximale des biocarburants produits à partir de plantes
-oléagineuses est de 7 %. Cette part est de 0,7 % lorsque les biocarburants sont produits à partir de matières premières
-d'origine animale ou végétale énumérées à l'article 21 de la directive 2009/28/ CE du Parlement européen et du Conseil du 23
-avril 2009 précitée.
+Ce montant est égal au produit de l'assiette définie au premier alinéa du présent III par le tarif fixé au IV, auquel est
+appliqué un coefficient égal à la différence entre le pourcentage national cible d'incorporation d'énergie renouvelable dans
+les transports, fixé au même IV, et la proportion d'énergie renouvelable contenue dans les produits inclus dans l'assiette.
+Si la proportion d'énergie renouvelable est supérieure ou égale au pourcentage national cible d'incorporation d'énergie
+renouvelable dans les transports, la taxe est nulle. 
 
-La liste des biocarburants éligibles à cette minoration de taux est définie par arrêté conjoint des ministres chargés des
-douanes, de l'écologie, de l'énergie et de l'agriculture.
+IV.-Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'énergie renouvelable dans les transports sont
+les suivants : 
 
-Lors de la mise à la consommation des carburants repris aux indices d'identification 11, 11 bis, 11 ter, 20, 22, 55 et 56 du
-tableau B du 1 de l'article 265, ainsi que tous les carburants équivalents, au sens du 3 de l'article 2 de la directive
-2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de
-l'électricité, au gazole de l'indice 22 et autorisés conformément au 1 de l'article 265 ter, les opérateurs émettent des
-certificats représentatifs des biocarburants que ces carburants contiennent. Les modalités d'émission et de cession
-éventuelle des certificats sont précisées par décret.
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
 
-Un arrêté conjoint des ministres chargés des douanes, de l'écologie, de l'énergie et de l'agriculture fixe la liste des
-matières premières permettant de produire des biocarburants, qui peuvent être pris en compte pour le double de leur valeur
-réelle exprimée en quantité d'énergie renouvelable, ainsi que les conditions et modalités de cette prise en compte, notamment
-en matière d'exigence de traçabilité.
+Année </th>
+      <th>
 
-IV.-Le fait générateur intervient et le prélèvement supplémentaire est exigible lors de la mise à la consommation des
-produits mentionnés au I à usage de carburant.
+2019 </th>
+      <th>
 
-V.-Le prélèvement supplémentaire est déclaré et liquidé en une seule fois, au plus tard le 10 avril de chaque année et pour
-la première fois avant le 10 avril 2006. La déclaration est accompagnée du paiement et des certificats ayant servi au calcul
-du prélèvement. La forme de la déclaration et son contenu sont fixés conformément aux dispositions du 4 de l'article 95.
+A compter de 2020 </th>
+    </tr>
+    <tr>
+      <td align="left">
 
-VI.-Les dispositions du présent article ne s'appliquent dans les départements d'outre-mer qu'à compter du 1er janvier 2019.
+Tarif (€/ hL) </td>
+      <td align="center">
 
-En cas de difficultés exceptionnelles d'approvisionnement entraînant, au niveau national ou local, une pénurie d'un ou
-plusieurs carburants mentionnés au I et nécessitant la mise à disposition de stocks stratégiques pétroliers dans un bref
-délai et une gestion de crise par les autorités de l'Etat, le ministre chargé du budget peut autoriser temporairement une
-suspension de la prise en compte des volumes soumis au prélèvement supplémentaire de la taxe générale sur les activités
-polluantes, sous réserve de produire les justificatifs relatifs à ces volumes, dans l'hypothèse où le maintien de
-l'incitation à l'incorporation de biocarburant serait de nature à aggraver la situation d'approvisionnement.
+98 </td>
+      <td align="center">
 
-En cas de cessation d'activité, le prélèvement est liquidé dans les conditions prévues au troisième alinéa de l'article 266
-undecies.
+101 </td>
+    </tr>
+    <tr>
+      <td align="left">
 
-Le prélèvement est recouvré et contrôlé selon les mêmes procédures et sous les mêmes sanctions, garanties, sûretés et
-privilèges que ceux prévus par le présent code.
+Pourcentage cible des gazoles </td>
+      <td align="center">
+
+7,9 % </td>
+      <td align="center">
+
+8 % </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Pourcentage cible des essences </td>
+      <td align="center">
+
+7,9 % </td>
+      <td align="center">
+
+8,2 % </td>
+    </tr>
+  </tbody>
+</table>
+
+; 
+
+V.-A.-La proportion d'énergie renouvelable désigne la proportion, évaluée en pouvoir calorifique inférieur, d'énergie
+produite à partir de sources renouvelables dont le redevable peut justifier qu'elle est contenue dans les carburants inclus
+dans l'assiette, compte tenu, le cas échéant, des règles de calcul propres à certaines matières premières prévues aux C et D
+du présent V et des dispositions du VII. 
+
+L'énergie contenue dans les biocarburants est renouvelable lorsque ces derniers remplissent les critères de durabilité
+définis à l'article 17 de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 relative à la
+promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives
+2001/77/ CE et 2003/30/ CE dans sa rédaction en vigueur au 24 septembre 2018. 
+
+B.-1. La part d'énergie issue des matières premières définies au 2 et excédant le seuil mentionné au deuxième alinéa du
+présent B, d'une part pour les gazoles et d'autre part pour les essences, n'est pas prise en compte. Toutefois, cette
+disposition ne s'applique pas à l'énergie issue de ces matières premières lorsqu'il est constaté qu'elles ont été produites
+dans des conditions particulières permettant d'éviter le risque mentionné au 1° du 2. 
+
+Ce seuil est égal au produit entre, d'une part, la proportion de l'énergie issue des matières premières définies au 2 qui est
+contenue respectivement dans les gazoles et dans les essences, en France métropolitaine en 2017, et, d'autre part, les
+pourcentages suivants : 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+Année </th>
+      <th>
+
+2020 
+
+à 2023 </th>
+      <th>
+
+2024 </th>
+      <th>
+
+2025 </th>
+      <th>
+
+2026 </th>
+      <th>
+
+2027 </th>
+      <th>
+
+2028 </th>
+      <th>
+
+2029 </th>
+      <th>
+
+2030 </th>
+      <th>
+
+A compter 
+
+de 2031 </th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Pourcentage </td>
+      <td align="center">
+
+100 % </td>
+      <td align="center">
+
+87,5 % </td>
+      <td align="center">
+
+75 % </td>
+      <td align="center">
+
+62,5 % </td>
+      <td align="center">
+
+50 % </td>
+      <td align="center">
+
+37,5 % </td>
+      <td align="center">
+
+25 % </td>
+      <td align="center">
+
+12,5 % </td>
+      <td align="center">
+
+0 % </td>
+    </tr>
+  </tbody>
+</table>
+
+; 
+
+2. Les matières premières auxquelles s'applique le seuil défini au 1 relèvent de la catégorie 1 du tableau du C du présent V
+et répondent aux conditions cumulatives suivantes, évaluées à l'échelle mondiale : 
+
+1° La culture de ces matières premières et leur utilisation pour la production de biocarburants présentent un risque élevé
+d'induire indirectement une hausse des émissions de gaz à effet de serre neutralisant la réduction desdites émissions qui
+résulte de la substitution par ces biocarburants des carburants fossiles ; 
+
+2° L'expansion des cultures s'effectue sur des terres présentant un important stock de carbone, au sens du 4 de l'article 17
+de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 susmentionnée ; 
+
+3° Un décret constate le seuil défini au 1, fixe la liste des matières premières définies au présent 2 et précise les
+conditions particulières mentionnées au premier alinéa du 1 ainsi que les modalités selon lesquelles elles sont constatées. 
+
+Ne sont pas considérés comme des biocarburants les produits à base d'huile de palme. 
+
+C.-Sans préjudice des dispositions du B, pour chacune des catégories de matières premières suivantes, la part d'énergie issue
+de l'ensemble des matières premières de cette catégorie et excédant le seuil indiqué n'est pas prise en compte : 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+Année </th>
+      <th>
+
+2019 </th>
+      <th>
+
+A compter de 2020 </th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Catégorie de matières premières </td>
+      <td colspan="2" align="center">
+
+Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas prise en
+compte </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+1. Céréales et autres plantes riches en amidon, sucrières ou oléagineuses et autres produits issus des cultures principales
+des terres agricoles principalement utilisées à des fins de production d'énergie, y compris les coproduits et résidus issus
+de la transformation de ces céréales, plantes et produits, autres que les matières mentionnées à l'annexe IX de la directive
+2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée </td>
+      <td colspan="2" align="center">
+
+7 % </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+2. Egouts pauvres issus des plantes sucrières et obtenus après deux extractions sucrières, à hauteur de 45 % de leur contenu
+énergétique, et amidons résiduels issus des plantes riches en amidon, en fin de processus de transformation de l'amidon </td>
+      <td align="center">
+
+0,2 % </td>
+      <td align="center">
+
+0,4 % </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+3. Tallol et brai de tallol </td>
+      <td align="center" colspan="2">
+
+0,6 % </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+4. Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23
+avril 2009 précitée </td>
+      <td colspan="2" align="center">
+
+0,9 % </td>
+    </tr>
+  </tbody>
+</table>
+
+; 
+
+Pour les matières premières relevant de plusieurs des catégories mentionnées dans le tableau ci-dessus, lorsque la part de
+l'énergie qui en est issue est comptabilisée pour l'application du seuil de l'une de ces catégories, elle ne l'est pas pour
+l'application des seuils des autres catégories. Toutefois, pour les égouts pauvres relevant de la catégorie 2, lorsqu'elle
+est comptabilisée pour l'application du seuil de cette catégorie, elle l'est également, à hauteur de 55 % de sa valeur
+réelle, pour l'application du seuil prévu pour la catégorie 1. 
+
+Pour les huiles de cuisson usagées, seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été
+assurée depuis leur production, selon des modalités définies par décret. 
+
+D.-Pour chacune des catégories de matières premières suivantes, la part d'énergie issue de l'ensemble des matières premières
+de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du
+seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C. 
+
+<table border="1">
+  <tbody>
+    <tr>
+      <th>
+
+Catégorie de matières premières </th>
+      <th>
+
+Seuil au delà duquel la part de l'énergie 
+
+issue de l'ensemble des matières premières 
+
+de la catégorie n'est pas comptée double </th>
+    </tr>
+    <tr>
+      <td align="left">
+
+Matières mentionnées à la partie A de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril
+2009 précitée, à l'exception du tallol et brai de tallol </td>
+      <td align="center">
+
+Différence entre le pourcentage cible 
+
+fixé au IV et 7 % </td>
+    </tr>
+    <tr>
+      <td align="left">
+
+Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23 avril
+2009 précitée </td>
+      <td align="center">
+
+Gazoles : seuil prévu au C pour les mêmes matières 
+
+Essences : 0,1 % </td>
+    </tr>
+  </tbody>
+</table>
+
+; 
+
+Seule est comptée double l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur production, selon
+des modalités définies par décret. 
+
+VI.-Deux redevables peuvent convenir que tout ou partie de la quantité d'énergie renouvelable contenue dans les carburants
+inclus dans l'assiette du premier est prise en compte dans la détermination de la quantité d'énergie renouvelable aux fins de
+la liquidation de la taxe due par le second. 
+
+La convention peut être conclue à titre onéreux. Elle ne peut porter que sur des quantités conduisant, pour le premier des
+redevables, à excéder le pourcentage national cible d'incorporation d'énergie renouvelable dans les transports ou l'une des
+limites énumérées au V. Une même quantité d'énergie ne peut faire l'objet de plusieurs conventions. 
+
+VII.-Le ministre chargé du budget peut, pendant une période ne pouvant excéder trente jours, renouvelable, exclure de
+l'assiette de la taxe incitative relative à l'incorporation de biocarburants les volumes pour lesquels elle devient exigible
+pendant cette période, lorsque les conditions suivantes sont réunies : 
+
+1° Des difficultés exceptionnelles d'approvisionnement entraînent, au niveau national ou local, une pénurie d'un ou plusieurs
+carburants mentionnés au I et nécessitent la mise à disposition de stocks stratégiques pétroliers dans un bref délai ; 
+
+2° L'incorporation d'énergie renouvelable dans les carburants est de nature à aggraver les difficultés d'approvisionnement. 
+
+Le ministre chargé du budget peut limiter l'exclusion à ceux des produits ou des zones géographiques pour lesquels les
+difficultés d'approvisionnement sont les plus importantes. 
+
+VIII.-Un décret fixe les documents et justificatifs devant être fournis par le redevable aux fins de la prise en compte des
+produits dans la détermination de la part d'énergie renouvelable conformément au présent article. 
+
+IX.-La taxe incitative relative à l'incorporation de biocarburants est déclarée, liquidée et, le cas échéant, payée par le
+redevable en une fois, au plus tard le 10 avril de l'année suivant celle sur la base de laquelle son assiette est
+déterminée. 
+
+Toutefois, en cas de cessation définitive d'activité taxable, elle est déclarée et, le cas échéant, payée dans les trente
+jours qui suivent la date de cessation d'activité. Pour la détermination de l'assiette, seuls sont pris en compte les
+produits au titre desquels la taxe incitative relative à l'incorporation de biocarburants est devenue exigible avant cette
+date. 
+
+La taxe incitative relative à l'incorporation de biocarburants est recouvrée et contrôlée selon les mêmes procédures et sous
+les mêmes sanctions, garanties, sûretés et privilèges que la taxe intérieure de consommation prévue à l'article 265. Les
+réclamations sont présentées, instruites et jugée selon les règles applicables à cette même taxe. 
+
+X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte.
+
+**Nota:**
+
+Conformément aux II et III de l'article 192 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266
+quindecies s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2019. Toutefois, le B du
+V de l'article 266 quindecies, dans sa rédaction résultant du I de l'article 192, entre en vigueur le 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -13934,23 +14192,20 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 19
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 192 (V)
 
 _Cite_:
 
-  - Code général des impôts, CGI. - art. 298
   - Code des douanes - art. 265
-  - Code des douanes - art. 266 undecies
-  - Code des douanes - art. 95
-  - Code de l'énergie - art. L661-3
+  - Code des douanes - art. 265 ter
 
 
 ###### Article 266 quinquies
 
-1. Le gaz naturel repris aux codes NC 2711-11 et 2711-21 de la nomenclature douanière, ainsi que le produit résultant du
-mélange du gaz naturel repris aux codes NC 2711-11 et 2711-21 et d'autres hydrocarbures gazeux repris au code NC 2711,
-destinés à être utilisés comme combustibles, sont soumis à une taxe intérieure de consommation.
+1. Sont soumis à une taxe intérieure de consommation, lorsqu'ils sont destinés à être utilisés comme combustible ou dans les
+conditions prévues au d du 2° du tableau B du 1 de l'article 265, le gaz naturel repris aux codes NC 2711-11 et 2711-21 et
+les produits auxquels il est équivalent, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre
+2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité.
 
 2. Le fait générateur de la taxe intervient lors de la livraison de ces produits par un fournisseur à un utilisateur final et
 la taxe est exigible au moment de la facturation, y compris des acomptes, ou au moment des encaissements si ceux-ci
@@ -14006,38 +14261,28 @@ affectation aux usages qui y sont mentionnés sont fixées par décret.
 7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le
 biogaz repris au code NC 2711-29.
 
-8. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, exprimée en
-mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est déterminée conformément au tableau ci-dessous :
+8. a. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, déterminée à partir du
+pouvoir calorifique supérieur du produit et arrondie au mégawattheure le plus proche.
+
+Le montant de la taxe est arrondi à l'euro le plus proche.
+
+En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en
+fonction des tarifs proportionnellement au nombre de jours de chaque période.
+
+b. Le tarif de la taxe est le suivant :
 
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
+      <th>
 
 Désignation des produits</th>
-      <th rowspan="2">
+      <th>
 
 Unité de perception</th>
       <th colspan="5">
 
-Tarif (en euros)</th>
-    </tr>
-    <tr>
-      <th>
-
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+Tarifs (en euros)</th>
     </tr>
     <tr>
       <td align="center">
@@ -14047,30 +14292,17 @@ A compter de 2022</th>
 gaz naturel destiné à être utilisé comme combustible</td>
       <td align="center">
 
-Mégawattheure en pouvoir calorifique supérieur</td>
-      <td align="center">
+Mégawattheure</td>
+      <td colspan="5" align="center">
 
 8,45</td>
-      <td align="center">
-
-10,34</td>
-      <td align="center">
-
-12,24</td>
-      <td align="center">
-
-14,13</td>
-      <td align="center">
-
-16,02</td>
     </tr>
   </tbody>
 </table>
 
-Le montant de la taxe est arrondi à l'euro le plus proche.
-
-En cas de changement de tarif de la taxe au cours d'une période de facturation, les quantités concernées sont réparties en
-fonction des tarifs proportionnellement au nombre de jours de chaque période.
+c. Le tarif de la taxe applicable au produit consommé pour déshydrater les légumes et plantes aromatiques, autres que les
+pommes de terres, les champignons et les truffes, par les entreprises pour lesquelles cette consommation est supérieure à 800
+wattheures par euro de valeur ajoutée, est fixé à 1,6 € par mégawattheure.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
@@ -14103,14 +14335,16 @@ La déclaration d'acquittement peut être effectuée par voie électronique.
 
 11. Les personnes qui ont reçu des produits mentionnés au 1, sans que ces produits soient soumis à la taxe intérieure de
 consommation dans les conditions mentionnées au 4, ou en exonération conformément au 5, ou avec l'application d'un taux
-réduit conformément à l'article 265 nonies, sont tenues, sans préjudice des pénalités éventuellement applicables, d'acquitter
-les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à la destination ou à l'utilisation ayant
-justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié ou d'un taux réduit.
+réduit conformément au c du 8 du présent article ou à l'article 265 nonies, sont tenues, sans préjudice des pénalités
+éventuellement applicables, d'acquitter les taxes ou le supplément de taxes dû, lorsque les produits n'ont pas été affectés à
+la destination ou à l'utilisation ayant justifié l'absence de taxation, l'exonération, l'octroi d'un régime fiscal privilégié
+ou d'un taux réduit.
 
 12. Lorsque les produits mentionnés au 1 ont été normalement soumis à la taxe intérieure de consommation alors qu'ils ont été
 employés en tout ou partie par l'utilisateur final à un usage non taxable prévu au 4 ou à un usage exonéré prévu au 5 ou à un
-usage permettant l'application d'un taux réduit conformément à l'article 265 nonies, l'utilisateur final peut demander le
-remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à l'article 352.
+usage permettant l'application d'un taux réduit conformément au c du 8 du présent article ou à l'article 265 nonies,
+l'utilisateur final peut demander le remboursement de la taxe ou de la fraction de taxe, dans les conditions prévues à
+l'article 352.
 
 Lorsque les produits mentionnés au 1 soumis à la taxe ont fait l'objet d'un rachat par le fournisseur auprès de son client,
 la taxe est remboursée au fournisseur, pour autant que le fournisseur justifie qu'il a précédemment acquitté la taxe. Ce
@@ -14118,8 +14352,12 @@ remboursement peut s'effectuer par imputation sur le montant de la taxe due.
 
 **Nota:**
 
-Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent
-aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
+Conformément aux dispositions du II de l'article 64 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent
+aux produits pour lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
+
+Conformément à l’article 67 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux livraisons
+intervenant à compter du 1er janvier 2019 pour lesquelles la date d'exigibilité de la taxe intérieure sur la consommation de
+gaz naturel intervient à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -14160,7 +14398,7 @@ _Cité par_:
   - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
   - Code de l'environnement - art. L229-14 (V)
   - Code de l'énergie - art. D461-2 (V)
-  - Code des douanes - art. 265 (M)
+  - Code des douanes - art. 265 (VD)
   - Code des douanes - art. 265 nonies (V)
   - Code des douanes - art. 266 quinquies (V)
   - Code des douanes - art. 266 quinquies A (Ab)
@@ -14182,52 +14420,9 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
-
-
-###### Article 266 quinquies A
-
-Les livraisons de gaz naturel et d'huiles minérales destinés à être utilisés dans des installations de cogénération, pour la
-production combinée de chaleur et d'électricité ou de chaleur et d'énergie mécanique, sont exonérées des taxes intérieures de
-consommation prévues aux articles 265 et 266 quinquies pendant une durée de cinq années à compter de la mise en service des
-installations. Toutefois, la durée d'exonération pour les livraisons de fioul lourd d'une teneur en soufre supérieure à 1 %
-utilisé dans des installations de cogénération équipées de dispositifs de désulfuration des fumées conformément à la
-réglementation en vigueur est portée à dix années. 
-
-Cette exonération s'applique aux installations mises en service, au plus tard, le 31 décembre 2007. Toutefois, en ce qui
-concerne les huiles minérales, autres que le fioul lourd et les gaz de raffinerie, cette exonération ne s'applique qu'aux
-installations mises en service entre le 1er janvier 2003 et le 31 décembre 2007. 
-
-La nature et la puissance minimale des installations de cogénération ainsi que le rapport entre les deux énergies produites
-sont fixés par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Arrêté du 25 juin 2008 - art. 1 (V)
-  - Arrêté du 5 août 2008 - art. 10 (V)
-  - Code des douanes - art. 265 bis (V)
-  - Code des douanes - art. 266 quinquies (V)
-  - Code des douanes - art. 266 quinquies B (V)
-  - Décret n°2018-210 du 27 mars 2018 - art. 4 (V)
-
-_Cite_:
-
-  - Code des douanes - art. 265
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
-
-_Modifié par_:
-
-  - Loi n°2005-1720 du 30 décembre 2005 - art. 82 () JORF 31 décembre 2005
-
-_Abrogé par_:
-
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 68
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 65
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 67 (V)
 
 
 ###### Article 266 quinquies B
@@ -14290,32 +14485,17 @@ mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est d�
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
+      <th>
 
 Désignation des produits</th>
-      <th rowspan="2">
+      <th>
 
 Unité de perception</th>
       <th colspan="5">
 
-Tarif (en euros)</th>
-    </tr>
-    <tr>
-      <th>
+Tarifs (en euros)
 
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -14326,21 +14506,9 @@ houilles, lignites et cokes destinés à être utilisés comme combustibles</td>
       <td align="left">
 
 Mégawattheure</td>
-      <td align="center">
+      <td align="center" colspan="5">
 
 14,62</td>
-      <td align="center">
-
-18,02</td>
-      <td align="center">
-
-21,43</td>
-      <td align="center">
-
-24,84</td>
-      <td align="center">
-
-28,25</td>
     </tr>
   </tbody>
 </table>
@@ -14397,6 +14565,9 @@ le remboursement de la taxe ou de la fraction de taxe, dans les conditions prév
 Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent
 aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
 
+Conformément à l’article 64 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux produits pour
+lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -14417,15 +14588,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L3333-2
   - Code des douanes - art. 265 C
   - Code des douanes - art. 265 nonies
-  - Code des douanes - art. 266 quinquies A
+  - Code des douanes - art. 266 quinquies A (Ab)
   - Code des douanes - art. 352
   - Code de l'environnement - art. L229-5
   - Code de l'énergie - art. L121-27
@@ -14515,12 +14685,8 @@ B.-Le tarif de la taxe est fixé comme suit :
   <tbody>
     <tr>
       <th>Désignation des produits</th>
-      <th>
-
-Unité de perception</th>
-      <th>
-
-Tarif (en euros)</th>
+      <th>Unité de perception</th>
+      <th>Tarif (en euros)</th>
     </tr>
     <tr>
       <td align="justify">
@@ -14598,6 +14764,20 @@ Est considérée comme exposée à un risque important de fuite de carbone en ra
 installation dont l'activité relève de l'un des secteurs ou sous-secteurs mentionnés à l'annexe II de la communication 2012/
 C 158/04 de la Commission relative aux lignes directrices concernant certaines aides d'Etat dans le contexte du système
 d'échange de quotas d'émission de gaz à effet de serre après 2012.
+
+e. Le tarif de la taxe applicable à l'électricité consommée par un centre de stockage de données numériques exploité par une
+entreprise est, pour la fraction des quantités annuelles excédant un gigawattheure et lorsque la consommation totale
+d'électricité de ce centre est égale ou supérieure à un kilowattheure par euro de valeur ajoutée, fixé à 12 € par
+mégawattheure.
+
+Un centre de stockage de données numériques s'entend d'une infrastructure immobilière consacrée au stockage physique, au
+traitement, au transport et à la diffusion de données numériques, dont l'accès est sécurisé, et comprenant des dispositifs
+spécifiques et dédiés de contrôle de son environnement thermique, de la qualité de son air, d'alimentation en énergie et de
+prévention des incendies.
+
+f. Le tarif de la taxe applicable à l'électricité consommée par les exploitants d'aérodromes ouverts à la circulation
+aérienne publique, dont la consommation totale d'électricité est strictement supérieure à 222 wattheures par euro de valeur
+ajoutée, est fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des
 douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de
@@ -14677,12 +14857,9 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Conformément à l'article 88 II de a loi n° 2017-1775 du 28 décembre 2017, ces dispositions s'appliquent aux consommations
-d'électricité dont le fait générateur intervient à compter d'une date fixée par décret, et au plus tard du 1er juillet 2018.
-
-(1) Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, les dispositions du
-tableau du deuxième alinéa du B du 8 s'appliquent aux opérations dont le fait générateur intervient à compter du 1er janvier
-2018.
+Conformément à l’article 69 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux livraisons
+d'électricité intervenant à compter du 1er janvier 2019 pour lesquelles la date d'exigibilité de la taxe intérieure sur la
+consommation finale d'électricité intervient à compter du 1er janvier 2019.
 
 **Liens relatifs à cet article**
 
@@ -14721,7 +14898,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 69 (V)
 
 _Cite_:
 
@@ -14806,16 +14983,12 @@ _Cite_:
 I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
-1. Tout exploitant d'une installation soumise à autorisation, en application du titre Ier du livre V du code de
-l'environnement, au titre d'une rubrique de la nomenclature des installations classées relative :
+1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à
+autorisation, en application du titre Ier du livre V du code de l'environnement, au titre d'une rubrique de la nomenclature
+des installations classées relative au stockage ou au traitement thermique de ces déchets ;
 
-a) Au stockage ou au traitement thermique de déchets non dangereux ;
-
-b) Ou au stockage ou au traitement thermique de déchets dangereux,
-
-et non exclusivement utilisée pour les déchets que l'exploitant produit, ou toute personne qui transfère ou fait transférer
-des déchets vers un autre Etat en application du règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin
-2006 concernant les transferts de déchets ;
+b) Toute personne qui transfère ou fait transférer des déchets vers un autre Etat en application du règlement (CE) n°
+1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets ;
 
 2. Tout exploitant d'une installation soumise à autorisation ou enregistrement au titre du livre V (titre Ier) du code de
 l'environnement dont la puissance thermique maximale lorsqu'il s'agit d'installations de combustion, la capacité lorsqu'il
@@ -14862,12 +15035,11 @@ II. - La taxe ne s'applique pas :
 1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par
 incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
 
-1 bis. Aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet d'une valorisation comme
-matière ;
+1 bis. Aux réceptions de déchets et aux transferts de déchets vers un autre Etat lorsqu'ils sont destinés à y faire l'objet
+d'une valorisation comme matière ;
 
-1 ter. Aux installations de stockage des déchets autorisées, au titre du titre Ier du livre V du code de l'environnement, à
-recevoir des déchets d'amiante liés à des matériaux de construction inertes ayant conservé leur intégrité (amiante-ciment)
-relevant du code 17 06 05 de la liste des déchets, pour la quantité de déchets d'amiante-ciment reçus ;
+1 ter. Aux réceptions de déchets de matériaux de construction et d'isolation contenant de l'amiante et aux déchets
+d'équipement de protection individuelle et de moyens de protection collective pollués par des fibres d'amiante ;
 
 1 quater. (Abrogé) ;
 
@@ -14875,11 +15047,49 @@ relevant du code 17 06 05 de la liste des déchets, pour la quantité de déchet
 arrêté, entre la date de début de sinistre et jusqu'à deux cent quarante jours après la fin du sinistre. Les quantités non
 taxables font l'objet d'une comptabilité matière séparée ;
 
-1 sexies. Aux installations de co-incinération de déchets non dangereux pour les déchets non dangereux qu'elles
-réceptionnent ;
+1 sexies. Aux réceptions de déchets non dangereux par les installations de co-incinération ;
 
-1 septies. Aux installations de production de chaleur ou d'électricité à partir de déchets non dangereux préparés sous forme
-de combustibles solides de récupération, mentionnées au 9° du I de l'article L. 541-1 du code de l'environnement ;
+1 septies. Aux réceptions, aux fins de la production de chaleur ou d'électricité, de déchets non dangereux préparés, dans une
+installation autorisée prévue à cet effet, sous forme de combustibles solides de récupération, associés ou non à un autre
+combustible ;
+
+1 octies. Aux réceptions de résidus issus du traitement de déchets dont la réception a relevé du champ de la taxe lorsque
+l'une des deux conditions suivantes est remplie :
+
+a) Ces résidus constituent des déchets dangereux et les déchets dont ils sont issus ont fait l'objet d'un traitement
+thermique ;
+
+b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible techniquement de valoriser. Un décret précise
+les éléments caractérisant cette impossibilité technique ;
+
+1 nonies. Aux réceptions de déchets relevant du champ d'application de l'une des taxes intérieures de consommation prévues
+respectivement aux articles 265,266 quater, 266 quinquies et 266 quinquies B ;
+
+1 decies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, d'hydrocarbures faisant l'objet d'un
+traitement thermique sans faire l'objet d'une combustion en vue de leur valorisation ;
+
+1 undecies. Aux réceptions de déchets qui ne se décomposent pas, ne brûlent pas et ne produisent aucune autre réaction
+physique ou chimique, ne sont pas biodégradables et ne détériorent pas d'autres matières avec lesquelles ils entrent en
+contact, d'une manière susceptible d'entraîner une pollution de l'environnement ou de nuire à la santé humaine ;
+
+1 duodecies. Aux réceptions de déchets dont la valorisation matière est interdite ou dont l'élimination est prescrite. La
+liste des déchets concernés est précisée par arrêté conjoint des ministres chargés du budget et de l'environnement ;
+
+1 terdecies. Aux réceptions de déchets en provenance d'un dépôt non autorisé de déchets abandonnés dont les producteurs ne
+peuvent être identifiés et que la collectivité territoriale chargée de la collecte et du traitement des déchets des ménages
+n'a pas la capacité technique de prendre en charge. L'impossibilité d'identifier les producteurs et l'incapacité technique de
+prise en charge des déchets sont constatées, dans des conditions précisées par décret, par arrêté préfectoral, pour une durée
+ne pouvant excéder trois mois, le cas échéant, renouvelable une fois ;
+
+1 quaterdecies. Aux installations exclusivement utilisées pour les déchets que l'exploitant produit ;
+
+1 quindecies. Aux réceptions de déchets en provenance d'une installation de stockage où ces déchets ont été préalablement
+réceptionnés et qui :
+
+a) Soit n'est plus exploitée depuis le 1er janvier 1999 ;
+
+b) Soit a fait l'objet d'une autorisation pour le stockage de déchets, mais n'est plus exploitée à la date de transfert des
+déchets ;
 
 2. Aux installations d'injection d'effluents industriels autorisées en application de l'article 84 de la loi n° 2003-699 du
 30 juillet 2003 relative à la prévention des risques technologiques et naturels et à la réparation des dommages ;
@@ -14901,16 +15111,16 @@ du label écologique communautaire aux lubrifiants ;
 
 7. (Abrogé).
 
-III. - Sont exonérées de la taxe mentionnée au I :
+III. - (Abrogé).
 
-1. Les réceptions de matériaux ou déchets inertes. Sont considérés comme déchets inertes les déchets qui ne se décomposent
-pas, ne brûlent pas et ne produisent aucune autre réaction physique ou chimique, ne sont pas biodégradables et ne détériorent
-pas d'autres matières avec lesquelles ils entrent en contact, d'une manière susceptible d'entraîner une pollution de
-l'environnement ou de nuire à la santé humaine.
+IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre
+V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
+aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses
+limites de capacités, annuelles ou totales.
 
-2. Les quantités de déchets de produits mentionnés au second alinéa du 3 de l'article 265, utilisées comme combustible dans
-les phases de démarrage ou de maintien de la température d'une installation de traitement thermique de déchets dangereux,
-lorsque cette utilisation est mentionnée dans l'arrêté préfectoral d'autorisation de l'installation.
+Le même II s'applique également à l'exception du 1 quaterdecies, dans les mêmes conditions, aux transferts de déchets hors de
+France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation
+d'effet équivalent à cette autorisation.
 
 **Liens relatifs à cet article**
 
@@ -14971,7 +15181,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (VT)
-  - Code des douanes - art. 266 nonies (VT)
+  - Code des douanes - art. 266 nonies (V)
   - Code des douanes - art. 266 nonies A (VD)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
@@ -15004,9 +15214,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 61
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 20
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 24 (V)
 
 
 ###### Article 266 undecies
@@ -15408,16 +15616,17 @@ e) Les groupes générateurs mobiles installés à demeure sur un châssis routi
 
 f) Les engins de forage mobiles installés à demeure sur un châssis routier.
 
-**Nota:**
+6° Véhicules historiques et de collection mentionnés à l'article R. 311-1 du code de la route ;
 
-Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
-exigible à compter du 1er juillet 2016.
+7° Véhicules utilisés par les cirques ou affectés exclusivement au transport des manèges et autres matériels d'attraction ;
+
+8° Véhicules utilisés par les centres équestres.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 73 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
 
 _Cité par_:
 
@@ -15426,6 +15635,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la route.
+  - Code de la route. - art. R311-1
 
 
 ###### Article 284 quater
@@ -15445,7 +15655,7 @@ de 10 %.
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
 
 4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement
-opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 1 000 euros.
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -15465,7 +15675,6 @@ _Anciens textes_:
 _Modifié par_:
 
   - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 
 ###### Article 284 quinquies
@@ -15593,438 +15802,296 @@ _Cite_:
 ###### Article 284 ter
 
 I.-1. Les tarifs de la taxe prévue à l'article 284 bis sont fixés comme suit, par semestre ou par fraction de semestre
-civil : 
+civil :
 
 <table border="1">
-    <tbody>
-      <tr>
-        <th rowspan="2">
+  <tbody>
+    <tr>
+      <th rowspan="2">
 
-CATÉGORIE DE VÉHICULES 
+CATÉGORIE DE VÉHICULES</th>
+      <th colspan="2">
 
-</th>
-        <th colspan="2">
+POIDS TOTAL AUTORISÉ
 
-POIDS TOTAL AUTORISÉ 
+en charge ou poids total
 
-en charge ou poids total 
+roulant autorisé
 
-roulant autorisé 
-
-(en tonnes) 
+(en tonnes)
 
 </th>
-        <th colspan="2">
+      <th colspan="2">
 
-TARIFS PAR SEMESTRE 
+TARIFS PAR SEMESTRE
 
-(en euros) 
-
-</th>
-      </tr>
-      <tr>
-        <th>
-
-Egal ou supérieur à 
+(en euros)
 
 </th>
-        <th>
+    </tr>
+    <tr>
+      <th>
 
-Et inférieur à 
+Egal ou supérieur à</th>
+      <th>
 
-</th>
-        <th>
+Et inférieur à</th>
+      <th>
 
-Suspension 
+Suspension
 
-pneumatique 
+pneumatique
 
-de l'(des) essieu (x) 
+de l'(des) essieu (x)
 
-moteur (s) 
-
-</th>
-        <th>
-
-Autres systèmes 
-
-de suspension 
-
-de l'(des) essieu (x) 
-
-moteur (s) 
+moteur (s)
 
 </th>
-      </tr>
-      <tr>
-        <td align="left" colspan="5">
+      <th>
 
-I.-Véhicules automobiles porteurs 
+Autres systèmes
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+de suspension
 
-a) A deux essieux 
+de l'(des) essieu (x)
 
-</td>
-        <td align="center">
+moteur (s)
 
-12
+</th>
+    </tr>
+    <tr>
+      <td colspan="5" align="left">
 
-</td>
-        <td align="center">
+I.-Véhicules automobiles porteurs</td>
+    </tr>
+    <tr>
+      <td align="left">
 
--
+a) A deux essieux</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+12</td>
+      <td align="center">
 
-62 
+- </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+62</td>
+      <td align="center">
 
-138 
+138</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left">
+b) A trois essieux</td>
+      <td align="center">
 
-b) A trois essieux 
+12</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+- </td>
+      <td align="center">
 
-12
+112</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+174</td>
+    </tr>
+    <tr>
+      <td align="left" rowspan="2">
 
--
+c) A quatre essieux et plus</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+12</td>
+      <td align="center">
 
-112 
+27</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+74</td>
+      <td align="center">
 
-174 
+114</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" rowspan="2">
+27</td>
+      <td align="center">
 
-c) A quatre essieux et plus 
+- </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+182</td>
+      <td align="center">
 
-12 
+270</td>
+    </tr>
+    <tr>
+      <td align="left" colspan="5">
 
-</td>
-        <td align="center">
+II.-Véhicules articulés composés d'un tracteur et d'une semi-remorque</td>
+    </tr>
+    <tr>
+      <td align="left" rowspan="2">
 
-27 
+a) Semi-remorque à un essieu</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+12</td>
+      <td align="center">
 
-74 
+20</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+8</td>
+      <td align="center">
 
-114 
+16</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+20</td>
+      <td align="center">
 
-27
+- </td>
+      <td align="center">
 
-</td>
-        <td align="center">
+88</td>
+      <td align="center">
 
--
+154</td>
+    </tr>
+    <tr>
+      <td rowspan="4" align="left">
 
-</td>
-        <td align="center">
+b) Semi-remorque à deux essieux</td>
+      <td align="center">
 
-182 
+12</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+27</td>
+      <td align="center">
 
-270 
+58</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="left" colspan="5">
+86</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-II.-Véhicules articulés composés d'un tracteur et d'une semi-remorque 
+27</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td rowspan="2" align="left">
+33</td>
+      <td align="center">
 
-a) Semi-remorque à un essieu 
+168</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+234</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-12 
+33</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+39</td>
+      <td align="center">
 
-20 
+234</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+354</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-8 
+39</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+- </td>
+      <td align="center">
 
-16 
+314</td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td align="center">
+466</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="left">
 
-20
+c) Semi-remorque à trois essieux et plus</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+12</td>
+      <td align="center">
 
--
+38</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+186</td>
+      <td align="center">
 
-88 
+258</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-</td>
-        <td align="center">
+38</td>
+      <td align="center">
 
-154 
+- </td>
+      <td align="center">
 
-</td>
-      </tr>
-      <tr>
-        <td rowspan="4" align="left">
+258</td>
+      <td align="center">
 
-b) Semi-remorque à deux essieux 
+350</td>
+    </tr>
+    <tr>
+      <td align="justify">
 
-</td>
-        <td align="center">
+III.-Remorques (quel que soit le nombre d'essieux)</td>
+      <td align="center">
 
-12 
+16</td>
+      <td align="center">
 
-</td>
-        <td align="center">
+- </td>
+      <td align="center">
 
-27 
+60</td>
+      <td align="center">
 
-</td>
-        <td align="center">
-
-58 
-
-</td>
-        <td align="center">
-
-86 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-27 
-
-</td>
-        <td align="center">
-
-33 
-
-</td>
-        <td align="center">
-
-168 
-
-</td>
-        <td align="center">
-
-234 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-33 
-
-</td>
-        <td align="center">
-
-39 
-
-</td>
-        <td align="center">
-
-234 
-
-</td>
-        <td align="center">
-
-354 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-39
-
-</td>
-        <td align="center">
-
--
-
-</td>
-        <td align="center">
-
-314 
-
-</td>
-        <td align="center">
-
-466 
-
-</td>
-      </tr>
-      <tr>
-        <td align="left" rowspan="2">
-
-c) Semi-remorque à trois essieux et plus 
-
-</td>
-        <td align="center">
-
-12 
-
-</td>
-        <td align="center">
-
-38 
-
-</td>
-        <td align="center">
-
-186 
-
-</td>
-        <td align="center">
-
-258 
-
-</td>
-      </tr>
-      <tr>
-        <td align="center">
-
-38
-
-</td>
-        <td align="center">
-
--
-
-</td>
-        <td align="center">
-
-258 
-
-</td>
-        <td align="center">
-
-350 
-
-</td>
-      </tr>
-      <tr>
-        <td align="justify">
-
-III.-Remorques (quel que soit le nombre d'essieux) 
-
-</td>
-        <td align="center" valign="bottom">
-
-16
-
-</td>
-        <td align="center" valign="bottom">
-
--
-
-</td>
-        <td valign="bottom" align="center">
-
-60 
-
-</td>
-        <td align="center" valign="bottom">
-
-60 
-
-</td>
-      </tr>
-    </tbody>
-  </table>
+60</td>
+    </tr>
+  </tbody>
+</table>
 
 Les tarifs prévus pour les véhicules équipés de suspension pneumatique de l'essieu moteur sont applicables aux véhicules dont
 l'essieu moteur dispose d'une suspension reconnue équivalente selon la définition de l'annexe III de la directive 92 / 7 /
 CEE du Conseil du 10 février 1992, modifiant la directive 85 / 3 / CEE relative aux poids, aux dimensions et à certaines
-autres caractéristiques techniques de certains véhicules routiers. 
+autres caractéristiques techniques de certains véhicules routiers.
 
-2. Les tarifs de cette taxe sont réduits de 75 % pour les véhicules utilisant les systèmes mixtes rail-route. 
+2. Les tarifs de cette taxe sont réduits de 75 % pour les véhicules utilisant les systèmes mixtes rail-route.
 
 3. Si un véhicule assujetti circule seulement pendant une partie du semestre, le redevable peut solliciter une régularisation
 sur la base du tarif semestriel à proportion du temps de circulation, calculé en mois. Chaque fraction de mois est comptée
-pour un mois entier. 
+pour un mois entier.
 
-4. S'ils ne circulent pas plus de vingt-cinq jours par semestre, peuvent  payer la taxe en fonction d'un tarif forfaitaire
-semestriel les  véhicules : 
-
-a) Utilisés par les cirques ou affectés exclusivement au transport des manèges et autres matériels d'attractions ; 
-
-b) Utilisés par les centres équestres ; 
-
-c) Ou dont le certificat d'immatriculation comporte la mention “ véhicule de collection ”. 
-
-Le tarif forfaitaire est égal à 50 % du tarif semestriel.  
+4. (Abrogé)
 
 II.-Les véhicules dont le poids total en charge effectif est supérieur de plus de 5 % au poids total autorisé en charge
 maximal de la catégorie dans laquelle ils sont rangés sont assujettis au paiement d'une majoration de 25 % de la taxe qu'ils
 ont acquittée pour chaque tranche de 5 % du poids total en charge effectif du véhicule dépassant le poids total en charge
 autorisé défini ci-dessus.
-
-**Nota:**
-
-Conformément à l'article 73 II de la loi n° 2015-1786 du 29 décembre 2015, les présentes dispositions s'appliquent à la taxe
-exigible à compter du 1er juillet 2016.
 
 **Liens relatifs à cet article**
 
@@ -16043,7 +16110,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 132
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 26 (V)
 
 
 ## Chapitre VI : Droits et taxes divers.<a id=129></a>
@@ -17788,31 +17855,31 @@ _Codifié par_:
 
 ###### Article 349 bis
 
-En matière de recouvrement et de garantie des créances recouvrées par l'administration des douanes, le comptable des douanes
-peut déléguer sa signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des
-pouvoirs qu'il tient des articles 348,349 et 387 bis de la loi n° 66-1007 du 28 décembre 1966 relative à la publicité du
-privilège du Trésor en matière fiscale, des dispositions du code de commerce relatives aux difficultés des entreprises et à
-la vente du fonds de commerce, de la partie législative du code des procédures civiles d'exécution, ainsi que pour
-l'inscription des hypothèques et autres sûretés.
+En matière de garantie et de recouvrement des créances régies par le présent code, le comptable des douanes peut déléguer sa
+signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des pouvoirs qu'il
+tient des articles 348,349,349 quinquies, 349 nonies, 379 bis, 387 bis et 388 du présent code, du code des procédures civiles
+d'exécution, des dispositions du code de commerce relatives aux difficultés des entreprises et à la vente du fonds de
+commerce, ainsi que pour l'inscription des hypothèques et autres sûretés.
 
 **Nota:**
 
-L'insertion d'une virgule après la citation de l'article 387 bis fera l'objet d'un rectificatif au Journal officiel.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-1007 du 28 décembre 1966 (V)
-  - Code de commerce
-
-_Modifié par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Loi n°66-1007 du 28 décembre 1966
+  - Code de commerce
+
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
 ### Section 2 bis : Assistance internationale au recouvrement<a id=151></a>
@@ -19247,30 +19314,28 @@ _Cite_:
 
 ###### Article 387 bis
 
-Tous dépositaires et débiteurs de deniers provenant du chef des redevables et affectés au privilège visé à l'article 379-1
-ci-dessus sont tenus, sur la demande qui leur en est faite, de payer en l'acquit des redevables et sur le montant des fonds
-qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers. 
+Le recouvrement des créances de toute nature régies par le présent code peut être effectué par voie de saisie administrative
+à tiers détenteur dans les conditions prévues à l'article L. 262 du livre des procédures fiscales.
 
-Les quittances des comptables chargés du recouvrement des créances privilégiées susvisées pour les sommes légitimement dues
-leur sont allouées en compte. 
+**Nota:**
 
-Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
-sociétés pour les dettes de ces sociétés constituant une créance douanière privilégiée.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 _Cité par_:
 
   - Décret n°2015-243 du 2 mars 2015 - art. 1 (VD)
   - Code des douanes - art. 349 bis (V)
 
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
+
 _Cite_:
 
-  - Code des douanes - art. 379 (V)
+  - Code des douanes - art. 379
 
 _Codifié par_:
 
