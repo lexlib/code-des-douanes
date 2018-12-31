@@ -58,32 +58,17 @@ mégawattheures, après arrondi au mégawattheure le plus proche. La taxe est d�
 <table border="1">
   <tbody>
     <tr>
-      <th rowspan="2">
+      <th>
 
 Désignation des produits</th>
-      <th rowspan="2">
+      <th>
 
 Unité de perception</th>
       <th colspan="5">
 
-Tarif (en euros)</th>
-    </tr>
-    <tr>
-      <th>
+Tarifs (en euros)
 
-2018</th>
-      <th>
-
-2019</th>
-      <th>
-
-2020</th>
-      <th>
-
-2021</th>
-      <th>
-
-A compter de 2022</th>
+</th>
     </tr>
     <tr>
       <td align="center">
@@ -94,21 +79,9 @@ houilles, lignites et cokes destinés à être utilisés comme combustibles</td>
       <td align="left">
 
 Mégawattheure</td>
-      <td align="center">
+      <td colspan="5" align="center">
 
 14,62</td>
-      <td align="center">
-
-18,02</td>
-      <td align="center">
-
-21,43</td>
-      <td align="center">
-
-24,84</td>
-      <td align="center">
-
-28,25</td>
     </tr>
   </tbody>
 </table>
@@ -165,6 +138,9 @@ le remboursement de la taxe ou de la fraction de taxe, dans les conditions prév
 Conformément aux dispositions du II de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent
 aux opérations dont le fait générateur intervient à compter du 1er janvier 2018.
 
+Conformément à l’article 64 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux produits pour
+lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -184,15 +160,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 16 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
 
 _Cite_:
 
   - Code général des collectivités territoriales - art. L3333-2
   - Code des douanes - art. 265 C
   - Code des douanes - art. 265 nonies
-  - Code des douanes - art. 266 quinquies A
+  - Code des douanes - art. 266 quinquies A (Ab)
   - Code des douanes - art. 352
   - Code de l'environnement - art. L229-5
   - Code de l'énergie - art. L121-27
