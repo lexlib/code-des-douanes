@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-10-25
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -2594,70 +2594,68 @@ _Codifié par_:
 ###### Article 65
 
 1° Les agents des douanes ayant au moins le grade de contrôleur peuvent exiger la communication des papiers et documents de
-toute nature relatifs aux opérations intéressant leur service, quel qu'en soit le support ; 
+toute nature relatifs aux opérations intéressant leur service, quel qu'en soit le support ;
 
-a) dans les gares de chemin de fer (lettres de voiture, factures, feuilles de chargement, livres, registres, etc.) ; 
+a) dans les gares de chemin de fer (lettres de voiture, factures, feuilles de chargement, livres, registres, etc.) ;
 
 b) dans les locaux des compagnies de navigation maritimes et fluviales et chez les armateurs, consignataires et courtiers
-maritimes (manifestes de fret, connaissements, billets de bord, avis d'expédition, ordres de livraison, etc.) ; 
+maritimes (manifestes de fret, connaissements, billets de bord, avis d'expédition, ordres de livraison, etc.) ;
 
 c) dans les locaux des compagnies de navigation aérienne (bulletins d'expédition, notes et bordereaux de livraison, registres
-de magasins, etc.) ; 
+de magasins, etc.) ;
 
 d) dans les locaux des entreprises de transport par route (registres de prise en charge, carnets d'enregistrement des colis,
-carnets de livraison, feuilles de route, lettres de voitures, bordereaux d'expédition, etc.) ; 
+carnets de livraison, feuilles de route, lettres de voitures, bordereaux d'expédition, etc.) ;
 
 e) dans les locaux des agences, y compris celles dites de " transports rapides ", qui se chargent de la réception, du
 groupage, de l'expédition par tous modes de locomotion (fer, route, eau, air) et de la livraison de tous colis (bordereaux
-détaillés d'expéditions collectives, récépissés, carnets de livraison, etc.) ; 
+détaillés d'expéditions collectives, récépissés, carnets de livraison, etc.) ;
 
-f) chez les commissionnaires ou transitaires ; 
+f) chez les commissionnaires ou transitaires ;
 
 g) chez les concessionnaires d'entrepôts, docks et magasins généraux (registres et dossiers de dépôt, carnets de warrants et
 de nantissements, registres d'entrée et de sortie des marchandises, situation des marchandises, comptabilité matières,
-etc.) ; 
+etc.) ;
 
-h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ; 
+h) chez les destinataires ou les expéditeurs réels des marchandises déclarées en douane ;
 
-i) chez les opérateurs de télécommunications et les prestataires mentionnés aux 1 et 2 du I de l'article 6 de la loi n°
-2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, pour les données conservées et traitées par ces
-derniers, dans le cadre de l'article L. 34-1 du code des postes et télécommunications ; 
+i) (abrogé)
 
 j) et, en général, chez toutes les personnes physiques ou morales directement ou indirectement intéressées à des opérations
 régulières ou irrégulières relevant de la compétence du service des douanes.
 
-Le droit de communication s'exerce sur place ou par correspondance, y  compris électronique, et quel que soit le support
-utilisé pour la  conservation des documents. 
+Le droit de communication s'exerce sur place ou par correspondance, y compris électronique, et quel que soit le support
+utilisé pour la conservation des documents.
 
 2° Les agents des douanes de catégorie C peuvent exercer le droit de communication prévu au 1° lorsqu'ils agissent sur ordre
 écrit d'un agent des douanes ayant au moins le grade d'inspecteur. Cet ordre doit être présenté aux personnes envers
-lesquelles le droit de communication est mis en oeuvre. 
+lesquelles le droit de communication est mis en oeuvre.
 
 3° Les divers documents visés au 1° du présent article doivent être conservés par les intéressés pendant un délai de trois
 ans, à compter de la date d'envoi des colis, pour les expéditeurs, et à compter de la date de leur réception, pour les
-destinataires. 
+destinataires.
 
 4° a) Les bénéficiaires ou redevables visés à l'article 65 A ci-dessous doivent conserver les documents relatifs à leur
 activité professionnelle durant 3 années civiles à compter de la fin de l'année civile de l'établissement de ces documents.
-Ils doivent en délivrer des extraits ou des copies à la demande des agents chargés du contrôle. 
+Ils doivent en délivrer des extraits ou des copies à la demande des agents chargés du contrôle.
 
 b) Par documents, on entend l'ensemble des livres, registres, notes et pièces justificatives (comptabilité, registres,
 factures, correspondances, copies de lettres, etc.) relatives à l'activité professionnelle de l'entreprise, quel qu'en soit
-le support. 
+le support.
 
 5° Au cours des contrôles et des enquêtes opérés auprès des personnes ou sociétés visées au 1° du présent article, les agents
 des douanes désignés par ce même paragraphe peuvent prendre copie, quel qu'en soit le support, ou procéder à la saisie des
 documents de toute nature (comptabilité, factures, copies de lettres, carnets de chèques, traites, comptes de banque, etc.)
-propres à faciliter l'accomplissement de leur mission. 
+propres à faciliter l'accomplissement de leur mission.
 
 6° L'administration des douanes est autorisée, sous réserve de réciprocité, à fournir aux autorités qualifiées des pays
 étrangers tous renseignements, certificats, procès-verbaux et autres documents susceptibles d'établir la violation des lois
-et règlements applicables à l'entrée ou à la sortie de leur territoire, quel qu'en soit le support. 
+et règlements applicables à l'entrée ou à la sortie de leur territoire, quel qu'en soit le support.
 
 7° Pour l'application des dispositions relatives à l'assistance mutuelle entre les autorités administratives des Etats
 membres de l'Union européenne en matière de réglementation douanière ou agricole, les agents des douanes sont autorisés à
 mettre en oeuvre les dispositions du présent article pour le contrôle des opérations douanières ou agricoles réalisées dans
-les autres Etats membres. 
+les autres Etats membres.
 
 8° (Abrogé)
 
@@ -2705,7 +2703,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 21 (V)
+  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
 
 _Anciens textes_:
 
@@ -2755,6 +2753,47 @@ _Cité par_:
 
   - Code des douanes - art. 416 bis A (V)
   - Code des douanes - art. 416 bis B (V)
+
+
+###### Article 65 quinquies
+
+Dans le but de constater les délits mentionnés aux articles 414, 415 et 459, d'en rassembler les preuves et d'en rechercher
+les auteurs, les complices ainsi que ceux qui y ont participé comme intéressés au sens de l'article 399, les agents des
+douanes ayant au moins le grade de contrôleur et spécialement habilités par le directeur du service auquel ils sont affectés
+peuvent se faire communiquer les données conservées et traitées par les opérateurs de communications électroniques dans le
+cadre de l'article L. 34-1 du code des postes et des communications électroniques ainsi que par les prestataires mentionnés
+aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
+
+La mise en œuvre du droit de communication prévu au premier alinéa du présent article est préalablement autorisée par le
+procureur de la République près le tribunal de grande instance du lieu de la direction des douanes dont dépend le service
+chargé de la procédure.
+
+L'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la
+procédure.
+
+La communication des données mentionnées au premier alinéa fait l'objet d'un procès-verbal de constat, qui est versé au
+dossier de la procédure. Une copie de ce procès-verbal est transmise au procureur de la République qui a autorisé la mise en
+œuvre du droit de communication ainsi qu'aux opérateurs et prestataires mentionnés au même premier alinéa, au plus tard dans
+les cinq jours suivant son établissement.
+
+Les données communiquées sont détruites à l'extinction de l'action pour l'application des sanctions fiscales.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2004-575 du 21 juin 2004 - art. 6
+  - Code des postes et des communications électroniques - art. L34-1
+
+_Créé par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
+
+_Cité par_:
+
+  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
 
 
 ###### Article 65 ter
@@ -12628,18 +12667,11 @@ et autorisée en vertu d'une réglementation d'effet équivalent :</td>
     <tr>
       <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité ;</td>
+A.- (Supprimé)</td>
       <td align="left">
-
-tonne</td>
-      <td align="center">
-
-32</td>
-      <td align="center">
-
-33</td>
-      <td align="left">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
@@ -12796,7 +12828,7 @@ Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tari
 applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
 
 Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
-accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets
+accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2020 et, pour les déchets
 réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la
 taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2020.
 
@@ -12842,13 +12874,8 @@ installation située dans un autre Etat et autorisée en vertu d'une réglementa
     <tr>
       <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ;
-
-- Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
-accrédité ;
-
-</td>
+A.-Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
+accrédité ;</td>
       <td align="center">
 
 tonne</td>
@@ -12939,8 +12966,8 @@ tonne</td>
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
 s'applique à l'assiette concernée ;
 
-d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
-date d'obtention de la certification ISO 14001 ou ISO 50001 ;
+d) Le tarif réduit mentionné au A du tableau du deuxième alinéa du b s'applique aux tonnages de déchets réceptionnés à
+compter de la date d'obtention de la certification ISO 50001 ;
 
 e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés
 en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19
@@ -13022,7 +13049,7 @@ dans un autre Etat.
 Tonne
 
 </td>
-      <td colspan="5" align="center">
+      <td align="center" colspan="5">
 
 25,57
 
@@ -13087,12 +13114,12 @@ Tonne
 - oxydes d'azote et autres composés oxygénés de l'azote, à l'exception du protoxyde d'azote
 
 </td>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Tonne
 
 </td>
-      <td align="left" colspan="5">
+      <td colspan="5" align="left">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
@@ -13104,7 +13131,7 @@ Tonne
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 
 </td>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Tonne
 
@@ -13126,7 +13153,7 @@ Tonne
 Tonne
 
 </td>
-      <td colspan="5" align="left">
+      <td align="left" colspan="5">
 
 259,86
 
@@ -13368,12 +13395,12 @@ Tonne
 - dont la teneur en phosphate est supérieure à 30 % du poids
 
 </td>
-      <td align="left" colspan="3">
+      <td colspan="3" align="left">
 
 Tonne
 
 </td>
-      <td colspan="5" align="left">
+      <td align="left" colspan="5">
 
 283,65 (291,88 en 2009)
 
@@ -13439,7 +13466,9 @@ est fixé à 5 tonnes par an.
 
 **Nota:**
 
-
+Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code
+des douanes conformes à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -13486,12 +13515,12 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
   - Loi n°2017-1775 du 28 décembre 2017 - art. 62
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
 
 _Cite_:
 
-  - Code des douanes - art. 266 sexies (V)
+  - Code des douanes - art. 266 sexies (M)
 
 
 ###### Article 266 octies
@@ -15334,7 +15363,7 @@ de 10 %.
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
 
 4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement
-opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 1 000 euros.
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -15348,7 +15377,6 @@ sanctions prévues en matière de droits de douane.
 _Modifié par_:
 
   - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 
 ###### Article 284 quinquies
@@ -17628,31 +17656,31 @@ _Codifié par_:
 
 ###### Article 349 bis
 
-En matière de recouvrement et de garantie des créances recouvrées par l'administration des douanes, le comptable des douanes
-peut déléguer sa signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des
-pouvoirs qu'il tient des articles 348,349 et 387 bis de la loi n° 66-1007 du 28 décembre 1966 relative à la publicité du
-privilège du Trésor en matière fiscale, des dispositions du code de commerce relatives aux difficultés des entreprises et à
-la vente du fonds de commerce, de la partie législative du code des procédures civiles d'exécution, ainsi que pour
-l'inscription des hypothèques et autres sûretés.
+En matière de garantie et de recouvrement des créances régies par le présent code, le comptable des douanes peut déléguer sa
+signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des pouvoirs qu'il
+tient des articles 348,349,349 quinquies, 349 nonies, 379 bis, 387 bis et 388 du présent code, du code des procédures civiles
+d'exécution, des dispositions du code de commerce relatives aux difficultés des entreprises et à la vente du fonds de
+commerce, ainsi que pour l'inscription des hypothèques et autres sûretés.
 
 **Nota:**
 
-L'insertion d'une virgule après la citation de l'article 387 bis fera l'objet d'un rectificatif au Journal officiel.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-1007 du 28 décembre 1966 (V)
-  - Code de commerce
-
-_Modifié par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Loi n°66-1007 du 28 décembre 1966
+  - Code de commerce
+
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
 ### Section 2 bis : Assistance internationale au recouvrement<a id=151></a>
@@ -19071,30 +19099,28 @@ _Codifié par_:
 
 ###### Article 387 bis
 
-Tous dépositaires et débiteurs de deniers provenant du chef des redevables et affectés au privilège visé à l'article 379-1
-ci-dessus sont tenus, sur la demande qui leur en est faite, de payer en l'acquit des redevables et sur le montant des fonds
-qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers. 
+Le recouvrement des créances de toute nature régies par le présent code peut être effectué par voie de saisie administrative
+à tiers détenteur dans les conditions prévues à l'article L. 262 du livre des procédures fiscales.
 
-Les quittances des comptables chargés du recouvrement des créances privilégiées susvisées pour les sommes légitimement dues
-leur sont allouées en compte. 
+**Nota:**
 
-Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
-sociétés pour les dettes de ces sociétés constituant une créance douanière privilégiée.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 _Cité par_:
 
   - Décret n°2015-243 du 2 mars 2015 - art. 1 (V)
   - Code des douanes - art. 349 bis (V)
 
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
+
 _Cite_:
 
-  - Code des douanes - art. 379 (V)
+  - Code des douanes - art. 379
 
 _Codifié par_:
 
