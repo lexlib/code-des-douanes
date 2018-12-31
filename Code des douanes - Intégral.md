@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -12543,18 +12543,11 @@ et autorisée en vertu d'une réglementation d'effet équivalent :</td>
     <tr>
       <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité ;</td>
+A.- (Supprimé)</td>
       <td align="left">
-
-tonne</td>
-      <td align="center">
-
-32</td>
-      <td align="center">
-
-33</td>
-      <td align="left">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="left">
       </td><td align="left">
       </td><td align="left">
       </td><td align="left">
@@ -12711,7 +12704,7 @@ Sur le territoire de la Guadeloupe, de la Martinique et de la Réunion, les tari
 applicables à compter de 2016 sont multipliés par un coefficient égal à 0,75.
 
 Sur le territoire de la Guyane, pour les déchets réceptionnés dans une installation de stockage de déchets non dangereux
-accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2018 et, pour les déchets
+accessible par voie terrestre, le tarif de la taxe est fixé à 10 € par tonne jusqu'au 31 décembre 2020 et, pour les déchets
 réceptionnés dans une installation de stockage de déchets non dangereux non accessible par voie terrestre, le tarif de la
 taxe est fixé à 3 € par tonne jusqu'au 31 décembre 2020.
 
@@ -12757,13 +12750,8 @@ installation située dans un autre Etat et autorisée en vertu d'une réglementa
     <tr>
       <td>
 
-A.-Dont le système de management environnemental a été certifié conforme à la norme internationale ISO 14001 par un organisme
-accrédité, pour des déchets réceptionnés au plus tard le 31 décembre 2018 ;
-
-- Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
-accrédité ;
-
-</td>
+A.-Dont le système de management de l'énergie a été certifié conforme à la norme internationale ISO 50001 par un organisme
+accrédité ;</td>
       <td align="center">
 
 tonne</td>
@@ -12854,8 +12842,8 @@ tonne</td>
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
 s'applique à l'assiette concernée ;
 
-d) Les tarifs mentionnés au A des tableaux du a et du b s'appliquent aux tonnages de déchets réceptionnés à compter de la
-date d'obtention de la certification ISO 14001 ou ISO 50001 ;
+d) Le tarif réduit mentionné au A du tableau du deuxième alinéa du b s'applique aux tonnages de déchets réceptionnés à
+compter de la date d'obtention de la certification ISO 50001 ;
 
 e) Le tarif mentionné au B du tableau du a s'applique aux tonnages de déchets susceptibles de produire du biogaz, mentionnés
 en tant que tels sur le registre prévu à l'article 35 de la directive 2008/98/CE du Parlement européen et du Conseil du 19
@@ -12884,7 +12872,7 @@ susceptibles de produire du biogaz pour les besoins de l'application des tarifs 
 
 B.-Pour les autres composantes de la taxe mentionnée à l'article 266 sexies, les tarifs sont fixés comme suit :
 
-<table border="1" cellpadding="0">
+<table cellpadding="0" border="1">
   <tbody>
     <tr>
       <td>
@@ -12937,7 +12925,7 @@ dans un autre Etat.
 Tonne
 
 </td>
-      <td align="center" colspan="5">
+      <td colspan="5" align="center">
 
 25,57
 
@@ -13007,7 +12995,7 @@ Tonne
 Tonne
 
 </td>
-      <td colspan="5" align="left">
+      <td align="left" colspan="5">
 
 51,89 (53,39 en 2009, 107,2 en 2011 et 160,8 à compter du 1er janvier 2012)
 
@@ -13019,7 +13007,7 @@ Tonne
 hydrocarbures non méthaniques, solvants et autres composés organiques volatils
 
 </td>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Tonne
 
@@ -13041,7 +13029,7 @@ Tonne
 Tonne
 
 </td>
-      <td align="left" colspan="5">
+      <td colspan="5" align="left">
 
 259,86
 
@@ -13283,12 +13271,12 @@ Tonne
 - dont la teneur en phosphate est supérieure à 30 % du poids
 
 </td>
-      <td colspan="3" align="left">
+      <td align="left" colspan="3">
 
 Tonne
 
 </td>
-      <td colspan="5" align="left">
+      <td align="left" colspan="5">
 
 283,65 (291,88 en 2009)
 
@@ -13354,7 +13342,9 @@ est fixé à 5 tonnes par an.
 
 **Nota:**
 
-
+Dans sa décision n° 2015-482 QPC du 17 septembre 2015 (NOR : CSCX1522055S), le Conseil constitutionnel a déclaré, sous la
+réserve énoncée au considérant 7, les dispositions des A, B et C du tableau du a du A du 1 de l'article 266 nonies du code
+des douanes conformes à la Constitution.
 
 **Liens relatifs à cet article**
 
@@ -13401,12 +13391,12 @@ _Cité par_:
 
 _Modifié par_:
 
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 52 (V)
   - Loi n°2017-1775 du 28 décembre 2017 - art. 62
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 18
 
 _Cite_:
 
-  - Code des douanes - art. 266 sexies (V)
+  - Code des douanes - art. 266 sexies (M)
 
 
 ###### Article 266 octies
@@ -15240,7 +15230,7 @@ de 10 %.
 Cette majoration n'est mise en recouvrement que lorsque son montant excède 8 euros.
 
 4. Pour les véhicules utilisés à des fins professionnelles, le paiement de la taxe est effectué par télérèglement directement
-opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France, lorsque son montant excède 1 000 euros.
+opéré sur le compte du Trésor ouvert dans les écritures de la Banque de France.
 
 5. La méconnaissance de l'obligation prévue au 4 entraine l'application d'une majoration de 0,2 % du montant des sommes dont
 le versement a été effectué selon un autre moyen de paiement. Cette majoration est recouvrée selon les règles, garanties et
@@ -15254,7 +15244,6 @@ sanctions prévues en matière de droits de douane.
 _Modifié par_:
 
   - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
 
 
 ###### Article 284 quinquies
@@ -17533,31 +17522,31 @@ _Codifié par_:
 
 ###### Article 349 bis
 
-En matière de recouvrement et de garantie des créances recouvrées par l'administration des douanes, le comptable des douanes
-peut déléguer sa signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des
-pouvoirs qu'il tient des articles 348,349 et 387 bis de la loi n° 66-1007 du 28 décembre 1966 relative à la publicité du
-privilège du Trésor en matière fiscale, des dispositions du code de commerce relatives aux difficultés des entreprises et à
-la vente du fonds de commerce, de la partie législative du code des procédures civiles d'exécution, ainsi que pour
-l'inscription des hypothèques et autres sûretés.
+En matière de garantie et de recouvrement des créances régies par le présent code, le comptable des douanes peut déléguer sa
+signature aux agents placés sous son autorité, ayant au moins le grade de contrôleur, pour l'exercice des pouvoirs qu'il
+tient des articles 348,349,349 quinquies, 349 nonies, 379 bis, 387 bis et 388 du présent code, du code des procédures civiles
+d'exécution, des dispositions du code de commerce relatives aux difficultés des entreprises et à la vente du fonds de
+commerce, ainsi que pour l'inscription des hypothèques et autres sûretés.
 
 **Nota:**
 
-L'insertion d'une virgule après la citation de l'article 387 bis fera l'objet d'un rectificatif au Journal officiel.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°66-1007 du 28 décembre 1966 (V)
-  - Code de commerce
-
-_Modifié par_:
-
-  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Codifié par_:
 
   - Décret n°48-1985 1948-12-08
+
+_Cite_:
+
+  - Loi n°66-1007 du 28 décembre 1966
+  - Code de commerce
+
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
 
 
 ### Section 2 bis : Assistance internationale au recouvrement<a id=151></a>
@@ -18976,30 +18965,28 @@ _Codifié par_:
 
 ###### Article 387 bis
 
-Tous dépositaires et débiteurs de deniers provenant du chef des redevables et affectés au privilège visé à l'article 379-1
-ci-dessus sont tenus, sur la demande qui leur en est faite, de payer en l'acquit des redevables et sur le montant des fonds
-qu'ils doivent ou qui sont entre leurs mains jusqu'à concurrence de tout ou partie des sommes dues par ces derniers. 
+Le recouvrement des créances de toute nature régies par le présent code peut être effectué par voie de saisie administrative
+à tiers détenteur dans les conditions prévues à l'article L. 262 du livre des procédures fiscales.
 
-Les quittances des comptables chargés du recouvrement des créances privilégiées susvisées pour les sommes légitimement dues
-leur sont allouées en compte. 
+**Nota:**
 
-Les dispositions du présent article s'appliquent également aux gérants, administrateurs, directeurs ou liquidateurs des
-sociétés pour les dettes de ces sociétés constituant une créance douanière privilégiée.
+Aux termes de l'article 73 XVII de la loi n° 2017-1775 du 28 décembre 2017 de finances rectificative pour 2017, les présentes
+dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2019.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 _Cité par_:
 
   - Décret n°2015-243 du 2 mars 2015 - art. 1 (V)
   - Code des douanes - art. 349 bis (V)
 
+_Modifié par_:
+
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 73 (V)
+
 _Cite_:
 
-  - Code des douanes - art. 379 (V)
+  - Code des douanes - art. 379
 
 _Codifié par_:
 
