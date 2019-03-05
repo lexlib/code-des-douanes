@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-03-06
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -6261,8 +6261,8 @@ _Créé par_:
 ###### Article 158 A
 
 1. L'entrepôt dans lequel les produits pétroliers mentionnés à l'article 265 sont reçus, détenus ou expédiés en suspension
-des taxes intérieures de consommation prévues aux articles 265 ou 266 quater est dénommé entrepôt fiscal de stockage de
-produits pétroliers. 
+de la taxe intérieure de consommation sur les produits énergétiques prévues aux articles 265 ou 266 quater est dénommé
+entrepôt fiscal de stockage de produits pétroliers. 
 
 2. L'entrepôt fiscal de stockage de produits pétroliers peut également contenir des produits pétroliers placés sous le régime
 de l'entrepôt douanier. 
@@ -6287,11 +6287,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+  - Arrêté du 19 février 2019 - art. 1
 
 _Cite_:
 
-  - Code des douanes - art. 265 (V)
+  - Code des douanes - art. 265
   - Code des douanes - art. 266 quater
 
 
@@ -6548,7 +6548,8 @@ de l'article 165 en suspension des taxes dont elles sont passibles.
 Cette suspension est réservée, dans les usines exercées visées au a du 1 de l'article 165, aux produits qui y sont extraits. 
 
 1 bis. Les huiles minérales visées au tableau C de l'article 265 sont admises dans les usines exercées visées au b du 1 et au
-2 de l'article 165 en suspension des taxes intérieures de consommation dont elles sont passibles. 
+2 de l'article 165 en suspension    de la taxe intérieure de consommation sur les produits énergétiques dont elles sont
+passibles. 
 
 2. (Abrogé)
 
@@ -6560,12 +6561,12 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2007-1824 du 25 décembre 2007 - art. 62
+  - Arrêté du 19 février 2019 - art. 1
 
 _Cite_:
 
-  - Code des douanes - art. 165 (V)
-  - Code des douanes - art. 265 (V)
+  - Code des douanes - art. 165
+  - Code des douanes - art. 265
 
 
 #### Paragraphe 4 : Dispositions communes aux usines exercées pétrolières et pétroléochimiques.<a id=82></a>
@@ -11441,53 +11442,47 @@ _Cite_:
 
 ###### Article 265 bis
 
-1. Les produits énergétiques mentionnés à l'article 265 sont admis en exonération des taxes intérieures de consommation
-lorsqu'ils sont destinés à être utilisés :
+1. Les produits énergétiques mentionnés à l'article 265 sont admis en exonération    de la taxe intérieure de consommation
+sur les produits énergétiques lorsqu'ils sont destinés à être utilisés : 
 
-a) autrement que comme carburant ou combustible ;
+a) autrement que comme carburant ou combustible ; 
 
 b) Comme carburant ou combustible à bord des aéronefs utilisés par leur propriétaire ou la personne qui en a la disposition à
 la suite d'une location, d'un affrètement ou à tout autre titre à des fins commerciales, notamment pour les besoins
 d'opérations de transport de personnes, de transport de marchandises ainsi que pour la réalisation de prestations de services
-à titre onéreux. L'exonération s'applique également aux aéronefs utilisés pour les besoins des autorités publiques ;
+à titre onéreux. L'exonération s'applique également aux aéronefs utilisés pour les besoins des autorités publiques ; 
 
 c) Comme carburant ou combustible à bord des navires de pêche, des navires utilisés par leur propriétaire ou la personne qui
 en a la disposition à la suite d'une location, d'un affrètement ou à tout autre titre à des fins commerciales, notamment pour
 les besoins d'opérations de transport de personnes, de transport de marchandises ainsi que pour la réalisation de prestations
 de services à titre onéreux. L'exonération s'applique également aux navires utilisés pour les besoins des autorités
-publiques ;
+publiques ; 
 
 d) Comme carburant ou combustible par le ministère de la défense. Cette exonération est accordée par voie de remboursement
 pour les produits consommés du 1er janvier 2006 au 1er janvier 2009. Toutefois, cette exonération ne s'applique pas aux
-produits pétroliers utilisés dans le cadre des actions n
-  <sup>os</sup> 01, 02, 03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission interministérielle " Sécurité
-" ;
+produits pétroliers utilisés dans le cadre des actions 
+  <sup>nos</sup> 01,02,03 et 04 du programme n° 152 " Gendarmerie nationale " de la mission interministérielle " Sécurité
+" ; 
 
-e) Comme carburant ou combustible pour le transport de marchandises sur les voies navigables intérieures ;
+e) Comme carburant ou combustible pour le transport de marchandises sur les voies navigables intérieures ; 
 
 f) Comme carburant à bord des véhicules porteurs de la catégorie N3 dont le poids total autorisé en charge ne dépasse pas 26
 tonnes et utilisés pour les besoins d'opérations de collecte du lait dans les exploitations agricoles situées en zone de
-montagne telle que définie par décret.
+montagne telle que définie par décret. 
 
 2. Les carburants destinés aux moteurs d'avions et de navires sont exonérés de la taxe intérieure de consommation lorsqu'ils
 sont utilisés dans le cadre de la construction, du développement, de la mise au point, des essais ou de l'entretien des
-aéronefs et navires et de leurs moteurs.
+aéronefs et navires et de leurs moteurs. 
 
-3. Les produits mentionnés au 1 sont également exonérés lorsqu'ils sont utilisés :
+3. Les produits mentionnés au 1 sont également exonérés lorsqu'ils sont utilisés : 
 
 a) Pour la production d'électricité, à l'exclusion des produits utilisés dans des installations mentionnées à l'article 266
 quinquies A et des produits utilisés pour leurs besoins par les petits producteurs d'électricité au sens du 4° du 5 de
-l'article 266 quinquies C ;
+l'article 266 quinquies C ; 
 
-b) Pour les besoins de l'extraction et de la production de gaz naturel.
+b) Pour les besoins de l'extraction et de la production de gaz naturel. 
 
 Les modalités d'application des exonérations visées ci-dessus sont fixées par arrêté du ministre chargé du budget.
-
-**Nota:**
-
-Conformément aux dispositions du IV de l'article 7 de la loi n° 2017-227 du 24 février 2017, les dispositions de l'article
-265 bis tel qu'il résulte des dispositions du III dudit article 7 s'appliquent à compter du premier jour du trimestre civil
-suivant la promulgation de ladite loi.
 
 **Liens relatifs à cet article**
 
@@ -11527,7 +11522,7 @@ _Cité par_:
   - Arrêté du 25 juin 2008 - art. 11 (V)
   - Arrêté du 25 juin 2008 - art. 2 (V)
   - Arrêté du 25 juin 2008 - art. 5 (V)
-  - Arrêté du 25 juin 2008 - art. 8 (M)
+  - Arrêté du 25 juin 2008 - art. 8 (V)
   - Décret n°2009-805 du 26 juin 2009 - art. 1 (V)
   - Loi n°2010-1657 du 29 décembre 2010 - art. 30
   - Arrêté du 23 février 2012 - art. 1 (V)
@@ -11552,8 +11547,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (V)
-  - Loi n°2017-1837 du 30 décembre 2017 - art. 17
+  - Arrêté du 19 février 2019 - art. 1
 
 _Cite_:
 
@@ -14978,7 +14972,7 @@ _Cite_:
 
 ###### Article 266 sexies
 
-I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à
@@ -15028,7 +15022,7 @@ a ;
 
 10. (Abrogé)
 
-II. - La taxe ne s'applique pas :
+II.-La taxe ne s'applique pas :
 
 1. Aux installations de traitement thermique de déchets dangereux exclusivement affectées à la valorisation comme matière par
 incorporation des déchets dans un processus de production ou tout autre procédé aboutissant à la vente de matériaux ;
@@ -15060,8 +15054,8 @@ thermique ;
 b) Ces résidus constituent des déchets non dangereux qu'il n'est pas possible techniquement de valoriser. Un décret précise
 les éléments caractérisant cette impossibilité technique ;
 
-1 nonies. Aux réceptions de déchets relevant du champ d'application de l'une des taxes intérieures de consommation prévues
-respectivement aux articles 265,266 quater, 266 quinquies et 266 quinquies B ;
+1 nonies. Aux réceptions de déchets relevant du champ d'application de la taxe intérieure de consommation sur les produits
+énergétiques prévue respectivement aux articles 265, 266 quater, 266 quinquies et 266 quinquies B ;
 
 1 decies. Aux réceptions, autres que celles relevant du 1 nonies du présent II, d'hydrocarbures faisant l'objet d'un
 traitement thermique sans faire l'objet d'une combustion en vue de leur valorisation ;
@@ -15109,10 +15103,10 @@ du label écologique communautaire aux lubrifiants ;
 
 7. (Abrogé).
 
-III. - (Abrogé).
+III.-(Abrogé).
 
-IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre
-V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
+IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V
+du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
 aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses
 limites de capacités, annuelles ou totales.
 
@@ -15172,7 +15166,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (VT)
-  - Code des douanes - art. 266 nonies (V)
+  - Code des douanes - art. 266 nonies (M)
   - Code des douanes - art. 266 nonies A (VD)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
@@ -15205,7 +15199,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 24 (V)
+  - Arrêté du 19 février 2019 - art. 1
 
 
 ###### Article 266 undecies
@@ -15293,15 +15287,15 @@ _Cite_:
 
 ###### Article 267
 
-1. Les taxes intérieures de consommation et la taxe spéciale de consommation respectivement mentionnées aux articles  265,
-266 quater, 266 quinquies, 266 quinquies B et 266 quinquies C  sont déclarées, contrôlées et recouvrées selon les règles,
+1. Les taxes intérieures de consommation et la taxe spéciale de consommation respectivement mentionnées aux articles 265,266
+quater, 266 quinquies, 266 quinquies B et 266 quinquies C sont déclarées, contrôlées et recouvrées selon les règles,
 garanties, privilèges et sanctions prévus par le présent code. Les infractions sont recherchées, constatées et réprimées, les
 poursuites sont effectuées et les instances sont instruites et jugées comme en matière de douane par les tribunaux compétents
-en cette matière.
+en cette matière. 
 
-Sous réserve des articles 266 quinquies, 266 quinquies B et 266 quinquies C, le fait générateur et l'exigibilité des taxes
-intérieures de consommation et de la taxe spéciale de consommation mentionnées au premier alinéa du présent 1 interviennent
-dans les cas et conditions prévus aux articles 158 quinquies, 158 unvicies et 267 bis.
+Sous réserve des articles 266 quinquies, 266 quinquies B et 266 quinquies C, le fait générateur et l'exigibilité    de la
+taxe intérieure de consommation sur les produits énergétiques et de la taxe spéciale de consommation mentionnées au premier
+alinéa du présent 1 interviennent dans les cas et conditions prévus aux articles 158 quinquies, 158 unvicies et 267 bis. 
 
 2. Le service des douanes est chargé, dans tous les cas, de l'assiette, de la liquidation et du recouvrement des taxes
 mentionnées au 1.
@@ -15333,7 +15327,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 59
+  - Arrêté du 19 février 2019 - art. 1
 
 _Cite_:
 
