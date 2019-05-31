@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2019-03-25
+Version Consolidée au 2019-06-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -3329,13 +3329,18 @@ _Cite_:
 ###### Article 67 bis-2
 
 Si les nécessités de l'enquête douanière relative à la recherche et à la constatation d'un délit douanier puni d'une peine
-d'emprisonnement d'une durée égale ou supérieure à cinq ans l'exigent, tout moyen technique destiné à la localisation en
+d'emprisonnement d'une durée égale ou supérieure à trois ans l'exigent, tout moyen technique destiné à la localisation en
 temps réel, sur l'ensemble du territoire national, d'une personne, à l'insu de celle-ci, d'un véhicule ou de tout autre
 objet, sans le consentement de son propriétaire ou de son possesseur, peut être mis en place ou prescrit par les agents des
 douanes habilités par le ministre chargé des douanes dans des conditions fixées par décret, sur autorisation, dans les
 conditions et selon les modalités prévues au chapitre V du titre IV du livre Ier du code de procédure pénale, du procureur de
 la République près le tribunal de grande instance dans le ressort duquel la mise en place du moyen technique est envisagée ou
 du juge des libertés et de la détention de ce tribunal.
+
+**Nota:**
+
+Conformément à l’article 109, XIII de la loi n° 2019-222 du 23 mars 2019, ces dispositions entrent en vigueur le premier jour
+du troisième mois suivant la publication de la présente loi.
 
 **Liens relatifs à cet article**
 
@@ -3346,9 +3351,9 @@ _Cité par_:
   - Arrêté du 22 mai 2018 - art. 4 (V)
   - Code de procédure pénale - art. 230-45 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-372 du 28 mars 2014 - art. 2
+  - Loi n°2019-222 du 23 mars 2019 - art. 44 (V)
 
 
 ###### Article 67 bis-3
@@ -3483,32 +3488,34 @@ _Cite_:
 
 A l'occasion des contrôles qui relèvent de leurs attributions, les agents des douanes, lorsqu'ils ont procédé à la
 consultation des traitements de données à caractère personnel relatifs aux individus, aux objets ou aux véhicules signalés
-régis par l'article 26 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, peuvent,
+régis par l'article 31 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, peuvent,
 aux fins de mise à disposition d'un officier de police judiciaire, procéder à la retenue provisoire des personnes qui font
-l'objet d'un signalement ou qui sont détentrices d'un objet signalé. 
+l'objet d'un signalement ou qui sont détentrices d'un objet signalé.
 
 Les agents des douanes informent sans délai le procureur de la République de la retenue provisoire. Au cours de la retenue
 provisoire, la personne est conduite devant l'officier de police judiciaire territorialement compétent ou maintenue à sa
 disposition. La durée de la retenue provisoire est limitée au temps strictement nécessaire à l'accomplissement de ces
 diligences, sans pouvoir excéder trois heures à compter de la demande de l'officier de police judiciaire. A l'expiration de
 ce délai, la personne est laissée libre si elle n'a pu être remise à l'officier de police judiciaire territorialement
-compétent. 
+compétent.
 
 Lorsque la personne retenue est placée en garde à vue au terme de la retenue provisoire, la durée de la retenue provisoire
-s'impute sur celle de la garde à vue. 
+s'impute sur celle de la garde à vue.
 
 Lorsque la personne retenue fait l'objet par ailleurs d'une retenue douanière dans les conditions prévues aux articles 323-1
-à 323-10 du présent code, la durée de la retenue provisoire s'impute sur celle de la retenue douanière. 
+à 323-10 du présent code, la durée de la retenue provisoire s'impute sur celle de la retenue douanière.
 
 Les agents des douanes mentionnent, par procès-verbal de constat, dont un double est remis à l'officier de police judiciaire,
 le jour et l'heure du début et de la fin de la retenue provisoire ; ces mentions figurent également sur le registre mentionné
 à l'article 323-8.
 
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cite_:
 
@@ -3518,7 +3525,11 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2011-392 du 14 avril 2011 - art. 19
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 6
+
+_Codifié par_:
+
+  - Décret n°48-1985 1948-12-08
 
 
 ### Section 9 : Contrôle des titres<a id=45></a>
@@ -3685,49 +3696,55 @@ I. ― Les entreprises de fret express, exerçant les activités mentionnées au
 2454/93 de la Commission, du 2 juillet 1993, fixant certaines dispositions d'application du règlement (CEE) n° 2913/92 du
 Conseil établissant le code des douanes communautaires, et les prestataires de services postaux transmettent à la direction
 générale des douanes et droits indirects les données dont ils disposent relatives à l'identification des marchandises et
-objets acheminés ainsi que de leurs moyens de transports. 
+objets acheminés ainsi que de leurs moyens de transports.
 
-Sont exclues de la transmission mentionnée au premier alinéa : 
+Sont exclues de la transmission mentionnée au premier alinéa :
 
-1° Les données mentionnées au I de l'article 8 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers
-et aux libertés ; 
+1° Les données mentionnées au I de l'article 6 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers
+et aux libertés ;
 
 2° Les données relatives aux marchandises faisant l'objet d'importations en provenance d'Etats non membres de l'Union
-européenne ou d'exportations à destination de ces mêmes Etats. 
+européenne ou d'exportations à destination de ces mêmes Etats.
 
-Cette transmission ne peut, en aucun cas, porter atteinte au secret des correspondances. 
+Cette transmission ne peut, en aucun cas, porter atteinte au secret des correspondances.
 
 II. ― Pour permettre la constatation des infractions mentionnées aux articles 414, 415 et 459 du présent code, le
 rassemblement des preuves de ces infractions et la recherche de leurs auteurs, le ministre chargé des douanes est autorisé à
-mettre en œuvre des traitements automatisés des données transmises en application du I du présent article. 
+mettre en œuvre des traitements automatisés des données transmises en application du I du présent article.
 
 Seuls les agents des douanes individuellement désignés et spécialement habilités par le ministre chargé des douanes ont accès
-à ces données. 
+à ces données.
 
-III. ― Les traitements mentionnés au II respectent la loi n° 78-17 du 6 janvier 1978 précitée. 
+III. ― Les traitements mentionnés au II respectent la loi n° 78-17 du 6 janvier 1978 précitée.
 
 Les prestataires et entreprises mentionnés au I du présent article informent les personnes concernées par les traitements mis
-en œuvre par la direction générale des douanes et des droits indirects. 
+en œuvre par la direction générale des douanes et des droits indirects.
 
 IV. ― Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'informatique et des libertés, fixe les
-modalités d'application du présent article, dans le respect de la loi n° 78-17 du 6 janvier 1978 précitée. 
+modalités d'application du présent article, dans le respect de la loi n° 78-17 du 6 janvier 1978 précitée.
 
-Ce décret précise notamment : 
+Ce décret précise notamment :
 
-1° La nature et les modalités de transmission des données mentionnées au I ; 
+1° La nature et les modalités de transmission des données mentionnées au I ;
 
-2° Les catégories de données concernées par les traitements mentionnés au II ; 
+2° Les catégories de données concernées par les traitements mentionnés au II ;
 
-3° Les modalités d'accès et d'utilisation des données par les agents mentionnés au II ; 
+3° Les modalités d'accès et d'utilisation des données par les agents mentionnés au II ;
 
-4° Les modalités du contrôle du respect de l'obligation mentionnée au second alinéa du III ; 
+4° Les modalités du contrôle du respect de l'obligation mentionnée au second alinéa du III ;
 
-5° Les modalités de destruction des données à l'issue de la durée mentionnée au V ; 
+5° Les modalités de destruction des données à l'issue de la durée mentionnée au V ;
 
-6° Les modalités d'exercice par les personnes concernées de leur droit d'accès et de rectification des données. 
+6° Les modalités d'exercice par les personnes concernées de leur droit d'accès et de rectification des données.
 
 V. ― Les données faisant l'objet des traitements mentionnés au II sont conservées pendant un délai maximal de deux ans à
 compter de leur enregistrement.
+
+**Nota:**
+
+Conformément à l'article 29 de l’ordonnance n° 2018-1125 du 12 décembre 2018, ces dispositions entrent en vigueur en même
+temps que le décret n° 2019-536 du 29 mai 2019 pris pour l'application de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés au 1er juin 2019.
 
 **Liens relatifs à cet article**
 
@@ -3738,15 +3755,15 @@ _Cite_:
   - Code des douanes - art. 414
   - Code des douanes - art. 459
 
-_Créé par_:
-
-  - Loi n°2014-315 du 11 mars 2014 - art. 13
-
 _Cité par_:
 
   - Décret n°2016-1064 du 3 août 2016 (V)
   - Décret n°2016-1064 du 3 août 2016 - art. 1 (V)
   - Code des douanes - art. 66 (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2018-1125 du 12 décembre 2018 - art. 6
 
 
 ## Chapitre V : Procédure contradictoire préalable à la prise de décision<a id=49></a>
