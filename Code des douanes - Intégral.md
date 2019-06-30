@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2019-06-01
+Version Consolidée au 2019-07-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -9704,7 +9704,7 @@ Tableau B : Produits pétroliers et assimilés.
 (numéros du tarif des douanes)</th>
       <th>Indice d'identification</th>
       <th>Unité de perception</th>
-      <th colspan="5">Tarif (en euros)</th>
+      <th>Tarif (en euros)</th>
     </tr>
     <tr>
       <td align="justify">
@@ -9716,11 +9716,7 @@ reconstitués, utilisés comme combustibles.</td>
       <td align="center">1</td>
       <td align="justify">100 kg nets</td>
       <td align="justify">10,08</td>
-      <td align="justify">
-      </td><td align="left">
-      </td><td align="justify">
-      </td><td align="justify">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9731,7 +9727,7 @@ d'après la méthode ASTM D 86, destinés à être utilisés comme carburants ou
       <td align="center">
 
 2</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -9744,7 +9740,7 @@ Huiles brutes de pétrole ou de minéraux bitumineux.</td>
       <td align="center">
 
 3</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable aux huiles légères du 2710, suivant les caractéristiques du produit</td>
     </tr>
@@ -9756,19 +9752,19 @@ Taxe intérieure de consommation applicable aux huiles légères du 2710, suivan
 Huiles de pétrole ou de minéraux bitumineux, autres que les huiles brutes ; préparations non dénommées ni comprises ailleurs,
 contenant en poids 70 % ou plus d'huiles de pétrole ou de minéraux bitumineux et dont ces huiles constituent l'élément de
 base, autres que les déchets :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 --huiles légères et préparations :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 ---essences spéciales :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9783,16 +9779,12 @@ Hectolitre</td>
       <td align="justify">
 
 15,25</td>
-      <td align="justify">
-      </td><td align="left">
-      </td><td align="justify">
-      </td><td align="justify">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 ----autres essences spéciales :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9807,11 +9799,7 @@ Hectolitre</td>
       <td align="justify">
 
 67,52</td>
-      <td align="justify">
-      </td><td align="left">
-      </td><td align="justify">
-      </td><td align="justify">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9819,7 +9807,7 @@ Hectolitre</td>
       <td align="center">
 
 9</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Exemption</td>
     </tr>
@@ -9827,13 +9815,13 @@ Exemption</td>
       <td align="justify">
 
 ---autres huiles légères et préparations :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 ----essences pour moteur :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9848,11 +9836,7 @@ Hectolitre</td>
       <td align="center">
 
 45,49</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9868,11 +9852,7 @@ Hectolitre</td>
       <td align="center">
 
 68,29</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9888,11 +9868,7 @@ Hectolitre</td>
       <td align="center">
 
 71,56</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9909,16 +9885,12 @@ Hectolitre</td>
       <td align="center">
 
 66,29</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 ----carburéacteurs, type essence :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9933,11 +9905,7 @@ Hectolitre</td>
       <td align="center">
 
 39,79</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9951,11 +9919,7 @@ Hectolitre</td>
       <td align="center">
 
 68,51</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -9969,22 +9933,18 @@ Hectolitre</td>
       <td align="center">
 
 67,52</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 --huiles moyennes :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 ---pétrole lampant :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -9999,11 +9959,7 @@ Hectolitre</td>
       <td align="center">
 
 15,25</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10017,16 +9973,12 @@ Hectolitre</td>
       <td align="center">
 
 51,28</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 ---carburéacteurs, type pétrole lampant :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10041,11 +9993,7 @@ Hectolitre</td>
       <td align="center">
 
 39,79</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10059,11 +10007,7 @@ Hectolitre</td>
       <td align="center">
 
 51,28</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10077,22 +10021,18 @@ Hectolitre</td>
       <td align="center">
 
 51,28</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 --huiles lourdes :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 ---gazole :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10107,11 +10047,7 @@ Hectolitre</td>
       <td align="center">
 
 18,82</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10125,11 +10061,7 @@ Hectolitre</td>
       <td align="center">
 
 15,62</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10143,29 +10075,7 @@ Hectolitre</td>
       <td align="center">
 
 59,40</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="justify">
-
-----gazole B 10 ;</td>
-      <td align="center">
-
-22 bis</td>
-      <td align="center">
-
-Hectolitre</td>
-      <td align="center">
-
-59,40</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10179,11 +10089,7 @@ Hectolitre</td>
       <td align="center">
 
 13,95</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10191,7 +10097,7 @@ Hectolitre</td>
       <td align="center">
 
 29</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10201,14 +10107,14 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-12
 
 Propane, à l'exclusion du propane d'une pureté égale ou supérieure à 99 % :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 --destiné à être utilisé comme carburant (y compris le mélange spécial de butane et de propane dans lequel le propane
 représente plus de 50 % en poids) :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10223,11 +10129,7 @@ représente plus de 50 % en poids) :</td>
       <td align="center">
 
 15,90</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10241,11 +10143,7 @@ représente plus de 50 % en poids) :</td>
       <td align="center">
 
 20,71</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10260,25 +10158,21 @@ lequel le propane représente plus de 50 % en poids).</td>
       <td align="center">
 
 6,63</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 2711-13
 
 Butanes liquéfiés :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 --destinés à être utilisés comme carburant (y compris le mélange spécial de butane et de propane dans lequel le butane
 représente au moins 50 % en poids) :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10293,11 +10187,7 @@ représente au moins 50 % en poids) :</td>
       <td align="center">
 
 15,90</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10311,11 +10201,7 @@ représente au moins 50 % en poids) :</td>
       <td align="center">
 
 20,71</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10330,11 +10216,7 @@ dans lequel le butane représente au moins 50 % en poids).</td>
       <td align="center">
 
 6,63</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10344,7 +10226,7 @@ dans lequel le butane représente au moins 50 % en poids).</td>
       <td align="center">
 
 33</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10354,13 +10236,13 @@ Taxe intérieure de consommation applicable conformément au 3 du présent artic
 2711-19
 
 Autres gaz de pétrole liquéfiés :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
 
 --destinés à être utilisés comme carburant :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10375,11 +10257,7 @@ Autres gaz de pétrole liquéfiés :</td>
       <td align="center">
 
 15,90</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10393,18 +10271,14 @@ Autres gaz de pétrole liquéfiés :</td>
       <td align="center">
 
 20,71</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 2711-21
 
 Gaz naturel à l'état gazeux :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10419,11 +10293,7 @@ Gaz naturel à l'état gazeux :</td>
       <td align="center">
 
 5,80</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10437,18 +10307,14 @@ Gaz naturel à l'état gazeux :</td>
       <td align="center">
 
 9,50</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
 2711-29
 
 Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux : 57</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10457,7 +10323,7 @@ Autres gaz de pétrole et autres hydrocarbures présentés à l'état gazeux : 5
       <td align="center">
 
 38 bis</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable aux produits mentionnés aux indices 36 et 36 bis, selon qu'ils sont ou non
 utilisés sous condition d'emploi</td>
@@ -10469,7 +10335,7 @@ utilisés sous condition d'emploi</td>
       <td align="center">
 
 39</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Exemption</td>
     </tr>
@@ -10482,7 +10348,7 @@ Vaseline.</td>
       <td align="center">
 
 40</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10495,7 +10361,7 @@ Paraffine contenant en poids moins de 0,75 % d'huile.</td>
       <td align="center">
 
 41</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10508,7 +10374,7 @@ Paraffine (autre que celle mentionnée au 2712-20), cires de pétrole et résidu
       <td align="center">
 
 42</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10521,7 +10387,7 @@ Bitumes de pétrole.</td>
       <td align="center">
 
 46</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10534,7 +10400,7 @@ Autres résidus des huiles de pétrole ou de minéraux bitumineux.</td>
       <td align="center">
 
 46 bis</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10548,7 +10414,7 @@ minéral.</td>
       <td align="center">
 
 47</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10562,7 +10428,7 @@ en poids d'huiles de pétrole ou de minéraux bitumeux.</td>
       <td align="center">
 
 48</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10575,7 +10441,7 @@ Préparations lubrifiantes contenant moins de 70 % en poids d'huiles de pétrole
       <td align="center">
 
 49</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10588,7 +10454,7 @@ Additifs pour huiles lubrifiantes contenant des huiles de pétrole ou de minéra
       <td align="center">
 
 51</td>
-      <td align="center" colspan="6">
+      <td align="center" colspan="2">
 
 Taxe intérieure de consommation applicable conformément au 3 du présent article</td>
     </tr>
@@ -10599,7 +10465,7 @@ Ex 3824-90-97
 
 Émulsion d'eau dans du gazole stabilisée par des agents tensio-actifs, dont la teneur en eau est égale ou supérieure à 7 % en
 volume sans dépasser 20 % en volume, destinée à être utilisée comme carburant :</td>
-      <td align="left" colspan="7">
+      <td align="left" colspan="3">
     </td></tr>
     <tr>
       <td align="justify">
@@ -10614,11 +10480,7 @@ Hectolitre</td>
       <td align="center">
 
 10,33</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10632,11 +10494,7 @@ Hectolitre</td>
       <td align="center">
 
 36,94</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10652,11 +10510,7 @@ Hectolitre</td>
       <td align="center">
 
 11,83</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10673,11 +10527,7 @@ Hectolitre</td>
       <td align="center">
 
 6,43</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
     <tr>
       <td align="justify">
 
@@ -10693,11 +10543,7 @@ Hectolitre</td>
       <td align="center">
 
 11,83</td>
-      <td align="center">
-      </td><td align="center">
-      </td><td align="center">
-      </td><td align="center">
-    </td></tr>
+    </tr>
   </tbody>
 </table>
 
@@ -10953,7 +10799,9 @@ carburants pour moteur est assujetti à la taxe intérieure de consommation au t
 du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre 2003 restructurant le cadre communautaire de
 taxation des produits énergétiques et de l'électricité, ou au carburant dans lequel il est incorporé. Le présent alinéa n'est
 pas applicable au gaz naturel ou aux carburants auxquels il est équivalent, au sens des mêmes dispositions, lorsqu'il est
-utilisé dans les conditions prévues au d du 2° du tableau B du 1 du présent article.
+utilisé dans les conditions prévues au d du 2° du tableau B du 1 du présent article. Les remboursements, majorations et
+réfactions de taxe prévues par le présent titre s'appliquent à ces produits dans les mêmes conditions qu'au carburant
+équivalent ou au carburant auquel ils sont incorporés.
 
 A l'exclusion de la tourbe reprise au code NC 2703 de la nomenclature douanière, tout hydrocarbure autre que ceux pour
 lesquels un tarif de taxe intérieure de consommation est prévu par le présent code ou tout produit mentionné au tableau C du
@@ -10975,13 +10823,10 @@ chargé du budget.
 
 **Nota:**
 
-Conformément aux dispositions du III de l'article 16 de la loi n° 2017-1837 du 30 décembre 2017, par dérogation au II du même
-article 16 le tarif des gaz de pétrole liquéfié repris aux indices d'identification 31 et 32 du tableau du second alinéa du
-1° du tableau B du 1 de l'article 265, dans sa rédaction résultant du I, est applicable aux opérations dont le fait
-générateur intervient à compter du 1er avril 2018.
-
-Conformément à l’article 64 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux produits pour
-lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
+Conformément au IV de l’article 66 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux carburants
+pour lesquels la taxe devient exigible à compter du 1er juillet 2019. Toutefois, pour les majorations prévues aux articles
+265 A bis et 265 A ter du code des douanes, ils s'appliquent aux carburants pour lesquels la taxe devient exigible à compter
+du 1er janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -11236,7 +11081,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 1010 bis (M)
   - Code général des impôts, CGI. - art. 1011 bis (VT)
   - Code général des impôts, CGI. - art. 1599 novodecies A (VT)
-  - Code général des impôts, CGI. - art. 295 (M)
+  - Code général des impôts, CGI. - art. 295 (VD)
   - Code général des impôts, CGI. - art. 297 (VD)
   - Code général des impôts, CGI. - art. 298 (VD)
   - Code général des impôts, CGI. - art. 39 AC (V)
@@ -11327,8 +11172,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 65
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 66 (V)
 
 
 ###### Article 265 A
@@ -11891,22 +11735,22 @@ Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 
 réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
 territoire de la Corse ou livrés dans les ports de Corse à l'avitaillement des bâtiments de plaisance et de sport : 
 
-<table align="center" border="1" cellpadding="0" cellspacing="0" width="605">
+<table align="center" border="1" cellpadding="0" cellspacing="0">
   <tbody>
     <tr>
-      <td width="166">
+      <td>
 
 NUMÉROS 
 
 du tarif des douanes 
 
 </td>
-      <td width="237">
+      <td>
 
 DÉSIGNATION DES PRODUITS 
 
 </td>
-      <td width="202">
+      <td>
 
 INDICE 
 
@@ -11915,30 +11759,37 @@ d'identification
 </td>
     </tr>
     <tr>
-      <td valign="top" width="166">
+      <td>
 
 27.10.00 
 
 </td>
-      <td valign="top" width="237">
+      <td>
 
 Supercarburants 
 
 </td>
-      <td valign="top" width="202">
+      <td>
 
-11 et 11 bis
+11,11 bis et 11 ter
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 66 IV de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux carburants pour
+lesquels la taxe devient exigible à compter du 1er juillet 2019. Toutefois, pour les majorations prévues aux articles 265 A
+bis et 265 A ter du code des douanes, ils s’appliquent aux carburants pour lesquels la taxe devient exigible à compter du 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 66 (V)
 
 _Cite_:
 
@@ -12059,8 +11910,8 @@ _Cite_:
 
 Les exploitants de taxis bénéficient d'un remboursement, dans les conditions prévues à l'article 352, d'une fraction de la
 taxe intérieure de consommation applicable au gazole repris à l'indice d'identification 22 du 1 du tableau B du 1 de
-l'article 265 et au supercarburant repris à l'indice d'identification 11 du même tableau, utilisés pour les besoins de leur
-activité professionnelle. 
+l'article 265 et aux supercarburants repris aux indices d'identification 11 et 11 ter du même tableau, utilisés pour les
+besoins de leur activité professionnelle.
 
 Le carburant doit avoir supporté la taxe intérieure de consommation sur le territoire douanier défini au 1 de l'article 1er,
 sauf dans les départements d'outre-mer. 
@@ -12068,6 +11919,13 @@ sauf dans les départements d'outre-mer.
 Ce remboursement est calculé en appliquant au volume des carburants acquis dans chaque région ou dans la collectivité de
 Corse la différence entre le taux de la taxe intérieure de consommation applicable à chacun des carburants concernés et 30,20
 euros par hectolitre pour le gazole ou 35,90 euros par hectolitre pour le supercarburant.
+
+**Nota:**
+
+Conformément à l’article 66 IV de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux carburants pour
+lesquels la taxe devient exigible à compter du 1er juillet 2019. Toutefois, pour les majorations prévues aux articles 265 A
+bis et 265 A ter du code des douanes, ils s’appliquent aux carburants pour lesquels la taxe devient exigible à compter du 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -12120,8 +11978,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 89
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 66 (V)
 
 _Cite_:
 
