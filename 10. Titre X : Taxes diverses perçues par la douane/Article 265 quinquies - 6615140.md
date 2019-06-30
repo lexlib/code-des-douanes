@@ -4,22 +4,22 @@ Le taux de la taxe intérieure de consommation prévu au tableau B de l'article 
 réfaction de 1 euro par hectolitre en ce qui concerne les produits désignés ci-après destinés à être utilisés sur le
 territoire de la Corse ou livrés dans les ports de Corse à l'avitaillement des bâtiments de plaisance et de sport : 
 
-<table border="1" cellspacing="0" align="center" width="605" cellpadding="0">
+<table cellpadding="0" border="1" align="center" cellspacing="0">
   <tbody>
     <tr>
-      <td width="166">
+      <td>
 
 NUMÉROS 
 
 du tarif des douanes 
 
 </td>
-      <td width="237">
+      <td>
 
 DÉSIGNATION DES PRODUITS 
 
 </td>
-      <td width="202">
+      <td>
 
 INDICE 
 
@@ -28,30 +28,37 @@ d'identification
 </td>
     </tr>
     <tr>
-      <td width="166" valign="top">
+      <td>
 
 27.10.00 
 
 </td>
-      <td width="237" valign="top">
+      <td>
 
 Supercarburants 
 
 </td>
-      <td valign="top" width="202">
+      <td>
 
-11 et 11 bis
+11,11 bis et 11 ter
 
 </td>
     </tr>
   </tbody>
 </table>
 
+**Nota:**
+
+Conformément à l’article 66 IV de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s’appliquent aux carburants pour
+lesquels la taxe devient exigible à compter du 1er juillet 2019. Toutefois, pour les majorations prévues aux articles 265 A
+bis et 265 A ter du code des douanes, ils s’appliquent aux carburants pour lesquels la taxe devient exigible à compter du 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Ordonnance n°2016-1561 du 21 novembre 2016 - art. 4
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 66 (V)
 
 _Cite_:
 
