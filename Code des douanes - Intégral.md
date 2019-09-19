@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2019-07-01
+Version Consolidée au 2019-09-20
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -217,7 +217,7 @@ Version Consolidée au 2019-07-01
           - [D. - Quatrième classe. (art. 413)](#214)
           - [E. - Cinquième classe. (art. 413 bis à 413 ter)](#215)
         - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis B)](#216)
-          - [A. - Première classe. (art. 414 à 414-1)](#217)
+          - [A. - Première classe. (art. 414 à 414-2)](#217)
           - [B. - Deuxième classe. (art. 415 à 415-1)](#218)
           - [C. ― Troisième classe (art. 416 à 416 bis B)](#219)
         - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#220)
@@ -2855,53 +2855,53 @@ _Codifié par_:
 1° Au titre des dispositions dérogatoires de l'article 2 bis, l'administration des douanes est habilitée à contrôler la
 quantité, la qualité, les marquages, les emballages, la destination ou l'utilisation des marchandises ayant le statut
 national ou communautaire, pour lesquelles un avantage quelconque alloué par le fonds européen d'orientation et de garantie
-agricole, section garantie, ou par le fonds européen agricole de garantie, est sollicité. 
+agricole, section garantie, ou par le fonds européen agricole de garantie, est sollicité.
 
 En outre, elle est habilitée à délivrer les agréments conformément à la réglementation communautaire en vigueur, lorsque
 ceux-ci sont nécessaires pour l'attribution des avantages sollicités, quelle qu'en soit la nature, auprès du fonds européen
-d'orientation et de garantie agricole, section garantie ou du fonds européen agricole de garantie. 
+d'orientation et de garantie agricole, section garantie ou du fonds européen agricole de garantie.
 
 2° Les marchandises ayant le statut national ou communautaire, exportées vers un autre Etat membre de la Communauté
 européenne, importées d'un autre Etat membre de la Communauté européenne ou faisant l'objet d'une opération sur le territoire
 douanier et pour lesquelles l'utilisation ou la destination sont contrôlées conformément à la réglementation communautaire,
 sont présentées au service des douanes. Les agents des douanes sont chargés de viser les documents de contrôle relatifs à ces
-marchandises. 
+marchandises.
 
 Les catégories de marchandises visées à l'alinéa précédent ainsi que les modalités de la présentation en douane sont fixées
-par un arrêté du ministre chargé des douanes. 
+par un arrêté du ministre chargé des douanes.
 
 3° Les contrôles visés au 1, lorsqu'ils portent sur des marchandises faisant l'objet d'opérations à l'intérieur du territoire
 douanier de la Communauté européenne, et les contrôles visés au 2 sont effectués conformément aux dispositions prévues par
-les articles 1er, 2,3,322 bis, 468 et 469 ainsi que par le présent titre. 
+les articles 1er, 2,3,322 bis, 468 et 469 ainsi que par le présent titre.
 
 4° Dans tous les cas, les agents des douanes ont accès aux locaux et aux terrains à usage professionnel, à l'exclusion des
 domiciles ou de la partie des locaux qui sert de domicile, entre 8 heures et 20 heures, ou, en dehors de ces heures,
-lorsqu'une activité est en cours. 
+lorsqu'une activité est en cours.
 
-5° (abrogé) 
+5° (abrogé)
 
 6° Les dispositions du titre XII, à l'exclusion des articles 410 à 412,414 à 430, et au titre XV sont applicables lorsque les
-agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus. 
+agents des douanes sont mis dans l'impossibilité d'exercer les contrôles prévus aux 3 et 4 ci-dessus.
 
-7° Les dispositions du titre XII à l'exclusion des articles 410 à 430, les sanctions figurant au premier alinéa de l'article
-414 et les dispositions du titre XV sont applicables en cas d'acte frauduleux ayant pour but ou pour effet d'obtenir, en tout
-ou partie, un avantage quelconque alloué par le fonds européen d'orientation et de garantie agricole, section garantie, ou
-par le fonds européen agricole de garantie, lorsqu'il s'agit de marchandises faisant l'objet d'opérations à l'intérieur du
-territoire douanier de la Communauté européenne.
+7° Les sanctions prévues par l'article 414-2 sont applicables en cas d'acte frauduleux ayant pour but ou pour effet
+d'obtenir, en tout ou partie, un avantage quelconque alloué par le fonds européen d'orientation et de garantie agricole,
+section garantie, ou par le fonds européen agricole de garantie, lorsqu'il s'agit de marchandises faisant l'objet
+d'opérations à l'intérieur du territoire douanier de la Communauté européenne. En cas d'irrégularité non intentionnelle,
+l'article 410 est applicable.
 
 **Liens relatifs à cet article**
 
 _Modifié par_:
 
-  - Loi n°2016-731 du 3 juin 2016 - art. 38
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
 
 _Cite_:
 
-  - Code des douanes - art. 1 (V)
-  - Code des douanes - art. 2 bis (V)
-  - Code des douanes - art. 322 bis (V)
-  - Code des douanes - art. 410 (V)
-  - Code des douanes - art. 468 (V)
+  - Code des douanes - art. 1
+  - Code des douanes - art. 2 bis
+  - Code des douanes - art. 322 bis
+  - Code des douanes - art. 410
+  - Code des douanes - art. 468
 
 _Codifié par_:
 
@@ -18710,14 +18710,16 @@ _Modifié par_:
 
 ###### Article 370
 
-1. Si le contrevenant aux dispositions des articles 410,411,412,414 du présent code commet dans les cinq ans qui suivent une
-transaction ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des sanctions prévues par
-les articles précités, le taux maximal des pénalités encourues est doublé. 
-
-2. Cette disposition n'est pas applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour
-autrui les formalités de douane.
+1. Si le contrevenant aux dispositions des articles 410, 411, 412, 414, 414-2 du présent code commet dans les cinq ans qui
+suivent une transaction ou une condamnation devenue définitive, une nouvelle infraction tombant sous le coup des sanctions
+prévues par les articles précités, le taux maximal des pénalités encourues est doublé. 2. Cette disposition n'est pas
+applicable, sauf le cas de faute personnelle, à ceux qui font profession d'accomplir pour autrui les formalités de douane.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code des douanes - art. 410
 
 _Codifié par_:
 
@@ -18725,12 +18727,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°92-305 1992-03-30 art. 1 JORF 1er avril 1992
-  - Loi - art. 44 (V) JORF 31 décembre 2002
-
-_Cite_:
-
-  - Code des douanes - art. 410 (V)
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
 
 
 #### Paragraphe 3 : Dispositions particulières aux instances résultant d'infractions douanières<a id=173></a>
@@ -20053,32 +20050,32 @@ _Cite_:
 
 ###### Article 412
 
-Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 150 euros à 1 500 euros : 
+Sont passibles de la confiscation des marchandises litigieuses et d'une amende de 150 euros à 1 500 euros lorsqu'il n'est pas
+spécialement réprimé par l'article 414-2 :
 
 1° tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration lorsque l'infraction ne porte
 ni sur des produits du tabac manufacturé, ni sur des marchandises prohibées à l'entrée, ni sur des marchandises soumises à
-des taxes de consommation intérieure, ni prohibées ou taxés à la sortie ; 
+des taxes de consommation intérieure, ni prohibées ou taxés à la sortie ;
 
 2° toute fausse déclaration dans l'espèce, la valeur ou l'origine des marchandises importées, exportées ou placées sous un
-régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse
-déclaration ; 
+régime suspensif lorsqu'un droit de douane ou une taxe quelconque se trouve éludé ou compromis par cette fausse déclaration ;
 
-3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ; 
+3° toute fausse déclaration dans la désignation du destinataire réel ou de l'expéditeur réel ;
 
 4° toute fausse déclaration tendant à obtenir indûment le bénéfice des dispositions prévues par la réglementation
-communautaire en matière de franchises ; 
+communautaire en matière de franchises ;
 
-5° tout détournement de marchandises non prohibées de leur destination privilégiée ; 
+5° tout détournement de marchandises non prohibées de leur destination privilégiée ;
 
 6° la présentation comme unité dans les manifestes ou déclarations de plusieurs balles ou autres colis fermés, réunis de
-quelque manière que ce soit ; 
+quelque manière que ce soit ;
 
 7° le transport de marchandises par navires étrangers d'un port français à un autre port français, hors les cas prévus à
-l'article 259 ci-dessus ; 
+l'article 259 ci-dessus ;
 
 8° l'absence de manifeste ou la non-représentation de l'original du manifeste ; toute omission de marchandises dans les
 manifestes ou dans les déclarations sommaires ; toute différence dans la nature des marchandises manifestées ou déclarées
-sommairement ; 
+sommairement ;
 
 9° toute contravention à l'interdiction d'habiter en zone franche, d'y vendre au détail ou d'y effectuer des manipulations
 non autorisées.
@@ -20093,7 +20090,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 22 (V)
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
 
 _Cite_:
 
@@ -20284,17 +20281,52 @@ _Cite_:
   - Code des douanes - art. 414
 
 
+###### Article 414-2
+
+Est puni de cinq ans d'emprisonnement et d'une amende comprise entre une et deux fois la valeur de l'objet de fraude,
+lorsqu'il est commis intentionnellement et qu'il se rapporte à des marchandises qui ne sont pas mentionnées à l'article 414,
+tout fait de contrebande ainsi que tout fait d'importation ou d'exportation sans déclaration.
+
+Est puni des peines prévues au premier alinéa du présent article tout fait intentionnel de fausse déclaration, d'utilisation
+d'un document faux, inexact ou incomplet ou de non-communication d'un document, ayant pour but ou pour résultat, en tout ou
+partie, d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier attachés à l'importation ou à
+l'exportation.
+
+Les délits réprimés au présent article sont punis de dix ans d'emprisonnement et d'une amende pouvant aller jusqu'à dix fois
+la valeur de l'objet de la fraude lorsqu'ils sont commis en bande organisée.
+
+Les délits réprimés au présent article sont également passibles de la confiscation de l'objet de fraude, de la confiscation
+des moyens de transport, de la confiscation des objets servant à masquer la fraude, de la confiscation des biens ayants servi
+à commettre l'infraction ou qui étaient destinés à la commettre et dont le condamné est propriétaire ou, sous réserve des
+droits du propriétaire de bonne foi, dont il a la libre disposition, de la confiscation des biens et avoirs qui sont le
+produit direct ou indirect de l'infraction.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
+
+_Cité par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 154 (V)
+
+
 ##### B. - Deuxième classe.<a id=218></a>
 
 ###### Article 415
 
 Seront punis d'un emprisonnement de dix ans, de la confiscation des sommes en infraction ou d'une somme en tenant lieu
-lorsque la saisie n'a pas pu être prononcée, de la confiscation des biens et avoirs qui sont le produit direct ou indirect de
-l'infraction et d'une amende comprise entre une et cinq fois la somme sur laquelle a porté l'infraction ou la tentative
-d'infraction ceux qui auront, par exportation, importation, transfert ou compensation, procédé ou tenté de procéder à une
-opération financière entre la France et l'étranger portant sur des fonds qu'ils savaient provenir, directement ou
-indirectement, d'un délit prévu au présent code ou d'une infraction à la législation sur les substances ou plantes vénéneuses
-classées comme stupéfiants.
+lorsque la saisie n'a pas pu être prononcée, de la confiscation des biens ayant servi à commettre l'infraction ou qui étaient
+destinés à la commettre, de la confiscation des biens et avoirs qui sont le produit direct ou indirect de l'infraction et
+d'une amende comprise entre une et cinq fois la somme sur laquelle a porté l'infraction ou la tentative d'infraction ceux qui
+auront, par exportation, importation, transfert ou compensation, procédé ou tenté de procéder à une opération financière
+entre la France et l'étranger portant sur des fonds qu'ils savaient provenir, directement ou indirectement, d'un délit prévu
+au présent code ou portant atteinte aux intérêts financiers de l'Union européenne, ou d'une infraction à la législation sur
+les substances ou plantes vénéneuses classées comme stupéfiants.
+
+L'amende prévue au premier alinéa peut aller jusqu'à dix fois la somme sur laquelle a porté l'infraction ou la tentative
+d'infraction lorsque celle-ci est commise en bande organisée.
 
 **Liens relatifs à cet article**
 
@@ -20331,7 +20363,6 @@ _Cité par_:
   - Code des douanes - art. 323-5 (VD)
   - Code des douanes - art. 386 bis (V)
   - Code des douanes - art. 415-1 (V)
-  - Code des douanes - art. 416 bis A (V)
   - Code des douanes - art. 67 bis (V)
   - Code des douanes - art. 67 bis-1 A (V)
   - Code monétaire et financier - art. D313-27 (VD)
@@ -20348,7 +20379,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-898 du 23 octobre 2018 - art. 5
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
 
 _Nouveaux textes_:
 
@@ -20740,43 +20771,38 @@ _Modifié par_:
 
 ###### Article 426
 
-Sont réputés importation ou exportation sans déclaration de marchandises prohibées : 
+Sont réputés importation ou exportation sans déclaration de marchandises prohibées :
 
 1° toute infraction aux dispositions de l'article 38-3 ci-dessus ainsi que le fait d'avoir obtenu ou tenté d'obtenir la
 délivrance de l'un des titres visés à l'article 38-3 précité, soit par contrefaçon de sceaux publics, soit par fausses
-déclarations ou par tous autres moyens frauduleux ; 
+déclarations ou par tous autres moyens frauduleux ;
 
 2° toute fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition. Cependant, les
 marchandises prohibées à l'entrée ou à la sortie qui ont été déclarées sous une dénomination faisant ressortir la prohibition
 qui les frappe ne sont point saisies : celles destinées à l'importation sont envoyées à l'étranger ; celles dont la sortie
-est demandée restent en France ; 
+est demandée restent en France ;
 
 3° les fausses déclarations dans l'espèce, la valeur ou l'origine des marchandises ou dans la désignation du destinataire
 réel ou de l'expéditeur réel lorsque ces infractions ont été commises à l'aide de factures, certificats ou tous autres
-documents faux, inexacts, incomplets ou non applicables ; 
+documents faux, inexacts, incomplets ou non applicables ;
 
-4° les fausses déclarations ou manoeuvres ayant pour but ou pour effet d'obtenir, en tout ou partie, un remboursement, une
-exonération, un droit réduit ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des
-infractions aux règles de qualité ou de conditionnement lorsque ces infractions n'ont pas pour but ou pour effet d'obtenir un
-remboursement, une exonération, un droit réduit ou un avantage financier ; 
+4° les fausses déclarations ayant pour effet d'obtenir, en tout ou partie, un remboursement, une exonération, un droit réduit
+ou un avantage quelconque attachés à l'importation ou à l'exportation, à l'exclusion des infractions aux règles de qualité ou
+de conditionnement lorsque ces infractions n'ont pas pour effet d'obtenir un remboursement, une exonération, un droit réduit
+ou un avantage financier ;
 
 5° le fait d'établir, de faire établir, de procurer ou d'utiliser une facture, un certificat ou tout autre document entaché
 de faux permettant d'obtenir ou de faire obtenir indûment, en France ou dans un pays étranger, le bénéfice d'un régime
 préférentiel prévu soit par un traité ou un accord international, soit par une disposition de la loi interne, en faveur de
-marchandises sortant du territoire douanier français ou y entrant ; 
+marchandises sortant du territoire douanier français ou y entrant ;
 
-6° les fausses déclarations ou manoeuvres et, d'une manière générale, tout acte ayant pour but ou pour effet d'éluder ou de
-compromettre le recouvrement des droits prévus à l'article 19 bis ci-dessus ; 
+6° les fausses déclarations et, d'une manière générale, tout acte ayant pour effet d'éluder ou de compromettre le
+recouvrement des droits prévus à l'article 19 bis ci-dessus ;
 
 7° tout mouvement de marchandises visées au 4 et au 5 de l'article 38, effectué en infraction aux dispositions portant
 prohibition d'exportation ou d'importation.
 
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°2001-6 du 4 janvier 2001 - art. 23 () JORF 5 janvier 2001
-  - Loi - art. 44 (V) JORF 31 décembre 2002
 
 _Cité par_:
 
@@ -20784,9 +20810,13 @@ _Cité par_:
   - Code des douanes - art. 436 (V)
   - Code des douanes - art. 438 bis (V)
 
+_Modifié par_:
+
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
+
 _Cite_:
 
-  - Code des douanes - art. 38 (M)
+  - Code des douanes - art. 38
 
 _Codifié par_:
 
@@ -21007,12 +21037,12 @@ _Cite_:
 
 ###### Article 432 bis
 
-Les personnes physiques coupables des infractions prévues aux articles 414 et 459 encourent les peines complémentaires
-suivantes : 
+Les personnes physiques coupables des infractions prévues aux articles 414, 414-2 et 459 encourent les peines complémentaires
+suivantes :
 
 1° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer une profession commerciale ou
 industrielle, de diriger, d'administrer, de gérer ou de contrôler à un titre quelconque, directement ou indirectement, pour
-son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale ; 
+son propre compte ou pour le compte d'autrui, une entreprise commerciale ou industrielle ou une société commerciale ;
 
 2° La suspension, pour une durée de trois ans au plus, ou de six ans au plus en cas de récidive, du permis de conduire, la
 juridiction pouvant limiter cette peine à la conduite en dehors de l'activité professionnelle.
@@ -21029,7 +21059,7 @@ _Anciens textes_:
 
 _Modifié par_:
 
-  - Loi n°2011-525 du 17 mai 2011 - art. 161
+  - Ordonnance n°2019-963 du 18 septembre 2019 - art. 3
 
 _Cite_:
 
