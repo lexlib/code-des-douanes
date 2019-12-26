@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2019-12-15
+Version Consolidée au 2019-12-27
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -8065,20 +8065,23 @@ c) Ou pour moitié au moins à des ressortissants d'un Etat membre de l'Union eu
 l'Espace économique européen remplissant les conditions prévues au A et à des sociétés remplissant les conditions prévues au
 B ;
 
-E. - Soit être affrété coque nue par : 
+E. - Soit être affrété coque nue par :
 
-a) Une personne physique remplissant les conditions de nationalité et de résidence définies au A ; 
+a) Une personne physique remplissant les conditions de nationalité et de résidence définies au A ;
 
 b) Ou une société remplissant les conditions de nationalité, de siège social ou d'établissement stable définies au B ;
 
-F. - Soit être un navire dont la gestion nautique remplit les critères suivants : 
+F. - Soit être un navire dont la gestion nautique remplit les critères suivants :
 
 a) Elle est effectivement exercée depuis la France par un établissement stable de la société propriétaire ou d'une société
-française liée contractuellement avec le propriétaire pour en assurer la gestion nautique ; 
+française liée contractuellement avec le propriétaire pour en assurer la gestion nautique ;
 
-b) Le gestionnaire de navire, responsable de son exploitation, est détenteur d'un document de conformité en application du
-code international de gestion de la sécurité et remplit les conditions de nationalité, de résidence, de siège social ou de
-principal établissement définies aux A ou B ; 
+b) Le gestionnaire de navire est détenteur d'un document de conformité en application du code international de gestion de la
+sécurité et remplit les conditions de nationalité, de résidence, de siège social ou de principal établissement définies aux A
+ou B. Lorsque le navire est hors du champ d'application du code international de gestion de la sécurité et que son
+gestionnaire ne détient donc pas un document de conformité au sens du code mentionné à la première phrase du présent b, le
+gestionnaire prouve à défaut qu'il assure depuis la France les mesures équivalentes de gestion nécessaires à l'exploitation
+du navire ;
 
 3° Indépendamment des cas prévus au 2°, la francisation d'un navire de commerce ou de plaisance peut être accordée par
 agrément spécial dans des conditions fixées par décret lorsque, dans l'une des hypothèses prévues au même 2°, les droits des
@@ -8092,11 +8095,11 @@ qu'à la condition qu'il soit, pendant la durée de son affrètement, dirigé et
 situé sur le territoire français.
 
 III. - La francisation d'un navire affrété coque nue peut être suspendue par gel du pavillon français à la demande de
-l'affréteur qui souhaite faire naviguer ce navire sous pavillon étranger pendant la durée du contrat d'affrètement. 
+l'affréteur qui souhaite faire naviguer ce navire sous pavillon étranger pendant la durée du contrat d'affrètement.
 
 La francisation ne peut être suspendue qu'avec l'accord préalable des créanciers hypothécaires et à condition que la
 législation de l'Etat qui serait pour la durée du contrat l'Etat du pavillon ne permette pas dans de tels cas l'inscription
-sur ses registres de nouvelles hypothèques. 
+sur ses registres de nouvelles hypothèques.
 
 L'hypothèque consentie sur un navire dont la francisation est suspendue demeure inscrite au siège de la conservation
 hypothécaire.
@@ -8130,8 +8133,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-816 du 20 juin 2016 - art. 2
-  - Loi n°2016-816 du 20 juin 2016 - art. 3
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 136
 
 
 ###### Article 219 bis
@@ -11271,21 +11273,20 @@ _Cité par_:
 
 ###### Article 265 A ter
 
-Le Syndicat des transports d'Ile-de-France peut décider, par délibération, de majorer le tarif de la taxe intérieure de
-consommation applicable aux carburants vendus aux consommateurs finals sur le territoire de la région d'Ile-de-France
-résultant de l'application des articles 265 et 265 A bis, dans la limite de 1,02 € par hectolitre pour les supercarburants
-mentionnés aux indices d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1,89 € par hectolitre pour le
-gazole mentionné à l'indice d'identification 22 du même tableau B. 
+Ile-de-France Mobilités peut décider, par délibération, de majorer le tarif de la taxe intérieure de consommation applicable
+aux carburants vendus aux consommateurs finals sur le territoire de la région d'Ile-de-France résultant de l'application des
+articles 265 et 265 A bis, dans la limite de 1,02 € par hectolitre pour les supercarburants mentionnés aux indices
+d'identification 11 et 11 ter du tableau B du 1 de l'article 265 et de 1,89 € par hectolitre pour le gazole mentionné à
+l'indice d'identification 22 du même tableau B.
 
-Les recettes issues de la majoration prévue au premier alinéa du présent article sont affectées au Syndicat des transports
-d'Ile-de-France, dans la limite globale de 100 millions d'euros. Le produit excédant ce montant est reversé au budget
-général. 
+Les recettes issues de la majoration prévue au premier alinéa du présent article sont affectées à Ile-de-France Mobilités,
+dans la limite globale de 100 millions d'euros. Le produit excédant ce montant est reversé au budget général.
 
-Les délibérations du Syndicat des transports d'Ile-de-France ne peuvent intervenir qu'une fois par an et au plus tard le 30
-novembre de l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à l'autorité compétente de l'Etat
-qui procède à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la
-première quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur
-le 1er janvier de l'année suivante.
+Les délibérations d'Ile-de-France Mobilités ne peuvent intervenir qu'une fois par an et au plus tard le 30 novembre de
+l'année qui précède l'entrée en vigueur du tarif modifié. Elles sont notifiées à l'autorité compétente de l'Etat qui procède
+à la publication des tarifs de la taxe intérieure de consommation ainsi modifiés au plus tard à la fin de la première
+quinzaine du mois de décembre suivant. Les tarifs modifiés de la taxe intérieure de consommation entrent en vigueur le 1er
+janvier de l'année suivante.
 
 **Nota:**
 
@@ -11312,9 +11313,9 @@ _Cité par_:
   - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
   - Code des transports - art. L1241-14 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2016-1917 du 29 décembre 2016 - art. 24 (V)
+  - Loi n°2019-1428 du 24 décembre 2019 - art. 8 (V)
 
 _Cite_:
 
