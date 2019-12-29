@@ -2,6 +2,19 @@
 
 1. Les tarifs de la taxe mentionnée à l'article 266 sexies sont fixés comme suit :
 
+A-0.-Les autorisations mentionnées dans chacune des lignes des tableaux du second alinéa des a et b du A du présent 1 et aux
+deuxième et troisième lignes du tableau du second alinéa du B du même 1 s'entendent de celles prévues au titre Ier du livre V
+du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas de transfert
+hors de France, de réglementations d'effet équivalent à ces autorisations.
+
+Les réceptions dans des installations non autorisées relèvent du tarif le plus élevé prévu par chacun des tableaux mentionnés
+au premier alinéa du présent A-0 pour, respectivement, les installations de stockage ou d'incinération, majoré de 110 € par
+tonne.
+
+Relèvent du même tarif les réceptions effectuées dans une installation autorisée en méconnaissance des prescriptions de ces
+autorisations ainsi que les transferts réalisés vers une installation hors de France en méconnaissance des réglementations
+d'effet équivalent mentionnées au premier alinéa du présent A-0.
+
 A.-Pour les déchets réceptionnés dans une installation de stockage ou de traitement thermique de déchets non dangereux
 mentionnée au 1 du I de l'article 266 sexies :
 
@@ -51,35 +64,6 @@ Quotité (en euros)</th>
 A partir
 
 de 2025</th>
-    </tr>
-    <tr>
-      <td align="left">
-
-A.-Installations non autorisées</td>
-      <td align="justify">
-
-tonne</td>
-      <td align="center">
-
-151</td>
-      <td align="center">
-
-152</td>
-      <td align="center">
-
-164</td>
-      <td align="center">
-
-168</td>
-      <td align="center">
-
-171</td>
-      <td align="center">
-
-173</td>
-      <td align="center">
-
-175</td>
     </tr>
     <tr>
       <td align="left">
@@ -245,35 +229,6 @@ Quotité (en euros)</th>
 A partir
 
 de 2025</th>
-    </tr>
-    <tr>
-      <td align="left">
-
-Installations non autorisées</td>
-      <td align="center">
-
-tonne</td>
-      <td align="center">
-
-125</td>
-      <td align="center">
-
-125</td>
-      <td align="center">
-
-130</td>
-      <td align="center">
-
-132</td>
-      <td align="center">
-
-133</td>
-      <td align="center">
-
-134</td>
-      <td align="center">
-
-135</td>
     </tr>
     <tr>
       <td align="left">
@@ -542,16 +497,7 @@ tonne</td>
   </tbody>
 </table>
 
-b bis) Les autorisations mentionnées dans chacune des lignes des tableaux des a et b s'entendent de celles prévues au titre
-Ier du livre V du code de l'environnement pour la catégorie de traitement des déchets mentionnée par cette ligne, ou, en cas
-de transfert hors de France, de réglementations d'effet équivalent à ces autorisations.
-
-Relèvent du tarif applicable aux réceptions dans une installation non autorisée les réceptions effectuées dans une
-installation autorisée en méconnaissance des prescriptions de l'autorisation mentionnées au premier alinéa du IV de l'article
-266 sexies.
-
-Les transferts réalisés vers une installation hors de France en méconnaissance des règles équivalentes relèvent de ce même
-tarif ;
+b bis) (Abrogé) ;
 
 c) Lorsque plusieurs tarifs mentionnés au tableau du a ou au tableau du b sont applicables, le tarif le plus faible
 s'applique à l'assiette concernée ;
@@ -731,8 +677,8 @@ QUOTITÉ
     <tr>
       <td>
 
-Déchets réceptionnés dans une installation de traitement thermique de déchets dangereux ou transférés vers une telle
-installation située dans un autre Etat.
+Déchets réceptionnés dans une installation autorisée de traitement thermique de déchets dangereux ou transférés vers une
+telle installation située dans un autre Etat.
 
 </td>
       <td colspan="3">
@@ -749,8 +695,8 @@ Tonne
     <tr>
       <td>
 
-Déchets réceptionnés dans une installation de stockage de déchets dangereux ou transférés vers une telle installation située
-dans un autre Etat.
+Déchets réceptionnés dans une installation autorisée de stockage de déchets dangereux ou transférés vers une telle
+installation située dans un autre Etat.
 
 </td>
       <td colspan="3">
@@ -1218,8 +1164,8 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 24 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 63
 
 _Cite_:
 
-  - Code des douanes - art. 266 sexies (M)
+  - Code des douanes - art. 266 sexies (V)
