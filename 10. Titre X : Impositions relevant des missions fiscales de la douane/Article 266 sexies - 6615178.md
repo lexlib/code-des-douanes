@@ -18,8 +18,10 @@ fixés par décret en Conseil d'Etat ;
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
-utilise pour la première fois des lubrifiants susceptibles de produire des huiles usagées ;
+4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
+collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
+françaises et de l'île de Clipperton, ou y utilise pour la première fois des lubrifiants susceptibles de produire des huiles
+usagées ;
 
 b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes,
 autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
@@ -29,18 +31,20 @@ usage perdu, autres que celles mentionnées aux a et b, correspondant aux catég
 moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
 B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
 
-5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur ou
-utilise pour la première fois des préparations pour lessives, y compris des préparations auxiliaires de lavage, ou des
-produits adoucissants ou assouplissants pour le linge relevant respectivement des rubriques 34022090,34029090 et 38091010 à
-38099100 du tarif douanier ;
+5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
+collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
+françaises et de l'île de Clipperton, ou y utilise pour la première fois des préparations pour lessives, y compris des
+préparations auxiliaires de lavage, ou des produits adoucissants ou assouplissants pour le linge relevant respectivement des
+rubriques 34022090,34029090 et 38091010 à 38099100 du tarif douanier ;
 
-6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois sur le marché intérieur
-des matériaux d'extraction de toutes origines se présentant naturellement sous la forme de grains ou obtenus à partir de
-roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à 125 millimètres et dont les
-caractéristiques et usages sont fixés par décret ;
+6. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
+collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
+françaises et de l'île de Clipperton des matériaux d'extraction de toutes origines se présentant naturellement sous la forme
+de grains ou obtenus à partir de roches concassées ou fractionnées, dont la plus grande dimension est inférieure ou égale à
+125 millimètres et dont les caractéristiques et usages sont fixés par décret ;
 
-b) Toute personne qui, pour les besoins de son activité économique, utilise pour la première fois des matériaux mentionnés au
-a ;
+b) Toute personne qui, pour les besoins de son activité économique, utilise sur le territoire mentionné au a pour la première
+fois des matériaux mentionnés au même a ;
 
 7. Alinéa abrogé ;
 
@@ -142,6 +146,11 @@ Le même II s'applique également à l'exception du 1 quaterdecies, dans les mê
 France en vue de leur réception par une installation régie, dans l'Etat dans laquelle elle se situe, par une réglementation
 d'effet équivalent à cette autorisation.
 
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article 266 sexies telles qu'elles résultent du b du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -191,7 +200,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (VT)
-  - Code des douanes - art. 266 nonies (V)
+  - Code des douanes - art. 266 nonies (M)
   - Code des douanes - art. 266 nonies A (VD)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
@@ -224,4 +233,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 24 (V)
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)

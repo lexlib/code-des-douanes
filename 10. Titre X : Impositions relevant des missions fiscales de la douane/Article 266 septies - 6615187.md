@@ -1,6 +1,6 @@
 # Article 266 septies
 
-Le fait générateur de la taxe mentionnée à l'article 266 sexies est constitué par :
+Le fait générateur de la taxe prévue à l'article 266 sexies intervient et cette taxe est exigible au moment où se produit :
 
 1. La réception des déchets dans une installation mentionnée au 1 du I de l'article 266 sexies ;
 
@@ -37,6 +37,18 @@ b) La première utilisation de ces matériaux ;
 
 10. (Abrogé)
 
+**Nota:**
+
+Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
+l'article 266 septies telles qu'elles résultent du c du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+
+Elles s'appliquent aux opérations pour lesquelles le fait générateur de la taxe générale sur les activités polluantes ou
+l'exigibilité de la taxe sur la valeur ajoutée intervient à compter de cette même date.
+
+Toutefois, l'article 266 septies dans sa rédaction en vigueur le 31 décembre 2019, reste applicable aux opérations
+mentionnées aux 1 et 1 bis pour lesquelles le fait générateur de la taxe générale sur les activités polluantes intervient
+avant le 1er janvier 2021.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -61,10 +73,9 @@ _Cité par_:
   - Code de l'urbanisme - art. R147-8 (M)
   - Code des douanes - art. 266 nonies (V)
   - Code des douanes - art. 266 octies (M)
-  - Code des douanes - art. 266 sexies (M)
+  - Code des douanes - art. 266 sexies (VD)
   - Code des douanes - art. 266 undecies (M)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de l'environnement - art. L512-1
-  - Code de l'environnement - art. L512-8
+  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
