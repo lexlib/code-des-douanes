@@ -1,9 +1,7 @@
 # Article 266 quinquies
 
-1. Sont soumis à une taxe intérieure de consommation, lorsqu'ils sont destinés à être utilisés comme combustible ou dans les
-conditions prévues au d du 2° du tableau B du 1 de l'article 265, le gaz naturel repris aux codes NC 2711-11 et 2711-21 et
-les produits auxquels il est équivalent, au sens du 3 de l'article 2 de la directive 2003/96/ CE du Conseil du 27 octobre
-2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité.
+1. Le gaz naturel et le méthane relevant de l'un des codes de la position NC 2711, à l'état liquide ou gazeux, sont soumis à
+une taxe intérieure de consommation.
 
 2. Le fait générateur de la taxe intervient lors de la livraison de ces produits par un fournisseur à un utilisateur final et
 la taxe est exigible au moment de la facturation, y compris des acomptes, ou au moment des encaissements si ceux-ci
@@ -28,7 +26,7 @@ c) Par l'utilisateur final mentionné au dernier alinéa du 2.
 4. a. Les produits mentionnés au 1 ne sont pas soumis à la taxe intérieure de consommation prévue au 1 lorsqu'ils sont
 utilisés :
 
-1° Autrement que comme combustible, sous réserve des dispositions de l'article 265 ;
+1° Autrement que comme combustible ou carburant ;
 
 2° A un double usage au sens du 2° du I de l'article 265 C ;
 
@@ -40,11 +38,7 @@ dans les conditions prévues au III de l'article 265 C.
 5. Les produits mentionnés au 1 sont exonérés de la taxe intérieure de consommation prévue au 1 lorsqu'ils sont utilisés :
 
 a) Pour la production d'électricité, à l'exclusion des produits mentionnés au 1 utilisés pour leurs besoins par les petits
-producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C.
-
-Cette exonération ne s'applique pas aux produits mentionnés au 1 destinés à être utilisés dans les installations visées à
-l'article 266 quinquies A et qui bénéficient d'un contrat d'achat d'électricité conclu en application de l'article L. 314-1
-du code de l'énergie ou mentionné à l'article L. 121-27 du même code ;
+producteurs d'électricité au sens du 4° du 5 de l'article 266 quinquies C ;
 
 b) Pour les besoins de l'extraction et de la production du gaz naturel ;
 
@@ -74,24 +68,26 @@ b. Le tarif de la taxe est le suivant :
     <tr>
       <th>
 
-Désignation des produits</th>
+Usage du produit</th>
       <th>
 
-Unité de perception</th>
-      <th colspan="5">
+Tarifs
 
-Tarifs (en euros)</th>
+(en € par mégawattheure)</th>
     </tr>
     <tr>
+      <td>
+
+Carburant</td>
       <td align="center">
 
-2711-11 et 2711-21
+5,23</td>
+    </tr>
+    <tr>
+      <td align="left">
 
-gaz naturel destiné à être utilisé comme combustible</td>
+Combustible</td>
       <td align="center">
-
-Mégawattheure</td>
-      <td align="center" colspan="5">
 
 8,45</td>
     </tr>
@@ -101,6 +97,11 @@ Mégawattheure</td>
 c. Le tarif de la taxe applicable au produit consommé pour déshydrater les légumes et plantes aromatiques, autres que les
 pommes de terres, les champignons et les truffes, par les entreprises pour lesquelles cette consommation est supérieure à 800
 wattheures par euro de valeur ajoutée, est fixé à 1,6 € par mégawattheure.
+
+d. Les produits mentionnés au 1 utilisés comme carburant dans les installations de cogénération pour la production combinée
+de chaleur et d'électricité sont taxés au tarif prévu pour l'usage combustible sans préjudice, le cas échéant, de
+l'application de l'exonération prévue au a du 5 pour la fraction des consommations se rapportant à la production
+d'électricité.
 
 9. a. Les fournisseurs de gaz naturel établis sur le territoire douanier de la France se font enregistrer auprès de
 l'administration des douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement
@@ -150,12 +151,11 @@ remboursement peut s'effectuer par imputation sur le montant de la taxe due.
 
 **Nota:**
 
-Conformément aux dispositions du II de l'article 64 de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent
-aux produits pour lesquels l'exigibilité de la taxe intervient à compter du 1er janvier 2019.
-
-Conformément à l’article 67 II de la loi n° 2018-1317 du 28 décembre 2018, ces dispositions s'appliquent aux livraisons
-intervenant à compter du 1er janvier 2019 pour lesquelles la date d'exigibilité de la taxe intérieure sur la consommation de
-gaz naturel intervient à compter du 1er janvier 2019.
+Conformément au II de l'article 67 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux produits
+pour lesquels l'exigibilité des taxes prévues aux articles 265, 266 quinquies et 266 quinquies B du code des douanes, dans
+leur rédaction résultant du même I, intervient à compter du 1er janvier 2020. Toutefois, elles ne sont pas applicables
+lorsque, en application des mêmes articles 265, 266 quinquies et 266 quinquies B dans leur rédaction antérieure à cette date,
+l’exigibilité de ces taxes est déjà intervenue.
 
 **Liens relatifs à cet article**
 
@@ -197,7 +197,7 @@ _Cité par_:
   - Loi n°2019-1479 du 28 décembre 2019 - art. Etat A (V)
   - Code de l'environnement - art. L229-14 (V)
   - Code de l'énergie - art. D461-2 (V)
-  - Code des douanes - art. 265 (VD)
+  - Code des douanes - art. 265 (M)
   - Code des douanes - art. 265 nonies (V)
   - Code des douanes - art. 266 quinquies (V)
   - Code des douanes - art. 266 quinquies A (Ab)
@@ -219,6 +219,5 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 64 (V)
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 65
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 67 (V)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 67 (V)
