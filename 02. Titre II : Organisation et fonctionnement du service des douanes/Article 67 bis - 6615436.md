@@ -11,7 +11,7 @@ Les mêmes dispositions sont applicables pour la surveillance de l'acheminement 
 tirés de la commission de ces infractions ou servant à les commettre.
 
 L'information préalable prévue par le premier alinéa doit être donnée, par tout moyen, au procureur de la République près le
-tribunal de grande instance dans le ressort duquel les opérations de surveillance sont susceptibles de débuter.
+tribunal judiciaire dans le ressort duquel les opérations de surveillance sont susceptibles de débuter.
 
 II.-Lorsque les investigations le justifient, le procureur de la République peut autoriser qu'il soit procédé, sous son
 contrôle, à une opération d'infiltration dans les conditions prévues par le présent article afin :
@@ -103,8 +103,8 @@ poursuivre l'exécution sur le territoire d'un Etat étranger sont versés au do
 Avec l'accord préalable du ministre de la justice saisi d'une demande d'entraide judiciaire à cette fin, les agents des
 douanes étrangers peuvent poursuivre sur le territoire de la République, sous la direction d'agents des douanes français, des
 opérations d'infiltration conformément aux dispositions du présent article. L'accord du ministre de la justice peut être
-assorti de conditions. L'opération doit ensuite être autorisée par le procureur de la République près le tribunal de grande
-instance de Paris, dans les conditions prévues au II.
+assorti de conditions. L'opération doit ensuite être autorisée par le procureur de la République près le tribunal judiciaire
+de Paris, dans les conditions prévues au II.
 
 Le ministre de la justice ne peut donner son accord que si les agents étrangers sont affectés dans leur pays à un service
 spécialisé et exercent des missions similaires à celles des agents nationaux spécialement habilités mentionnés au II.
@@ -120,11 +120,12 @@ procédé à une infiltration.
 Les dispositions du présent IX ne sont cependant pas applicables lorsque les agents des douanes déposent sous leur véritable
 identité.
 
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Cité par_:
 
@@ -150,7 +151,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-222 du 23 mars 2019 - art. 68
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (V)
 
 _Cite_:
 
