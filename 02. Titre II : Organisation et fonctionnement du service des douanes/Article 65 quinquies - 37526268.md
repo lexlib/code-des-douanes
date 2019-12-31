@@ -8,8 +8,8 @@ cadre de l'article L. 34-1 du code des postes et des communications électroniqu
 aux 1 et 2 du I de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique.
 
 La mise en œuvre du droit de communication prévu au premier alinéa du présent article est préalablement autorisée par le
-procureur de la République près le tribunal de grande instance du lieu de la direction des douanes dont dépend le service
-chargé de la procédure.
+procureur de la République près le tribunal judiciaire du lieu de la direction des douanes dont dépend le service chargé de
+la procédure.
 
 L'autorisation du procureur de la République, qui peut être donnée par tout moyen, est mentionnée ou versée au dossier de la
 procédure.
@@ -23,6 +23,11 @@ Les données communiquées sont détruites à l'extinction de l'action pour l'ap
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
+**Nota:**
+
+Conformément à l'article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -30,11 +35,11 @@ _Cite_:
   - Loi n°2004-575 du 21 juin 2004 - art. 6
   - Code des postes et des communications électroniques - art. L34-1
 
-_Créé par_:
-
-  - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
-
 _Cité par_:
 
   - Loi n°2018-898 du 23 octobre 2018 - art. 14 (V)
   - Code des douanes - art. 413 bis (V)
+
+_Modifié par_:
+
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (V)
