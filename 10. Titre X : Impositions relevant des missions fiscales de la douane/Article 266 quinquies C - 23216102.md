@@ -175,9 +175,7 @@ f. Le tarif de la taxe applicable à l'électricité consommée par les exploita
 aérienne publique, dont la consommation totale d'électricité est supérieure à 222 wattheures par euro de valeur ajoutée, est
 fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
-g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire
-dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222
-wattheures par euro de valeur ajoutée, est fixé à 12,6 € par mégawattheure.
+g. (abrogé)
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des
 douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de
@@ -303,7 +301,9 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
+  - Loi n°2015-1786 du 29 décembre 2015 - art. 14 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
 
 _Cite_:
 
