@@ -9,7 +9,7 @@ article pour leurs consommations de gazole utilisé pour le fonctionnement des m
 
 2° Soit est utilisé pour des travaux de terrassement.
 
-II.-Le tarif réduit prévu au I est fixé à 12,1 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
+II.-Le tarif réduit prévu au I est fixé à 7,6 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
 
 1° Extraction des produits suivants :
 
@@ -40,17 +40,17 @@ gazole pour les besoins des activités mentionnées au II du présent article.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément aux dispositions du B dudit article, les dispositions de l'article 265 octies C résultant de son II s'appliquent
+aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter
+du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
+l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
