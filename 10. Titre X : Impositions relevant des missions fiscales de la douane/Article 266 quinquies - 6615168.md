@@ -50,8 +50,13 @@ opérations qu'ils accomplissent en tant qu'autorités publiques jusqu'au 1er ja
 6. Les modalités d'application des 4 et 5, ainsi que les modalités du contrôle et de la destination des produits et de leur
 affectation aux usages qui y sont mentionnés sont fixées par décret.
 
-7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le
-biogaz repris au code NC 2711-29.
+7. Est également exonéré de la taxe intérieure de consommation mentionnée au 1 le gaz naturel ou le méthane d'origine
+renouvelable relevant du code NC 2711-29, lorsqu'il est fourni sans être mélangé à d'autres produits énergétiques et qu'il
+est utilisé :
+
+1° Soit comme combustible ;
+
+2° Soit dans les conditions mentionnées au d du 8.
 
 8. a. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, déterminée à partir du
 pouvoir calorifique supérieur du produit et arrondie au mégawattheure le plus proche.
@@ -89,7 +94,7 @@ Carburant</td>
 Combustible</td>
       <td align="center">
 
-8,45</td>
+8,44</td>
     </tr>
   </tbody>
 </table>
@@ -155,7 +160,12 @@ Conformément au II de l'article 67 de la loi n° 2019-1479 du 28 décembre 2019
 pour lesquels l'exigibilité des taxes prévues aux articles 265, 266 quinquies et 266 quinquies B du code des douanes, dans
 leur rédaction résultant du même I, intervient à compter du 1er janvier 2020. Toutefois, elles ne sont pas applicables
 lorsque, en application des mêmes articles 265, 266 quinquies et 266 quinquies B dans leur rédaction antérieure à cette date,
-l’exigibilité de ces taxes est déjà intervenue.
+l’exigibilité de ces taxes est déjà intervenue. Par dérogation au dit II, les dispositions de l'article 266 quinquies
+résultant du 5° et du b du 6° du D du I de l'article 67 précité, sont applicables aux produits pour lesquels l'exigibilité de
+la taxe prévue à l'article 266 quinquies du même code intervient à compter du 1er janvier 2021.
+
+Conformément au VI du même article, les dispositions de l'article 266 quinquies résultant du 4° du D du I dudit article
+entrent en vigueur le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -221,6 +231,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 14 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 67 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 67 (M)
