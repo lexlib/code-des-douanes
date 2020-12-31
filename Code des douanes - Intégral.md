@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2020-10-01
+Version Consolidée au 2021-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -10117,7 +10117,7 @@ Hectolitre</td>
 Hectolitre</td>
       <td align="center">
 
-37,68</td>
+50,27</td>
     </tr>
     <tr>
       <td align="justify">
@@ -10711,13 +10711,13 @@ chargé du budget.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément aux dispositions du B dudit article, les dispositions de l'article 265 résultant de son II s'appliquent aux
+produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du
+1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
+l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -11745,7 +11745,7 @@ article pour leurs consommations de gazole utilisé pour le fonctionnement des m
 
 2° Soit est utilisé pour des travaux de terrassement.
 
-II.-Le tarif réduit prévu au I est fixé à 12,1 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
+II.-Le tarif réduit prévu au I est fixé à 7,6 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
 
 1° Extraction des produits suivants :
 
@@ -11776,17 +11776,17 @@ gazole pour les besoins des activités mentionnées au II du présent article.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément aux dispositions du B dudit article, les dispositions de l'article 265 octies C résultant de son II s'appliquent
+aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter
+du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
+l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
@@ -14214,8 +14214,13 @@ opérations qu'ils accomplissent en tant qu'autorités publiques jusqu'au 1er ja
 6. Les modalités d'application des 4 et 5, ainsi que les modalités du contrôle et de la destination des produits et de leur
 affectation aux usages qui y sont mentionnés sont fixées par décret.
 
-7. Sont également exonérés de la taxe intérieure de consommation mentionnée au 1 les gaz repris au code NC 2705, ainsi que le
-biogaz repris au code NC 2711-29.
+7. Est également exonéré de la taxe intérieure de consommation mentionnée au 1 le gaz naturel ou le méthane d'origine
+renouvelable relevant du code NC 2711-29, lorsqu'il est fourni sans être mélangé à d'autres produits énergétiques et qu'il
+est utilisé :
+
+1° Soit comme combustible ;
+
+2° Soit dans les conditions mentionnées au d du 8.
 
 8. a. La taxe intérieure de consommation mentionnée au 1 est assise sur la quantité d'énergie livrée, déterminée à partir du
 pouvoir calorifique supérieur du produit et arrondie au mégawattheure le plus proche.
@@ -14253,7 +14258,7 @@ Carburant</td>
 Combustible</td>
       <td align="center">
 
-8,45</td>
+8,44</td>
     </tr>
   </tbody>
 </table>
@@ -14319,7 +14324,12 @@ Conformément au II de l'article 67 de la loi n° 2019-1479 du 28 décembre 2019
 pour lesquels l'exigibilité des taxes prévues aux articles 265, 266 quinquies et 266 quinquies B du code des douanes, dans
 leur rédaction résultant du même I, intervient à compter du 1er janvier 2020. Toutefois, elles ne sont pas applicables
 lorsque, en application des mêmes articles 265, 266 quinquies et 266 quinquies B dans leur rédaction antérieure à cette date,
-l’exigibilité de ces taxes est déjà intervenue.
+l’exigibilité de ces taxes est déjà intervenue. Par dérogation au dit II, les dispositions de l'article 266 quinquies
+résultant du 5° et du b du 6° du D du I de l'article 67 précité, sont applicables aux produits pour lesquels l'exigibilité de
+la taxe prévue à l'article 266 quinquies du même code intervient à compter du 1er janvier 2021.
+
+Conformément au VI du même article, les dispositions de l'article 266 quinquies résultant du 4° du D du I dudit article
+entrent en vigueur le 1er janvier 2021.
 
 **Liens relatifs à cet article**
 
@@ -14383,7 +14393,6 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 67 (V)
 
 
@@ -14752,7 +14761,7 @@ fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
 g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire
 dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222
-wattheures par euro de valeur ajoutée, est fixé à 12,6 € par mégawattheure.
+wattheures par euro de valeur ajoutée, est fixé à 6 € par mégawattheure.
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des
 douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de
@@ -14832,13 +14841,13 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément aux dispositions du B dudit article, les dispositions de l'article 266 quinquies C résultant de son II
+s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient
+exigible à compter du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité
+de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
