@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2021-03-31
+Version Consolidée au 2021-07-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -214,10 +214,10 @@ Version Consolidée au 2021-03-31
           - [C. - Troisième classe. (art. 412)](#211)
           - [D. - Quatrième classe. (art. 413)](#212)
           - [E. - Cinquième classe. (art. 413 bis à 413 ter)](#213)
-        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis B)](#214)
+        - [Paragraphe 3 : Délits douaniers (art. 414 à 416 bis C)](#214)
           - [A. - Première classe. (art. 414 à 414-2)](#215)
           - [B. - Deuxième classe. (art. 415 à 415-1)](#216)
-          - [C. ― Troisième classe (art. 416 à 416 bis B)](#217)
+          - [C. ― Troisième classe (art. 416 à 416 bis C)](#217)
         - [Paragraphe 4 : Contrebande. (art. 417 à 422)](#218)
         - [Paragraphe 5 : Importations et exportations sans déclaration. (art. 423 à 429)](#219)
       - [Section 2 : Peines complémentaires (art. 430 à 433 bis)](#220)
@@ -10116,20 +10116,6 @@ Hectolitre</td>
     <tr>
       <td align="justify">
 
-----destiné à être utilisé comme carburant sous condition d'emploi ;</td>
-      <td align="center">
-
-20</td>
-      <td align="center">
-
-Hectolitre</td>
-      <td align="center">
-
-18,82</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
 ----fioul domestique destiné à être utilisé comme combustible ;</td>
       <td align="center">
 
@@ -10144,7 +10130,7 @@ Hectolitre</td>
     <tr>
       <td align="justify">
 
-----autres ;</td>
+----autres, à l'exception du gazole coloré et tracé en apllication du a du 1 de l'article 265 B ;</td>
       <td align="center">
 
 22</td>
@@ -10719,13 +10705,13 @@ chargé du budget.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n°
+2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe
+prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -10954,7 +10940,7 @@ _Cité par_:
   - Code des douanes - art. 265 A (V)
   - Code des douanes - art. 265 A bis (V)
   - Code des douanes - art. 265 A ter (V)
-  - Code des douanes - art. 265 B (VT)
+  - Code des douanes - art. 265 B (VD)
   - Code des douanes - art. 265 C (V)
   - Code des douanes - art. 265 bis (VD)
   - Code des douanes - art. 265 bis A (VT)
@@ -11074,10 +11060,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 14 (V)
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 67 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
   - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
 
 
@@ -11203,22 +11186,26 @@ _Cite_:
 
 ###### Article 265 B
 
-1. Si les produits visés au tableau B annexé à l'article 265 ci-dessus bénéficient d'un régime fiscal privilégié sous
-conditions d'emploi, les usages autorisés sont fixés par des arrêtés du ministre de l'économie et des finances et du ministre
-de l'industrie.
+1. Un arrêté du ministre chargé du budget précise les colorants et traceurs :
 
-Ces arrêtés peuvent prescrire l'adjonction auxdits produits de colorants et d'agents traceurs pour en permettre
-l'identification, pour sécuriser l'application du remboursement agricole mentionné au A du II de l'article 32 de la loi n°
-2013-1278 du 29 décembre 2013 de finances pour 2014 ou pour prévenir ou lutter contre les vols et faciliter les enquêtes
-subséquentes.
+a) Devant être incorporés dans les gazoles, y compris le fioul domestique, autres que ceux destinés à un traitement défini ou
+une transformation chimique ainsi que dans les pétroles lampants, autres que les carburéacteurs, lorsque ces gazoles ou
+pétroles lampants sont mis à la consommation à un tarif de taxe intérieure inférieur à celui applicable, respectivement, au
+gazole identifié à l'indice 22 du tableau B du 1 de l'article 265 et au pétrole lampant identifié à l'indice 16 du même
+tableau ;
 
-Les engins fonctionnant à l'arrêt, qui équipent les véhicules relevant des positions 87-04 et 87-05 du tarif des douanes, et
-dont la liste est fixée par arrêté du directeur général des douanes et droits indirects, peuvent bénéficier du régime fiscal
-privilégié du gazole destiné à être utilisé comme carburant sous condition d'emploi, par remboursement annuel du différentiel
-de taxe intérieure de consommation entre le gazole identifié à l'indice 22 et le gazole identifié à l'indice 20 mentionnés au
-tableau B du 1 de l'article 265. Le bénéfice de ce remboursement est subordonné à l'installation d'un dispositif permettant
-de comptabiliser la consommation annuelle de l'engin. Ce dispositif doit être préalablement agréé dans des conditions fixées
-par arrêté du directeur général des douanes et droits indirects.
+b) Devant être incorporés dans les produits énergétiques en vue de prévenir les utilisations dangereuses ;
+
+c) Pouvant être incorporés dans les produits énergétiques en vue de prévenir ou de lutter contre les vols et de faciliter les
+enquêtes subséquentes.
+
+Cet arrêté précise les produits énergétiques, les tarifs de taxes et les usages concernés ainsi que les conditions
+d'utilisation des produits colorés ou tracés.
+
+1 bis. Un arrêté du ministre chargé du budget précise les conditions dans lesquelles des produits énergétiques peuvent être
+distribués ou utilisés pour des usages non éligibles au tarif de taxe auquel ils ont été mis à la consommation, y compris
+lorsqu'ils sont colorés et tracés en application du a du 1 du présent article. Les personnes réalisant l'affectation des
+produits à ces usages sont redevables du supplément de taxe mentionné au 3.
 
 2. Les importateurs, les fabricants, les distributeurs et les utilisateurs de produits bénéficiant d'un régime fiscal
 privilégié, ainsi que les opérateurs introduisant ces produits sur le territoire national, doivent se conformer aux mesures
@@ -11236,13 +11223,13 @@ préjudice des pénalités encourues.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compterdu 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935
+du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
+l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -11255,13 +11242,72 @@ _Cité par_:
 
 _Cite_:
 
-  - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
-  - Code des douanes - art. 265 (VT)
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32
+  - Code des douanes - art. 265
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
   - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
+
+
+###### Article 265 B bis
+
+I.-Le présent article est applicable aux travaux qui répondent aux conditions suivantes :
+
+1° Ces travaux sont des travaux de construction, d'aménagement ou d'entretien portant sur des biens immeubles et qui ne sont
+pas des travaux agricoles ou forestiers ;
+
+2° Ils sont réalisés, pour le compte d'un donneur d'ordre, par les personnes qui exercent, à titre principal, une activité
+agricole et qui bénéficient du remboursement agricole mentionné au A du II de l'article 32 de la loi n° 2013-1278 du 29
+décembre 2013 de finances pour 2014 ;
+
+3° Ils sont réalisés au moyen d'engins ou matériels qui utilisent du gazole coloré et tracé en application du 1 de l'article
+265 B du présent code.
+
+II.-Chaque entreprise donneuse d'ordre tient à l'appui de sa comptabilité un registre des travaux mentionnés au I du présent
+article qu'elle fait réaliser. Chaque bénéficiaire tient à l'appui de sa comptabilité un registre des travaux mentionnés au
+même I qu'il réalise.
+
+Ces registres retracent :
+
+1° La nature des travaux, la période de réalisation et les quantités de gazole coloré et tracé utilisées pour ces travaux ;
+
+2° Lorsqu'il est recouru, pour ces travaux, à des engins ou matériels mentionnés au second alinéa du A du II de l'article 32
+de la loi n° 2013-1278 du 29 décembre 2013 précitée, la liste de ces derniers, la période d'utilisation et la consommation de
+gazole afférente à chacun d'entre eux.
+
+Ces informations sont distinguées, s'agissant du registre des donneurs d'ordre, pour chaque bénéficiaire et, s'agissant du
+registre des bénéficiaires, pour chaque donneur d'ordre.
+
+III.-Les registres prévus au II du présent article sont renseignés dès la conclusion du contrat ou de la confirmation de
+commande des travaux, et au plus tard au début de la réalisation des travaux. Ils sont mis à jour, le cas échéant, dès
+modification du contrat ou de la commande et, en tout état de cause, avant la fin du mois suivant celui de l'achèvement de
+ces travaux.
+
+**Nota:**
+
+Conformément au B du IV de l'article 6 de loi n° 2020-935 du 30 juillet 2020, ces dispositions entrent en vigueur à une date
+fixée par arrêté conjoint des ministres chargés du budget et de l'agriculture, et au plus tard le 1er juillet 2021.
+
+Conformément au 3° du A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019 modifié par l'article 6 de la loi
+n° 2020-935 les mots :"remboursement agricole mentionné au A" sont remplacés par les mots : "tarif réduit mentionné au D".
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°2013-1278 du 29 décembre 2013 - art. 32
+
+_Modifié par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
+
+_Cité par_:
+
+  - Code des douanes - art. 410 (VD)
+  - Code des douanes - art. 416 bis C (VD)
 
 
 ###### Article 265 bis
@@ -11630,6 +11676,129 @@ _Cite_:
   - Code des douanes - art. 265 (VT)
   - Code des douanes - art. 265 A bis (V)
   - Code des douanes - art. 352
+
+
+###### Article 265 octies A
+
+I. Le tarif réduit de taxe intérieure de consommation applicable au gazole utilisé dans les massifs mentionnés à l'article 5
+de la loi n° 85-30 du 9 janvier 1985 relative au développement et à la protection de la montagne est fixé à 18,82 € par
+hectolitre pour les activités suivantes :
+
+1° Aménagement et préparation des parcours sur neige en extérieur réservés à la pratique des activités de glisse autorisées
+par des engins spécialement conçus à cet effet ;
+
+2° Déneigement des voies ouvertes à la circulation publique par des engins équipés d'outils spécifiques destinés à lutter
+contre le verglas ou la neige.
+
+II.-Le tarif réduit prévu au I du présent article est appliqué par un remboursement d'une fraction de la taxe intérieure de
+consommation sur le gazole, identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265, sollicité par la
+personne qui utilise le gazole pour les activités mentionnées au I du présent article.
+
+Ce remboursement est calculé en appliquant au volume de gazole éligible, acquis dans chaque région et dans la collectivité de
+Corse, la différence entre le tarif applicable conformément aux articles 265,265 A bis et 265 A ter et le tarif mentionné au
+I du présent article.
+
+**Nota:**
+
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
+
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n°
+2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe
+prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°85-30 du 9 janvier 1985 - art. 5
+
+_Modifié par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
+
+_Cité par_:
+
+  - Décret n°2020-278 du 18 mars 2020 - art. 1
+
+
+###### Article 265 octies B
+
+Le tarif de la taxe intérieure de consommation applicable au gazole utilisé pour le transport ferroviaire de personnes ou de
+marchandises sur le réseau ferroviaire, au sens de l'article L. 2122-1 du code des transports, est fixé à 18,82 € par
+hectolitre.
+
+**Nota:**
+
+Version en vigueur à compter du 1er juillet 2021 conformément au 4° bis du A du III de l'article 60 de la loi n° 2019-1479 du
+28 décembre 2019 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020).
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
+
+
+###### Article 265 octies C
+
+I.-Les entreprises grandes consommatrices d'énergie, au sens du a du 1 de l'article 17 de la directive 2003/96/ CE du Conseil
+du 27 octobre 2003 restructurant le cadre communautaire de taxation des produits énergétiques et de l'électricité,
+bénéficient du tarif réduit de la taxe intérieure de consommation sur les produits énergétiques mentionné au II du présent
+article pour leurs consommations de gazole utilisé pour le fonctionnement des moteurs de tout engin ou machine qui :
+
+1° Soit réalise des travaux statiques, à l'exclusion des consommations utilisées pour véhiculer l'engin ou la machine ;
+
+2° Soit est utilisé pour des travaux de terrassement.
+
+II.-Le tarif réduit prévu au I du présent article est fixé à 3,86 € par hectolitre de gazole utilisé pour les besoins des
+activités suivantes :
+
+1° Extraction des produits suivants :
+
+a) Roches destinées à la transformation en pierre ornementale et de construction ;
+
+b) Gypse et anhydrite ;
+
+c) Pierre calcaire destinée à la production de chaux calcique et dolomitique pour l'industrie ;
+
+d) Andalousite, carbonates de calcium comprenant 95 % de calcite, roches siliceuses comprenant 95 % de silice, talc, micas,
+feldspaths, bauxite, argiles kaoliniques, diatomite, kaolin, phonolite, dolomie comprenant 50 % de dolomite, pouzzolanes ;
+
+2° Manutention portuaire dans l'enceinte des ports suivants :
+
+a) Les ports maritimes mentionnés à l'article L. 5311-1 du code des transports ;
+
+b) Les ports fluviaux composant le réseau transeuropéen de transport défini à l'article 2 du règlement (UE) n° 1315/2013 du
+Parlement européen et du Conseil du 11 décembre 2013 sur les orientations de l'Union pour le développement du réseau
+transeuropéen de transport et abrogeant la décision n° 661/2010/ UE ;
+
+c) Les ports fluviaux, autres que ceux mentionnés au b du présent 2°, qui sont situés sur un itinéraire du réseau
+transeuropéen de transport mentionné au même b et dont tout ou partie de l'activité est dédiée au transport international de
+marchandises.
+
+**Nota:**
+
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
+
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n°
+2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe
+prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
+
+_Cite_:
+
+  - Code des transports - art. L5311-1
 
 
 ###### Article 265 quater
@@ -13507,8 +13676,7 @@ l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 b
 b) pour le gazole, le taux de la taxe intérieure de consommation visé au tableau B annexé au 1 de l'article 265 applicable au
 gazole identifié à l'indice 22.
 
-c) pour le gazole utilisé comme carburant pour l'alimentation des moteurs fixes, le taux de la taxe intérieure de
-consommation visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 20.
+c) (Abrogé).
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
 régional, et, à Mayotte, par le conseil général aux conditions qu'il fixe.
@@ -13528,13 +13696,13 @@ de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n°
+2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe
+prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -13563,20 +13731,17 @@ _Cité par_:
   - Code des douanes - art. 411 (V)
   - Code des douanes - art. 427 (V)
   - Code général des collectivités territoriales - art. L3332-1 (VD)
-  - Code général des collectivités territoriales - art. L4331-2 (VD)
+  - Code général des collectivités territoriales - art. L4331-2 (M)
   - Code général des collectivités territoriales - art. L4434-2 (V)
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
 
 _Cite_:
 
   - Code des douanes - art. 265
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 
 ###### Article 266 quindecies
@@ -13591,8 +13756,8 @@ autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, 
 la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits
 énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019 ;
 
-2° Les gazoles s'entendent du gazole non routier et du gazole routier identifiés respectivement aux indices 20 et 22 du même
-tableau et des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
+2° Les gazoles s'entendent du gazole identifié par l'indice 22 du même tableau, du gazole non exonéré utilisé comme carburant
+et relevant du a du 1 de l'article 265 B ainsi que des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
 
 Toutefois, l'éthanol diesel identifié à l'indice 56 dudit tableau est pris en compte comme une essence.
 
@@ -13674,7 +13839,7 @@ définis à l'article 17 de la directive 2009/28/ CE du Parlement européen et d
 promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives
 2001/77/ CE et 2003/30/ CE dans sa rédaction en vigueur au 24 septembre 2018.
 
-A bis.-Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur
+A bis. - Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur
 production.
 
 Un décret définit les modalités de traçabilité applicables à chaque produit en fonction des matières premières dont il est
@@ -13804,7 +13969,9 @@ Année</th>
 A compter de 2021</th>
     </tr>
     <tr>
-      <td align="center">Catégorie de matières premières</td>
+      <td align="center">
+
+Catégorie de matières premières</td>
       <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
 n'est pas prise en compte</td>
       <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
@@ -13817,9 +13984,7 @@ n'est pas prise en compte</td>
 des terres agricoles principalement utilisées à des fins de production d'énergie, y compris les coproduits et résidus issus
 de la transformation de ces céréales, plantes et produits, autres que les matières mentionnées à l'annexe IX de la directive
 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée</td>
-      <td align="center">
-
-7 %</td>
+      <td align="center">7 %</td>
       <td align="center">7 %</td>
     </tr>
     <tr>
@@ -13838,9 +14003,7 @@ de la transformation de ces céréales, plantes et produits, autres que les mati
       <td align="left">
 
 3. Tallol</td>
-      <td align="center">
-
-0,1 %</td>
+      <td align="center">0,1 %</td>
       <td align="center">0,1 %</td>
     </tr>
     <tr>
@@ -13848,9 +14011,7 @@ de la transformation de ces céréales, plantes et produits, autres que les mati
 
 4. Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23
 avril 2009 précitée</td>
-      <td align="center">
-
-0,9 %</td>
+      <td align="center">0,9 %</td>
       <td align="center">0,9 %</td>
     </tr>
   </tbody>
@@ -13868,38 +14029,36 @@ D.-Pour chacune des catégories de matières premières suivantes, la part d'én
 de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du
 seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C.
 
-<table border="1">
+<table border="1" cellpadding="1" cellspacing="1">
   <tbody>
     <tr>
-      <th>Année</th>
-      <th>2020</th>
-      <th>A compter de 2021</th>
+      <td align="center">Année</td>
+      <td align="center">2020</td>
+      <td align="center">A compter de 2021</td>
     </tr>
     <tr>
-      <td>Catégorie de matières premières</td>
-      <td>Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas
-comptée double</td>
-      <td>Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas
-comptée double</td>
+      <td align="center">Catégorie de matières premières</td>
+      <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
+n'est pas comptée double</td>
+      <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
+n'est pas comptée double</td>
     </tr>
     <tr>
       <td>Matières mentionnées à la partie A de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil
 du 23 avril 2009 précitée, à l'exception du tallol</td>
-      <td>Différence entre le pourcentage cible fixé au IV et 7 %</td>
-      <td>Différence entre le pourcentage cible fixé au IV et 7 %</td>
+      <td align="center">Différence entre le pourcentage cible fixé au IV et 7 %</td>
+      <td align="center">Différence entre le pourcentage cible fixé au IV et 7 %</td>
     </tr>
     <tr>
       <td>Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil
 du 23 avril 2009 précitée</td>
-      <td>Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 %</td>
-      <td align="center">
-
-Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %
-
-</td>
+      <td align="center">Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 %</td>
+      <td align="center">Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %</td>
     </tr>
   </tbody>
 </table>
+
+;
 
 VI.-Deux redevables peuvent convenir que tout ou partie de la quantité d'énergie renouvelable contenue dans les carburants
 inclus dans l'assiette du premier est prise en compte dans la détermination de la quantité d'énergie renouvelable aux fins de
@@ -13940,12 +14099,13 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 **Nota:**
 
-Conformément aux II et III de l'article 192 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266
-quindecies s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2019. Toutefois, le B du
-V de l'article 266 quindecies, dans sa rédaction résultant du I de l'article 192, entre en vigueur le 1er janvier 2020.
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
 
-Conformément aux II des articles 212 et 213 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux
-produits pour lesquels la taxe devient exigible à compter du 1er janvier 2020.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n°
+2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe
+prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -13997,15 +14157,15 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 60 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 212 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 213 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
 
 _Cite_:
 
   - Code des douanes - art. 265
-  - Code des douanes - art. 265 ter
+  - Code des douanes - art. 265 ter (VD)
 
 
 ###### Article 266 quinquies
@@ -14608,7 +14768,9 @@ f. Le tarif de la taxe applicable à l'électricité consommée par les exploita
 aérienne publique, dont la consommation totale d'électricité est supérieure à 222 wattheures par euro de valeur ajoutée, est
 fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
-g. (abrogé)
+g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire
+dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222
+wattheures par euro de valeur ajoutée, est fixé à 0,5 € par mégawattheure.
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des
 douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de
@@ -14688,13 +14850,13 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n°
+2020-935 du 30 juillet 2020) et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe
+prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -14734,8 +14896,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2015-1786 du 29 décembre 2015 - art. 14 (V)
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
   - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
 
 _Cite_:
@@ -19953,8 +20114,9 @@ présent code.
 
 2. Tombent, en particulier, sous le coup des dispositions de l'alinéa précédent :
 
-a) toute omission ou inexactitude portant sur l'une des indications que les déclarations doivent contenir lorsque
-l'irrégularité n'a aucune influence sur l'application des droits ou des prohibitions ;
+a) toute omission ou inexactitude portant sur l'une des indications que les déclarations ou les registres prévus au II de
+l'article 265 B bis doivent contenir lorsque l'irrégularité n'a aucune influence sur l'application des droits ou des
+prohibitions ;
 
 b) toute omission d'inscription aux répertoires visés à l'article 92 ci-dessus ;
 
@@ -19963,6 +20125,11 @@ l'application de l'article 24-2 du présent code ;
 
 d) toute infraction aux règles de qualité ou de conditionnement imposées à l'importation ou à l'exportation lorsque celle-ci
 n'a pas pour but ou pour effet d'obtenir un remboursement, une exonération, un droit réduit ou un avantage financier.
+
+**Nota:**
+
+Conformément au B du IV de l'article 6 de loi n° 2020-935 du 30 juillet 2020, ces dispositions entrent en vigueur à une date
+fixée par arrêté conjoint des ministres chargés du budget et de l'agriculture, et au plus tard le 1er juillet 2021.
 
 **Liens relatifs à cet article**
 
@@ -19981,7 +20148,6 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
   - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
 
 _Cite_:
@@ -20055,19 +20221,14 @@ _Cite_:
 
 ###### Article 411 bis
 
-Le fait d'avoir obtenu, de manière indue, le remboursement agricole mentionné au A du II de l'article 32 de la loi n°
-2013-1278 du 29 décembre 2013 de finances pour 2014 est passible d'une amende comprise entre une et deux fois le montant du
-remboursement indûment obtenu.
+Le fait d'avoir obtenu, de manière indue, le tarif réduit mentionné au D du II de l'article 32 de la loi n° 2013-1278 du 29
+décembre 2013 de finances pour 2014 est passible d'une amende comprise entre une et deux fois le montant du remboursement
+indûment obtenu.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
-
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Version en vigueur à compter du 1er juillet 2021 (modifié par l'article 6 de la loi n° 2020-935 du 30 juillet 2020)
+conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28 décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -20075,9 +20236,9 @@ _Cite_:
 
   - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (M)
 
 
 ##### C. - Troisième classe.<a id=211></a>
@@ -20542,6 +20703,26 @@ _Créé par_:
 _Cite_:
 
   - Code des douanes - art. 65 quater
+
+
+###### Article 416 bis C
+
+Est passible d'une amende de 10 000 € le fait de ne pas tenir le registre des travaux prévu au II de l'article 265 B bis.
+
+**Nota:**
+
+Conformément au B du IV de l'article 6 de loi n° 2020-935 du 30 juillet 2020, ces dispositions entrent en vigueur à une date
+fixée par arrêté conjoint des ministres chargés du budget et de l'agriculture, et au plus tard le 1er juillet 2021.
+
+**Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Loi n°2020-935 du 30 juillet 2020 - art. 6 (V)
+
+_Cite_:
+
+  - Code des douanes - art. 265 B bis
 
 
 #### Paragraphe 4 : Contrebande.<a id=218></a>
