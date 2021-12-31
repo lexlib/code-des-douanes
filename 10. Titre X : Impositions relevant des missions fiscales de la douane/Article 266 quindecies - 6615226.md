@@ -10,8 +10,8 @@ autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, 
 la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits
 énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019 ;
 
-2° Les gazoles s'entendent du gazole non routier et du gazole routier identifiés respectivement aux indices 20 et 22 du même
-tableau et des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
+2° Les gazoles s'entendent du gazole identifié par l'indice 22 du même tableau, du gazole non exonéré utilisé comme carburant
+et relevant du a du 1 de l'article 265 B ainsi que des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
 
 Toutefois, l'éthanol diesel identifié à l'indice 56 dudit tableau est pris en compte comme une essence.
 
@@ -93,7 +93,7 @@ définis à l'article 17 de la directive 2009/28/ CE du Parlement européen et d
 promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives
 2001/77/ CE et 2003/30/ CE dans sa rédaction en vigueur au 24 septembre 2018.
 
-A bis.-Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur
+A bis. - Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur
 production.
 
 Un décret définit les modalités de traçabilité applicables à chaque produit en fonction des matières premières dont il est
@@ -223,7 +223,9 @@ Année</th>
 A compter de 2021</th>
     </tr>
     <tr>
-      <td align="center">Catégorie de matières premières</td>
+      <td align="center">
+
+Catégorie de matières premières</td>
       <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
 n'est pas prise en compte</td>
       <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
@@ -236,9 +238,7 @@ n'est pas prise en compte</td>
 des terres agricoles principalement utilisées à des fins de production d'énergie, y compris les coproduits et résidus issus
 de la transformation de ces céréales, plantes et produits, autres que les matières mentionnées à l'annexe IX de la directive
 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée</td>
-      <td align="center">
-
-7 %</td>
+      <td align="center">7 %</td>
       <td align="center">7 %</td>
     </tr>
     <tr>
@@ -257,9 +257,7 @@ de la transformation de ces céréales, plantes et produits, autres que les mati
       <td align="left">
 
 3. Tallol</td>
-      <td align="center">
-
-0,1 %</td>
+      <td align="center">0,1 %</td>
       <td align="center">0,1 %</td>
     </tr>
     <tr>
@@ -267,9 +265,7 @@ de la transformation de ces céréales, plantes et produits, autres que les mati
 
 4. Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23
 avril 2009 précitée</td>
-      <td align="center">
-
-0,9 %</td>
+      <td align="center">0,9 %</td>
       <td align="center">0,9 %</td>
     </tr>
   </tbody>
@@ -287,38 +283,36 @@ D.-Pour chacune des catégories de matières premières suivantes, la part d'én
 de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du
 seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C.
 
-<table border="1">
+<table border="1" cellpadding="1" cellspacing="1">
   <tbody>
     <tr>
-      <th>Année</th>
-      <th>2020</th>
-      <th>A compter de 2021</th>
+      <td align="center">Année</td>
+      <td align="center">2020</td>
+      <td align="center">A compter de 2021</td>
     </tr>
     <tr>
-      <td>Catégorie de matières premières</td>
-      <td>Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas
-comptée double</td>
-      <td>Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas
-comptée double</td>
+      <td align="center">Catégorie de matières premières</td>
+      <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
+n'est pas comptée double</td>
+      <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
+n'est pas comptée double</td>
     </tr>
     <tr>
       <td>Matières mentionnées à la partie A de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil
 du 23 avril 2009 précitée, à l'exception du tallol</td>
-      <td>Différence entre le pourcentage cible fixé au IV et 7 %</td>
-      <td>Différence entre le pourcentage cible fixé au IV et 7 %</td>
+      <td align="center">Différence entre le pourcentage cible fixé au IV et 7 %</td>
+      <td align="center">Différence entre le pourcentage cible fixé au IV et 7 %</td>
     </tr>
     <tr>
       <td>Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil
 du 23 avril 2009 précitée</td>
-      <td>Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 %</td>
-      <td align="center">
-
-Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %
-
-</td>
+      <td align="center">Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 %</td>
+      <td align="center">Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %</td>
     </tr>
   </tbody>
 </table>
+
+;
 
 VI.-Deux redevables peuvent convenir que tout ou partie de la quantité d'énergie renouvelable contenue dans les carburants
 inclus dans l'assiette du premier est prise en compte dans la détermination de la quantité d'énergie renouvelable aux fins de
@@ -359,12 +353,13 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 **Nota:**
 
-Conformément aux II et III de l'article 192 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266
-quindecies s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2019. Toutefois, le B du
-V de l'article 266 quindecies, dans sa rédaction résultant du I de l'article 192, entre en vigueur le 1er janvier 2020.
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément aux II des articles 212 et 213 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux
-produits pour lesquels la taxe devient exigible à compter du 1er janvier 2020.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -418,8 +413,9 @@ _Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 212 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 213 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
 _Cite_:
 
   - Code des douanes - art. 265
-  - Code des douanes - art. 265 ter
+  - Code des douanes - art. 265 ter (VD)

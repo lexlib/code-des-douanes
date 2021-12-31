@@ -9,7 +9,7 @@ article pour leurs consommations de gazole utilisé pour le fonctionnement des m
 
 2° Soit est utilisé pour des travaux de terrassement.
 
-II.-Le tarif réduit prévu au I est fixé à 7,6 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
+II.-Le tarif réduit prévu au I est fixé à 3,86 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
 
 1° Extraction des produits suivants :
 
@@ -34,19 +34,15 @@ c) Les ports fluviaux, autres que ceux mentionnés au b du présent 2°, qui son
 transeuropéen de transport mentionné au même b et dont tout ou partie de l'activité est dédiée au transport international de
 marchandises.
 
-III.-Le tarif réduit prévu au I est appliqué par un remboursement d'une fraction de la taxe intérieure de consommation sur le
-gazole, identifié à l'indice 20 et mentionné au tableau B du 1 de l'article 265, sollicité par la personne qui utilise le
-gazole pour les besoins des activités mentionnées au II du présent article.
-
 **Nota:**
 
-Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
 décembre 2019.
 
-Conformément aux dispositions du B dudit article, les dispositions de l'article 265 octies C résultant de son II s'appliquent
-aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter
-du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
-l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 

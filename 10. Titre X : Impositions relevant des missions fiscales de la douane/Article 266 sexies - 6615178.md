@@ -1,6 +1,6 @@
 # Article 266 sexies
 
-I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à
@@ -18,18 +18,7 @@ fixés par décret en Conseil d'Etat ;
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
-collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
-françaises et de l'île de Clipperton, ou y utilise pour la première fois des lubrifiants susceptibles de produire des huiles
-usagées ;
-
-b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes,
-autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
-
-c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
-usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
-moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
-B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
+4. (Abrogé) ;
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
 collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
@@ -46,15 +35,15 @@ de grains ou obtenus à partir de roches concassées ou fractionnées, dont la p
 b) Toute personne qui, pour les besoins de son activité économique, utilise sur le territoire mentionné au a pour la première
 fois des matériaux mentionnés au même a ;
 
-7. Alinéa abrogé ;
+7. (Abrogé) ;
 
 8. (Abrogé) ;
 
-9. Alinéa abrogé ;
+9. (Abrogé) ;
 
 10. (Abrogé)
 
-II.-La taxe ne s'applique pas :
+II. - La taxe ne s'applique pas :
 
 1. (Abrogé) ;
 
@@ -137,10 +126,10 @@ du label écologique communautaire aux lubrifiants ;
 
 7. (Abrogé).
 
-III.-(Abrogé).
+III. - (Abrogé).
 
-IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V
-du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
+IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre
+V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
 aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses
 limites de capacités, annuelles ou totales.
 
@@ -150,8 +139,8 @@ d'effet équivalent à cette autorisation.
 
 **Nota:**
 
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article 266 sexies telles qu'elles résultent du b du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+Conformément aux dispositions du II de l'article 85 de l'ordonnance n° 2020-105 du 10 février 2020, les dispositions de
+l'article 266 sexies telles qu'elles résultent du I dudit article entrent en vigueur le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -213,7 +202,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (VT)
-  - Code des douanes - art. 266 nonies (V)
+  - Code des douanes - art. 266 nonies (M)
   - Code des douanes - art. 266 nonies A (VD)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
@@ -243,10 +232,8 @@ _Cité par_:
 _Cite_:
 
   - Loi n°2003-699 du 30 juillet 2003 - art. 84
-  - Code de l'environnement - art. L541-4-3
+  - Code de l'environnement - art. L541-4-3 (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
-  - Arrêté du 19 février 2019 - art. 1
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 63
+  - Loi n°2020-105 du 10 février 2020 - art. 85 (V)
