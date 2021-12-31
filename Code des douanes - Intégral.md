@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2021-01-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -5067,17 +5067,25 @@ _Cité par_:
 ###### Article 113
 
 1. Il ne peut être disposé des marchandises conduites dans les bureaux de douane ou dans les lieux désignés par le service
-des douanes, sans l'autorisation du service et sans que les droits et taxes n'aient été préalablement payés, consignés ou
-garantis.
+des douanes, sans l'autorisation du service et sans que :
+
+a) Les droits et taxes acquittés à l'importation n'aient été préalablement payés, consignés ou garantis ;
+
+b) La base d'imposition de la taxe sur la valeur ajoutée n'ait été constatée conformément au dernier alinéa de l'article 292
+du code général des impôts ;
+
+c) Le cas échéant, la validité des identifiants mentionnés au 1° du 3 de l'article 293 A du même code n'ait été vérifiée.
 
 2. Les marchandises conduites dans les bureaux de douane doivent être enlevées dès la délivrance de cette autorisation, sauf
 délais spécialement accordés par le service des douanes.
 
+**Nota:**
+
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°63-1351 1963-12-31 art. 3 VI JORF 3 janvier 1964
 
 _Cité par_:
 
@@ -5085,6 +5093,14 @@ _Cité par_:
   - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
   - Arrêté du 12 avril 2013 - art. Annexe I (Ab)
   - Code des douanes - art. 108 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 292
 
 _Codifié par_:
 
@@ -5095,15 +5111,16 @@ _Codifié par_:
 
 ###### Article 114
 
-1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant
-liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée.
+1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant que les
+obligations prévues aux a à c du 1 de l'article 113 n'aient été remplies, moyennant soumission dûment cautionnée.
 
-1 bis. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées sont dispensés de fournir la caution
-mentionnée au 1 au titre de ces taxes.
+1 bis. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées ou, le cas échéant, les personnes qui, pour
+leur compte, acquittent cette taxe auprès des douanes ou communiquent les informations prévues au 3 de l'article 293 A du
+code général des impôts, sont dispensés de fournir la caution mentionnée au 1 au titre de ces taxes.
 
 Les redevables de la taxe intérieure de consommation prévue à l'article 265 qui n'ont pas l'obligation de fournir la caution
 mentionnée au a du II de l'article 158 octies sont dispensés de fournir la caution mentionnée au 1 du présent article au
-titre de cette taxe. (1)
+titre de cette taxe.
 
 1 ter. La présentation d'une caution peut toutefois être exigée par le comptable des douanes des personnes qui font l'objet
 d'une inscription non contestée du privilège du Trésor ou de la sécurité sociale, ainsi que d'une procédure de redressement
@@ -5112,7 +5129,7 @@ ou de liquidation judiciaire, dans les conditions fixées par décret en Conseil
 2. (Abrogé).
 
 3. Le paiement des droits et taxes ainsi garantis est effectué par télérèglement directement opéré sur le compte du Trésor
-ouvert dans les écritures de la Banque de France. (2)
+ouvert dans les écritures de la Banque de France.
 
 4. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne l'application d'une majoration de 0,2 % du montant des
 sommes dont le versement a été effectué selon un autre moyen de paiement.
@@ -5121,9 +5138,9 @@ Cette majoration est recouvrée selon les règles, garanties et sanctions prévu
 
 **Nota:**
 
-(1) Loi n° 2016-1918 du 29 décembre 2016, art. 87-VI : Ces dispositions entrent en vigueur le 1er janvier 2018. 
-
-(2) Loi n° 2016-1918 du 29 décembre 2016, art. 87-VI : Ces dispositions entrent en vigueur le 1er juillet 2017.
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -5152,7 +5169,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
 
 
 ### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=70></a>
@@ -5328,14 +5345,21 @@ doivent être couvertes par un acquit-à-caution.
 solvable à l'égard des marchandises non prohibées, la garantie de la caution peut être remplacée par la consignation des
 droits et taxes.
 
-3. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées sont dispensés de fournir la caution mentionnée au
-2.
+3. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées ou, le cas échéant, les personnes qui, pour leur
+compte, acquittent cette taxe auprès des douanes ou communiquent les informations prévues au 3 de l'article 293 A du code
+général des impôts sont dispensés de fournir la caution mentionnée au 2.
 
-4.  La présentation d'une caution peut être exigée par le comptable des  douanes des personnes qui font l'objet d'une
-inscription non contestée  du privilège du Trésor ou de la sécurité sociale, ainsi que d'une  procédure de redressement ou de
+4. La présentation d'une caution peut être exigée par le comptable des douanes des personnes qui font l'objet d'une
+inscription non contestée du privilège du Trésor ou de la sécurité sociale, ainsi que d'une procédure de redressement ou de
 liquidation judiciaire.
 
 Un décret en Conseil d'Etat fixe les conditions de l'octroi et de l'abrogation de cette dispense.
+
+**Nota:**
+
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -5359,7 +5383,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 56
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 293 A
 
 
 ###### Article 121
@@ -10106,20 +10134,6 @@ Hectolitre</td>
     <tr>
       <td align="justify">
 
-----destiné à être utilisé comme carburant sous condition d'emploi ;</td>
-      <td align="center">
-
-20</td>
-      <td align="center">
-
-Hectolitre</td>
-      <td align="center">
-
-50,27</td>
-    </tr>
-    <tr>
-      <td align="justify">
-
 ----fioul domestique destiné à être utilisé comme combustible ;</td>
       <td align="center">
 
@@ -10134,7 +10148,7 @@ Hectolitre</td>
     <tr>
       <td align="justify">
 
-----autres ;</td>
+----autres, à l'exception du gazole coloré et tracé en apllication du a du 1 de l'article 265 B ;</td>
       <td align="center">
 
 22</td>
@@ -10709,13 +10723,13 @@ chargé du budget.
 
 **Nota:**
 
-Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
 décembre 2019.
 
-Conformément aux dispositions du B dudit article, les dispositions de l'article 265 résultant de son II s'appliquent aux
-produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du
-1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
-l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -11182,37 +11196,36 @@ _Cite_:
 
 ###### Article 265 B
 
-1. Si les produits visés au tableau B annexé à l'article 265 ci-dessus bénéficient d'un régime fiscal privilégié sous
-conditions d'emploi, les usages autorisés sont fixés par des arrêtés du ministre de l'économie et des finances et du ministre
-de l'industrie. 
+1. Un arrêté du ministre chargé du budget précise les colorants et traceurs :
 
-Ces arrêtés peuvent prescrire l'adjonction auxdits produits de colorants et d'agents traceurs pour en permettre
-l'identification, pour sécuriser l'application du remboursement agricole mentionné au A du II de l'article 32 de la loi n°
-2013-1278 du 29 décembre 2013 de finances pour 2014 ou pour prévenir ou lutter contre les vols et faciliter les enquêtes
-subséquentes. 
+a) Devant être incorporés dans les gazoles, y compris le fioul domestique, autres que ceux destinés à un traitement défini ou
+une transformation chimique ainsi que dans les pétroles lampants, autres que les carburéacteurs, lorsque ces gazoles ou
+pétroles lampants sont mis à la consommation à un tarif de taxe intérieure inférieur à celui applicable, respectivement, au
+gazole identifié à l'indice 22 du tableau B du 1 de l'article 265 et au pétrole lampant identifié à l'indice 16 du même
+tableau ;
 
-Les engins fonctionnant à l'arrêt, qui équipent les véhicules relevant des positions 87-04 et 87-05 du tarif des douanes, et
-dont la liste est fixée par arrêté du directeur général des douanes et droits indirects, peuvent bénéficier du régime fiscal
-privilégié du gazole destiné à être utilisé comme carburant sous condition d'emploi, par remboursement annuel du différentiel
-de taxe intérieure de consommation entre le gazole identifié à l'indice 22 et le gazole identifié à l'indice 20 mentionnés au
-tableau B du 1 de l'article 265. Le bénéfice de ce remboursement est subordonné à l'installation d'un dispositif permettant
-de comptabiliser la consommation annuelle de l'engin. Ce dispositif doit être préalablement agréé dans des conditions fixées
-par arrêté du directeur général des douanes et droits indirects. 
+b) Devant être incorporés dans les produits énergétiques en vue de prévenir les utilisations dangereuses ;
 
-Les entreprises éligibles au tarif réduit mentionné à l'article 265 octies B peuvent utiliser le gazole coloré et tracé pour
-les besoins de certaines activités non éligibles à ce même tarif réduit définies par arrêté conjoint des ministres chargés de
-l'économie, des finances et de l'industrie. Elles sont redevables, pour leurs utilisations non éligibles, du supplément de
-taxe mentionné au 3 du présent article. 
+c) Pouvant être incorporés dans les produits énergétiques en vue de prévenir ou de lutter contre les vols et de faciliter les
+enquêtes subséquentes.
+
+Cet arrêté précise les produits énergétiques, les tarifs de taxes et les usages concernés ainsi que les conditions
+d'utilisation des produits colorés ou tracés.
+
+1 bis. Un arrêté du ministre chargé du budget précise les conditions dans lesquelles des produits énergétiques peuvent être
+distribués ou utilisés pour des usages non éligibles au tarif de taxe auquel ils ont été mis à la consommation, y compris
+lorsqu'ils sont colorés et tracés en application du a du 1 du présent article. Les personnes réalisant l'affectation des
+produits à ces usages sont redevables du supplément de taxe mentionné au 3.
 
 2. Les importateurs, les fabricants, les distributeurs et les utilisateurs de produits bénéficiant d'un régime fiscal
 privilégié, ainsi que les opérateurs introduisant ces produits sur le territoire national, doivent se conformer aux mesures
 prescrites par arrêté du ministre chargé du budget en vue de contrôler la vente, la détention, le transport et l'utilisation
 desdits produits. A la première réquisition du service des douanes, les distributeurs doivent notamment pouvoir lui
-communiquer les noms de leurs acheteurs ainsi que les volumes de produits cédés. 
+communiquer les noms de leurs acheteurs ainsi que les volumes de produits cédés.
 
 3. L'utilisation ou la distribution de produits pétroliers à des usages ou dans des conditions n'ouvrant plus droit au régime
 privilégié dont ils ont bénéficié ainsi que l'absence de justification de la destination donnée à ces produits, donnent lieu
-à l'exigibilité du supplément des taxes applicables, selon le cas, auprès de l'utilisateur ou du distributeur. 
+à l'exigibilité du supplément des taxes applicables, selon le cas, auprès de l'utilisateur ou du distributeur.
 
 En cas de détournement des produits de leur destination privilégiée ou d'absence de justification par les distributeurs de la
 destination donnée aux produits, le supplément de taxes est exigible sur les quantités détournées ou non justifiées, sans
@@ -11220,13 +11233,13 @@ préjudice des pénalités encourues.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -11254,8 +11267,8 @@ I.-Le présent article est applicable aux travaux qui répondent aux conditions 
 1° Ces travaux sont des travaux de construction, d'aménagement ou d'entretien portant sur des biens immeubles et qui ne sont
 pas des travaux agricoles ou forestiers ;
 
-2° Ils sont réalisés par des bénéficiaires du remboursement agricole mentionné au A du II de l'article 32 de la loi n°
-2013-1278 du 29 décembre 2013 de finances pour 2014 pour le compte d'un donneur d'ordre ;
+2° Ils sont réalisés par des bénéficiaires du tarif réduit mentionné au D du II de l'article 32 de la loi n° 2013-1278 du 29
+décembre 2013 de finances pour 2014 pour le compte d'un donneur d'ordre ;
 
 3° Ils sont réalisés au moyen d'engins ou matériels qui utilisent du gazole coloré et tracé en application du 1 de l'article
 265 B du présent code.
@@ -11282,13 +11295,8 @@ ces travaux.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
-
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Version en vigueur à compter du 1er janvier 2022 conformément aux dispositions du A du III de l'article 60 de la loi n°
+2019-1479 du 28 décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -11296,7 +11304,7 @@ _Cite_:
 
   - Loi n°2013-1278 du 29 décembre 2013 - art. 32
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
@@ -11682,18 +11690,22 @@ par des engins spécialement conçus à cet effet ;
 contre le verglas ou la neige.
 
 II.-Le tarif réduit prévu au I est appliqué par un remboursement d'une fraction de la taxe intérieure de consommation sur le
-gazole, identifié à l'indice 20 et mentionné au tableau B du 1 de l'article 265, sollicité par la personne qui utilise le
+gazole, identifié à l'indice 22 et mentionné au tableau B du 1 de l'article 265, sollicité par la personne qui utilise le
 gazole pour les activités mentionnées au I du présent article.
+
+Ce remboursement est calculé en appliquant au volume de gazole éligible, acquis dans chaque région et dans la collectivité de
+Corse, la différence entre le tarif applicable conformément aux articles 265, 265 A bis et 265 A ter et le tarif mentionné au
+I du présent article.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -11701,7 +11713,7 @@ _Cite_:
 
   - Loi n°85-30 du 9 janvier 1985 - art. 5
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
@@ -11743,7 +11755,7 @@ article pour leurs consommations de gazole utilisé pour le fonctionnement des m
 
 2° Soit est utilisé pour des travaux de terrassement.
 
-II.-Le tarif réduit prévu au I est fixé à 7,6 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
+II.-Le tarif réduit prévu au I est fixé à 3,86 € par hectolitre de gazole utilisé pour les besoins des activités suivantes :
 
 1° Extraction des produits suivants :
 
@@ -11768,19 +11780,15 @@ c) Les ports fluviaux, autres que ceux mentionnés au b du présent 2°, qui son
 transeuropéen de transport mentionné au même b et dont tout ou partie de l'activité est dédiée au transport international de
 marchandises.
 
-III.-Le tarif réduit prévu au I est appliqué par un remboursement d'une fraction de la taxe intérieure de consommation sur le
-gazole, identifié à l'indice 20 et mentionné au tableau B du 1 de l'article 265, sollicité par la personne qui utilise le
-gazole pour les besoins des activités mentionnées au II du présent article.
-
 **Nota:**
 
-Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
 décembre 2019.
 
-Conformément aux dispositions du B dudit article, les dispositions de l'article 265 octies C résultant de son II s'appliquent
-aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter
-du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à
-l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -13665,8 +13673,7 @@ l'article 265 ci-dessus applicable au supercarburant identifié à l'indice 11 b
 b) pour le gazole, le taux de la taxe intérieure de consommation visé au tableau B annexé au 1 de l'article 265 applicable au
 gazole identifié à l'indice 22.
 
-c) pour le gazole utilisé comme carburant pour l'alimentation des moteurs fixes, le taux de la taxe intérieure de
-consommation visé au tableau B annexé au 1 de l'article 265 applicable au gazole identifié à l'indice 20.
+c) (Abrogé).
 
 2 bis. Les produits visés au 1 ci-dessus peuvent être admis en exonération totale ou partielle de la taxe par le conseil
 régional, et, à Mayotte, par le conseil général aux conditions qu'il fixe.
@@ -13686,22 +13693,22 @@ de la taxe spéciale de consommation sur les produits visés au premier alinéa.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
 _Cité par_:
 
-  - Arrêté du 23 juillet 2013 - art. 1 (V)
   - Loi n°84-747 du 2 août 1984 - art. 41 (Ab)
   - Loi n°85-704 du 12 juillet 1985 - art. 19 (Ab)
   - Décret n°2005-566 du 20 mai 2005 - art. 1 (V)
+  - Arrêté du 23 juillet 2013 - art. 1 (V)
   - Ordonnance n°2013-837 du 19 septembre 2013 - art. 34 (V)
   - Loi n°2013-1279 du 29 décembre 2013 - art. 48 (V)
   - Arrêté du 5 février 2014 - art. 5 (V)
@@ -13718,12 +13725,8 @@ _Cité par_:
   - Code des douanes - art. 411 (V)
   - Code des douanes - art. 427 (V)
   - Code général des collectivités territoriales - art. L3332-1 (VD)
-  - Code général des collectivités territoriales - art. L4331-2 (VD)
+  - Code général des collectivités territoriales - art. L4331-2 (M)
   - Code général des collectivités territoriales - art. L4434-2 (V)
-
-_Codifié par_:
-
-  - Décret n°48-1985 1948-12-08
 
 _Modifié par_:
 
@@ -13746,8 +13749,8 @@ autorisés conformément au 1 de l'article 265 ter auxquels il est équivalent, 
 la directive 2003/96/ CE du Conseil du 7 octobre 2003 restructurant le cadre communautaire de taxation des produits
 énergétiques et de l'électricité dans sa rédaction en vigueur au 1er janvier 2019 ;
 
-2° Les gazoles s'entendent du gazole non routier et du gazole routier identifiés respectivement aux indices 20 et 22 du même
-tableau et des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
+2° Les gazoles s'entendent du gazole identifié par l'indice 22 du même tableau, du gazole non exonéré utilisé comme carburant
+et relevant du a du 1 de l'article 265 B ainsi que des carburants autorisés auxquels ils sont équivalents, au sens du 1°.
 
 Toutefois, l'éthanol diesel identifié à l'indice 56 dudit tableau est pris en compte comme une essence.
 
@@ -13829,7 +13832,7 @@ définis à l'article 17 de la directive 2009/28/ CE du Parlement européen et d
 promotion de l'utilisation de l'énergie produite à partir de sources renouvelables et modifiant puis abrogeant les directives
 2001/77/ CE et 2003/30/ CE dans sa rédaction en vigueur au 24 septembre 2018.
 
-A bis.-Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur
+A bis. - Seule est prise en compte l'énergie contenue dans les produits dont la traçabilité a été assurée depuis leur
 production.
 
 Un décret définit les modalités de traçabilité applicables à chaque produit en fonction des matières premières dont il est
@@ -13959,7 +13962,9 @@ Année</th>
 A compter de 2021</th>
     </tr>
     <tr>
-      <td align="center">Catégorie de matières premières</td>
+      <td align="center">
+
+Catégorie de matières premières</td>
       <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
 n'est pas prise en compte</td>
       <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
@@ -13972,9 +13977,7 @@ n'est pas prise en compte</td>
 des terres agricoles principalement utilisées à des fins de production d'énergie, y compris les coproduits et résidus issus
 de la transformation de ces céréales, plantes et produits, autres que les matières mentionnées à l'annexe IX de la directive
 2009/28/ CE du Parlement européen et du Conseil du 23 avril 2009 précitée</td>
-      <td align="center">
-
-7 %</td>
+      <td align="center">7 %</td>
       <td align="center">7 %</td>
     </tr>
     <tr>
@@ -13993,9 +13996,7 @@ de la transformation de ces céréales, plantes et produits, autres que les mati
       <td align="left">
 
 3. Tallol</td>
-      <td align="center">
-
-0,1 %</td>
+      <td align="center">0,1 %</td>
       <td align="center">0,1 %</td>
     </tr>
     <tr>
@@ -14003,9 +14004,7 @@ de la transformation de ces céréales, plantes et produits, autres que les mati
 
 4. Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil du 23
 avril 2009 précitée</td>
-      <td align="center">
-
-0,9 %</td>
+      <td align="center">0,9 %</td>
       <td align="center">0,9 %</td>
     </tr>
   </tbody>
@@ -14023,38 +14022,36 @@ D.-Pour chacune des catégories de matières premières suivantes, la part d'én
 de cette catégorie est comptabilisée pour le double de sa valeur dans la limite, après application de ce compte double, du
 seuil indiqué. Elle est comptabilisée pour sa valeur réelle au delà de ce seuil, le cas échéant dans la limite prévue au C.
 
-<table border="1">
+<table border="1" cellpadding="1" cellspacing="1">
   <tbody>
     <tr>
-      <th>Année</th>
-      <th>2020</th>
-      <th>A compter de 2021</th>
+      <td align="center">Année</td>
+      <td align="center">2020</td>
+      <td align="center">A compter de 2021</td>
     </tr>
     <tr>
-      <td>Catégorie de matières premières</td>
-      <td>Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas
-comptée double</td>
-      <td>Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie n'est pas
-comptée double</td>
+      <td align="center">Catégorie de matières premières</td>
+      <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
+n'est pas comptée double</td>
+      <td align="center">Seuil au delà duquel la part de l'énergie issue de l'ensemble des matières premières de la catégorie
+n'est pas comptée double</td>
     </tr>
     <tr>
       <td>Matières mentionnées à la partie A de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil
 du 23 avril 2009 précitée, à l'exception du tallol</td>
-      <td>Différence entre le pourcentage cible fixé au IV et 7 %</td>
-      <td>Différence entre le pourcentage cible fixé au IV et 7 %</td>
+      <td align="center">Différence entre le pourcentage cible fixé au IV et 7 %</td>
+      <td align="center">Différence entre le pourcentage cible fixé au IV et 7 %</td>
     </tr>
     <tr>
       <td>Matières mentionnées à la partie B de l'annexe IX de la directive 2009/28/ CE du Parlement européen et du Conseil
 du 23 avril 2009 précitée</td>
-      <td>Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 %</td>
-      <td align="center">
-
-Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %
-
-</td>
+      <td align="center">Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,1 %</td>
+      <td align="center">Gazoles : seuil prévu au C pour les mêmes matières Essences : 0,2 %</td>
     </tr>
   </tbody>
 </table>
+
+;
 
 VI.-Deux redevables peuvent convenir que tout ou partie de la quantité d'énergie renouvelable contenue dans les carburants
 inclus dans l'assiette du premier est prise en compte dans la détermination de la quantité d'énergie renouvelable aux fins de
@@ -14095,12 +14092,13 @@ X.-Le présent article n'est pas applicable en Guadeloupe, en Guyane, en Martini
 
 **Nota:**
 
-Conformément aux II et III de l'article 192 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de l'article 266
-quindecies s'appliquent aux produits pour lesquels la taxe devient exigible à compter du 1er janvier 2019. Toutefois, le B du
-V de l'article 266 quindecies, dans sa rédaction résultant du I de l'article 192, entre en vigueur le 1er janvier 2020.
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
-Conformément aux II des articles 212 et 213 de la loi n° 2019-1479 du 28 décembre 2019, ces dispositions s'appliquent aux
-produits pour lesquels la taxe devient exigible à compter du 1er janvier 2020.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -14154,11 +14152,12 @@ _Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 212 (V)
   - Loi n°2019-1479 du 28 décembre 2019 - art. 213 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
 _Cite_:
 
   - Code des douanes - art. 265
-  - Code des douanes - art. 265 ter
+  - Code des douanes - art. 265 ter (VD)
 
 
 ###### Article 266 quinquies
@@ -14760,7 +14759,7 @@ fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
 g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire
 dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222
-wattheures par euro de valeur ajoutée, est fixé à 6 € par mégawattheure.
+wattheures par euro de valeur ajoutée, est fixé à 0,5 € par mégawattheure.
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des
 douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de
@@ -14840,13 +14839,13 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
 décembre 2019.
 
-Conformément aux dispositions du B dudit article, les dispositions de l'article 266 quinquies C résultant de son II
-s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient
-exigible à compter du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité
-de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
@@ -14980,7 +14979,7 @@ _Modifié par_:
 
 ###### Article 266 sexies
 
-I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à
@@ -14998,18 +14997,7 @@ fixés par décret en Conseil d'Etat ;
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
-collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
-françaises et de l'île de Clipperton, ou y utilise pour la première fois des lubrifiants susceptibles de produire des huiles
-usagées ;
-
-b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes,
-autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
-
-c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
-usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
-moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
-B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
+4. (Abrogé) ;
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
 collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
@@ -15026,15 +15014,15 @@ de grains ou obtenus à partir de roches concassées ou fractionnées, dont la p
 b) Toute personne qui, pour les besoins de son activité économique, utilise sur le territoire mentionné au a pour la première
 fois des matériaux mentionnés au même a ;
 
-7. Alinéa abrogé ;
+7. (Abrogé) ;
 
 8. (Abrogé) ;
 
-9. Alinéa abrogé ;
+9. (Abrogé) ;
 
 10. (Abrogé)
 
-II.-La taxe ne s'applique pas :
+II. - La taxe ne s'applique pas :
 
 1. (Abrogé) ;
 
@@ -15117,10 +15105,10 @@ du label écologique communautaire aux lubrifiants ;
 
 7. (Abrogé).
 
-III.-(Abrogé).
+III. - (Abrogé).
 
-IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V
-du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
+IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre
+V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
 aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses
 limites de capacités, annuelles ou totales.
 
@@ -15130,8 +15118,8 @@ d'effet équivalent à cette autorisation.
 
 **Nota:**
 
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article 266 sexies telles qu'elles résultent du b du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+Conformément aux dispositions du II de l'article 85 de l'ordonnance n° 2020-105 du 10 février 2020, les dispositions de
+l'article 266 sexies telles qu'elles résultent du I dudit article entrent en vigueur le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -15197,7 +15185,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (VT)
-  - Code des douanes - art. 266 nonies (V)
+  - Code des douanes - art. 266 nonies (M)
   - Code des douanes - art. 266 nonies A (VD)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
@@ -15227,13 +15215,11 @@ _Cité par_:
 _Cite_:
 
   - Loi n°2003-699 du 30 juillet 2003 - art. 84
-  - Code de l'environnement - art. L541-4-3
+  - Code de l'environnement - art. L541-4-3 (V)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
-  - Arrêté du 19 février 2019 - art. 1
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 63
+  - Loi n°2020-105 du 10 février 2020 - art. 85 (V)
 
 
 ###### Article 266 undecies
@@ -20209,19 +20195,14 @@ _Cite_:
 
 ###### Article 411 bis
 
-Le fait d'avoir obtenu, de manière indue, le remboursement agricole mentionné au A du II de l'article 32 de la loi n°
-2013-1278 du 29 décembre 2013 de finances pour 2014 est passible d'une amende comprise entre une et deux fois le montant du
-remboursement indûment obtenu.
+Le fait d'avoir obtenu, de manière indue, le tarif réduit mentionné au D du II de l'article 32 de la loi n° 2013-1278 du 29
+décembre 2013 de finances pour 2014 est passible d'une amende comprise entre une et deux fois le montant du remboursement
+indûment obtenu.
 
 **Nota:**
 
-Version en vigueur à compter du 1er juillet 2020 conformément au A du I de l'article 60 de la loi n° 2019-1479 du 28 décembre
-2019.
-
-Conformément au D du I de l'article 60 de ladite loi, ces dispositions s'appliquent aux produits soumis à la taxe prévue à
-l'article 265 du code des douanes pour lesquels cette taxe devient exigible à compter du 1er juillet 2020 et aux fournitures
-d'électricité pour lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code
-interviennent à compter de cette même date
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
+décembre 2019.
 
 **Liens relatifs à cet article**
 
@@ -20229,7 +20210,7 @@ _Cite_:
 
   - Loi n°2013-1278 du 29 décembre 2013 - art. 32 (VT)
 
-_Créé par_:
+_Modifié par_:
 
   - Loi n°2019-1479 du 28 décembre 2019 - art. 60 (V)
 
