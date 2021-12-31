@@ -1,5 +1,5 @@
 # Code des douanes  
-Version Consolidée au 2021-07-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Titre Ier : Principes généraux du régime des douanes (art. 1 à 42 bis)](#1)
     - [Chapitre Ier : Généralités. (art. 1 à 3)](#2)
@@ -5072,17 +5072,25 @@ _Cité par_:
 ###### Article 113
 
 1. Il ne peut être disposé des marchandises conduites dans les bureaux de douane ou dans les lieux désignés par le service
-des douanes, sans l'autorisation du service et sans que les droits et taxes n'aient été préalablement payés, consignés ou
-garantis.
+des douanes, sans l'autorisation du service et sans que :
+
+a) Les droits et taxes acquittés à l'importation n'aient été préalablement payés, consignés ou garantis ;
+
+b) La base d'imposition de la taxe sur la valeur ajoutée n'ait été constatée conformément au dernier alinéa de l'article 292
+du code général des impôts ;
+
+c) Le cas échéant, la validité des identifiants mentionnés au 1° du 3 de l'article 293 A du même code n'ait été vérifiée.
 
 2. Les marchandises conduites dans les bureaux de douane doivent être enlevées dès la délivrance de cette autorisation, sauf
 délais spécialement accordés par le service des douanes.
 
+**Nota:**
+
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
+
 **Liens relatifs à cet article**
-
-_Modifié par_:
-
-  - Loi n°63-1351 1963-12-31 art. 3 VI JORF 3 janvier 1964
 
 _Cité par_:
 
@@ -5090,6 +5098,14 @@ _Cité par_:
   - Arrêté du 29 mai 2012 - art. Annexe I (Ab)
   - Arrêté du 12 avril 2013 - art. Annexe I (Ab)
   - Code des douanes - art. 108 (V)
+
+_Modifié par_:
+
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 292
 
 _Codifié par_:
 
@@ -5100,15 +5116,16 @@ _Codifié par_:
 
 ###### Article 114
 
-1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant
-liquidation et acquittement des droits et taxes exigibles, moyennant soumission dûment cautionnée.
+1. Les receveurs des douanes peuvent laisser enlever les marchandises au fur et à mesure des vérifications et avant que les
+obligations prévues aux a à c du 1 de l'article 113 n'aient été remplies, moyennant soumission dûment cautionnée.
 
-1 bis. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées sont dispensés de fournir la caution
-mentionnée au 1 au titre de ces taxes.
+1 bis. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées ou, le cas échéant, les personnes qui, pour
+leur compte, acquittent cette taxe auprès des douanes ou communiquent les informations prévues au 3 de l'article 293 A du
+code général des impôts, sont dispensés de fournir la caution mentionnée au 1 au titre de ces taxes.
 
 Les redevables de la taxe intérieure de consommation prévue à l'article 265 qui n'ont pas l'obligation de fournir la caution
 mentionnée au a du II de l'article 158 octies sont dispensés de fournir la caution mentionnée au 1 du présent article au
-titre de cette taxe. (1)
+titre de cette taxe.
 
 1 ter. La présentation d'une caution peut toutefois être exigée par le comptable des douanes des personnes qui font l'objet
 d'une inscription non contestée du privilège du Trésor ou de la sécurité sociale, ainsi que d'une procédure de redressement
@@ -5117,7 +5134,7 @@ ou de liquidation judiciaire, dans les conditions fixées par décret en Conseil
 2. (Abrogé).
 
 3. Le paiement des droits et taxes ainsi garantis est effectué par télérèglement directement opéré sur le compte du Trésor
-ouvert dans les écritures de la Banque de France. (2)
+ouvert dans les écritures de la Banque de France.
 
 4. La méconnaissance de l'obligation prévue au 3 ci-dessus entraîne l'application d'une majoration de 0,2 % du montant des
 sommes dont le versement a été effectué selon un autre moyen de paiement.
@@ -5126,9 +5143,9 @@ Cette majoration est recouvrée selon les règles, garanties et sanctions prévu
 
 **Nota:**
 
-(1) Loi n° 2016-1918 du 29 décembre 2016, art. 87-VI : Ces dispositions entrent en vigueur le 1er janvier 2018. 
-
-(2) Loi n° 2016-1918 du 29 décembre 2016, art. 87-VI : Ces dispositions entrent en vigueur le 1er juillet 2017.
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -5157,7 +5174,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 87 (V)
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
 
 
 ### Section 3 : Embarquement et conduite à l'étranger des marchandises destinées à l'exportation.<a id=70></a>
@@ -5333,14 +5350,21 @@ doivent être couvertes par un acquit-à-caution.
 solvable à l'égard des marchandises non prohibées, la garantie de la caution peut être remplacée par la consignation des
 droits et taxes.
 
-3. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées sont dispensés de fournir la caution mentionnée au
-2.
+3. Les redevables de la taxe sur la valeur ajoutée et des taxes assimilées ou, le cas échéant, les personnes qui, pour leur
+compte, acquittent cette taxe auprès des douanes ou communiquent les informations prévues au 3 de l'article 293 A du code
+général des impôts sont dispensés de fournir la caution mentionnée au 2.
 
-4.  La présentation d'une caution peut être exigée par le comptable des  douanes des personnes qui font l'objet d'une
-inscription non contestée  du privilège du Trésor ou de la sécurité sociale, ainsi que d'une  procédure de redressement ou de
+4. La présentation d'une caution peut être exigée par le comptable des douanes des personnes qui font l'objet d'une
+inscription non contestée du privilège du Trésor ou de la sécurité sociale, ainsi que d'une procédure de redressement ou de
 liquidation judiciaire.
 
 Un décret en Conseil d'Etat fixe les conditions de l'octroi et de l'abrogation de cette dispense.
+
+**Nota:**
+
+Conformément au IV de l’article 181 de la loi n° 2019-1479 du 29 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2022. Elles sont applicables aux opérations pour lesquelles l'exigibilité de la taxe sur la valeur ajoutée intervient
+à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -5364,7 +5388,11 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2012-1510 du 29 décembre 2012 - art. 56
+  - Loi n°2019-1479 du 28 décembre 2019 - art. 181 (V)
+
+_Cite_:
+
+  - Code général des impôts, CGI. - art. 293 A
 
 
 ###### Article 121
@@ -14991,7 +15019,7 @@ _Modifié par_:
 
 ###### Article 266 sexies
 
-I.-Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
+I. - Il est institué une taxe générale sur les activités polluantes qui est due par les personnes physiques ou morales
 suivantes :
 
 1. a) Toute personne réceptionnant des déchets, dangereux ou non dangereux, et exploitant une installation soumise à
@@ -15009,18 +15037,7 @@ fixés par décret en Conseil d'Etat ;
 
 3. (alinéa abrogé à compter du 1er janvier 2005) ;
 
-4. a) Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
-collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
-françaises et de l'île de Clipperton, ou y utilise pour la première fois des lubrifiants susceptibles de produire des huiles
-usagées ;
-
-b) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes,
-autres que celles mentionnées au a, produisant des huiles usagées dont le rejet dans le milieu naturel est interdit ;
-
-c) Toute personne qui, pour les besoins de son activité économique, utilise des huiles et des préparations lubrifiantes à
-usage perdu, autres que celles mentionnées aux a et b, correspondant aux catégories suivantes (Europalub/ CPL) : huiles pour
-moteur deux-temps (1C/ D. dt), graisses utilisées en système ouvert (3A1/ J1 et 3A2/ J2), huiles pour scies à chaînes (6B/
-B2), huiles de démoulage/ décoffrage (6C/ K. 4a) ;
+4. (Abrogé) ;
 
 5. Toute personne qui, pour les besoins de son activité économique, livre pour la première fois en France, en dehors des
 collectivités régies par l'article 74 de la Constitution, de la Nouvelle-Calédonie, des Terres australes et antarctiques
@@ -15037,15 +15054,15 @@ de grains ou obtenus à partir de roches concassées ou fractionnées, dont la p
 b) Toute personne qui, pour les besoins de son activité économique, utilise sur le territoire mentionné au a pour la première
 fois des matériaux mentionnés au même a ;
 
-7. Alinéa abrogé ;
+7. (Abrogé) ;
 
 8. (Abrogé) ;
 
-9. Alinéa abrogé ;
+9. (Abrogé) ;
 
 10. (Abrogé)
 
-II.-La taxe ne s'applique pas :
+II. - La taxe ne s'applique pas :
 
 1. (Abrogé) ;
 
@@ -15128,10 +15145,10 @@ du label écologique communautaire aux lubrifiants ;
 
 7. (Abrogé).
 
-III.-(Abrogé).
+III. - (Abrogé).
 
-IV.-Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre V
-du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
+IV. - Le II s'applique aux réceptions réalisées dans les seules installations autorisées en application du titre Ier du livre
+V du code de l'environnement, dans le respect des prescriptions de cette autorisation relatives aux catégories de déchets et
 aux traitements associés, à l'origine géographique des déchets, à la période d'exploitation de l'installation ou à ses
 limites de capacités, annuelles ou totales.
 
@@ -15141,8 +15158,8 @@ d'effet équivalent à cette autorisation.
 
 **Nota:**
 
-Conformément aux dispositions du VI de l'article 193 de la loi n° 2018-1317 du 28 décembre 2018, les dispositions de
-l'article 266 sexies telles qu'elles résultent du b du 2° du I dudit article entrent en vigueur le 1er janvier 2020.
+Conformément aux dispositions du II de l'article 85 de l'ordonnance n° 2020-105 du 10 février 2020, les dispositions de
+l'article 266 sexies telles qu'elles résultent du I dudit article entrent en vigueur le 1er janvier 2022.
 
 **Liens relatifs à cet article**
 
@@ -15208,7 +15225,7 @@ _Cité par_:
   - Code de l'environnement - art. R543-228 (V)
   - Code des douanes - art. 266 decies (V)
   - Code des douanes - art. 266 duodecies (VT)
-  - Code des douanes - art. 266 nonies (V)
+  - Code des douanes - art. 266 nonies (M)
   - Code des douanes - art. 266 nonies A (VD)
   - Code des douanes - art. 266 octies (V)
   - Code des douanes - art. 266 quaterdecies (Ab)
@@ -15238,13 +15255,11 @@ _Cité par_:
 _Cite_:
 
   - Loi n°2003-699 du 30 juillet 2003 - art. 84
-  - Code de l'environnement - art. L541-4-3
+  - Code de l'environnement - art. L541-4-3 (M)
 
 _Modifié par_:
 
-  - Loi n°2018-1317 du 28 décembre 2018 - art. 193 (V)
-  - Arrêté du 19 février 2019 - art. 1
-  - Loi n°2019-1479 du 28 décembre 2019 - art. 63
+  - Loi n°2020-105 du 10 février 2020 - art. 85 (V)
 
 
 ###### Article 266 undecies
