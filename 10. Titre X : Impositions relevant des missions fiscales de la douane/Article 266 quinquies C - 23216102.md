@@ -177,7 +177,7 @@ fixé, pour les besoins de cette exploitation, à 7,5 € par mégawattheure.
 
 g. Le tarif de la taxe applicable à l'électricité consommée par les entreprises pour les besoins de la manutention portuaire
 dans l'enceinte des ports mentionnés au 2° du II de l'article 265 octies C, lorsque cette consommation est supérieure à 222
-wattheures par euro de valeur ajoutée, est fixé à 6 € par mégawattheure.
+wattheures par euro de valeur ajoutée, est fixé à 0,5 € par mégawattheure.
 
 D. - Les fournisseurs d'électricité établis en France sont tenus de se faire enregistrer auprès de l'administration des
 douanes et droits indirects chargée du recouvrement de la taxe intérieure de consommation préalablement au commencement de
@@ -257,13 +257,13 @@ mentionnés aux 4 à 6 et au C du 8.
 
 **Nota:**
 
-Version en vigueur à compter du 1er janvier 2021 conformément au A du II de l'article 60 de la loi n° 2019-1479 du 28
+Version en vigueur à compter du 1er janvier 2022 conformément au A du III de l'article 60 de la loi n° 2019-1479 du 28
 décembre 2019.
 
-Conformément aux dispositions du B dudit article, les dispositions de l'article 266 quinquies C résultant de son II
-s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des douanes pour lesquels cette taxe devient
-exigible à compter du 1er janvier 2021 et aux fournitures d'électricité pour lesquelles le fait générateur et l'exigibilité
-de la taxe prévue à l'article 266 quinquies C du même code interviennent à compter de cette même date.
+Conformément au D dudit III ces dispositions s'appliquent aux produits soumis à la taxe prévue à l'article 265 du code des
+douanes pour lesquels cette taxe devient exigible à compter du 1er janvier 2022 et aux fournitures d'électricité pour
+lesquelles le fait générateur et l'exigibilité de la taxe prévue à l'article 266 quinquies C du même code interviennent à
+compter de cette même date.
 
 **Liens relatifs à cet article**
 
